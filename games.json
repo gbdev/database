@@ -1,0 +1,12 @@
+[
+		{
+			"title": "uCity",
+			"permalink": "ucity",
+			"license": "GPLv3",
+			"developer": "AntonioND",
+			"repository": "https://github.com/AntonioND/ucity",
+			"platform": "GBC",
+			"typetag": "game",
+			"tags": [ "Open Source", "RPG", "Adventure" ]
+		}
+	]
