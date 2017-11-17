@@ -1,10 +1,10 @@
 [
 		{
-			"title": "uCity",
-			"permalink": "ucity",
+			"title": "Game 1",
+			"permalink": "game1",
 			"license": "GPLv3",
 			"developer": "AntonioND",
-			"repository": "https://github.com/AntonioND/ucity",
+			"repository": "https://github.com/somerepo/game1",
 			"platform": "GBC",
 			"typetag": "game",
 			"tags": [ "Open Source", "RPG", "Adventure" ]
