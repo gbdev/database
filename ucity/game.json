@@ -8,5 +8,5 @@
 	"typetag": "game",
 	"tags": [ "Open Source", "RPG", "Adventure" ],
 	"screenshots" : ["screenshot1.png"],
-	"files" : ["ucity.gbc"]
+	"rom" : "ucity.gbc"
 }

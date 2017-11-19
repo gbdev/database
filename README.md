@@ -1,25 +1,33 @@
-# database
-JSON Database of all the game and homebrew entries. Propose here additions, improvements and fixes, every change propagates to Homebrew Hub.
+## [Homebrew Hub](https://gbhh.avivace.com)
+# Games Database
+JSON and Assets Database of all the game and homebrew entries. Propose here additions, improvements and fixes, every change propagates to Homebrew Hub.
 
-## How to propose changes
+## Structure
 
-Clone this repository locally
+## Propose changes and improvements
+
+
+
+## Add a game
+
+Start by cloning this repository
 
 ```
 git clone https://github.com/dmg01/database
 ```
 
-The `games.json` file is an array of objects, each one representing a game entry.
-```
+Decide a *slug* for the game you are adding. It's like an username: short, no spaces, special characters or punctuation.
+>If the game is called "Super Roto Land : Tales from the Dumper", a good slug would be `super-roto-land-1`.
 
-[
-    Game1,
-    Game2,
-    Game3,
-    [...]
-]
+Add the decided game slug in the `gamesList.json` file and create a folder and name it as the slug.
 
-```
+>E.g. `gameList.json` will now contain `"super-loto-land-1` as element, and we created a folder named `super-roto-land-1`
+
+In the created folder, put
+- The game ROM (.gb or .gbc);
+- The screenshots (PNG, JPG and BMP are supported);
+- The provided `game.json` file, filling out the properties.
+
 
 Each Game is an object respecting the following structure
 
@@ -36,36 +44,6 @@ Each Game is an object respecting the following structure
 
 `*` represents an optional field.
 
-E.g., this is a valid entry:
-
-```json
-    {
-        "title": "uCity",
-        "permalink": "ucity",
-        "license": "GPLv3",
-        "developer": "AntonioND",
-        "repository": "https://github.com/AntonioND/ucity",
-        "platform": "GBC",
-        "typetag": "game",
-        "tags": [ "Open Source", "RPG", "Adventure" ]
-    }
-```
-
-
-If you want to add a game, simply add - at the **end** of the array - this object adding the values relative to your entry. It must remain a valid json, so add a comma `,` after the last entry, put your entry and make sure it closes the enclosing Array (final `]`). 
-
-```json
-    {
-        "title": "",
-        "permalink": "",
-        "license": "",
-        "developer": "",
-        "repository": "",
-        "platform": "",
-        "typetag": "",
-        "tags": []
-    }
-```
 
 **Don't remove** optional values, just leave them blank.
 
