@@ -50,7 +50,7 @@ And fill every property. You can take a look at existing games to make sure ever
 | repository    | Repository or URL where the source can be found                      | String                                                  |
 | platform      | Target console                                                       | String: `GB` or `GBC`                                   |
 | typetag       | The type of the software                                             | String: `game`, `homebrew` or `demo`                    |
-| tags          | A list of the categories representing the entry                      | Array of String, [existing categories]()                |
+| tags          | A list of the categories representing the entry                      | Array of String                                         |
 | screenshots   | A list of the filenames of the screenshots in the folder             | Array of String. Names only, no path                    |
 | rom           | The name of the ROM in the folder                                    | String                                                  |
 
