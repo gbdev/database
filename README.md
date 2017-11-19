@@ -46,8 +46,8 @@ And fill every property. You can take a look at existing games to make sure ever
 | title         | The complete name, including spacing.                                | String                                                  |
 | slug          | A short identificative name that will be the in the URL              | String, Only letters, underscores, dashes and numbers   |
 | license       | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
-| developer     | GitHub username of the developer                                     | String                                                  |
-| repository    | Repository or URL where the source can be found                      | String                                                  |
+| developer     | Name of the developer                                                | String                                                  |
+| repository *  | Repository or URL where the source can be found                      | String                                                  |
 | platform      | Target console                                                       | String: `GB` or `GBC`                                   |
 | typetag       | The type of the software                                             | String: `game`, `homebrew` or `demo`                    |
 | tags          | A list of the categories representing the entry                      | Array of String                                         |
