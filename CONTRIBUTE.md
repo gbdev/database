@@ -12,7 +12,7 @@ Decide a "slug" for the game you are adding: it's like an username: short, no sp
 
 Add the decided game slug in the `gamesList.json` file and create a folder with the slug as name.
 
-> E.g. `gameList.json` will now contain `"super-loto-land-1` as element, and we created a folder named `super-roto-land-1`
+> E.g. `gamesList.json` will now contain `"super-loto-land-1` as element, and we created a folder named `super-roto-land-1`
 
 In the created folder, put
 - The game ROM (.gb or .gbc);
@@ -64,7 +64,8 @@ The possible categories are: `RPG`, `Open Source`, `Adventure`, `Action`, `Puzzl
 > E.g. If we added 2 screenshots named `screenshot1.png` and `screenshot2.png` and a ROM named `game.gbc`, the folder structure will look like this:
 >
 >```
->showcase/
+>database/
+>├── gamesList.json
 >├── my-new-game/
 >│   ├── my-game.gb
 >│   ├── screenshot1.png
@@ -97,7 +98,8 @@ Check the existing folders to have examples of valid entries.
 The final folder structure will look like this:
 
 ```
-showcase/
+database/
+├── gamesList.json
 ├── my-new-game/
 │   ├── my-game.gb
 │   ├── screenshot1.png
