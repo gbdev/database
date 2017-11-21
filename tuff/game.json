@@ -1,0 +1,12 @@
+{
+	"title": "Tuff",
+	"slug": "tuff",
+	"license": "GPLv3",
+	"developer": "BonsaiDen",
+	"repository": "https://github.com/BonsaiDen/Tuff.gb",
+	"platform": "GB",
+	"typetag": "game",
+	"tags": [ "Open Source", "Platform" ],
+	"screenshots" : ["1.png"],
+	"rom" : "game.gb"
+}

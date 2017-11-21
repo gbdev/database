@@ -1,0 +1,12 @@
+{
+	"title": "2048gb",
+	"slug": "2048gb",
+	"license": "GPLv3",
+	"developer": "Sanqui",
+	"repository": "https://github.com/Sanqui/2048-gb",
+	"platform": "GB",
+	"typetag": "game",
+	"tags": [ "Open Source", "Puzzle" ],
+	"screenshots" : ["1.png", "2.png"],
+	"rom" : "2048.gb"
+}

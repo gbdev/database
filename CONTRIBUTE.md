@@ -4,7 +4,7 @@ Start by forking this repository and cloning your fork locally.
 
 ### 1. Decide the game `slug` 
 
-Decide a *slug* for the game you are adding. It's like an username: short, no spaces, special characters or punctuation.
+Decide a "slug" for the game you are adding: it's like an username: short, no spaces, special characters or punctuation.
 
 > If the game is called "Super Roto Land : Tales from the Dumper", a good slug would be `super-roto-land-1`.
 
