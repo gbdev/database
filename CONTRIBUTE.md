@@ -43,18 +43,21 @@ Fill in every property. You can take a look at existing games to make sure every
 `*` represents an optional field.
 
 
-| Property Name | Description                                                          | Possible values                                         |
+| Property      | Description                                                          | Possible values                                         |
 |---------------|----------------------------------------------------------------------|---------------------------------------------------------|
 | title         | The complete name, including spacing.                                | String                                                  |
 | slug          | A short identificative name that will be the in the URL              | String, Only letters, underscores, dashes and numbers   |
-| license       | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
 | developer     | Name of the developer                                                | String                                                  |
-| repository *  | Repository or URL where the source can be found                      | String                                                  |
 | platform      | Target console                                                       | String: `GB` or `GBC`                                   |
 | typetag       | The type of the software                                             | String: `game`, `homebrew` or `demo`                    |
-| tags *        | A list of the categories representing the entry                      | Array of String of existing categories                  |
 | screenshots   | A list of the filenames of the screenshots in the folder             | Array of String of the screnshots file names (no path)  |
 | rom           | The name of the ROM in the folder                                    | String                                                  |
+| license *     | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
+| description * | A description of the entry                                           | String                                                  |
+| date *        | The date the entry was first released                                | String, formatted as MM/DD/YYYY e.g. `"12/01/2006"`     |
+| tags *        | A list of the categories representing the entry                      | Array of String of existing categories                  |
+| alias *       | A list of other names with which the entry can be referred to        | Array of String                                         |
+| repository *  | Repository or URL where the source can be found                      | String                                                  |
 
 **Don't remove** optional values, just leave them blank.
 
