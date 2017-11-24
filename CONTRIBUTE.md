@@ -14,9 +14,11 @@ Add the decided game slug in the `gamesList.json` file and create a folder with 
 
 > E.g. `gamesList.json` will now contain `"super-loto-land-1` as element, and we created a folder named `super-roto-land-1`
 
-In the created folder, put
+In the created folder, put:
+
 - The game ROM (.gb or .gbc);
 - The screenshots (PNG, JPG and BMP are supported). At least 1 screenshot is required;
+- Possibily, a license file (`license.txt` or `license.md`), describing the terms under which the game/assets are released, this is generally not necessary if you specify the license name.
 
 ### 3. Add the `game.json` file 
 
