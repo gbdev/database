@@ -7,6 +7,6 @@
     "platform": "GB",
     "typetag": "game",
     "tags": [ "Open Source", "Puzzle" ],
-    "screenshots" : [ "screenshot1.bmp", "screenshot2.bmp" ],
+    "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
     "rom" : "adjustris.gb"
 }
