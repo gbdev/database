@@ -1,0 +1,12 @@
+{
+    "title": "Adjustris",
+    "slug": "adjustris",
+    "license": "CC0-1.0",
+    "developer": "Dave VanEe",
+    "repository": "https://github.com/tbsp/Adjustris",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source", "Puzzle" ],
+    "screenshots" : [ "screenshot1.bmp", "screenshot2.bmp" ],
+    "rom" : "adjustris.gb"
+}
