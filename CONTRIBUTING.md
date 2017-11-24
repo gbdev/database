@@ -125,5 +125,5 @@ database/
 |
 ```
 
-You're welcome to **edit**,**correct** or **improve** existing entries.
+You're welcome to **edit**, **correct** or **improve** existing entries.
 After you're finished and you're sure everything is valid (screenshot and rom names must be identical to the file names you added in the folder) you can commit your changes and propose a Pull Request.

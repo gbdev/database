@@ -4,10 +4,10 @@
 
 JSON and Assets Database of all the game and homebrew entries. Propose here additions, improvements and fixes, every change propagates to Homebrew Hub.
 
-## [Contribute](CONTRIBUTE.md)
+## [Contribute](CONTRIBUTING.md)
 
 We want to include every homebrew, game or demo ever produced for Game Boy or Game Boy Color.
-If you know an interesting entry, please [contribute](CONTRIBUTE.md), everyone can add new games or improve the existing entries, it's really easy!
+If you know an interesting entry, please [contribute](CONTRIBUTING.md), everyone can add new games or improve the existing entries, it's really easy!
 
 
 ## License
