@@ -13,4 +13,5 @@ If you know an interesting entry, please [contribute](CONTRIBUTING.md), everyone
 ## License
 
 The *Homebrew Hub* project is licensed under the GPLv3 license. 
-Every other asset, file, screenshot or source file is copyrighted by the author of the entry, possibly under different terms. Please refer to the single folders for details.
+
+Each game, homebrew, demo and their related asset, file, screenshot or source code is released under different license terms and copyright holders. Please refer to the single entries for details.

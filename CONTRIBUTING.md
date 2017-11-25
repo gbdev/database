@@ -42,8 +42,7 @@ In the folder we just created, create a file called `game.json`:
 Fill in every property. You can take a look at existing games to make sure everything is correct. 
 [This](ucity/game.json) is an example of a correct `game.json`.
 
-`*` represents an optional field.
-
+#### Required Fields
 
 | Property      | Description                                                          | Possible values                                         |
 |---------------|----------------------------------------------------------------------|---------------------------------------------------------|
@@ -54,14 +53,21 @@ Fill in every property. You can take a look at existing games to make sure every
 | typetag       | The type of the software                                             | String: `game`, `homebrew` or `demo`                    |
 | screenshots   | A list of the filenames of the screenshots in the folder             | Array of String of the screnshots file names (no path)  |
 | rom           | The name of the ROM in the folder                                    | String                                                  |
+
+
+#### Optional Fields
+
+The following fields are appreciated, but not strictly required:
+
+| Property      | Description                                                          | Possible values                                         |
+|---------------|----------------------------------------------------------------------|---------------------------------------------------------|
 | license *     | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
 | description * | A description of the entry                                           | String                                                  |
-| date *        | The date the entry was first released                                | String, formatted as MM/DD/YYYY e.g. `"12/01/2006"`     |
+| date *        | The date the entry was *first* released                              | String, formatted as MM/DD/YYYY e.g. `"12/01/2006"`     |
 | tags *        | A list of the categories representing the entry                      | Array of String of existing categories                  |
 | alias *       | A list of other names with which the entry can be referred to        | Array of String                                         |
 | repository *  | Repository or URL where the source can be found                      | String                                                  |
-
-**Don't remove** optional values, just leave them blank.
+| onlineplay *  | Allow or not the game to be played directly on the website           | Boolean (`true` or `false`)                             |
 
 
 The possible categories are: `RPG`, `Open Source`, `Adventure`, `Action`, `Puzzle`, `Platform`.
