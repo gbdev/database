@@ -61,13 +61,13 @@ The following fields are appreciated, but not strictly required:
 
 | Property      | Description                                                          | Possible values                                         |
 |---------------|----------------------------------------------------------------------|---------------------------------------------------------|
-| license *     | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
-| description * | A description of the entry                                           | String                                                  |
-| date *        | The date the entry was *first* released                              | String, formatted as MM/DD/YYYY e.g. `"12/01/2006"`     |
-| tags *        | A list of the categories representing the entry                      | Array of String of existing categories                  |
-| alias *       | A list of other names with which the entry can be referred to        | Array of String                                         |
-| repository *  | Repository or URL where the source can be found                      | String                                                  |
-| onlineplay *  | Allow or not the game to be played directly on the website           | Boolean (`true` or `false`)                             |
+| license*      | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
+| description*  | A description of the entry                                           | String                                                  |
+| date*         | The date the entry was *first* released                              | String, formatted as MM/DD/YYYY e.g. `"12/01/2006"`     |
+| tags*         | A list of the categories representing the entry                      | Array of String of existing categories                  |
+| alias*        | A list of other names with which the entry can be referred to        | Array of String                                         |
+| repository*   | Repository or URL where the source can be found                      | String                                                  |
+| onlineplay*   | Allow or not the game to be played directly on the website           | Boolean (`true` or `false`)                             |
 
 
 The possible categories are: `RPG`, `Open Source`, `Adventure`, `Action`, `Puzzle`, `Platform`.

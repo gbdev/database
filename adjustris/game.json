@@ -8,5 +8,7 @@
     "typetag": "game",
     "tags": [ "Open Source", "Puzzle" ],
     "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
-    "rom" : "adjustris.gb"
+    "rom" : "adjustris.gb",
+    "date" : "07-17-2005",
+    "onlineplay" : false
 }
