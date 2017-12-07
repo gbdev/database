@@ -64,7 +64,7 @@ The following fields are appreciated, but not strictly required:
 | license       | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
 | assetLicense  | Identifier of the license under whose terms the assets are released  | [Identifier](https://spdx.org/licenses/) of the license |
 | description   | A description of the entry                                           | String                                                  |
-| gameplayVideo | YouTube URL of a gameplay or trailer video                           | String, YouTube URL                                     |
+| video         | YouTube URL of a gameplay or trailer video                           | String, YouTube URL                                     |
 | date          | The date the entry was *first* released                              | String, formatted as `YYYY-MM-DD` (ISO 8601)            |
 | tags          | A list of the categories representing the entry                      | Array of String of existing categories                  |
 | alias         | A list of other names with which the entry can be referred to        | Array of String                                         |
