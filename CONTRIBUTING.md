@@ -6,7 +6,7 @@ Start by forking this repository and cloning your fork locally.
 
 Decide a "slug" for the game you are adding: it's like an username: short, no spaces, special characters or punctuation.
 
-> If the game is called "Super Roto Land : Tales from the Dumper", a good slug would be `super-roto-land-1`.
+> If the game is called "Super Roto Land I: Tales from the Dumper", a good slug would be `super-roto-land-1`.
 
 ### 2. Create the game folder and add the related files 
 
@@ -52,7 +52,7 @@ Fill in every property. You can take a look at existing games to make sure every
 | platform      | Target console                                                       | String: `GB` or `GBC`                                   |
 | typetag       | The type of the software                                             | String: `game`, `homebrew` or `demo`                    |
 | screenshots   | A list of the filenames of the screenshots in the folder             | Array of String of the screnshots file names (no path)  |
-| rom           | The name of the ROM in the folder                                    | String                                                  |
+| rom           | The name of the ROM in the folder                                    | String (no path)                                        |
 
 
 #### Optional Fields
@@ -61,13 +61,17 @@ The following fields are appreciated, but not strictly required:
 
 | Property      | Description                                                          | Possible values                                         |
 |---------------|----------------------------------------------------------------------|---------------------------------------------------------|
-| license*      | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
-| description*  | A description of the entry                                           | String                                                  |
-| date*         | The date the entry was *first* released                              | String, formatted as MM/DD/YYYY e.g. `"12/01/2006"`     |
-| tags*         | A list of the categories representing the entry                      | Array of String of existing categories                  |
-| alias*        | A list of other names with which the entry can be referred to        | Array of String                                         |
-| repository*   | Repository or URL where the source can be found                      | String                                                  |
-| onlineplay*   | Allow or not the game to be played directly on the website           | Boolean (`true` or `false`)                             |
+| license       | Identifier of the license under whose terms the software is released | [Identifier](https://spdx.org/licenses/) of the license |
+| assetLicense  | Identifier of the license under whose terms the assets are released  | [Identifier](https://spdx.org/licenses/) of the license |
+| description   | A description of the entry                                           | String                                                  |
+| gameplayVideo | YouTube URL of a gameplay or trailer video                           | String, YouTube URL                                     |
+| date          | The date the entry was *first* released                              | String, formatted as `YYYY-MM-DD` (ISO 8601)            |
+| tags          | A list of the categories representing the entry                      | Array of String of existing categories                  |
+| alias         | A list of other names with which the entry can be referred to        | Array of String                                         |
+| repository    | Repository or URL where the source can be found                      | String                                                  |
+| gameWebsite   | Game website/page                                                    | String                                                  |
+| devWebsite    | Developer personal website/page                                      | String                                                  |
+| onlineplay    | Allow or not the game to be played directly on the website           | Boolean (`true` or `false`)                             |
 
 
 The possible categories are: `RPG`, `Open Source`, `Adventure`, `Action`, `Puzzle`, `Platform`.
