@@ -1,0 +1,13 @@
+{
+    "title": "exeman",
+    "slug": "exeman",
+    "developer": "exezin",
+    "repository": "https://github.com/exezin/exeman",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source", "Action", "Platform" ],
+    "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
+    "rom" : "exeman.gb",
+    "date" : "04-24-2017",
+    "onlineplay" : true
+}
