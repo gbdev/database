@@ -1,0 +1,14 @@
+{
+    "title": "PlantBoy",
+    "slug": "plantboy",
+    "license": "MIT",
+    "developer": "exezin",
+    "repository": "https://github.com/exezin/PlantBoy",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source", "Action" ],
+    "screenshots" : [ "screenshot01.bmp" ],
+    "rom" : "PlantBoy.gb",
+    "date" : "12-13-2015",
+    "onlineplay" : true
+}
