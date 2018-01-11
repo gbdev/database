@@ -1,0 +1,14 @@
+{
+	"title": "Geometrix",
+	"slug": "geometrix",
+	"license": "GPLv3",
+	"developer": "AntonioND",
+	"repository": "https://github.com/AntonioND/geometrix",
+	"platform": "GBC",
+	"typetag": "game",
+	"tags": [ "Open Source", "Puzzle" ],
+	"screenshots" : ["screenshot01.bmp", "screenshot02.bmp"],
+	"rom" : "geometrix.gbc",
+	"date": "01-29-2016",
+	"onlineplay": true
+}
