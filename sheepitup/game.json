@@ -1,0 +1,14 @@
+{
+    "title": "Sheep it up!",
+    "slug": "sheepitup",
+    "developer": "Dr. Ludos",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Platform", "Open Source" ],
+    "screenshots" : [ "screenshot.png" ],
+    "rom" : "sheepitup.gb",
+    "devWebsite" : "http://www.ludoscience.com",
+    "gameWebsite" : "https://gamejolt.com/games/sheepitup/267335",
+    "repository" : "https://gamejolt.com/games/sheepitup/267335",
+    "date" : "2017-07-07"
+}
