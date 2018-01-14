@@ -6,6 +6,7 @@
     "typetag": "game",
     "screenshots" : [ "screenshot.png" ],
     "rom" : "ind-lj.gb",
+    "tags" : [ "Action" ],
     "gameWebsite" : "https://github.com/gitendo/lumberjack",
     "date" : "2017-10-21",
     "video" : "https://www.youtube.com/watch?v=tqoBCR7Nleo"
