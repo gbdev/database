@@ -1,0 +1,11 @@
+{
+    "title": "Rope & Bombs",
+    "slug": "ropeandbombs",
+    "developer": "Team Lampoil",
+    "platform": "GBC",
+    "typetag": "game",
+    "tags": [ "Puzzle" ],
+    "screenshots" : [ "screenshot-1.png", "screenshot-2.png" ],
+    "rom" : "ropeandbombs.gb",
+    "devWebsite" : "http://teamlampoil.se"
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Super Connard",
+    "slug": "superconnard",
+    "developer": "furrtek",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source" ],
+    "screenshots" : [ "screenshot-1.png", "screenshot-2.png" ],
+    "rom" : "sc_prod.gb",
+    "gameWebsite" : "http://furrtek.free.fr/superconnard/index.php",
+    "devWebsite" : "http://furrtek.free.fr",
+    "repository" : "http://furrtek.free.fr/superconnard/source.php",
+    "license" : "CC-BY-NC-SA-4.0",
+    "video" : "https://www.youtube.com/watch?v=XUT_viLrcxE"
+}

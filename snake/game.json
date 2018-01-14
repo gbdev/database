@@ -1,0 +1,13 @@
+{
+    "title": "Snake",
+    "slug": "snake",
+    "developer": "Yvar de Goffau",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source" ],
+    "screenshots" : [ "screenshot.png" ],
+    "rom" : "snake.gb",
+    "gameWebsite" : "http://forums.nesdev.com/viewtopic.php?f=20&t=16787&sid=86fe28e1d07a7d0a7cf9775104d6a4a9",
+    "repository" : "https://github.com/Yvar-deGoffau/GBSnake",
+    "license" : "WTFPL-2.0"
+}
