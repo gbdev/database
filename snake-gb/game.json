@@ -1,0 +1,12 @@
+{
+    "title": "Snake for Game Boy",
+    "slug": "snake-gb",
+    "developer": "Donald Hays",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source" ],
+    "screenshots" : [ "screenshot.png" ],
+    "rom" : "snake.gb",
+    "gameWebsite" : "http://donaldhays.com/projects/snake/",
+    "repository" : "https://github.com/DonaldHays/snake-gb"
+}
