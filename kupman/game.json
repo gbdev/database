@@ -1,0 +1,11 @@
+{
+    "title": "kupman",
+    "slug": "kupman",
+    "developer": "dubvulture",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source", "Action" ],
+    "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
+    "rom" : "kupman.gb",
+    "repository" : "https://github.com/dubvulture/gbdev"
+}
