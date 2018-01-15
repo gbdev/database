@@ -1,0 +1,12 @@
+{
+    "title": "Snake",
+    "slug": "snake-sanky",
+    "developer": "Sanky",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source" ],
+    "screenshots" : [ "screenshot.bmp" ],
+    "rom" : "snake.gbc",
+    "date": "2013-08-28",
+    "repository" : "https://bitbucket.org/Sanqui/snake/src/?at=master"
+}
