@@ -7,7 +7,7 @@
     "screenshots" : [ "screenshot.png" ],
     "rom" : "lazerpong.gb",
     "tags" : [ "Action", "Open source" ],
-    "repo" : "https://github.com/huderlem/lazerpong",
+    "repository" : "https://github.com/huderlem/lazerpong",
     "date" : "2015-05-02",
     "video" : "https://www.youtube.com/watch?v=Ya94bjCbwgo"
 }
