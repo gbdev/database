@@ -1,0 +1,11 @@
+{
+    "title": "Espionage",
+    "slug": "espionage",
+    "developer": "Momeka",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots" : [ "screenshot.png" ],
+    "rom" : "Espionage.gb",
+    "devWebsite" : "http://www.momeka.com",
+    "onlineplay" : false
+}
