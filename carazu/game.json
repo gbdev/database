@@ -1,0 +1,14 @@
+{
+    "title": "Carazu",
+    "slug": "carazu",
+    "developer": "Martin Holtkamp",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Platform", "Open Source" ],
+    "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
+    "rom" : "carazu.gb",
+    "gameWebsite" : "https://gamejolt.com/games/carazu/184403",
+    "devWebsite" : "https://gamejolt.com/@MartinHoltkamp",
+    "repository" : "https://github.com/mholtkamp/carazu",
+    "license" : "GPL-3.0-or-later"
+}
