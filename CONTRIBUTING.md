@@ -71,7 +71,8 @@ The following fields are appreciated, but not strictly required:
 | repository    | Repository or URL where the source can be found                      | String                                                  |
 | gameWebsite   | Game website/page                                                    | String                                                  |
 | devWebsite    | Developer personal website/page                                      | String                                                  |
-| onlineplay    | Allow or not the game to be played directly on the website           | Boolean (`true` or `false`)                             |
+| onlineplay    | Allow or not the game to be played directly on the website           | Boolean                                                 |
+| wip           | Flag a game as work-in-progress (not yet completely stable/bugfree)  | Boolean                                                 | 
 
 
 The possible categories are: `RPG`, `Open Source`, `Adventure`, `Action`, `Puzzle`, `Platform`.

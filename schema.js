@@ -20,7 +20,8 @@ var gameSchema = mongoose.Schema({
         repository   : String,
         gameWebsite  : String,
         devWebsite   : String,
-        onlineplay   : Boolean
+        onlineplay   : Boolean,
+        wip          : Boolean
 
     }
 });
