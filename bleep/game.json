@@ -1,0 +1,10 @@
+{
+    "title": "bleep",
+    "slug": "bleep",
+    "developer": "Andrew G. Crowell",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots" : [ "screen1.png" ],
+    "rom" : "bleep.gb",
+    "onlineplay" : true
+}
