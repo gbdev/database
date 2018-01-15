@@ -11,5 +11,6 @@
     "devWebsite" : "http://furrtek.free.fr",
     "repository" : "https://github.com/furrtek/Airaki",
     "license" : "GPL-3.0-or-later",
-    "video" : "https://www.youtube.com/watch?v=8GFgJEFDKvY"
+    "video" : "https://www.youtube.com/watch?v=8GFgJEFDKvY",
+    "onlineplay" : false
 }
