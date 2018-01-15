@@ -1,0 +1,13 @@
+{
+    "title": "Aevilia",
+    "slug": "aevilia",
+    "license": "Apache-2.0",
+    "developer": "ISSOtm, Kai, Parzival, Charmy",
+    "repository": "https://github.com/ISSOtm/Aevilia-GB",
+    "platform": "GBC",
+    "typetag": "game",
+    "tags": [ "Open Source", "RPG" ],
+    "screenshots" : [ "aevilia1.png"],
+    "rom" : "aevilia.gbc",
+    "wip" : true
+}
