@@ -8,5 +8,6 @@
 	"typetag": "game",
 	"tags": [ "Open Source", "RPG", "Adventure" ],
 	"screenshots" : ["screenshot1.png"],
-	"rom" : "ucity.gbc"
+	"rom" : "ucity.gbc",
+	"video" : "https://www.youtube.com/watch?v=2rir-TVx020"
 }
