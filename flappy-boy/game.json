@@ -1,0 +1,14 @@
+{
+    "title": "Flappy Boy",
+    "slug": "flappy-boy",
+    "developer": "Felipe Alfonso",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source", "Action" ],
+    "screenshots" : [ "screenshot.png" ],
+    "rom" : "flappyboy.gb",
+    "date": "2017-01-21",
+    "repository" : "https://github.com/bitnenfer/flappy-boy-asm",
+    "gameWebsite" : "http://voidptr.io/blog/2017/01/21/GameBoy.html",
+    "devWebsite" : "http://voidptr.io/"
+}
