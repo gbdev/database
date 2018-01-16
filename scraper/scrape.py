@@ -35,7 +35,7 @@ for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.co
             elif (c == 5):
                 if (row.contents[c].a):
                     print('File URL:', row.contents[c].a.get('href'))
-                    print('Complete File URL:', baseURL + row.contents[c].a.get('href'))
+                    print('Complete File URL:', baseURL + row.contents[c].a.get('href')[2::])
             else:
                 print(c, column)
 
