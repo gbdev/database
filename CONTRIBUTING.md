@@ -73,7 +73,7 @@ The following fields are appreciated, but not strictly required:
 | devWebsite    | Developer personal website/page                                      | String                                                  |
 | onlineplay    | Allow or not the game to be played directly on the website           | Boolean                                                 |
 | wip           | Flag a game as work-in-progress (not yet completely stable/bugfree)  | Boolean                                                 | 
-| files         | Related files with (optional) description                            | Array of 2-d Arrays (`[['file1.zip', 'description of file1.zip'],['file2.zip', 'description of file2.zip']]`)|
+| files         | Related files with (optional) description                            | Array of 2-d Arrays E.g. (`[['file1.zip', 'description of file1.zip'],['file2.zip', 'description of file2.zip'],['file3.zip']]`)|
 
 The possible categories are: `RPG`, `Open Source`, `Adventure`, `Action`, `Puzzle`, `Platform`.
 
