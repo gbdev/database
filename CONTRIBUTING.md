@@ -10,9 +10,9 @@ Decide a "slug" for the game you are adding: it's like an username: short, no sp
 
 ### 2. Create the game folder and add the related files 
 
-Add the decided game slug in the `gamesList.json` file and create a folder with the slug as name.
+Add the decided game slug in the `gamesList.json` file and create, in the `entries` directory, a folder with the slug as name.
 
-> E.g. `gamesList.json` will now contain `"super-loto-land-1` as element, and we created a folder named `super-roto-land-1`
+> E.g. `gamesList.json` will now contain `"super-loto-land-1` as element, and we created a folder named `super-roto-land-1` in `entries/`
 
 In the created folder, put:
 
@@ -82,11 +82,12 @@ The possible categories are: `RPG`, `Open Source`, `Adventure`, `Action`, `Puzzl
 >```
 >database/
 >├── gamesList.json
->├── my-new-game/
->│   ├── my-game.gb
->│   ├── screenshot1.png
->│   ├── screenshot2.png
->│   └── game.json
+>├── entries/
+>|   └── my-new-game/
+>│      ├── my-game.gb
+>│      ├── screenshot1.png
+>│      ├── screenshot2.png
+>│      └── game.json
 >```
 >
 > Our `game.json` will look like this:
@@ -116,23 +117,25 @@ The final folder structure will look like this:
 ```
 database/
 ├── gamesList.json
-├── my-new-game/
-│   ├── my-game.gb
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│   └── game.json
-├── another-game/
-│   ├── my-game.gb
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│   └── game.json
-├── another-roto-game/
-│   ├── my-game.gb
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│   └── game.json
-|
-├── [...]
+├── entries/
+|   ├── my-new-game/
+|   │   ├── my-game.gb
+|   │   ├── screenshot1.png
+|   │   ├── screenshot2.png
+|   │   └── game.json
+|   ├── another-game/
+|   │   ├── my-game.gb
+|   │   ├── screenshot1.png
+|   │   ├── screenshot2.png
+|   │   └── game.json
+|   ├── another-roto-game/
+|   │   ├── my-game.gb
+|   │   ├── screenshot1.png
+|   │   ├── screenshot2.png
+|   │   └── game.json
+|   |
+|   ├── [...]
+|   |
 |
 ```
 
