@@ -20,14 +20,13 @@ soup = BeautifulSoup(r.text, 'html5lib')
 entries = 0
 baseURL = 'http://privat.bahnhof.se/wb800787/gb'
 
-intervalStart = 0
-intervalEnd = 2
+intervalStart = 1
+intervalEnd = 400
 
 for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.contents):
 	# TODO: use range
 	if (r != intervalStart and r < intervalEnd):
 		validEntry = 0
-		print('\nRow', r)
 
 		for c, column in enumerate(row.contents):
 			if (c == 0):
@@ -96,20 +95,20 @@ for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.co
 				with open(savedReleaseFile, 'wb') as f:
 					f.write(releaseFile.content)
 
-			print('ciao')
+			
 			with zipfile.ZipFile(savedReleaseFile) as myzip:
 				for file in myzip.namelist():
 						# TODO: for the love of god regex this
-						# gb gbc gmb sgb cgb
+						# gb gbc gmb sgb cgb (beware's BGB looks for these)
 						if (file[-3:] == 'gbc' or
-							 file[-3:] == 'gb' or
+							 file[-2:] == 'gb' or
 							 file[-3:] == 'gmb' or
 							 file[-3:] == 'sgb' or
 							 file[-3:] == 'cgb' or
 							 file[-3:] == 'GMB' or
 							 file[-3:] == 'SGB' or
 							 file[-3:] == 'CGB' or
-							 file[-3:] == 'GB' or
+							 file[-2:] == 'GB' or
 							 file[-3:] == 'GBC'):
 							print(file)
 							romFile = file
