@@ -1,7 +1,7 @@
 {
 	"title": "2048gb",
 	"slug": "2048gb",
-	"license": "GPLv3",
+	"license": "Zlib",
 	"developer": "Sanqui",
 	"repository": "https://github.com/Sanqui/2048-gb",
 	"platform": "GB",
