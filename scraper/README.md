@@ -5,7 +5,7 @@ Parses metadata and builds a valid `game.json` (complying schema version `draft2
 
 ## Prerequisites
 
-Python 3, pip3, pip
+Python3, pip3, pip
 
 ```
 apt install python3.6 python2.7
