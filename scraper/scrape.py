@@ -141,7 +141,7 @@ for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.co
 						 	typetag = 'demo',
 						 	screenshots = screenshotArray, # TODO
 						 	rom = romFile,
-						 	date = year,
+						 	date = year+'-01-01',
 						 	files = [[fileName, 'release']])			
 
 			# Save JSON
