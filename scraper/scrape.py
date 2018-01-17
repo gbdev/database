@@ -17,10 +17,12 @@ soup = BeautifulSoup(r.text, 'html5lib')
 # Header of the table
 #  soup.body.center.tbody.contents[1].center.table.tbody.contents[0]
 
+problematicList = []
+gameList = []
 entries = 0
 baseURL = 'http://privat.bahnhof.se/wb800787/gb'
 
-intervalStart = 1
+intervalStart = 0
 intervalEnd = 400
 
 for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.contents):
@@ -70,8 +72,23 @@ for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.co
 				print(c, column)
 		
 		if (validEntry):
-			entries+=1
-			pathlib.Path('./entries/'+slugify(gameTitle)).mkdir(parents=True, exist_ok=True)
+			# Check for duplicates
+			if slugify(gameTitle) in gameList:
+				print('Appending developer ')
+				gameSlug = slugify(gameTitle) + '-' + slugify(developer[:8])
+				if gameSlug in gameList:
+					# Really?
+					gameSlug = gameSlug + '-1'
+					# this is getting pathetic
+					if gameSlug in gameList:
+						raise ValueError('That\'s pretty bad', gameSlug)
+			else:
+				gameSlug = slugify(gameTitle)
+				
+
+			entries += 1
+			romFile = ''
+			pathlib.Path('./entries/'+gameSlug).mkdir(parents=True, exist_ok=True)
 			gamePage = requests.get(gameURL)
 			gameSoup = BeautifulSoup(gamePage.text, 'html5lib')
 			screenshotArray = []
@@ -82,15 +99,14 @@ for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.co
 				screenshotFileName = el.get('src')[14::]
 				print(screenshotFileName)
 				screenshotArray.append(screenshotFileName)
-				print(screenshotURL)
 				screenshotFile = requests.get(screenshotURL)
 				if screenshotFile.status_code == 200:
-					with open("./entries/"+slugify(gameTitle)+'/'+screenshotFileName, 'wb') as f:
+					with open("./entries/"+gameSlug+'/'+screenshotFileName, 'wb') as f:
 						f.write(screenshotFile.content)
 			
 			# Save Release ZIP
 			releaseFile = requests.get(fileURL)
-			savedReleaseFile = "./entries/"+slugify(gameTitle)+'/'+fileName
+			savedReleaseFile = "./entries/"+gameSlug+'/'+fileName
 			if releaseFile.status_code == 200:
 				with open(savedReleaseFile, 'wb') as f:
 					f.write(releaseFile.content)
@@ -110,12 +126,16 @@ for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.co
 							 file[-3:] == 'CGB' or
 							 file[-2:] == 'GB' or
 							 file[-3:] == 'GBC'):
-							print(file)
+							print('Found ROM:', file)
 							romFile = file
-							myzip.extract(file, "./entries/"+slugify(gameTitle)+'/')
+							myzip.extract(file, "./entries/"+gameSlug+'/')
+
+			if (romFile == ''):
+				print('No ROM file found here')
+				problematicList.append(gameSlug)
 
 			game = dict( title = gameTitle,
-						 	slug = slugify(gameTitle), # Slugify
+						 	slug = gameSlug, # Slugify
 						 	developer = developer,
 						 	platform = platform,
 						 	typetag = 'demo',
@@ -125,8 +145,14 @@ for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.co
 						 	files = [[fileName, 'release']])			
 
 			# Save JSON
-			with open("./entries/"+slugify(gameTitle)+'/game.json', 'w') as f:
+			with open("./entries/"+gameSlug+'/game.json', 'w') as f:
 				f.write(json.dumps(game, indent=4))
 
+			gameList.append(gameSlug)
 
+			# Save gameList
+			with open("./gameList.json", 'w') as f:
+				f.write(json.dumps(gameList))
+
+print(problematicList)
 print(entries, 'total DMG and GBC entries')
