@@ -1,0 +1,22 @@
+{
+    "title": "Versatility",
+    "slug": "versatility",
+    "developer": "The New Image",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "731.png",
+        "732.png",
+        "733.png",
+        "734.png",
+        "735.png"
+    ],
+    "rom": "VERSATIL.GB",
+    "date": "1998",
+    "files": [
+        [
+            "TNI-VERS.ZIP",
+            "release"
+        ]
+    ]
+}

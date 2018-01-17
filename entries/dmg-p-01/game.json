@@ -1,0 +1,26 @@
+{
+    "title": "DMG*P-01",
+    "slug": "dmg-p-01",
+    "developer": "Genesis Project",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "654.png",
+        "655.png",
+        "656.png",
+        "657.png",
+        "658.png",
+        "659.png",
+        "660.png",
+        "661.png",
+        "662.png"
+    ],
+    "rom": "dmgp-01.gb",
+    "date": "2013",
+    "files": [
+        [
+            "GP-DMG01.ZIP",
+            "release"
+        ]
+    ]
+}

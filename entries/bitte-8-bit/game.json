@@ -1,0 +1,21 @@
+{
+    "title": "Bitte 8 Bit",
+    "slug": "bitte-8-bit",
+    "developer": "Hitmen",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "108.png",
+        "109.png",
+        "110.png",
+        "111.png"
+    ],
+    "rom": "8bit.gb",
+    "date": "2000",
+    "files": [
+        [
+            "HIT-8BIT.ZIP",
+            "release"
+        ]
+    ]
+}

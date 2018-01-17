@@ -1,0 +1,18 @@
+{
+    "title": "Menu #1",
+    "slug": "menu-1-zizero",
+    "developer": "Zizero",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "220.png"
+    ],
+    "rom": "zz-t_01.gbc",
+    "date": "1999",
+    "files": [
+        [
+            "ZZ-T_01.ZIP",
+            "release"
+        ]
+    ]
+}

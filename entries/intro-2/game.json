@@ -1,0 +1,18 @@
+{
+    "title": "Intro #2",
+    "slug": "intro-2",
+    "developer": "Quartex",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "189.png"
+    ],
+    "rom": "qtx-i_02.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "QTX-I_02.ZIP",
+            "release"
+        ]
+    ]
+}

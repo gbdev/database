@@ -1,0 +1,18 @@
+{
+    "title": "CGB #1",
+    "slug": "cgb-1",
+    "developer": "Lightforce",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "275.png"
+    ],
+    "rom": "lfc1.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "LFC-I_01.ZIP",
+            "release"
+        ]
+    ]
+}

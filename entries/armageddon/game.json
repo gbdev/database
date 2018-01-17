@@ -1,0 +1,20 @@
+{
+    "title": "Armageddon",
+    "slug": "armageddon",
+    "developer": "Megaman_X",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "285.png",
+        "286.png",
+        "287.png"
+    ],
+    "rom": "Armageddon.gb",
+    "date": "1999",
+    "files": [
+        [
+            "MMX-AGDN.ZIP",
+            "release"
+        ]
+    ]
+}

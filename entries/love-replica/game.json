@@ -1,0 +1,23 @@
+{
+    "title": "Love Replica",
+    "slug": "love-replica",
+    "developer": "Inka",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "256.png",
+        "257.png",
+        "258.png",
+        "259.png",
+        "260.png",
+        "261.png"
+    ],
+    "rom": "LoveReplica.GBC",
+    "date": "2001",
+    "files": [
+        [
+            "INKA-LR.ZIP",
+            "release"
+        ]
+    ]
+}

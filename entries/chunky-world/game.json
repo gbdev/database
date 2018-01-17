@@ -1,0 +1,24 @@
+{
+    "title": "Chunky World",
+    "slug": "chunky-world",
+    "developer": "Dream Team",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "262.png",
+        "263.png",
+        "264.png",
+        "265.png",
+        "266.png",
+        "267.png",
+        "268.png"
+    ],
+    "rom": "GBDEV.GBC",
+    "date": "2000",
+    "files": [
+        [
+            "DT-CHWLD.ZIP",
+            "release"
+        ]
+    ]
+}

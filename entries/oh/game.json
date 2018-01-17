@@ -1,0 +1,30 @@
+{
+    "title": "Oh!",
+    "slug": "oh",
+    "developer": "Snorpung",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "555.png",
+        "556.png",
+        "557.png",
+        "558.png",
+        "559.png",
+        "560.png",
+        "561.png",
+        "562.png",
+        "563.png",
+        "564.png",
+        "565.png",
+        "566.png",
+        "567.png"
+    ],
+    "rom": "oh.gb",
+    "date": "2009",
+    "files": [
+        [
+            "SP-OH!.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "720 Sprites",
+    "slug": "720-sprites",
+    "developer": "One Man Band",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "723.png"
+    ],
+    "rom": "720spr.gb",
+    "date": "2000",
+    "files": [
+        [
+            "OMB-720S.ZIP",
+            "release"
+        ]
+    ]
+}

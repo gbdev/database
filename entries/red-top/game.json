@@ -1,0 +1,18 @@
+{
+    "title": "Red Top",
+    "slug": "red-top",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "722.png"
+    ],
+    "rom": "redtop.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "DCS-VDK.ZIP",
+            "release"
+        ]
+    ]
+}

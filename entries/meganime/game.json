@@ -1,0 +1,16 @@
+{
+    "title": "MegAnime",
+    "slug": "meganime",
+    "developer": "Megaman_X",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "MEGANIME.GB",
+    "date": "1998",
+    "files": [
+        [
+            "MMX-MEGA.ZIP",
+            "release"
+        ]
+    ]
+}

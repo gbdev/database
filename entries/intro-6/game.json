@@ -1,0 +1,18 @@
+{
+    "title": "Intro #6",
+    "slug": "intro-6",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "199.png"
+    ],
+    "rom": "dcs-i_06.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "DCS-I_06.ZIP",
+            "release"
+        ]
+    ]
+}

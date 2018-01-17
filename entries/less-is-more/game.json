@@ -1,0 +1,18 @@
+{
+    "title": "Less Is More",
+    "slug": "less-is-more",
+    "developer": "Abyss",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "99.png"
+    ],
+    "rom": "AYS-LiM.gb",
+    "date": "2001",
+    "files": [
+        [
+            "AYS-LIM.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "T2",
+    "slug": "t2",
+    "developer": "Megaman_X",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "715.png",
+        "716.png",
+        "717.png"
+    ],
+    "rom": "T2.GB",
+    "date": "1998",
+    "files": [
+        [
+            "MMX-T2.ZIP",
+            "release"
+        ]
+    ]
+}

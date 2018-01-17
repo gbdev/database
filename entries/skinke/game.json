@@ -1,0 +1,23 @@
+{
+    "title": "Skinke",
+    "slug": "skinke",
+    "developer": "Jumalauta",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "279.png",
+        "280.png",
+        "281.png",
+        "282.png",
+        "283.png",
+        "284.png"
+    ],
+    "rom": "jml-skin.gb",
+    "date": "2005",
+    "files": [
+        [
+            "JML-SKIN.ZIP",
+            "release"
+        ]
+    ]
+}

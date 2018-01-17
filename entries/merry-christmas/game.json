@@ -1,0 +1,18 @@
+{
+    "title": "Merry Christmas",
+    "slug": "merry-christmas",
+    "developer": "Anders Granlund",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "728.png"
+    ],
+    "rom": "MerryXMAS.gb",
+    "date": "1997",
+    "files": [
+        [
+            "AG-XMAS.ZIP",
+            "release"
+        ]
+    ]
+}

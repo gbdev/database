@@ -1,0 +1,18 @@
+{
+    "title": "Fire",
+    "slug": "fire",
+    "developer": "Dox",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "153.png"
+    ],
+    "rom": "FIRE.GB",
+    "date": "1999",
+    "files": [
+        [
+            "DOX-FIRE.ZIP",
+            "release"
+        ]
+    ]
+}

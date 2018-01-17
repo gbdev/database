@@ -1,0 +1,26 @@
+{
+    "title": "Bad Apple!!",
+    "slug": "bad-apple",
+    "developer": "Bookworm",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "644.png",
+        "645.png",
+        "646.png",
+        "647.png",
+        "648.png",
+        "649.png",
+        "650.png",
+        "651.png",
+        "652.png"
+    ],
+    "rom": "BADAPPLE.GBC",
+    "date": "2011",
+    "files": [
+        [
+            "BADAPPLE.ZIP",
+            "release"
+        ]
+    ]
+}

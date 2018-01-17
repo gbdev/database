@@ -1,0 +1,29 @@
+{
+    "title": "Gejmb\u00c3\u00a5j",
+    "slug": "gejmbay-j",
+    "developer": "Snorpung",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "614.png",
+        "615.png",
+        "616.png",
+        "617.png",
+        "618.png",
+        "619.png",
+        "620.png",
+        "621.png",
+        "622.png",
+        "623.png",
+        "624.png",
+        "625.png"
+    ],
+    "rom": "gejmboj.gb",
+    "date": "2010",
+    "files": [
+        [
+            "SP-GB.ZIP",
+            "release"
+        ]
+    ]
+}

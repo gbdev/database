@@ -1,0 +1,18 @@
+{
+    "title": "Bump",
+    "slug": "bump",
+    "developer": "Dox",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "151.png"
+    ],
+    "rom": "bump.gbc",
+    "date": "1999",
+    "files": [
+        [
+            "DOX-BUMP.ZIP",
+            "release"
+        ]
+    ]
+}

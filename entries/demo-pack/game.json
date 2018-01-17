@@ -1,0 +1,24 @@
+{
+    "title": "Demo Pack",
+    "slug": "demo-pack",
+    "developer": "Mango",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "748.png",
+        "749.png",
+        "750.png",
+        "751.png",
+        "752.png",
+        "753.png",
+        "754.png"
+    ],
+    "rom": "TOONS.GB",
+    "date": "1998",
+    "files": [
+        [
+            "MANGO.ZIP",
+            "release"
+        ]
+    ]
+}

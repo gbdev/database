@@ -1,0 +1,16 @@
+{
+    "title": "El Hazard",
+    "slug": "el-hazard",
+    "developer": "Megaman_X",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "ELHMOVIE.GB",
+    "date": "1998",
+    "files": [
+        [
+            "MMX-EHM.ZIP",
+            "release"
+        ]
+    ]
+}

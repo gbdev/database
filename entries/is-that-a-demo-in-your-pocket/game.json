@@ -1,0 +1,32 @@
+{
+    "title": "Is That a Demo in Your Pocket?",
+    "slug": "is-that-a-demo-in-your-pocket",
+    "developer": "Snorpung",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "765.png",
+        "766.png",
+        "767.png",
+        "768.png",
+        "769.png",
+        "770.png",
+        "771.png",
+        "772.png",
+        "773.png",
+        "774.png",
+        "775.png",
+        "776.png",
+        "777.png",
+        "778.png",
+        "779.png"
+    ],
+    "rom": "pocket.gb",
+    "date": "2015",
+    "files": [
+        [
+            "SP-POCKET.ZIP",
+            "release"
+        ]
+    ]
+}

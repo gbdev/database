@@ -1,0 +1,18 @@
+{
+    "title": "FLI Plasma",
+    "slug": "fli-plasma",
+    "developer": "Cosmigo",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "122.png"
+    ],
+    "rom": "cGOplASM.gbc",
+    "date": "1999",
+    "files": [
+        [
+            "CGO-PLAS.ZIP",
+            "release"
+        ]
+    ]
+}

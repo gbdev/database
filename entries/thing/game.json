@@ -1,0 +1,21 @@
+{
+    "title": "Thing",
+    "slug": "thing",
+    "developer": "g0blinish",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "678.png",
+        "679.png",
+        "680.png",
+        "681.png"
+    ],
+    "rom": "Thing.gbc",
+    "date": "2014",
+    "files": [
+        [
+            "g0blinish.zip",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Murdera",
+    "slug": "murdera",
+    "developer": "Matt Current",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "318.png",
+        "319.png",
+        "320.png",
+        "321.png",
+        "322.png",
+        "323.png",
+        "324.png",
+        "325.png",
+        "326.png",
+        "327.png",
+        "328.png",
+        "329.png"
+    ],
+    "rom": "mc-mrder.gb",
+    "date": "2006",
+    "files": [
+        [
+            "MC-MRDER.ZIP",
+            "release"
+        ]
+    ]
+}

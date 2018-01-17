@@ -1,0 +1,24 @@
+{
+    "title": "Utopia",
+    "slug": "utopia",
+    "developer": "Black Box",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "5.png",
+        "6.png",
+        "7.png",
+        "8.png",
+        "9.png",
+        "10.png",
+        "11.png"
+    ],
+    "rom": "utopia.gb",
+    "date": "2004",
+    "files": [
+        [
+            "BB-UTP.ZIP",
+            "release"
+        ]
+    ]
+}

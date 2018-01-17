@@ -1,0 +1,18 @@
+{
+    "title": "Vectrony",
+    "slug": "vectrony",
+    "developer": "Black Thunder",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "719.png"
+    ],
+    "rom": "vectrony.gbc",
+    "date": "1999",
+    "files": [
+        [
+            "DF-VECT.ZIP",
+            "release"
+        ]
+    ]
+}

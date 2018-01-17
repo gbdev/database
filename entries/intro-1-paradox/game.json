@@ -1,0 +1,18 @@
+{
+    "title": "Intro #1",
+    "slug": "intro-1-paradox",
+    "developer": "Paradox",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "193.png"
+    ],
+    "rom": "pdx-i_01.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "PDX-I_01.ZIP",
+            "release"
+        ]
+    ]
+}

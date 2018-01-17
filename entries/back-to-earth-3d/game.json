@@ -1,0 +1,18 @@
+{
+    "title": "Back to Earth 3D",
+    "slug": "back-to-earth-3d",
+    "developer": "R-Lab",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "182.png"
+    ],
+    "rom": "bte.gb",
+    "date": "2001",
+    "files": [
+        [
+            "RLAB-BTE.ZIP",
+            "release"
+        ]
+    ]
+}

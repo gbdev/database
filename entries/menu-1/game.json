@@ -1,0 +1,18 @@
+{
+    "title": "Menu #1",
+    "slug": "menu-1",
+    "developer": "High Society",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "191.png"
+    ],
+    "rom": "hs-t_01.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "HS-T_01.ZIP",
+            "release"
+        ]
+    ]
+}

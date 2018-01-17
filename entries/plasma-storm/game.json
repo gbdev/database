@@ -1,0 +1,18 @@
+{
+    "title": "Plasma Storm",
+    "slug": "plasma-storm",
+    "developer": "Blue",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "244.png"
+    ],
+    "rom": "PlasmaStorm.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "BLUE-PS.ZIP",
+            "release"
+        ]
+    ]
+}

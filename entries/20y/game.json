@@ -1,0 +1,26 @@
+{
+    "title": "20y",
+    "slug": "20y",
+    "developer": "Snorpung",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "538.png",
+        "539.png",
+        "540.png",
+        "541.png",
+        "542.png",
+        "543.png",
+        "544.png",
+        "545.png",
+        "546.png"
+    ],
+    "rom": "20y.gb",
+    "date": "2009",
+    "files": [
+        [
+            "SP-20Y.ZIP",
+            "release"
+        ]
+    ]
+}

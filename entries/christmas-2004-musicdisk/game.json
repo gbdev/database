@@ -1,0 +1,18 @@
+{
+    "title": "Christmas 2004 Musicdisk",
+    "slug": "christmas-2004-musicdisk",
+    "developer": "Jumalauta",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "303.png"
+    ],
+    "rom": "jml-joul.gb",
+    "date": "2004",
+    "files": [
+        [
+            "JML-JOUL.ZIP",
+            "release"
+        ]
+    ]
+}

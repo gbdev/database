@@ -1,0 +1,24 @@
+{
+    "title": "Demo Collection",
+    "slug": "demo-collection",
+    "developer": "Revival Studios",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "330.png",
+        "331.png",
+        "332.png",
+        "333.png",
+        "334.png",
+        "335.png",
+        "336.png"
+    ],
+    "rom": "vectdemo.gb",
+    "date": "1996",
+    "files": [
+        [
+            "REVIVAL.ZIP",
+            "release"
+        ]
+    ]
+}

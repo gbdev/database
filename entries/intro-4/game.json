@@ -1,0 +1,18 @@
+{
+    "title": "Intro #4",
+    "slug": "intro-4",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "197.png"
+    ],
+    "rom": "dcs-i_04.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "DCS-I_04.ZIP",
+            "release"
+        ]
+    ]
+}

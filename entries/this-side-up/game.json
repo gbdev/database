@@ -1,0 +1,25 @@
+{
+    "title": "This Side Up",
+    "slug": "this-side-up",
+    "developer": "Amuq Creations",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "235.png",
+        "236.png",
+        "237.png",
+        "238.png",
+        "239.png",
+        "240.png",
+        "241.png",
+        "242.png"
+    ],
+    "rom": "q-tsu.gb",
+    "date": "2004",
+    "files": [
+        [
+            "Q-TSU.ZIP",
+            "release"
+        ]
+    ]
+}

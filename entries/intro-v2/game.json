@@ -1,0 +1,16 @@
+{
+    "title": "Intro v2",
+    "slug": "intro-v2",
+    "developer": "Freeart",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "FREEART Intro V2.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "FA-V2.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Loop",
+    "slug": "loop",
+    "developer": "Amuq Creations",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "95.png",
+        "96.png",
+        "97.png",
+        "98.png"
+    ],
+    "rom": "LoOp.gbc",
+    "date": "2003",
+    "files": [
+        [
+            "Q-LOOP.ZIP",
+            "release"
+        ]
+    ]
+}

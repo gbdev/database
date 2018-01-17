@@ -1,0 +1,23 @@
+{
+    "title": "Cenotaph",
+    "slug": "cenotaph",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "629.png",
+        "630.png",
+        "631.png",
+        "632.png",
+        "633.png",
+        "634.png"
+    ],
+    "rom": "dcs-ctph.gbc",
+    "date": "2012",
+    "files": [
+        [
+            "DCS-CTPH.ZIP",
+            "release"
+        ]
+    ]
+}

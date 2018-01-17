@@ -1,0 +1,18 @@
+{
+    "title": "Are you real?",
+    "slug": "are-you-real",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "201.png"
+    ],
+    "rom": "dcs-t_01.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "DCS-T_01.ZIP",
+            "release"
+        ]
+    ]
+}

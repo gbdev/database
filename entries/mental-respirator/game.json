@@ -1,0 +1,30 @@
+{
+    "title": "Mental Respirator",
+    "slug": "mental-respirator",
+    "developer": "Phantasy",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "123.png",
+        "124.png",
+        "126.png",
+        "127.png",
+        "128.png",
+        "129.png",
+        "130.png",
+        "131.png",
+        "132.png",
+        "133.png",
+        "134.png",
+        "135.png",
+        "136.png"
+    ],
+    "rom": "pht-mr.gbc",
+    "date": "2005",
+    "files": [
+        [
+            "PHT-MR.ZIP",
+            "release"
+        ]
+    ]
+}

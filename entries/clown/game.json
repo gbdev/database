@@ -1,0 +1,18 @@
+{
+    "title": "Clown",
+    "slug": "clown",
+    "developer": "Norman Nithman",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "747.png"
+    ],
+    "rom": "CLOWN1.GB",
+    "date": "1996",
+    "files": [
+        [
+            "CLOWN.ZIP",
+            "release"
+        ]
+    ]
+}

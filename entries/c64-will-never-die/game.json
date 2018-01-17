@@ -1,0 +1,18 @@
+{
+    "title": "C64 will never die",
+    "slug": "c64-will-never-die",
+    "developer": "Capital",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "210.png"
+    ],
+    "rom": "cpl-i_06.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "CPL-I_06.ZIP",
+            "release"
+        ]
+    ]
+}

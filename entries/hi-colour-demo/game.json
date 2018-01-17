@@ -1,0 +1,20 @@
+{
+    "title": "Hi-Colour Demo",
+    "slug": "hi-colour-demo",
+    "developer": "Icarus Productions",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "461.png",
+        "462.png",
+        "463.png"
+    ],
+    "rom": "gbhc.gbc",
+    "date": "1999",
+    "files": [
+        [
+            "IP-GBHC.ZIP",
+            "release"
+        ]
+    ]
+}

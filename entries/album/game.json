@@ -1,0 +1,19 @@
+{
+    "title": "Album",
+    "slug": "album",
+    "developer": "Paragon5",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "148.png",
+        "149.png"
+    ],
+    "rom": "P5_ALBUM.GB",
+    "date": "1999",
+    "files": [
+        [
+            "P5-ALBUM.ZIP",
+            "release"
+        ]
+    ]
+}

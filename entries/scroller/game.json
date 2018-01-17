@@ -1,0 +1,18 @@
+{
+    "title": "Scroller",
+    "slug": "scroller",
+    "developer": "Richard van der Brugge",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "249.png"
+    ],
+    "rom": "scroller.gb",
+    "date": "2000",
+    "files": [
+        [
+            "VDB-SCRL.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Infinite Bobs",
+    "slug": "infinite-bobs",
+    "developer": "Ethanol Soft Inc",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "215.png",
+        "216.png"
+    ],
+    "rom": "InfiniteBobs.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "ESI-BOBS.ZIP",
+            "release"
+        ]
+    ]
+}

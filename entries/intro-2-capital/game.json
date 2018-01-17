@@ -1,0 +1,18 @@
+{
+    "title": "Intro #2",
+    "slug": "intro-2-capital",
+    "developer": "Capital",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "205.png"
+    ],
+    "rom": "cpl-i_02.gbc",
+    "date": "2002",
+    "files": [
+        [
+            "CPL-I_02.ZIP",
+            "release"
+        ]
+    ]
+}

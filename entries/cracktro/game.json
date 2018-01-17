@@ -1,0 +1,18 @@
+{
+    "title": "Cracktro",
+    "slug": "cracktro",
+    "developer": "The Corporation",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "711.png"
+    ],
+    "rom": "tcintro3.gb",
+    "date": "2006",
+    "files": [
+        [
+            "TC-INTRO.ZIP",
+            "release"
+        ]
+    ]
+}

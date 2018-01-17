@@ -1,0 +1,16 @@
+{
+    "title": "Terminator 2",
+    "slug": "terminator-2",
+    "developer": "Megaman_X",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "T2.gb",
+    "date": "1999",
+    "files": [
+        [
+            "MMX-T2M.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Genetic",
+    "slug": "genetic",
+    "developer": "Dox",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "152.png"
+    ],
+    "rom": "Genetic.cgb",
+    "date": "2000",
+    "files": [
+        [
+            "DOX-GNTC.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Menu #1",
+    "slug": "menu-1-venom",
+    "developer": "Venom",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "194.png"
+    ],
+    "rom": "v-t_01.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "V-T_01.ZIP",
+            "release"
+        ]
+    ]
+}

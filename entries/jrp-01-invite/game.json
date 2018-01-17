@@ -1,0 +1,18 @@
+{
+    "title": "JRP'01 Invite",
+    "slug": "jrp-01-invite",
+    "developer": "Nukleus",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "150.png"
+    ],
+    "rom": "GINTRO.GBC",
+    "date": "2001",
+    "files": [
+        [
+            "NLS-JRP.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "One Giant Mooo",
+    "slug": "one-giant-mooo",
+    "developer": "Capital",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "208.png"
+    ],
+    "rom": "cpl-i_05.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "CPL-I_05.ZIP",
+            "release"
+        ]
+    ]
+}

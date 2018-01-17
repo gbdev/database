@@ -1,0 +1,32 @@
+{
+    "title": "Back to Color",
+    "slug": "back-to-color",
+    "developer": "AntonioND",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "682.png",
+        "683.png",
+        "684.png",
+        "685.png",
+        "686.png",
+        "687.png",
+        "688.png",
+        "689.png",
+        "690.png",
+        "691.png",
+        "692.png",
+        "693.png",
+        "694.png",
+        "695.png",
+        "696.png"
+    ],
+    "rom": "back-to-color-1.0/demo.gbc",
+    "date": "2014",
+    "files": [
+        [
+            "AND-BTC.ZIP",
+            "release"
+        ]
+    ]
+}

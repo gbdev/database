@@ -1,0 +1,18 @@
+{
+    "title": "True Lies +1",
+    "slug": "true-lies-1",
+    "developer": "Asgard",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "710.png"
+    ],
+    "rom": "ASG-T_01.GB",
+    "date": "2006",
+    "files": [
+        [
+            "ASG-T_01.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "My GB Is Your GB",
+    "slug": "my-gb-is-your-gb",
+    "developer": "Black Box",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "61.png"
+    ],
+    "rom": "MYGB.GB",
+    "date": "1999",
+    "files": [
+        [
+            "BB-MYGB.ZIP",
+            "release"
+        ]
+    ]
+}

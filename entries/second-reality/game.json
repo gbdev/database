@@ -1,0 +1,32 @@
+{
+    "title": "Second Reality",
+    "slug": "second-reality",
+    "developer": "Mills",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "663.png",
+        "664.png",
+        "665.png",
+        "666.png",
+        "667.png",
+        "668.png",
+        "669.png",
+        "670.png",
+        "671.png",
+        "672.png",
+        "673.png",
+        "674.png",
+        "675.png",
+        "676.png",
+        "677.png"
+    ],
+    "rom": "2ND - FINISHED.gb",
+    "date": "2014",
+    "files": [
+        [
+            "MILLS-SR.ZIP",
+            "release"
+        ]
+    ]
+}

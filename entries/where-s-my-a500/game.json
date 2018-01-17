@@ -1,0 +1,18 @@
+{
+    "title": "Where's my A500 ?!",
+    "slug": "where-s-my-a500",
+    "developer": "Quartex",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "188.png"
+    ],
+    "rom": "qtx-i_01.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "QTX-I_01.ZIP",
+            "release"
+        ]
+    ]
+}

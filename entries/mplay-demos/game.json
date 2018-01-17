@@ -1,0 +1,22 @@
+{
+    "title": "MPlay Demos",
+    "slug": "mplay-demos",
+    "developer": "Vibrants",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "736.png",
+        "737.png",
+        "738.png",
+        "739.png",
+        "740.png"
+    ],
+    "rom": "MPLAY205.GB",
+    "date": "1999",
+    "files": [
+        [
+            "V-MPLAY.ZIP",
+            "release"
+        ]
+    ]
+}

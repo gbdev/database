@@ -1,0 +1,25 @@
+{
+    "title": "Hot Gameboy",
+    "slug": "hot-gameboy",
+    "developer": "Icebird",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "304.png",
+        "305.png",
+        "306.png",
+        "307.png",
+        "308.png",
+        "309.png",
+        "310.png",
+        "311.png"
+    ],
+    "rom": "hotgb.gb",
+    "date": "1998",
+    "files": [
+        [
+            "ICB-HOT.ZIP",
+            "release"
+        ]
+    ]
+}

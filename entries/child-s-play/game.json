@@ -1,0 +1,24 @@
+{
+    "title": "Child's Play",
+    "slug": "child-s-play",
+    "developer": "Carillon Cyberiad",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "54.png",
+        "55.png",
+        "56.png",
+        "57.png",
+        "58.png",
+        "59.png",
+        "60.png"
+    ],
+    "rom": "childsplay.gbc",
+    "date": "2002",
+    "files": [
+        [
+            "CNCD-CP.ZIP",
+            "release"
+        ]
+    ]
+}

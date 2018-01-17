@@ -1,0 +1,18 @@
+{
+    "title": "The Last Splash",
+    "slug": "the-last-splash",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "203.png"
+    ],
+    "rom": "dcs-t_03.gbc",
+    "date": "2002",
+    "files": [
+        [
+            "DCS-T_03.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Kirby XXL",
+    "slug": "kirby-xxl",
+    "developer": "Harry Mulder",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "269.png"
+    ],
+    "rom": "KIRBYXXL.GB",
+    "date": "1998",
+    "files": [
+        [
+            "HM-KIRBY.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Little Short Demo",
+    "slug": "little-short-demo",
+    "developer": "Oyd11",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "171.png",
+        "172.png",
+        "173.png",
+        "174.png",
+        "175.png"
+    ],
+    "rom": "lsd.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "OYD-LSD.ZIP",
+            "release"
+        ]
+    ]
+}

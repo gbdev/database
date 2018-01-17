@@ -1,0 +1,18 @@
+{
+    "title": "Menu #6",
+    "slug": "menu-6",
+    "developer": "Capital",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "277.png"
+    ],
+    "rom": "CPL-T_06.GBC",
+    "date": "1999",
+    "files": [
+        [
+            "CPL-T_06.ZIP",
+            "release"
+        ]
+    ]
+}

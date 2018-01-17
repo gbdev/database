@@ -1,0 +1,16 @@
+{
+    "title": "Big Scroller",
+    "slug": "big-scroller",
+    "developer": "Anders Granlund",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "Bc.gb",
+    "date": "1998",
+    "files": [
+        [
+            "AG-BC.ZIP",
+            "release"
+        ]
+    ]
+}

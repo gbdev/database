@@ -1,0 +1,24 @@
+{
+    "title": "7447",
+    "slug": "7447",
+    "developer": "Dox",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "157.png",
+        "158.png",
+        "159.png",
+        "160.png",
+        "161.png",
+        "162.png",
+        "163.png"
+    ],
+    "rom": "7447.cgb",
+    "date": "2000",
+    "files": [
+        [
+            "DOX-7447.ZIP",
+            "release"
+        ]
+    ]
+}

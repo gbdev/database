@@ -1,0 +1,25 @@
+{
+    "title": "A.P.A.",
+    "slug": "a-p-a",
+    "developer": "Jeff Frohwein",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "764.png",
+        "757.png",
+        "758.png",
+        "759.png",
+        "760.png",
+        "761.png",
+        "762.png",
+        "763.png"
+    ],
+    "rom": "APA.GB",
+    "date": "1999",
+    "files": [
+        [
+            "JF-APA.ZIP",
+            "release"
+        ]
+    ]
+}

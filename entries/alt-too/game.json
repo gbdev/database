@@ -1,0 +1,21 @@
+{
+    "title": "Alt Too",
+    "slug": "alt-too",
+    "developer": "Carillon Cyberiad",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "49.png",
+        "50.png",
+        "51.png",
+        "53.png"
+    ],
+    "rom": "alttoo.gb",
+    "date": "2002",
+    "files": [
+        [
+            "CNCD-AT.ZIP",
+            "release"
+        ]
+    ]
+}

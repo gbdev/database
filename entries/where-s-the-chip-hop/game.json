@@ -1,0 +1,23 @@
+{
+    "title": "Where's the Chip-Hop?",
+    "slug": "where-s-the-chip-hop",
+    "developer": "Oyd11",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "176.png",
+        "177.png",
+        "178.png",
+        "179.png",
+        "180.png",
+        "181.png"
+    ],
+    "rom": "Wheres.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "OYD-WTCH.ZIP",
+            "release"
+        ]
+    ]
+}

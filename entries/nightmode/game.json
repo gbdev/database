@@ -1,0 +1,24 @@
+{
+    "title": "Nightmode",
+    "slug": "nightmode",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "62.png",
+        "63.png",
+        "64.png",
+        "65.png",
+        "66.png",
+        "67.png",
+        "68.png"
+    ],
+    "rom": "nightmode.gb",
+    "date": "2000",
+    "files": [
+        [
+            "DCS-NMOD.ZIP",
+            "release"
+        ]
+    ]
+}

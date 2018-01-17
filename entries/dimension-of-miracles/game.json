@@ -1,0 +1,21 @@
+{
+    "title": "Dimension of Miracles",
+    "slug": "dimension-of-miracles",
+    "developer": "AGO",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "224.png",
+        "225.png",
+        "226.png",
+        "227.png"
+    ],
+    "rom": "dimens.GB",
+    "date": "2000",
+    "files": [
+        [
+            "AGO-DIM.ZIP",
+            "release"
+        ]
+    ]
+}

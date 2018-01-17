@@ -1,0 +1,24 @@
+{
+    "title": "Demotronic",
+    "slug": "demotronic",
+    "developer": "Megaboys",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "40.png",
+        "41.png",
+        "42.png",
+        "43.png",
+        "44.png",
+        "45.png",
+        "46.png"
+    ],
+    "rom": "mb-dtrnc.gbc",
+    "date": "2002",
+    "files": [
+        [
+            "MB-DTRNC.ZIP",
+            "release"
+        ]
+    ]
+}

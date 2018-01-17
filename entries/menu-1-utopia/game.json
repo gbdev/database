@@ -1,0 +1,18 @@
+{
+    "title": "Menu #1",
+    "slug": "menu-1-utopia",
+    "developer": "Utopia",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "222.png"
+    ],
+    "rom": "utp-t_01.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "UTP-T_01.ZIP",
+            "release"
+        ]
+    ]
+}

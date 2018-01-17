@@ -1,0 +1,18 @@
+{
+    "title": "Intro Collection",
+    "slug": "intro-collection",
+    "developer": "CHN",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "756.png"
+    ],
+    "rom": "introcollection.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "CHN-INT2.ZIP",
+            "release"
+        ]
+    ]
+}

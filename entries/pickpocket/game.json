@@ -1,0 +1,27 @@
+{
+    "title": "Pickpocket",
+    "slug": "pickpocket",
+    "developer": "Inka",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "74.png",
+        "75.png",
+        "76.png",
+        "77.png",
+        "78.png",
+        "79.png",
+        "80.png",
+        "81.png",
+        "82.png",
+        "83.png"
+    ],
+    "rom": "inka-PP.GBC",
+    "date": "2002",
+    "files": [
+        [
+            "INKA-PP.ZIP",
+            "release"
+        ]
+    ]
+}

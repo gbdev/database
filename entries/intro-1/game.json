@@ -1,0 +1,18 @@
+{
+    "title": "Intro #1",
+    "slug": "intro-1",
+    "developer": "Oldskool",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "190.png"
+    ],
+    "rom": "os-i_01.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "OS-I_01.ZIP",
+            "release"
+        ]
+    ]
+}

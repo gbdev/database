@@ -1,0 +1,18 @@
+{
+    "title": "Ninety",
+    "slug": "ninety",
+    "developer": "Dox",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "155.png"
+    ],
+    "rom": "NINETY.GBC",
+    "date": "1999",
+    "files": [
+        [
+            "DOX-90.ZIP",
+            "release"
+        ]
+    ]
+}

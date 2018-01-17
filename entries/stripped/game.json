@@ -1,0 +1,22 @@
+{
+    "title": "Stripped",
+    "slug": "stripped",
+    "developer": "Triad",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "69.png",
+        "70.png",
+        "71.png",
+        "72.png",
+        "73.png"
+    ],
+    "rom": "stripped.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "TRIAD-ST.ZIP",
+            "release"
+        ]
+    ]
+}

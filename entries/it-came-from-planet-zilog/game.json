@@ -1,0 +1,26 @@
+{
+    "title": "It Came from Planet Zilog",
+    "slug": "it-came-from-planet-zilog",
+    "developer": "Phantasy",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "697.png",
+        "698.png",
+        "699.png",
+        "700.png",
+        "701.png",
+        "702.png",
+        "703.png",
+        "704.png",
+        "705.png"
+    ],
+    "rom": "pht-pz.gbc",
+    "date": "2015",
+    "files": [
+        [
+            "PHT-PZ.ZIP",
+            "release"
+        ]
+    ]
+}

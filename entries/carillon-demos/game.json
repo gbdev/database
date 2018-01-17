@@ -1,0 +1,23 @@
+{
+    "title": "Carillon Demos",
+    "slug": "carillon-demos",
+    "developer": "Carillon Cyberiad",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "741.png",
+        "742.png",
+        "743.png",
+        "744.png",
+        "745.png",
+        "746.png"
+    ],
+    "rom": "fruitless.gb",
+    "date": "2001",
+    "files": [
+        [
+            "CNCD-MSX.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Menu #3",
+    "slug": "menu-3-capital",
+    "developer": "Capital",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "213.png"
+    ],
+    "rom": "cpl-t_03.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "CPL-T_03.ZIP",
+            "release"
+        ]
+    ]
+}

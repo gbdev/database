@@ -1,0 +1,24 @@
+{
+    "title": "Nervous",
+    "slug": "nervous",
+    "developer": "Fatality",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "164.png",
+        "165.png",
+        "166.png",
+        "167.png",
+        "168.png",
+        "169.png",
+        "170.png"
+    ],
+    "rom": "NERVOUS.GB",
+    "date": "1999",
+    "files": [
+        [
+            "FTY-NERV.ZIP",
+            "release"
+        ]
+    ]
+}

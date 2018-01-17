@@ -1,0 +1,18 @@
+{
+    "title": "Menu #5",
+    "slug": "menu-5-capital",
+    "developer": "Capital",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "278.png"
+    ],
+    "rom": "CPL-T_05.GBC",
+    "date": "1999",
+    "files": [
+        [
+            "CPL-T_05.ZIP",
+            "release"
+        ]
+    ]
+}

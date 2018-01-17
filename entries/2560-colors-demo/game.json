@@ -1,0 +1,18 @@
+{
+    "title": "2560 Colors Demo",
+    "slug": "2560-colors-demo",
+    "developer": "Icarus Productions",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "294.png"
+    ],
+    "rom": "COLORS.GBC",
+    "date": "1999",
+    "files": [
+        [
+            "IP-2560C.ZIP",
+            "release"
+        ]
+    ]
+}

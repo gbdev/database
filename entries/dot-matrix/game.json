@@ -1,0 +1,18 @@
+{
+    "title": "Dot Matrix",
+    "slug": "dot-matrix",
+    "developer": "One Man Band",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "721.png"
+    ],
+    "rom": "DotMatrix.cgb",
+    "date": "2000",
+    "files": [
+        [
+            "OMB-DTMX.ZIP",
+            "release"
+        ]
+    ]
+}

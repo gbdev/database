@@ -1,0 +1,16 @@
+{
+    "title": "Nuku7",
+    "slug": "nuku7",
+    "developer": "Megaman_X",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "NUKU7.GB",
+    "date": "2000",
+    "files": [
+        [
+            "MMX-NUKU.ZIP",
+            "release"
+        ]
+    ]
+}

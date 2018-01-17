@@ -1,0 +1,22 @@
+{
+    "title": "Le Grand Bleu",
+    "slug": "le-grand-bleu",
+    "developer": "Inka",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "251.png",
+        "252.png",
+        "253.png",
+        "254.png",
+        "255.png"
+    ],
+    "rom": "lgb.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "INKA-LGB.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Voxel",
+    "slug": "voxel",
+    "developer": "Dox",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "154.png"
+    ],
+    "rom": "vxl.gbc",
+    "date": "1999",
+    "files": [
+        [
+            "DOX-VXL.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Dawn",
+    "slug": "dawn",
+    "developer": "Icebird",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "103.png",
+        "104.png",
+        "105.png",
+        "106.png",
+        "107.png"
+    ],
+    "rom": "Dawn.gb",
+    "date": "1998",
+    "files": [
+        [
+            "ICB-DAWN.ZIP",
+            "release"
+        ]
+    ]
+}

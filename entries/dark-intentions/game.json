@@ -1,0 +1,21 @@
+{
+    "title": "Dark Intentions",
+    "slug": "dark-intentions",
+    "developer": "Black Thunder",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "724.png",
+        "725.png",
+        "726.png",
+        "727.png"
+    ],
+    "rom": "Dark Intensions.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "DF-DARK.ZIP",
+            "release"
+        ]
+    ]
+}

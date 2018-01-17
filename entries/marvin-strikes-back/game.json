@@ -1,0 +1,18 @@
+{
+    "title": "\"Marvin Strikes Back\"",
+    "slug": "marvin-strikes-back",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "198.png"
+    ],
+    "rom": "dcs-i_05.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "DCS-I_05.ZIP",
+            "release"
+        ]
+    ]
+}

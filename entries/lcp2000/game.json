@@ -1,0 +1,20 @@
+{
+    "title": "LCP2000",
+    "slug": "lcp2000",
+    "developer": "Megaboys",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "100.png",
+        "101.png",
+        "102.png"
+    ],
+    "rom": "1MB - LCP2000.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "MB-LCP2K.ZIP",
+            "release"
+        ]
+    ]
+}

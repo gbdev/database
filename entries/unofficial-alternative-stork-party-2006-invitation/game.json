@@ -1,0 +1,20 @@
+{
+    "title": "Unofficial Alternative Stork Party 2006 Invitation",
+    "slug": "unofficial-alternative-stork-party-2006-invitation",
+    "developer": "Jumalauta",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "291.png",
+        "292.png",
+        "293.png"
+    ],
+    "rom": "jml-stor.gb",
+    "date": "2006",
+    "files": [
+        [
+            "JML-STOR.ZIP",
+            "release"
+        ]
+    ]
+}

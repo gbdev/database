@@ -1,0 +1,18 @@
+{
+    "title": "Live in 8bit",
+    "slug": "live-in-8bit",
+    "developer": "Eurasia",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "192.png"
+    ],
+    "rom": "eur-i_01.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "EUR-I_01.ZIP",
+            "release"
+        ]
+    ]
+}

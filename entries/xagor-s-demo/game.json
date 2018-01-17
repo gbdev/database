@@ -1,0 +1,18 @@
+{
+    "title": "Xagor's Demo",
+    "slug": "xagor-s-demo",
+    "developer": "Xagor",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "755.png"
+    ],
+    "rom": "XagorsDemo.cgb",
+    "date": "2000",
+    "files": [
+        [
+            "XAGOR.ZIP",
+            "release"
+        ]
+    ]
+}

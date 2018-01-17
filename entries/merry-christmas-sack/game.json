@@ -1,0 +1,18 @@
+{
+    "title": "Merry Christmas",
+    "slug": "merry-christmas-sack",
+    "developer": "Sack",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "245.png"
+    ],
+    "rom": "xmas.gb",
+    "date": "2000",
+    "files": [
+        [
+            "SACK-XM.ZIP",
+            "release"
+        ]
+    ]
+}

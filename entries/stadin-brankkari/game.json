@@ -1,0 +1,21 @@
+{
+    "title": "Stadin Brankkari",
+    "slug": "stadin-brankkari",
+    "developer": "Amuq Creations",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "231.png",
+        "232.png",
+        "233.png",
+        "234.png"
+    ],
+    "rom": "stadin.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "Q-STADIN.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Wired",
+    "slug": "wired",
+    "developer": "R-Lab",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "85.png",
+        "86.png",
+        "87.png",
+        "88.png"
+    ],
+    "rom": "wired.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "RLAB-WRD.ZIP",
+            "release"
+        ]
+    ]
+}

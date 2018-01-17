@@ -1,0 +1,16 @@
+{
+    "title": "Distortion",
+    "slug": "distortion",
+    "developer": "Anders Granlund",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "dist.gb",
+    "date": "1997",
+    "files": [
+        [
+            "AG-DIST.ZIP",
+            "release"
+        ]
+    ]
+}

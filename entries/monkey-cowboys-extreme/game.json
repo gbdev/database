@@ -1,0 +1,25 @@
+{
+    "title": "Monkey Cowboys Extreme",
+    "slug": "monkey-cowboys-extreme",
+    "developer": "Jumalauta",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "295.png",
+        "296.png",
+        "297.png",
+        "298.png",
+        "299.png",
+        "300.png",
+        "301.png",
+        "302.png"
+    ],
+    "rom": "jml-mce.gb",
+    "date": "2006",
+    "files": [
+        [
+            "JML-MCE.ZIP",
+            "release"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Beauty Girls 1",
+    "slug": "beauty-girls-1",
+    "developer": "Dox",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "271.png",
+        "272.png",
+        "273.png",
+        "274.png"
+    ],
+    "rom": "BG-Vol01.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "DOX-BG1.ZIP",
+            "release"
+        ]
+    ]
+}

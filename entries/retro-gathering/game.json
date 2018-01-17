@@ -1,0 +1,18 @@
+{
+    "title": "Retro Gathering",
+    "slug": "retro-gathering",
+    "developer": "Dual Crew & Shining",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "653.png"
+    ],
+    "rom": "dcs-rtrg.gbc",
+    "date": "2012",
+    "files": [
+        [
+            "DCS-RTRG.ZIP",
+            "release"
+        ]
+    ]
+}

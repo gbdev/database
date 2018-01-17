@@ -1,0 +1,16 @@
+{
+    "title": "Hikaru",
+    "slug": "hikaru",
+    "developer": "Megaman_X",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "HIKARU.GB",
+    "date": "1998",
+    "files": [
+        [
+            "MMX-HIKA.ZIP",
+            "release"
+        ]
+    ]
+}

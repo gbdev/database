@@ -1,0 +1,18 @@
+{
+    "title": "Oldskool Intro",
+    "slug": "oldskool-intro",
+    "developer": "Oxygen",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "137.png"
+    ],
+    "rom": "intro.gb",
+    "date": "1998",
+    "files": [
+        [
+            "O2-INTRO.ZIP",
+            "release"
+        ]
+    ]
+}

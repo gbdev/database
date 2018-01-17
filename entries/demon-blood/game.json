@@ -1,0 +1,26 @@
+{
+    "title": "Demon Blood",
+    "slug": "demon-blood",
+    "developer": "Youth Uprising",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "635.png",
+        "636.png",
+        "637.png",
+        "638.png",
+        "639.png",
+        "640.png",
+        "641.png",
+        "642.png",
+        "643.png"
+    ],
+    "rom": "yup-demonblood.gb",
+    "date": "2012",
+    "files": [
+        [
+            "YUP-DB.ZIP",
+            "release"
+        ]
+    ]
+}

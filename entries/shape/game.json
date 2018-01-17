@@ -1,0 +1,20 @@
+{
+    "title": "Shape!",
+    "slug": "shape",
+    "developer": "Sack",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "246.png",
+        "247.png",
+        "248.png"
+    ],
+    "rom": "Shape.cgb",
+    "date": "2000",
+    "files": [
+        [
+            "SACK-SH.ZIP",
+            "release"
+        ]
+    ]
+}

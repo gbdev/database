@@ -1,0 +1,18 @@
+{
+    "title": "Menu #1",
+    "slug": "menu-1-tristar",
+    "developer": "Tristar & Red Sector Inc",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "221.png"
+    ],
+    "rom": "trsi-t_1.gbc",
+    "date": "2000",
+    "files": [
+        [
+            "TRSI-T_1.ZIP",
+            "release"
+        ]
+    ]
+}

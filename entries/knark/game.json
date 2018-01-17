@@ -1,0 +1,28 @@
+{
+    "title": "Knark",
+    "slug": "knark",
+    "developer": "Phantasy",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "29.png",
+        "30.png",
+        "31.png",
+        "32.png",
+        "33.png",
+        "34.png",
+        "35.png",
+        "36.png",
+        "37.png",
+        "38.png",
+        "39.png"
+    ],
+    "rom": "pht-knrk.GBC",
+    "date": "2003",
+    "files": [
+        [
+            "PHT-KNRK.ZIP",
+            "release"
+        ]
+    ]
+}

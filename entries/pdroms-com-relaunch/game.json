@@ -1,0 +1,18 @@
+{
+    "title": "Pdroms.com Relaunch",
+    "slug": "pdroms-com-relaunch",
+    "developer": "Duo Dreamer",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "156.png"
+    ],
+    "rom": "pdroms.gbc",
+    "date": "2002",
+    "files": [
+        [
+            "DUO-PDR.ZIP",
+            "release"
+        ]
+    ]
+}

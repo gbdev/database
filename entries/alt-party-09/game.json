@@ -1,0 +1,25 @@
+{
+    "title": "Alt. party 09",
+    "slug": "alt-party-09",
+    "developer": "Jumalauta",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "547.png",
+        "548.png",
+        "549.png",
+        "550.png",
+        "551.png",
+        "552.png",
+        "553.png",
+        "554.png"
+    ],
+    "rom": "jml-a09.gb",
+    "date": "2009",
+    "files": [
+        [
+            "JML-A09.ZIP",
+            "release"
+        ]
+    ]
+}

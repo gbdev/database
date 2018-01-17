@@ -1,0 +1,20 @@
+{
+    "title": "The Matrix",
+    "slug": "the-matrix",
+    "developer": "Megaman_X",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "288.png",
+        "289.png",
+        "290.png"
+    ],
+    "rom": "Matrix.gb",
+    "date": "1999",
+    "files": [
+        [
+            "MMX-MTRX.ZIP",
+            "release"
+        ]
+    ]
+}

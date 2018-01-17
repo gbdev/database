@@ -1,0 +1,16 @@
+{
+    "title": "Punk",
+    "slug": "punk",
+    "developer": "Anders Granlund",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [],
+    "rom": "Punk.gb",
+    "date": "1998",
+    "files": [
+        [
+            "AG-PUNK.ZIP",
+            "release"
+        ]
+    ]
+}

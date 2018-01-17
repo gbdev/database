@@ -1,0 +1,18 @@
+{
+    "title": "Intro v3",
+    "slug": "intro-v3",
+    "developer": "Freeart",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "219.png"
+    ],
+    "rom": "FREEART Intro V3.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "FA-V3.ZIP",
+            "release"
+        ]
+    ]
+}

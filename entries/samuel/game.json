@@ -1,0 +1,23 @@
+{
+    "title": "Samuel",
+    "slug": "samuel",
+    "developer": "Jumalauta",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "312.png",
+        "313.png",
+        "314.png",
+        "315.png",
+        "316.png",
+        "317.png"
+    ],
+    "rom": "jml-sam.gb",
+    "date": "2006",
+    "files": [
+        [
+            "JML-SAM.ZIP",
+            "release"
+        ]
+    ]
+}

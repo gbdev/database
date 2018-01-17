@@ -1,0 +1,18 @@
+{
+    "title": "Menu #3",
+    "slug": "menu-3",
+    "developer": "Resistance",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "185.png"
+    ],
+    "rom": "rse-t_03.gbc",
+    "date": "2001",
+    "files": [
+        [
+            "RSE-T_03.ZIP",
+            "release"
+        ]
+    ]
+}

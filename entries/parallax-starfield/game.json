@@ -1,0 +1,18 @@
+{
+    "title": "Parallax Starfield",
+    "slug": "parallax-starfield",
+    "developer": "One Man Band",
+    "platform": "GBC",
+    "typetag": "demo",
+    "screenshots": [
+        "718.png"
+    ],
+    "rom": "Stars.gb",
+    "date": "2000",
+    "files": [
+        [
+            "OMB-STAR.ZIP",
+            "release"
+        ]
+    ]
+}
