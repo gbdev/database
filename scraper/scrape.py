@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 from slugify import slugify
+import argparse
 import requests
 import pathlib
 import zipfile
@@ -8,7 +9,7 @@ import json
 import re
 
 # Clean up last run
-shutil.rmtree('./entries', ignore_errors=True)
+#shutil.rmtree('./entries', ignore_errors=True)
 
 # Sluuurp
 r = requests.get('http://privat.bahnhof.se/wb800787/gb/demos/by_id_asc.html')
@@ -24,6 +25,11 @@ baseURL = 'http://privat.bahnhof.se/wb800787/gb'
 
 intervalStart = 0
 intervalEnd = 400
+
+# 0 - Update metadatas only
+# 1 - Get files and screenshots, too
+
+mode = 0
 
 for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.contents):
 	# TODO: use range
@@ -93,45 +99,46 @@ for r, row in enumerate(soup.body.center.tbody.contents[1].center.table.tbody.co
 			gameSoup = BeautifulSoup(gamePage.text, 'html5lib')
 			screenshotArray = []
 
-			for el in gameSoup.body.table.tbody.contents[2].contents[1].contents:
-				# regex this
-				screenshotURL = baseURL + el.get('src')[5::]
-				screenshotFileName = el.get('src')[14::]
-				print(screenshotFileName)
-				screenshotArray.append(screenshotFileName)
-				screenshotFile = requests.get(screenshotURL)
-				if screenshotFile.status_code == 200:
-					with open("./entries/"+gameSlug+'/'+screenshotFileName, 'wb') as f:
-						f.write(screenshotFile.content)
+            if (mode):
+    			for el in gameSoup.body.table.tbody.contents[2].contents[1].contents:
+    				# regex this
+    				screenshotURL = baseURL + el.get('src')[5::]
+    				screenshotFileName = el.get('src')[14::]
+    				print(screenshotFileName)
+    				screenshotArray.append(screenshotFileName)
+    				screenshotFile = requests.get(screenshotURL)
+    				if screenshotFile.status_code == 200:
+    					with open("./entries/"+gameSlug+'/'+screenshotFileName, 'wb') as f:
+    						f.write(screenshotFile.content)
 			
-			# Save Release ZIP
-			releaseFile = requests.get(fileURL)
-			savedReleaseFile = "./entries/"+gameSlug+'/'+fileName
-			if releaseFile.status_code == 200:
-				with open(savedReleaseFile, 'wb') as f:
-					f.write(releaseFile.content)
+            if (mode):
+    			# Save Release ZIP
+    			releaseFile = requests.get(fileURL)
+    			savedReleaseFile = "./entries/"+gameSlug+'/'+fileName
+    			if releaseFile.status_code == 200:
+    				with open(savedReleaseFile, 'wb') as f:
+    					f.write(releaseFile.content)
 
-			
-			with zipfile.ZipFile(savedReleaseFile) as myzip:
-				for file in myzip.namelist():
-						# TODO: for the love of god regex this
-						# gb gbc gmb sgb cgb (beware's BGB looks for these)
-						if (file[-3:] == 'gbc' or
-							 file[-2:] == 'gb' or
-							 file[-3:] == 'gmb' or
-							 file[-3:] == 'sgb' or
-							 file[-3:] == 'cgb' or
-							 file[-3:] == 'GMB' or
-							 file[-3:] == 'SGB' or
-							 file[-3:] == 'CGB' or
-							 file[-2:] == 'GB' or
-							 file[-3:] == 'GBC'):
-							print('Found ROM:', file)
-							romFile = file
-							myzip.extract(file, "./entries/"+gameSlug+'/')
+    			with zipfile.ZipFile(savedReleaseFile) as myzip:
+    				for file in myzip.namelist():
+    						# TODO: for the love of god regex this
+    						# gb gbc gmb sgb cgb (beware's BGB looks for these)
+    						if (file[-3:] == 'gbc' or
+    							 file[-2:] == 'gb' or
+    							 file[-3:] == 'gmb' or
+    							 file[-3:] == 'sgb' or
+    							 file[-3:] == 'cgb' or
+    							 file[-3:] == 'GMB' or
+    							 file[-3:] == 'SGB' or
+    							 file[-3:] == 'CGB' or
+    							 file[-2:] == 'GB' or
+    							 file[-3:] == 'GBC'):
+    							print('Found ROM:', file)
+    							romFile = file
+    							myzip.extract(file, "./entries/"+gameSlug+'/')
 
 			if (romFile == ''):
-				print('No ROM file found here')
+				print('No ROM file')
 				problematicList.append(gameSlug)
 
 			game = dict( title = gameTitle,
