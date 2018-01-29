@@ -1,0 +1,15 @@
+{
+    "title": "PostBot",
+    "slug": "postbot",
+    "license": "MIT",
+    "developer": "Tobias Rojahn",
+    "repository": "https://github.com/MasterIV/PostBot",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": ["Open Source", "Puzzle" ],
+    "screenshots" : ["screenshot1.bmp", "screenshot2.bmp", "screenshot3.bmp"],
+    "rom" : "PostBot.gb",
+    "onlineplay": true,
+    "devWebsite": "http://rojahn.org/"
+}
+
