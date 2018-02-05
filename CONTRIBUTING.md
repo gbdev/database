@@ -50,7 +50,7 @@ Fill in every property. You can take a look at existing games to make sure every
 | slug          | A short identificative name that will be the in the URL              | String, Only letters, underscores, dashes and numbers   |
 | developer     | Name of the developer                                                | String                                                  |
 | platform      | Target console                                                       | String: `GB` or `GBC`                                   |
-| typetag       | The type of the software                                             | String: `game`, `homebrew` or `demo`                    |
+| typetag       | The type of the software                                             | String: `game`, `homebrew`,`demo` or `hackrom`                    |
 | screenshots   | A list of the filenames of the screenshots in the folder             | Array of String of the screnshots file names (no path)  |
 | rom           | The name of the ROM in the folder                                    | String (no path)                                        |
 
