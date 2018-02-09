@@ -1,0 +1,14 @@
+{
+    "title": "Mona and the Witch's Hat",
+    "slug": "mona",
+    "developer": "CTNeptune",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source", "Platform" ],
+    "screenshots" : [ "screenshot.bmp" ],
+    "files": { "mona.zip" }
+    "rom" : "Mona_And_The_Witch_Hat.gb",
+    "date": "2017-12-12",
+    "gameWebsite" : "https://ctneptune.itch.io/mona-and-the-witchs-hat",
+    "devWebsite" : "https://ctneptune.itch.io/"
+}
