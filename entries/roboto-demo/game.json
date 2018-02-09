@@ -1,0 +1,13 @@
+{
+    "title": "Roboto",
+    "slug": "roboto-demo",
+    "developer": "naavis",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "skrollidemo.bmp"
+    ],
+    "repository": "https://github.com/naavis/roboto-demo",
+    "rom": "skrollidemo.gb",
+    "date": "2017-05-06"
+}
