@@ -1,0 +1,12 @@
+{
+    "title": "Retroid",
+    "slug": "retroid",
+    "developer": "Jonas Fischbach",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Action" ],
+    "screenshots" : [ "screenshot1.bmp", "screenshot2.bmp" ],
+    "rom" : "Retroid.gb",
+    "date": "2016-09-10",
+    "gameWebsite" : "https://retroidgameboy.wordpress.com/"
+}
