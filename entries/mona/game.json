@@ -6,7 +6,7 @@
     "typetag": "game",
     "tags": [ "Open Source", "Platform" ],
     "screenshots" : [ "screenshot.bmp" ],
-    "files": { "mona.zip" },
+    "files": [ ["mona.zip","release"]],
     "rom" : "Mona_And_The_Witch_Hat.gb",
     "date": "2017-12-12",
     "gameWebsite" : "https://ctneptune.itch.io/mona-and-the-witchs-hat",
