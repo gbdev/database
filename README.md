@@ -9,6 +9,7 @@ JSON and Assets Database of all the game and homebrew entries. Propose here addi
 We want to include every homebrew, game or demo ever produced for Game Boy or Game Boy Color.
 If you know an interesting entry, please [contribute](CONTRIBUTING.md), everyone can add new games or improve the existing entries, it's really easy!
 
+There are also a lot of websites and blogs with a lot of ROMs, we are writing script to automatically scrape those resources. [Take a look](scrapers/README.md).
 
 ## License
 
