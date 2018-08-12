@@ -13,6 +13,8 @@ const mkdirp = require('mkdirp')
 const baseURL = 'https://pdroms.de/files/gameboy/'
 const outDir  = PATH.format(PATH.parse('pdroms.de'))
 
+const gamesList = []
+
 const handleError = function (err) {
 	if (err) {
 		console.error(err)
@@ -105,6 +107,8 @@ const fileQueue = async.queue(function ({ url, thumbnail, title, author, descrip
 
 		const dir = PATH.join(outDir, folder)
 
+		gamesList.push(title)
+
 		const json = {
 			title,
 			slug: title,
@@ -147,6 +151,7 @@ filePageQueue.drain = function () {
 
 fileQueue.drain = function () {
 	console.log("File Queue Ran Empty!")
+	console.log(gamesList)
 }
 
 pageQueue.push(baseURL)
