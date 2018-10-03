@@ -1,5 +1,13 @@
 # CONTRIBUTE
 
+## Write a scraper
+
+The most useful thing you can do in this repository is to create a scraper that takes one of the [sources](https://github.com/gbdev/database/issues?q=is%3Aissue+is%3Aopen+label%3Asource) full of game boy homebrews and spits out a valid folder structure like the one we have in this repository (`entries/` folder).
+
+Take a look to the scrapers we already made in the `scrapers` folder.
+
+## Manually add entries
+
 Start by forking this repository and cloning your fork locally.
 
 ### 1. Decide the game `slug` 
