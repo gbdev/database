@@ -4,12 +4,13 @@
   "description": "Downloads every Game Boy Color ROM from gbchomebrew page on nesworld",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "cwallace3421",
   "license": "ISC",
   "dependencies": {
     "adm-zip": "^0.4.11",
+    "chalk": "^2.4.1",
     "jsdom": "^12.1.0"
   }
 }

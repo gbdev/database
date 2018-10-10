@@ -1,8 +1,10 @@
 const jsdom = require('jsdom');
+const log = require('./log');
 const { JSDOM } = jsdom;
 
 exports.gather = (url) => {
     const rowsAsync = [];
+    log.title('Loading DOM and gathering Meta from: ' + url);
     return JSDOM.fromURL(url)
         .then((dom) => {
             const document = dom.window.document;
@@ -95,18 +97,23 @@ async function parseRow(row) {
             meta.typetag = 'demo';
         }
     } else {
-        console.error('Unexpected number of columns on row: ', columns);
+        log.error('DOM', null, 'Unexpected number of columns on row in DOM: ' + columns, row);
     }
 
     // Slug
     if (meta.title) {
-        meta.slug = meta.title.toLowerCase().replace(/[\s\/\.]/g, '-').replace(/[^\w\-]/g, '');
+        meta.slug = meta.title.toLowerCase().replace(/[\s\/]/g, '-').replace(/[^\w\-]/g, '');
     }
 
     // Clean up
     if (!meta.developer) delete meta.developer;
     if (!meta.description) delete meta.description;
     if (!meta.screenshots) delete meta.screenshots;
+
+    // Check
+    if (!meta.screenshots) {
+        log.warn('No screenshots found for: ' + meta.slug);
+    }
 
     return meta;
 }
