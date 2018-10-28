@@ -18,6 +18,15 @@ def getFileHash(filename, alg, chunksize=131072):
 for folder in os.listdir('../entries'):
     with open('../entries/'+folder+'/game.json') as f:
         data = json.load(f)
-    print(data)
-    if (data["rom"] != ""):
-        print(getFileHash('../entries/'+folder+'/'+data['rom'], 'md5'))
+    print(data["slug"])
+    gamePath = '../entries/'+folder+'/'
+    try:
+        print(getFileHash(gamePath+data['rom'], 'md5'))
+    except:
+        print('No ROM')
+    try:
+        for fileArray in data["files"]:
+            fileName = fileArray[0]
+            print(getFileHash(gamePath+fileName, 'md5'))
+    except:
+        print('No files')
