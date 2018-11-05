@@ -1,9 +1,28 @@
 {
-    "title": "Some Old Stuff",
-    "slug": "some-old-stuff",
+    "date": "2000-01-01",
     "developer": "R-Lab",
+    "files": [
+        {
+            "description": "release",
+            "filename": "RLAB-SOS.ZIP",
+            "hash": {
+                "md5": "7f583c378acc064358153cf2b90b4194328c7bec",
+                "sha1": "7f583c378acc064358153cf2b90b4194328c7bec",
+                "sha256": "f26c5c96bfae2077dbe8e27f1236adad9121d9a324c5dc694a86fb8261170da9"
+            }
+        },
+        {
+            "default": true,
+            "filename": "SOS.gbc",
+            "hash": {
+                "md5": "34f4df512fab5aa49c78c1d3069428d0",
+                "sha1": "c2ad0dfe3d9e9c9aaf4e429e961dbc8f47d52ebb",
+                "sha256": "355cb1fe6c335fad7e1634a93a06920077ecaf43021b780a6da4e7d1a8ff81e5"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "89.png",
         "90.png",
@@ -12,12 +31,7 @@
         "93.png",
         "94.png"
     ],
-    "rom": "SOS.gbc",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "RLAB-SOS.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "some-old-stuff",
+    "title": "Some Old Stuff",
+    "typetag": "demo"
 }

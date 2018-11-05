@@ -1,9 +1,28 @@
 {
-    "title": "DMG*P-01",
-    "slug": "dmg-p-01",
+    "date": "2013-01-01",
     "developer": "Genesis Project",
+    "files": [
+        {
+            "description": "release",
+            "filename": "GP-DMG01.ZIP",
+            "hash": {
+                "md5": "a55a8e6c2e8fb7e2b6f279f413ddbe2a05346dda",
+                "sha1": "a55a8e6c2e8fb7e2b6f279f413ddbe2a05346dda",
+                "sha256": "37587a67493746629ac032ddb46ecc545d72f6da5d7ae8eff38a1195ba703225"
+            }
+        },
+        {
+            "default": true,
+            "filename": "dmgp-01.gb",
+            "hash": {
+                "md5": "1465c42e7e0a066db56bfc9dff9836ab",
+                "sha1": "0061ab0dd45c02e22511ba88338ec739b10d0d82",
+                "sha256": "955597c3fad1fdfcc618092bb38aab15091c19d2581cda7018d4ec343feb73a0"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "654.png",
         "655.png",
@@ -15,12 +34,7 @@
         "661.png",
         "662.png"
     ],
-    "rom": "dmgp-01.gb",
-    "date": "2013-01-01",
-    "files": [
-        [
-            "GP-DMG01.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "dmg-p-01",
+    "title": "DMG*P-01",
+    "typetag": "demo"
 }

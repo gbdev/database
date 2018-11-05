@@ -1,9 +1,28 @@
 {
-    "title": "It Came from Planet Zilog",
-    "slug": "it-came-from-planet-zilog",
+    "date": "2015-01-01",
     "developer": "Phantasy",
+    "files": [
+        {
+            "description": "release",
+            "filename": "PHT-PZ.ZIP",
+            "hash": {
+                "md5": "9aa0ea62d399242475a6a5bec08bceb08bbbeede",
+                "sha1": "9aa0ea62d399242475a6a5bec08bceb08bbbeede",
+                "sha256": "1e5933065d4c840fcd8fa3561859cf4e637dc6d4433330048ca08f1f592e9645"
+            }
+        },
+        {
+            "default": true,
+            "filename": "pht-pz.gbc",
+            "hash": {
+                "md5": "c03c5051b487c8ca3c592d444aa2a7be",
+                "sha1": "cc0f8eff4c64b06fcc636562f02c8021d202af67",
+                "sha256": "7ba04822fca1384a5eec2689de6e137045a12e10db5cbc4286a1219315cd16ab"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "697.png",
         "698.png",
@@ -15,12 +34,7 @@
         "704.png",
         "705.png"
     ],
-    "rom": "pht-pz.gbc",
-    "date": "2015-01-01",
-    "files": [
-        [
-            "PHT-PZ.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "it-came-from-planet-zilog",
+    "title": "It Came from Planet Zilog",
+    "typetag": "demo"
 }

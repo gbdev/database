@@ -1,19 +1,33 @@
 {
-    "title": "Circle 1886",
-    "slug": "circle-1886",
+    "date": "2000-01-01",
     "developer": "Carillon Cyberiad",
+    "files": [
+        {
+            "description": "release",
+            "filename": "CNCD-CIR.ZIP",
+            "hash": {
+                "md5": "af4e1a7baa523e0b4b65360832f697d6bec36f2b",
+                "sha1": "af4e1a7baa523e0b4b65360832f697d6bec36f2b",
+                "sha256": "bbc38893766e6dc00fe3d82736d583a58ffb1589efd7ae51df38bfee3a7066de"
+            }
+        },
+        {
+            "default": true,
+            "filename": "CNCD_CIRCLE1886.gbc",
+            "hash": {
+                "md5": "bdd8d01da7087c99fd060035d77a4324",
+                "sha1": "553bfbd898978e909e892b7ece0d558184c776c5",
+                "sha256": "9dd4b35905af63bbfacc3044fe127f3814996eda767e4d0bf701144764cb0c22"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "47.png",
         "48.png"
     ],
-    "rom": "CNCD_CIRCLE1886.gbc",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "CNCD-CIR.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "circle-1886",
+    "title": "Circle 1886",
+    "typetag": "demo"
 }

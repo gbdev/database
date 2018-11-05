@@ -1,18 +1,32 @@
 {
-    "title": "Plasma Storm",
-    "slug": "plasma-storm",
+    "date": "2000-01-01",
     "developer": "Blue",
+    "files": [
+        {
+            "description": "release",
+            "filename": "BLUE-PS.ZIP",
+            "hash": {
+                "md5": "473f993ca5b53cfe2a6f79d8b10e755aa41d3bd0",
+                "sha1": "473f993ca5b53cfe2a6f79d8b10e755aa41d3bd0",
+                "sha256": "07ca3f4cf36f343e53f2218434c8e5285526992c452d2934d84b99b5c14eafe8"
+            }
+        },
+        {
+            "default": true,
+            "filename": "PlasmaStorm.gbc",
+            "hash": {
+                "md5": "d05c2e957edc2eb8b6c94b70720c51e4",
+                "sha1": "a70dce0b99cb62e4edd0ad2995d1703fb85026c2",
+                "sha256": "74374c13e6549d4a33ab60aa9fc5c00604053fb8b7605622fcd63c86c67caa88"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "244.png"
     ],
-    "rom": "PlasmaStorm.gbc",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "BLUE-PS.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "plasma-storm",
+    "title": "Plasma Storm",
+    "typetag": "demo"
 }

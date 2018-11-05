@@ -1,18 +1,32 @@
 {
-    "title": "Menu #3",
-    "slug": "menu-3",
+    "date": "2001-01-01",
     "developer": "Resistance",
+    "files": [
+        {
+            "description": "release",
+            "filename": "RSE-T_03.ZIP",
+            "hash": {
+                "md5": "cd3225610a64f35c7de5dadc4faf7d7242eb53f9",
+                "sha1": "cd3225610a64f35c7de5dadc4faf7d7242eb53f9",
+                "sha256": "a475ba768a4a283e97b01cafeeb5fe2c9781b8daf76c3489bd32a69fe47d6b13"
+            }
+        },
+        {
+            "default": true,
+            "filename": "rse-t_03.gbc",
+            "hash": {
+                "md5": "8fe559d57b81311b4c1ed5555a92922f",
+                "sha1": "db6ea01b274310866ca2eff2bde8457a06e79af3",
+                "sha256": "6a5ab16fd9475ab81abdbfa15b0f54d91b172f31a2e70797749b5de242688b22"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "185.png"
     ],
-    "rom": "rse-t_03.gbc",
-    "date": "2001-01-01",
-    "files": [
-        [
-            "RSE-T_03.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "menu-3",
+    "title": "Menu #3",
+    "typetag": "demo"
 }

@@ -1,18 +1,32 @@
 {
-    "title": "Dot Matrix",
-    "slug": "dot-matrix",
+    "date": "2000-01-01",
     "developer": "One Man Band",
+    "files": [
+        {
+            "description": "release",
+            "filename": "OMB-DTMX.ZIP",
+            "hash": {
+                "md5": "d61b994ee9a268308304a64de01032278a846eca",
+                "sha1": "d61b994ee9a268308304a64de01032278a846eca",
+                "sha256": "0c75b19f6771672f306e28a0badb46d0ecf17611dc97bfc534924c45cfa248ee"
+            }
+        },
+        {
+            "default": true,
+            "filename": "DotMatrix.cgb",
+            "hash": {
+                "md5": "418d700d00b727f5ad53f1cdd7dee0ef",
+                "sha1": "8892ad3906ccb65d21d32fd6a8438dc444ac2c72",
+                "sha256": "3f91f49db388a18557e44f14234bbd96b054aa77a1dcef6a19338fc2c6e4a4e0"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "721.png"
     ],
-    "rom": "DotMatrix.cgb",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "OMB-DTMX.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "dot-matrix",
+    "title": "Dot Matrix",
+    "typetag": "demo"
 }

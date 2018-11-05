@@ -1,9 +1,28 @@
 {
-    "title": "Second Reality",
-    "slug": "second-reality",
+    "date": "2014-01-01",
     "developer": "Mills",
+    "files": [
+        {
+            "description": "release",
+            "filename": "MILLS-SR.ZIP",
+            "hash": {
+                "md5": "c4c7e5e26851450fb26350769d1d5cc9d41f0364",
+                "sha1": "c4c7e5e26851450fb26350769d1d5cc9d41f0364",
+                "sha256": "02f26af633f7b111982125c4e7ff896a59792075140ed8a54f75eb627cef321a"
+            }
+        },
+        {
+            "default": true,
+            "filename": "2ND - FINISHED.gb",
+            "hash": {
+                "md5": "e394d48b854949165932ec597a81f578",
+                "sha1": "4c19cd3b31412031810d7a68103d5331b7067b2d",
+                "sha256": "d245549e616ee69b54d442203218df8aad5ece9e703234ad4c38def743c01401"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "663.png",
         "664.png",
@@ -21,12 +40,7 @@
         "676.png",
         "677.png"
     ],
-    "rom": "2ND - FINISHED.gb",
-    "date": "2014-01-01",
-    "files": [
-        [
-            "MILLS-SR.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "second-reality",
+    "title": "Second Reality",
+    "typetag": "demo"
 }

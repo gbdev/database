@@ -1,9 +1,28 @@
 {
-    "title": "Versatility",
-    "slug": "versatility",
+    "date": "1998-01-01",
     "developer": "The New Image",
+    "files": [
+        {
+            "description": "release",
+            "filename": "TNI-VERS.ZIP",
+            "hash": {
+                "md5": "9970e0953116c8a4d749fc4a73bbd7f291734f5c",
+                "sha1": "9970e0953116c8a4d749fc4a73bbd7f291734f5c",
+                "sha256": "6fa67c7a78c92682265c85ac8a098ee8b0e09f4e1554523f63febbd8b2d8f172"
+            }
+        },
+        {
+            "default": true,
+            "filename": "VERSATIL.GB",
+            "hash": {
+                "md5": "82fa64030450c93a0d8d9a483b5e09e9",
+                "sha1": "7d8d77fddaaedee738a4fefb4e4a12e6f41912e5",
+                "sha256": "404ef3e26e6da111489494de692802b58c619b465aac6576d0fb5c529c086a53"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "731.png",
         "732.png",
@@ -11,12 +30,7 @@
         "734.png",
         "735.png"
     ],
-    "rom": "VERSATIL.GB",
-    "date": "1998-01-01",
-    "files": [
-        [
-            "TNI-VERS.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "versatility",
+    "title": "Versatility",
+    "typetag": "demo"
 }

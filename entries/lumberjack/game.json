@@ -1,13 +1,28 @@
 {
-    "title": "Lumberjack",
-    "slug": "lumberjack",
+    "date": "2017-10-21",
     "developer": "Koyot1222, JMD, and TmK",
+    "files": [
+        {
+            "default": true,
+            "filename": "ind-lj.gb",
+            "hash": {
+                "md5": "e8eaf9e43096d52383303a2fdbd82a2f",
+                "sha1": "33a6df8c78f0948df1786b0579158353755eb334",
+                "sha256": "5c02806bc79a7d8b96fdaf508af68cd91661fe218b9222ef21bc0e65f9186039"
+            },
+            "playable": true
+        }
+    ],
+    "gameWebsite": "https://github.com/gitendo/lumberjack",
     "platform": "GB",
+    "screenshots": [
+        "screenshot.png"
+    ],
+    "slug": "lumberjack",
+    "tags": [
+        "Action"
+    ],
+    "title": "Lumberjack",
     "typetag": "game",
-    "screenshots" : [ "screenshot.png" ],
-    "rom" : "ind-lj.gb",
-    "tags" : [ "Action" ],
-    "gameWebsite" : "https://github.com/gitendo/lumberjack",
-    "date" : "2017-10-21",
-    "video" : "https://www.youtube.com/watch?v=tqoBCR7Nleo"
+    "video": "https://www.youtube.com/watch?v=tqoBCR7Nleo"
 }

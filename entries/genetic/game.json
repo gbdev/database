@@ -1,18 +1,32 @@
 {
-    "title": "Genetic",
-    "slug": "genetic",
+    "date": "2000-01-01",
     "developer": "Dox",
+    "files": [
+        {
+            "description": "release",
+            "filename": "DOX-GNTC.ZIP",
+            "hash": {
+                "md5": "8852fd031f177194945db58bd4629a67e424a12b",
+                "sha1": "8852fd031f177194945db58bd4629a67e424a12b",
+                "sha256": "1cce4b654baf8ff2b787e26c75e2cd37fc59fd7d4edce433e7c3e8f574cd77fb"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Genetic.cgb",
+            "hash": {
+                "md5": "1d847964f38bfeb8d5113bfd531f0343",
+                "sha1": "7d415263db5a5bcc78027d70f616182f4f584023",
+                "sha256": "b9afe91589a4a75fc65acd645f7f8a03e72abcc2874926d35692838a70d1c533"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "152.png"
     ],
-    "rom": "Genetic.cgb",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "DOX-GNTC.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "genetic",
+    "title": "Genetic",
+    "typetag": "demo"
 }

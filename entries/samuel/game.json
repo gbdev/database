@@ -1,9 +1,28 @@
 {
-    "title": "Samuel",
-    "slug": "samuel",
+    "date": "2006-01-01",
     "developer": "Jumalauta",
+    "files": [
+        {
+            "description": "release",
+            "filename": "JML-SAM.ZIP",
+            "hash": {
+                "md5": "3e4e298385f70f16dcaa8748578c288272c7129d",
+                "sha1": "3e4e298385f70f16dcaa8748578c288272c7129d",
+                "sha256": "c847996d0ba943c000e0525d4ce91bd46ec64a39c2ef8afb45329fe88aed827b"
+            }
+        },
+        {
+            "default": true,
+            "filename": "jml-sam.gb",
+            "hash": {
+                "md5": "6266d50fe37e6399534eeb0d52b26943",
+                "sha1": "59517b01b27c9acfd4e8b7e21f11ad655d25dd35",
+                "sha256": "de0548019cdb9a0d1a289e6f7487effd15ac2833415b292616e7f65ea251302b"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "312.png",
         "313.png",
@@ -12,12 +31,7 @@
         "316.png",
         "317.png"
     ],
-    "rom": "jml-sam.gb",
-    "date": "2006-01-01",
-    "files": [
-        [
-            "JML-SAM.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "samuel",
+    "title": "Samuel",
+    "typetag": "demo"
 }

@@ -1,14 +1,38 @@
 {
-    "title": "Mona and the Witch's Hat",
-    "slug": "mona",
-    "developer": "CTNeptune",
-    "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Open Source", "Platform" ],
-    "screenshots" : [ "screenshot.bmp" ],
-    "files": [ ["mona.zip","release"]],
-    "rom" : "Mona_And_The_Witch_Hat.gb",
     "date": "2017-12-12",
-    "gameWebsite" : "https://ctneptune.itch.io/mona-and-the-witchs-hat",
-    "devWebsite" : "https://ctneptune.itch.io/"
+    "devWebsite": "https://ctneptune.itch.io/",
+    "developer": "CTNeptune",
+    "files": [
+        {
+            "description": "release",
+            "filename": "mona.zip",
+            "hash": {
+                "md5": "09ca62a903e5b707f4706750bc23473788c41440",
+                "sha1": "09ca62a903e5b707f4706750bc23473788c41440",
+                "sha256": "b4601c04948c3a3d32ddb1d0c90d67cb0360909e77b44808f4073ac0ad8a8442"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Mona_And_The_Witch_Hat.gb",
+            "hash": {
+                "md5": "c267820660ecbbab0d63fded955f1e15",
+                "sha1": "625d3664d99dee075021b03ea6ff074ae2e49204",
+                "sha256": "0a6b282afd737bb270aaf2ea5567986cafeb27f96556fa08ad1af41d1fe0a100"
+            },
+            "playable": true
+        }
+    ],
+    "gameWebsite": "https://ctneptune.itch.io/mona-and-the-witchs-hat",
+    "platform": "GB",
+    "screenshots": [
+        "screenshot.bmp"
+    ],
+    "slug": "mona",
+    "tags": [
+        "Open Source",
+        "Platform"
+    ],
+    "title": "Mona and the Witch's Hat",
+    "typetag": "game"
 }

@@ -1,11 +1,24 @@
 {
-    "title": "Espionage",
-    "slug": "espionage",
+    "devWebsite": "http://www.momeka.com",
     "developer": "Momeka",
+    "files": [
+        {
+            "default": true,
+            "filename": "Espionage.gb",
+            "hash": {
+                "md5": "31927bcd03a4df8a7811e2df33faa51e",
+                "sha1": "cd53a7c3c63b5256de4e149dd9c2436667c957e9",
+                "sha256": "2fcb9a24b15515c47272a727e7a70aac3b601523cc9cf0af411ce41a98f9ede7"
+            },
+            "playable": true
+        }
+    ],
+    "onlineplay": false,
     "platform": "GB",
-    "typetag": "game",
-    "screenshots" : [ "screenshot.png" ],
-    "rom" : "Espionage.gb",
-    "devWebsite" : "http://www.momeka.com",
-    "onlineplay" : false
+    "screenshots": [
+        "screenshot.png"
+    ],
+    "slug": "espionage",
+    "title": "Espionage",
+    "typetag": "game"
 }

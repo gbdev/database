@@ -1,18 +1,32 @@
 {
-    "title": "Intro #1",
-    "slug": "intro-1",
+    "date": "2001-01-01",
     "developer": "Oldskool",
+    "files": [
+        {
+            "description": "release",
+            "filename": "OS-I_01.ZIP",
+            "hash": {
+                "md5": "7d8dbbe2feb0457ddab303d7de8a411c7fc96016",
+                "sha1": "7d8dbbe2feb0457ddab303d7de8a411c7fc96016",
+                "sha256": "812032d888950dba83a7a2fac48b2334906a4aa637e28c1d4c14b71be55f6ec1"
+            }
+        },
+        {
+            "default": true,
+            "filename": "os-i_01.gbc",
+            "hash": {
+                "md5": "00ec61da218fdb30700cdf290c3656a9",
+                "sha1": "3588d9a7cb639b9524882626ab3a4f05111ba252",
+                "sha256": "01f03b1532acbd032ccef521b73a3873e88e2c84808cd3457f2dea37107ba0b7"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "190.png"
     ],
-    "rom": "os-i_01.gbc",
-    "date": "2001-01-01",
-    "files": [
-        [
-            "OS-I_01.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "intro-1",
+    "title": "Intro #1",
+    "typetag": "demo"
 }

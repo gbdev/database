@@ -1,10 +1,23 @@
 {
-    "title": "bleep",
-    "slug": "bleep",
     "developer": "Andrew G. Crowell",
+    "files": [
+        {
+            "default": true,
+            "filename": "bleep.gb",
+            "hash": {
+                "md5": "e14010f6cf9a21dc8174ac2ffbbd690e",
+                "sha1": "2c1f9fdd31c3c0aa1825e4405f3447c8b23d3570",
+                "sha256": "46aa1cb8b09bfbf189e77e6211584ade1a0fdd26fd18ee5392d94e0c641d334f"
+            },
+            "playable": true
+        }
+    ],
+    "onlineplay": true,
     "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots" : [ "screen1.png" ],
-    "rom" : "bleep.gb",
-    "onlineplay" : true
+    "screenshots": [
+        "screen1.png"
+    ],
+    "slug": "bleep",
+    "title": "bleep",
+    "typetag": "homebrew"
 }

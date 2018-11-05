@@ -1,16 +1,30 @@
 {
-    "title": "MegAnime",
-    "slug": "meganime",
-    "developer": "Megaman_X",
-    "platform": "GB",
-    "typetag": "demo",
-    "screenshots": [],
-    "rom": "MEGANIME.GB",
     "date": "1998-01-01",
+    "developer": "Megaman_X",
     "files": [
-        [
-            "MMX-MEGA.ZIP",
-            "release"
-        ]
-    ]
+        {
+            "description": "release",
+            "filename": "MMX-MEGA.ZIP",
+            "hash": {
+                "md5": "6242b5082cf68b392227219d469b6408b7a144da",
+                "sha1": "6242b5082cf68b392227219d469b6408b7a144da",
+                "sha256": "a980a9bf544c0ec15a78b0afc468acc26fbcb438da246d939f6f88f509a79191"
+            }
+        },
+        {
+            "default": true,
+            "filename": "MEGANIME.GB",
+            "hash": {
+                "md5": "c7675bbb75101b6f32640747fde65017",
+                "sha1": "066e3750fae8f58dba24f1465673581f544cbdb3",
+                "sha256": "514e7cfb67d538c8c5e29539c43bb2ad718ba4563e9dd162cd9ea95696e779e9"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "meganime",
+    "title": "MegAnime",
+    "typetag": "demo"
 }

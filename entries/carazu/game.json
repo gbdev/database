@@ -1,14 +1,31 @@
 {
-    "title": "Carazu",
-    "slug": "carazu",
+    "devWebsite": "https://gamejolt.com/@MartinHoltkamp",
     "developer": "Martin Holtkamp",
+    "files": [
+        {
+            "default": true,
+            "filename": "carazu.gb",
+            "hash": {
+                "md5": "67ae743e88fad33ac32e458b25f38923",
+                "sha1": "a6f31c65df9e1607101fa8072524fd37b897326b",
+                "sha256": "eef9dea9ecba15be7b21f3495e8c8bad937a0b2245cac09eec8baf61dfc91fb5"
+            },
+            "playable": true
+        }
+    ],
+    "gameWebsite": "https://gamejolt.com/games/carazu/184403",
+    "license": "GPL-3.0-or-later",
     "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Platform", "Open Source" ],
-    "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
-    "rom" : "carazu.gb",
-    "gameWebsite" : "https://gamejolt.com/games/carazu/184403",
-    "devWebsite" : "https://gamejolt.com/@MartinHoltkamp",
-    "repository" : "https://github.com/mholtkamp/carazu",
-    "license" : "GPL-3.0-or-later"
+    "repository": "https://github.com/mholtkamp/carazu",
+    "screenshots": [
+        "screenshot01.bmp",
+        "screenshot02.bmp"
+    ],
+    "slug": "carazu",
+    "tags": [
+        "Platform",
+        "Open Source"
+    ],
+    "title": "Carazu",
+    "typetag": "game"
 }

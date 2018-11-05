@@ -1,13 +1,31 @@
 {
-    "title": "exeman",
-    "slug": "exeman",
+    "date": "04-24-2017",
     "developer": "exezin",
-    "repository": "https://github.com/exezin/exeman",
+    "files": [
+        {
+            "default": true,
+            "filename": "exeman.gb",
+            "hash": {
+                "md5": "01dd505741c552caf1feb298acd2a114",
+                "sha1": "f9426554d3e89f3984ceae7defa7364779c78e13",
+                "sha256": "14dd8cba1b2bf8fd16025a719dbac787e9c972d2102f1c1b9a19789fe6659a27"
+            },
+            "playable": true
+        }
+    ],
+    "onlineplay": true,
     "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Open Source", "Action", "Platform" ],
-    "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
-    "rom" : "exeman.gb",
-    "date" : "04-24-2017",
-    "onlineplay" : true
+    "repository": "https://github.com/exezin/exeman",
+    "screenshots": [
+        "screenshot01.bmp",
+        "screenshot02.bmp"
+    ],
+    "slug": "exeman",
+    "tags": [
+        "Open Source",
+        "Action",
+        "Platform"
+    ],
+    "title": "exeman",
+    "typetag": "game"
 }

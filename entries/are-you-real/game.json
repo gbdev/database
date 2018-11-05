@@ -1,18 +1,32 @@
 {
-    "title": "Are you real?",
-    "slug": "are-you-real",
+    "date": "2001-01-01",
     "developer": "Dual Crew & Shining",
+    "files": [
+        {
+            "description": "release",
+            "filename": "DCS-T_01.ZIP",
+            "hash": {
+                "md5": "f782baf456cb002dcfb53151cb9a2e27d816d9e5",
+                "sha1": "f782baf456cb002dcfb53151cb9a2e27d816d9e5",
+                "sha256": "35ca4cc834dfc48e462213a9825fd2f563e84d18d8f800bdc751b93356eb44f7"
+            }
+        },
+        {
+            "default": true,
+            "filename": "dcs-t_01.gbc",
+            "hash": {
+                "md5": "3bcf2f480b57904c5084083afe25497d",
+                "sha1": "557cf5b4374064a2a267a827fa7b6a49a15af01a",
+                "sha256": "2f6cd6e8a4a26435a781f722dfbf33bfb7a1b1103ff4e7bbad0f5dce1902f825"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "201.png"
     ],
-    "rom": "dcs-t_01.gbc",
-    "date": "2001-01-01",
-    "files": [
-        [
-            "DCS-T_01.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "are-you-real",
+    "title": "Are you real?",
+    "typetag": "demo"
 }
