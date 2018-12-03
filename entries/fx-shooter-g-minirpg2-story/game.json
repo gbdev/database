@@ -1,0 +1,32 @@
+{
+    "date": "2001-02-28",
+    "developer": "Jaws-V Soft",
+    "files": [
+        {
+            "description": "release",
+            "filename": "fxshootr.zip",
+            "hash": {
+                "md5": "e6f98665574724fc140f9f17e86c847c",
+                "sha1": "ac53a6144abb7dc094f6efdd928bb930b8cbb58c",
+                "sha256": "cb584dda5454abe04688830ea4804da6eb25c59c480bf8eb4bc86e70cce3c7a3"
+            }
+        },
+        {
+            "default": true,
+            "filename": "fxgbc.gbc",
+            "hash": {
+                "md5": "f65e9ceffe2a5ade0f35d1f2e8a12f7e",
+                "sha1": "507a981d89c02daf3801a89e0f994f91937b9d75",
+                "sha256": "b8e10bd7ec2f08d8900026ed2d3106bfb26dfc95e9b7340d8ba222b79afb68b6"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "fxshootr.png"
+    ],
+    "slug": "fx-shooter-g-minirpg2-story",
+    "title": "FX Shooter G: MiniRPG2 Story",
+    "typetag": "homebrew"
+}

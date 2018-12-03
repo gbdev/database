@@ -1,0 +1,32 @@
+{
+    "date": "2009-01-21",
+    "developer": "Ventzislav Tzvetko",
+    "files": [
+        {
+            "description": "release",
+            "filename": "mazezam.zip",
+            "hash": {
+                "md5": "6d23d2d46087872054c9e92da1ab79be",
+                "sha1": "adf4da52355934f717404a70834071915daa13de",
+                "sha256": "bae36cc4f997eb99475b20d1ca48085dad62086d2e918b4999ee1ebe89bba43e"
+            }
+        },
+        {
+            "default": true,
+            "filename": "mazezam.gb",
+            "hash": {
+                "md5": "b4e12bd7e6e35fae8ab2c9de561e6c1d",
+                "sha1": "9dc3758c552ab099dce0810432b4c5a8e0c67db1",
+                "sha256": "301bc50f43c3e0d81c117260b375bfc479830ea231aca741e4afb5337479910b"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "mazezam.png"
+    ],
+    "slug": "mazezam-version-12",
+    "title": "MazezaM (Version 1.2)",
+    "typetag": "homebrew"
+}

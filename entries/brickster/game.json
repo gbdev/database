@@ -1,0 +1,32 @@
+{
+    "date": "1999-09-29",
+    "developer": "Stephane Hockenhull",
+    "files": [
+        {
+            "description": "release",
+            "filename": "brickster.zip",
+            "hash": {
+                "md5": "3d05e5e42f4bce8c04362fbb52d2c2a4",
+                "sha1": "27ddd384888ca94b8b3a79679ca068d3ef505418",
+                "sha256": "8140d534fd0d3fbc00ba3384ff16db8b25f387b4af4770389ea1feb4a556dc49"
+            }
+        },
+        {
+            "default": true,
+            "filename": "brikster.cgb",
+            "hash": {
+                "md5": "a7c193bc72c95d051ce673eb7ac58152",
+                "sha1": "ba6abd1a443cab54980c888032cf6e0b90e78374",
+                "sha256": "24e44e274f8ee77a838d0fc58a607521021b3de122a968f359994c6f7c773a45"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "brickster.png"
+    ],
+    "slug": "brickster",
+    "title": "Brickster",
+    "typetag": "homebrew"
+}

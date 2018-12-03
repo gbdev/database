@@ -1,0 +1,32 @@
+{
+    "date": "2016-08-30",
+    "developer": "LSDJ",
+    "files": [
+        {
+            "description": "release",
+            "filename": "lsdj1_3_5b_demo.zip",
+            "hash": {
+                "md5": "28a49cb7c15e2e078678d5d3ad77926d",
+                "sha1": "8c3430b80ef9e8a3cf4d51166110402b2607636f",
+                "sha256": "1f9014b272a60996ea61c8d7857959dc6c653c4b5b730ab0b3cbea6f870ffdfe"
+            }
+        },
+        {
+            "default": true,
+            "filename": "lsdj1_3_5b_demo.gb",
+            "hash": {
+                "md5": "e7c0279d266b0c654255130f24284669",
+                "sha1": "d3f24b061bd517da1c5866309b16367d12a204d4",
+                "sha256": "93976d446fc96b47370d79f2bf0d48cb501de922f6d87dff4bc829d9e35a3e82"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "placeholder.png"
+    ],
+    "slug": "little-sound-dj-version-135b-demo",
+    "title": "Little Sound DJ (Version 1.3.5B Demo)",
+    "typetag": "demo"
+}

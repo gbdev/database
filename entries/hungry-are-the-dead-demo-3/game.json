@@ -1,0 +1,32 @@
+{
+    "date": "2000-10-31",
+    "developer": "Berserker Industries",
+    "files": [
+        {
+            "description": "release",
+            "filename": "hatd.zip",
+            "hash": {
+                "md5": "ea83d3020d9493aac0ec77d94c197b50",
+                "sha1": "57be3ac049af60eb2f357fafaad712ec1b2abfcd",
+                "sha256": "e2cf3f67ac5f34488b2d3a5a402b69bcbb1862476c713293f6c0bfa5ac4944d3"
+            }
+        },
+        {
+            "default": true,
+            "filename": "hungrydm3.gbc",
+            "hash": {
+                "md5": "1d0347ee8b9d9e013e12bc7edfe00f16",
+                "sha1": "c7eb7d6c0acd995f946a41b75d5fbac347755e4c",
+                "sha256": "20e719f1dfc343af0a3f8e83365f096f2e45180de105d6c559d93ddd3376c413"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "hatd.png"
+    ],
+    "slug": "hungry-are-the-dead-demo-3",
+    "title": "Hungry are the Dead (Demo 3)",
+    "typetag": "demo"
+}

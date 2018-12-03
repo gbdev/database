@@ -1,0 +1,32 @@
+{
+    "date": "2016-08-30",
+    "developer": "Trash80",
+    "files": [
+        {
+            "description": "release",
+            "filename": "mgb1_3_2.zip",
+            "hash": {
+                "md5": "f593ce18ebc3197035ce17618fe7ea9a",
+                "sha1": "e3085efd7dfd2184d5b810eff26d8e167a23a473",
+                "sha256": "903109e8bf836b19c9a29eef187a89669a3466367be70f8dd3f5105cdfcdfb3b"
+            }
+        },
+        {
+            "default": true,
+            "filename": "mgb_1_3_2.gb",
+            "hash": {
+                "md5": "38dd3a4fc5bc62be06c189e54776636b",
+                "sha1": "48814746e35013cf1d12e966fd1c5ca33b8e2c86",
+                "sha256": "9dcbed1a32b9248a9409d64481fa2a5db4a12f9f52adf3793c34a16f553df61c"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "placeholder.png"
+    ],
+    "slug": "mgb-version-132",
+    "title": "mGB (Version 1.3.2)",
+    "typetag": "homebrew"
+}

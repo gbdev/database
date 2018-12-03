@@ -1,0 +1,35 @@
+{
+    "date": "2001-07-10",
+    "description": "An original free game for Game Boy and Game Boy Color. Santa's Elves have spread presents for all the children of the world throughout Santa's North Pole Complex. As Santa, it's up to you to find the presents and save Christmas!",
+    "developer": "SuperNova Software",
+    "files": [
+        {
+            "description": "release",
+            "filename": "ppanic.zip",
+            "hash": {
+                "md5": "44c494268c4fe0886f70a4e735ca3e40",
+                "sha1": "2318ed3cf26c997cc963d55f448628b74cd7c2af",
+                "sha256": "0bc6d27a1dacc771105979c1d0ec976e083231f058244847edecb0768484d992"
+            }
+        },
+        {
+            "default": true,
+            "filename": "ppanic.gbc",
+            "hash": {
+                "md5": "d8ba74e47df08b0dab7f497963ce6015",
+                "sha1": "b304e5ef78d20e22cb262299489cbea1f9b0dfa6",
+                "sha256": "cd4ae6d32378e3a490ab813fdbbfb4f0efa7b15d167b53f609eac7b691494e2f"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "ppanic.png",
+        "ppanic1.png",
+        "ppanic2.png"
+    ],
+    "slug": "present-panic-version-10",
+    "title": "Present Panic (Version 1.0)",
+    "typetag": "homebrew"
+}

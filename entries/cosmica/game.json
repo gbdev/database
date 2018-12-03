@@ -1,0 +1,31 @@
+{
+    "date": "2001-01-03",
+    "files": [
+        {
+            "description": "release",
+            "filename": "cosmica.zip",
+            "hash": {
+                "md5": "213ec54f83fb3886f17b0504c501f8c0",
+                "sha1": "633162ac4f762da703a86ca1db5250f2829d6ae6",
+                "sha256": "1b051a6251d41a93ad3738f36b9409d713045af2595662088a6125ee50733254"
+            }
+        },
+        {
+            "default": true,
+            "filename": "cosmica.gb",
+            "hash": {
+                "md5": "c762a2f62572336bc9b4e19d3c4d7861",
+                "sha1": "cd9d4a4c21a22916a15011f7b69a6038ea76ea4f",
+                "sha256": "d29d56e9a208e313f68c8d261f55acf81bf7f79c365c65a507ccb242558a89db"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "placeholder.png"
+    ],
+    "slug": "cosmica",
+    "title": "Cosmica",
+    "typetag": "homebrew"
+}

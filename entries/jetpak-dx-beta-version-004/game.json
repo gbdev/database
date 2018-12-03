@@ -1,0 +1,32 @@
+{
+    "date": "1999-03-30",
+    "developer": "Quang",
+    "files": [
+        {
+            "description": "release",
+            "filename": "jpac004.zip",
+            "hash": {
+                "md5": "76d60255d073ba6e400a39da9ed8cd67",
+                "sha1": "7f71156a459e5d14253efaf74bc564944b9bedc6",
+                "sha256": "f1c3c1f871e45ae2f43d33a2d402a9d107332a9a3e25934f2a370e97b36cc616"
+            }
+        },
+        {
+            "default": true,
+            "filename": "jpac004.gb",
+            "hash": {
+                "md5": "360074b107a2419eeb9a4a2411d3ef84",
+                "sha1": "2a022fe10f677af17139b00703ef967ffb0e426f",
+                "sha256": "a92ca8a024c2a4908854f0b00d890900c400368de8d8b68d52319743eb639f90"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "placeholder.png"
+    ],
+    "slug": "jetpak-dx-beta-version-004",
+    "title": "JetPak DX (Beta Version 0.04)",
+    "typetag": "homebrew"
+}

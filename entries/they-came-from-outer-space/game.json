@@ -1,0 +1,32 @@
+{
+    "date": "1998-08-30",
+    "developer": "Carcatau Development",
+    "files": [
+        {
+            "description": "release",
+            "filename": "outerspace.zip",
+            "hash": {
+                "md5": "afa4389f8ca42a5e33ecf231bbec2ed8",
+                "sha1": "0ea4a9008473797a3805e3a48c9b20770e492d55",
+                "sha256": "9425d7c5f0d1aa1c10de64aca061cd9f786a84a8109da9021fe2c995475823df"
+            }
+        },
+        {
+            "default": true,
+            "filename": "tcfos.gb",
+            "hash": {
+                "md5": "c94f4c9be62d1a7a488e454f4c8ba5df",
+                "sha1": "09e436c1f29ad7a8149783d6ca357e2f6bdfc83b",
+                "sha256": "50e1eeb76832b084b491e2aa79c9623b293977b13ec03fe08cd1b3fb7cddcd01"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "tcfos.png"
+    ],
+    "slug": "they-came-from-outer-space",
+    "title": "They came from outer space...",
+    "typetag": "homebrew"
+}

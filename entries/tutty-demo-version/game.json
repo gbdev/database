@@ -1,0 +1,33 @@
+{
+    "date": "2001-05-11",
+    "description": "Developed by Russian R-Lab and on their website they wrote \"  Action game derived from BoulderDash style, but more advanced and more fun. Player explore different underground worlds of the ancient civilisations.\"",
+    "developer": "R-Lab",
+    "files": [
+        {
+            "description": "release",
+            "filename": "tutty_demo.zip",
+            "hash": {
+                "md5": "37c354947ce8b53b1aee7b4a6091b402",
+                "sha1": "1764e006c3bbf49c22db7e07bfd3ae8d8e27a5f1",
+                "sha256": "7fe4c938eb203cd9abdb2d6d33f904a77ce13c067fd35d7217b6e4aed14aad08"
+            }
+        },
+        {
+            "default": true,
+            "filename": "tutty.gbc",
+            "hash": {
+                "md5": "b0d0b548a21729dc64aa40fda75f3027",
+                "sha1": "51883c4cc1469987483f993e3904da22690faeb9",
+                "sha256": "7ab1b91779c5a5013a131ece75cb21ed45865f1bc9b2e6298aec03b46965a68f"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "tutty.png"
+    ],
+    "slug": "tutty-demo-version",
+    "title": "Tutty (Demo Version)",
+    "typetag": "demo"
+}

@@ -1,0 +1,33 @@
+{
+    "date": "2000-03-04",
+    "description": "An identical clone of the old Q*bert arcade game. Shortly after the author published the game, something amazing happened...someone in the Gameboy developer community came across his version of the game and passed it on to Majesco Sales.  Majesco had the rights to do the Gameboy Color version of Q*bert, and they contacted him to see if he'd be interested in enhancing what he'd done and making it a commercial product...",
+    "developer": "Paul Chinn",
+    "files": [
+        {
+            "description": "release",
+            "filename": "qbert.zip",
+            "hash": {
+                "md5": "c961c7827024eef009e16ee48413d195",
+                "sha1": "221a7e9bbb5b6ee051ac5d0d08c01cf206e16188",
+                "sha256": "51c9f3dfb9bc30545e5d36a3860ed28284c0485fd3734123392643b9092a5135"
+            }
+        },
+        {
+            "default": true,
+            "filename": "qbert.gbc",
+            "hash": {
+                "md5": "df45b114508f140565bd3f5f98c81c32",
+                "sha1": "3988f165358bcf50bb463220133de41eacc2b7c1",
+                "sha256": "00b1c157cb8b4549298782beda6823d8a2722045f385faedc56dc18ac0e68056"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "qbert.png"
+    ],
+    "slug": "qbert-version-100",
+    "title": "Q*bert (Version 1.00)",
+    "typetag": "homebrew"
+}

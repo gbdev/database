@@ -1,0 +1,32 @@
+{
+    "date": "2016-08-30",
+    "developer": "Trash80",
+    "files": [
+        {
+            "description": "release",
+            "filename": "mgb1_2_4.zip",
+            "hash": {
+                "md5": "e8c267c0a6995672fca5f581f38a9c13",
+                "sha1": "4286b24b70e11a57defea8fc5e053782887e3679",
+                "sha256": "dd97212c97ab2e173cef34c86a529e873442e4d69f95bb632f2ff30941db8225"
+            }
+        },
+        {
+            "default": true,
+            "filename": "mgb1_2_4.gb",
+            "hash": {
+                "md5": "4b7323fc7f320c2398cec149fa8d72a8",
+                "sha1": "b11af05baf4db81c93eb43018edaa0e4e917d4aa",
+                "sha256": "16c31b9178ee42b07e14a2cc2560e98faab10313b59bfcab59d3e7648bcd403a"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "placeholder.png"
+    ],
+    "slug": "mgb-version-124",
+    "title": "mGB (Version 1.2.4)",
+    "typetag": "homebrew"
+}

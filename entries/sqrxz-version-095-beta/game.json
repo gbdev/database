@@ -1,0 +1,32 @@
+{
+    "date": "1999-05-05",
+    "developer": "Icarus Productions",
+    "files": [
+        {
+            "description": "release",
+            "filename": "sqrxzgb.zip",
+            "hash": {
+                "md5": "dc91bbf4b4b1a5c33e663d28e41f7ee5",
+                "sha1": "dffcede82dbcbae4819cda95d0be5976bfc3358c",
+                "sha256": "1e7bc3afeb95225426c1edfcdf3de3cbabc6ccccf06282945212f6b4c5ea4104"
+            }
+        },
+        {
+            "default": true,
+            "filename": "sqrxz.gb",
+            "hash": {
+                "md5": "77f3d8cc0547d274ab323c6efdd624eb",
+                "sha1": "2c8502f1322a45a5f0a61e5c4dc46d79d1ac32b0",
+                "sha256": "c50e1d3923c9f36d20c0dc57f412064a9a570b060544fefdedce1e1fc084eb4c"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "sqrxz.png"
+    ],
+    "slug": "sqrxz-version-095-beta",
+    "title": "Sqrxz (Version 0.95 Beta)",
+    "typetag": "homebrew"
+}
