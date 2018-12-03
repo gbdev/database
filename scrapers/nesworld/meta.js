@@ -2,6 +2,11 @@ const jsdom = require('jsdom');
 const log = require('./log');
 const { JSDOM } = jsdom;
 
+/**
+ * Scrape the url and gather game meta for each game presented on the page.
+ * @param {string} url - The url to gather the game meta from (really only supports nesworld).
+ * @returns {Object[]} An array of game meta objects.
+ */
 exports.gather = (url) => {
     const rowsAsync = [];
     log.title('Loading DOM and gathering Meta from: ' + url);
@@ -18,6 +23,13 @@ exports.gather = (url) => {
         });
 }
 
+/**
+ * Parse the DOM row from nesworld and build the game meta object.
+ * This function is very messy (nesworld has a terrible DOM structure), and is hyper specific to nesworld.
+ * @async
+ * @param {HTMLElement} row - The game DOM row from nesworld.
+ * @returns {Object} A game meta object.
+ */
 async function parseRow(row) {
     const meta = {
         title: '',
@@ -108,11 +120,11 @@ async function parseRow(row) {
     // Clean up
     if (!meta.developer) delete meta.developer;
     if (!meta.description) delete meta.description;
-    if (!meta.screenshots) delete meta.screenshots;
 
-    // Check
-    if (!meta.screenshots) {
-        log.warn('No screenshots found for: ' + meta.slug);
+    // Check if screenshots is empty
+    if (meta.screenshots.length === 0) {
+        log.warn('No screenshots found for: ' + meta.slug + ', adding placeholder.png');
+        meta.screenshots = ['placeholder.png'];
     }
 
     return meta;
