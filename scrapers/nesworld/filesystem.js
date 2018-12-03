@@ -52,6 +52,19 @@ async function handleGameMeta(game) {
 
     game.rom = romName ? romName : '??????';
 
+    if (romName && romName.indexOf('.') > -1) {
+        const parts = romName.split('.');
+        const extension = parts[1].toUpperCase();
+        if (extension === 'GB' || extension === 'GBC' ) {
+            game.platform = extension;
+        } else if (extension === 'CGB') {
+            log.info('Weird but known platform type: ' + extension + ', extracted from: ' + romName + ', setting platform to GBC');
+            game.platform = 'GBC';
+        } else {
+            log.warn('Unknown platform type: ' + extension + ', extracted from: ' + romName);
+        }
+    }
+
     fs.writeFileSync(path.resolve(gamePath, 'game.json'), JSON.stringify(game, null, 4));
 }
 

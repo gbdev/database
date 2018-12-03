@@ -35,7 +35,7 @@ async function parseRow(row) {
         title: '',
         slug: '',
         developer: '',
-        platform: 'gbc',
+        platform: 'GB',
         typetag: 'homebrew',
         description: '',
         screenshots: [],
