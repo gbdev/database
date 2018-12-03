@@ -50,7 +50,17 @@ async function handleGameMeta(game) {
     await download(url + game.rom, path.resolve(gamePath, romZipFilename));
     const romName = unzip(game.slug, path.resolve(gamePath, romZipFilename));
 
-    game.rom = romName ? romName : '??????';
+    game.files = [
+        {
+            "description": "release",
+            "filename": romZipFilename
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": romName ? romName : '??????'
+        }
+    ];
 
     if (romName && romName.indexOf('.') > -1) {
         const parts = romName.split('.');
@@ -58,12 +68,13 @@ async function handleGameMeta(game) {
         if (extension === 'GB' || extension === 'GBC' ) {
             game.platform = extension;
         } else if (extension === 'CGB') {
-            log.info('Weird but known platform type: ' + extension + ', extracted from: ' + romName + ', setting platform to GBC');
             game.platform = 'GBC';
         } else {
             log.warn('Unknown platform type: ' + extension + ', extracted from: ' + romName);
         }
     }
+
+    delete game.rom;
 
     fs.writeFileSync(path.resolve(gamePath, 'game.json'), JSON.stringify(game, null, 4));
 }
@@ -102,9 +113,7 @@ function unzip(slug, zipFilePath) {
             fs.renameSync(oldFilePath, newFilePath);
         }
 
-        // Delete Zip and other extracted contents
-        stage = 'Deleting ZIP file: ' + zipFilePath;
-        fs.unlinkSync(zipFilePath);
+        // Delete extracted contents
         stage = 'Deleting extracted contents: ' + extractedFilePath;
         rimraf(extractedFilePath);
 

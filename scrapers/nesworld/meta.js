@@ -1,3 +1,4 @@
+const existingGames = require('../../gamesList.json');
 const jsdom = require('jsdom');
 const log = require('./log');
 const { JSDOM } = jsdom;
@@ -115,6 +116,10 @@ async function parseRow(row) {
     // Slug
     if (meta.title) {
         meta.slug = meta.title.toLowerCase().replace(/[\s\/]/g, '-').replace(/[^\w\-]/g, '');
+        if (existingGames.includes(meta.slug)) {
+            log.info('Game with slug already exists: ' + meta.slug + ', generating a new unique slug: ' + meta.slug + '-nswld');
+            meta.slug = meta.slug + '-nswld';
+        }
     }
 
     // Clean up
