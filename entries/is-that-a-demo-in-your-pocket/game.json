@@ -1,9 +1,28 @@
 {
-    "title": "Is That a Demo in Your Pocket?",
-    "slug": "is-that-a-demo-in-your-pocket",
+    "date": "2015-01-01",
     "developer": "Snorpung",
+    "files": [
+        {
+            "description": "release",
+            "filename": "SP-POCKET.ZIP",
+            "hash": {
+                "md5": "68fe7e89858c2fc3a887bd655f117d66f6100bf4",
+                "sha1": "68fe7e89858c2fc3a887bd655f117d66f6100bf4",
+                "sha256": "20ca455c4e70b5f6f4ff50c1c80fb7f1c3a16344082a4cea93ab94b0a8447870"
+            }
+        },
+        {
+            "default": true,
+            "filename": "pocket.gb",
+            "hash": {
+                "md5": "2518020d9c2ff903b3af2d07d2552438",
+                "sha1": "aa27ee8d7e9f87ccaa4b1c2d4f4458a3e77c319c",
+                "sha256": "1e27305df67500fae49376cdf33b7cf052442e3ef5c910f96047b2cf63afe797"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "765.png",
         "766.png",
@@ -21,12 +40,7 @@
         "778.png",
         "779.png"
     ],
-    "rom": "pocket.gb",
-    "date": "2015-01-01",
-    "files": [
-        [
-            "SP-POCKET.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "is-that-a-demo-in-your-pocket",
+    "title": "Is That a Demo in Your Pocket?",
+    "typetag": "demo"
 }

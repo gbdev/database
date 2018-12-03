@@ -1,16 +1,30 @@
 {
-    "title": "We",
-    "slug": "we",
-    "developer": "Jumalauta",
-    "platform": "GB",
-    "typetag": "demo",
-    "screenshots": [],
-    "rom": "jml-we.gb",
     "date": "2009-01-01",
+    "developer": "Jumalauta",
     "files": [
-        [
-            "JML-WE.ZIP",
-            "release"
-        ]
-    ]
+        {
+            "description": "release",
+            "filename": "JML-WE.ZIP",
+            "hash": {
+                "md5": "f2a531ba2f1455cd96dd119c0a633e78aca4ce10",
+                "sha1": "f2a531ba2f1455cd96dd119c0a633e78aca4ce10",
+                "sha256": "0d8b2f8e82e4a25d67e252effa7f64d5e01c16e858adeed11d94424c7005faba"
+            }
+        },
+        {
+            "default": true,
+            "filename": "jml-we.gb",
+            "hash": {
+                "md5": "cf7869de5aa946c0908c68c25afe4a1e",
+                "sha1": "40555f00f4a0bfea75ff80aae2aa81e1354a15b0",
+                "sha256": "e6afdebbf86114923de8171d2894e35a948e0f6cb358b251fb1805be9dc0907d"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "we",
+    "title": "We",
+    "typetag": "demo"
 }

@@ -1,18 +1,32 @@
 {
-    "title": "Christmas 2004 Musicdisk",
-    "slug": "christmas-2004-musicdisk",
+    "date": "2004-01-01",
     "developer": "Jumalauta",
+    "files": [
+        {
+            "description": "release",
+            "filename": "JML-JOUL.ZIP",
+            "hash": {
+                "md5": "439d6446242de46ae6d08036c8583fd79332b36a",
+                "sha1": "439d6446242de46ae6d08036c8583fd79332b36a",
+                "sha256": "ddca75b7f77e67f14ffecabf2c16f28bb1535cb069b60fe45bd30a2331bf81d8"
+            }
+        },
+        {
+            "default": true,
+            "filename": "jml-joul.gb",
+            "hash": {
+                "md5": "57cb38f59cf9ba9584e0adde129d0bb3",
+                "sha1": "4bcb4ea4e4af302a0c4d25043e25b8f5d57e0995",
+                "sha256": "d2eb4cdc8099ac44e5ea5c9ac4cfd86cc6b7d846d1d673d8cce868e66715ea24"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "303.png"
     ],
-    "rom": "jml-joul.gb",
-    "date": "2004-01-01",
-    "files": [
-        [
-            "JML-JOUL.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "christmas-2004-musicdisk",
+    "title": "Christmas 2004 Musicdisk",
+    "typetag": "demo"
 }

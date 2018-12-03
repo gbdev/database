@@ -1,9 +1,28 @@
 {
-    "title": "Mental Respirator",
-    "slug": "mental-respirator",
+    "date": "2005-01-01",
     "developer": "Phantasy",
+    "files": [
+        {
+            "description": "release",
+            "filename": "PHT-MR.ZIP",
+            "hash": {
+                "md5": "169e3b92bfda96659d09aa21e23ab7a27b253f3e",
+                "sha1": "169e3b92bfda96659d09aa21e23ab7a27b253f3e",
+                "sha256": "7c0d66a6e3de4d34c7acb534535f5a988fcd78a6d9360f0032db932878001b5d"
+            }
+        },
+        {
+            "default": true,
+            "filename": "pht-mr.gbc",
+            "hash": {
+                "md5": "cba2d81042957ebf88052b21422cc757",
+                "sha1": "3ba3fdf063392017b0709d72be203401d6def6a3",
+                "sha256": "b4dbe171142d06e802c5b9ed54879d68254c736b58314fccf401aaf75498b0df"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "123.png",
         "124.png",
@@ -19,12 +38,7 @@
         "135.png",
         "136.png"
     ],
-    "rom": "pht-mr.gbc",
-    "date": "2005-01-01",
-    "files": [
-        [
-            "PHT-MR.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "mental-respirator",
+    "title": "Mental Respirator",
+    "typetag": "demo"
 }

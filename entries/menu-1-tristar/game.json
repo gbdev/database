@@ -1,18 +1,32 @@
 {
-    "title": "Menu #1",
-    "slug": "menu-1-tristar",
+    "date": "2000-01-01",
     "developer": "Tristar & Red Sector Inc",
+    "files": [
+        {
+            "description": "release",
+            "filename": "TRSI-T_1.ZIP",
+            "hash": {
+                "md5": "16eee2b43c9bb70bb4310c39a9c9006d703592a6",
+                "sha1": "16eee2b43c9bb70bb4310c39a9c9006d703592a6",
+                "sha256": "22cf10198df86bbd122d0bee4d8fc33f404e92c0b645a8a6758b36ae20cfb850"
+            }
+        },
+        {
+            "default": true,
+            "filename": "trsi-t_1.gbc",
+            "hash": {
+                "md5": "695687541f2c43b5b639137a0b7b4748",
+                "sha1": "11bf7af89663fd9aefd226c2f4a244ce2b21da39",
+                "sha256": "47679deb10431a884a7b4df90f481b05126672c3ca7d823100a64dc101f1038b"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "221.png"
     ],
-    "rom": "trsi-t_1.gbc",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "TRSI-T_1.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "menu-1-tristar",
+    "title": "Menu #1",
+    "typetag": "demo"
 }

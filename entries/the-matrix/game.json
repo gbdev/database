@@ -1,20 +1,34 @@
 {
-    "title": "The Matrix",
-    "slug": "the-matrix",
+    "date": "1999-01-01",
     "developer": "Megaman_X",
+    "files": [
+        {
+            "description": "release",
+            "filename": "MMX-MTRX.ZIP",
+            "hash": {
+                "md5": "f8f6550ad9e688a08366343a774dcec00216fc69",
+                "sha1": "f8f6550ad9e688a08366343a774dcec00216fc69",
+                "sha256": "3a90a2f91d217d565e022fb7595ec90de22e05783b80b1359f821ce83069cc85"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Matrix.gb",
+            "hash": {
+                "md5": "f1cd9f755ec8be5896552619d50dce04",
+                "sha1": "7cdb3fdb4cc5530d9f97afb4634106783bc1ebcd",
+                "sha256": "60bc72f67abee11ac4764962053de34f81925f0c210a582bfab42333787a30b0"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "288.png",
         "289.png",
         "290.png"
     ],
-    "rom": "Matrix.gb",
-    "date": "1999-01-01",
-    "files": [
-        [
-            "MMX-MTRX.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "the-matrix",
+    "title": "The Matrix",
+    "typetag": "demo"
 }

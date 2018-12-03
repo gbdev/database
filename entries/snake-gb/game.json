@@ -1,12 +1,27 @@
 {
-    "title": "Snake for Game Boy",
-    "slug": "snake-gb",
     "developer": "Donald Hays",
+    "files": [
+        {
+            "default": true,
+            "filename": "snake.gb",
+            "hash": {
+                "md5": "b37d04b34ac49169788149e3a9018748",
+                "sha1": "5ff8bed54d9f7d639adea1274370349c7b65e643",
+                "sha256": "04c8a45ada7923ed98024ffba3ac4d32b759d38e014fdc740f23350aa2564467"
+            },
+            "playable": true
+        }
+    ],
+    "gameWebsite": "http://donaldhays.com/projects/snake/",
     "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Open Source" ],
-    "screenshots" : [ "screenshot.png" ],
-    "rom" : "snake.gb",
-    "gameWebsite" : "http://donaldhays.com/projects/snake/",
-    "repository" : "https://github.com/DonaldHays/snake-gb"
+    "repository": "https://github.com/DonaldHays/snake-gb",
+    "screenshots": [
+        "screenshot.png"
+    ],
+    "slug": "snake-gb",
+    "tags": [
+        "Open Source"
+    ],
+    "title": "Snake for Game Boy",
+    "typetag": "game"
 }

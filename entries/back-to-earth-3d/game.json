@@ -1,18 +1,32 @@
 {
-    "title": "Back to Earth 3D",
-    "slug": "back-to-earth-3d",
+    "date": "2001-01-01",
     "developer": "R-Lab",
+    "files": [
+        {
+            "description": "release",
+            "filename": "RLAB-BTE.ZIP",
+            "hash": {
+                "md5": "a50555b2563173833b0f58881ab7ff647f32fed0",
+                "sha1": "a50555b2563173833b0f58881ab7ff647f32fed0",
+                "sha256": "d26172d0f402af390fa474c0f778859409fa6f30726d2b4aea3647ac9b9766f2"
+            }
+        },
+        {
+            "default": true,
+            "filename": "bte.gb",
+            "hash": {
+                "md5": "bcb7b00cdafc5a119e6f7be6a1c54945",
+                "sha1": "716722ed8756b656bba00cbff116f883e629cfd2",
+                "sha256": "d250670ccb950af10565d0e4856c0a091df08cbfe4c04882533c8a51f40de28d"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "182.png"
     ],
-    "rom": "bte.gb",
-    "date": "2001-01-01",
-    "files": [
-        [
-            "RLAB-BTE.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "back-to-earth-3d",
+    "title": "Back to Earth 3D",
+    "typetag": "demo"
 }

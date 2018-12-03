@@ -1,18 +1,32 @@
 {
-    "title": "My GB Is Your GB",
-    "slug": "my-gb-is-your-gb",
+    "date": "1999-01-01",
     "developer": "Black Box",
+    "files": [
+        {
+            "description": "release",
+            "filename": "BB-MYGB.ZIP",
+            "hash": {
+                "md5": "2b47d1df9e3fd1787aace8027853f14e6aeebf97",
+                "sha1": "2b47d1df9e3fd1787aace8027853f14e6aeebf97",
+                "sha256": "972bb27b7d00aa744d868393d5ed5c9ef8e75811e81dfd0b2b20e09391336ecd"
+            }
+        },
+        {
+            "default": true,
+            "filename": "MYGB.GB",
+            "hash": {
+                "md5": "6170e6d726386b7ef0d923bd0961ef8d",
+                "sha1": "54b848d51e84d724df58cb3013ee473b536f0396",
+                "sha256": "361a5933ef87e59c89aa32ce76edda307bc7e2cada0ee21ae4a57f39f805f965"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "61.png"
     ],
-    "rom": "MYGB.GB",
-    "date": "1999-01-01",
-    "files": [
-        [
-            "BB-MYGB.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "my-gb-is-your-gb",
+    "title": "My GB Is Your GB",
+    "typetag": "demo"
 }

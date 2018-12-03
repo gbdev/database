@@ -1,9 +1,28 @@
 {
-    "title": "Carillon Demos",
-    "slug": "carillon-demos",
+    "date": "2001-01-01",
     "developer": "Carillon Cyberiad",
+    "files": [
+        {
+            "description": "release",
+            "filename": "CNCD-MSX.ZIP",
+            "hash": {
+                "md5": "205b49554b475e7bef147c865f92d462197a05b8",
+                "sha1": "205b49554b475e7bef147c865f92d462197a05b8",
+                "sha256": "8c336b86e5771adb93794d9a8ae7dea257d3f468951933a63101a8e8bd49bba3"
+            }
+        },
+        {
+            "default": true,
+            "filename": "fruitless.gb",
+            "hash": {
+                "md5": "7a5022a52509ecdfa22a542ce7a78fbd",
+                "sha1": "51d46f8661cdd29cb466b69a78288878cc120ec2",
+                "sha256": "4423de4d26ddb9ee5643925efa8609dbafbe72fe8889195f209b387434291e37"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "741.png",
         "742.png",
@@ -12,12 +31,7 @@
         "745.png",
         "746.png"
     ],
-    "rom": "fruitless.gb",
-    "date": "2001-01-01",
-    "files": [
-        [
-            "CNCD-MSX.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "carillon-demos",
+    "title": "Carillon Demos",
+    "typetag": "demo"
 }

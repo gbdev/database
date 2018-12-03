@@ -1,18 +1,32 @@
 {
-    "title": "Starfield",
-    "slug": "starfield",
+    "date": "2000-01-01",
     "developer": "Richard van der Brugge",
+    "files": [
+        {
+            "description": "release",
+            "filename": "VDB-STAR.ZIP",
+            "hash": {
+                "md5": "72b7a8a43b969468c8fc9944bc8614eccf7667f5",
+                "sha1": "72b7a8a43b969468c8fc9944bc8614eccf7667f5",
+                "sha256": "f29334eaef67bc98b04bcd5be5e813dec69e1be895cd81a367935f5c85ce48fb"
+            }
+        },
+        {
+            "default": true,
+            "filename": "starfield.gb",
+            "hash": {
+                "md5": "042c03385e4e0e38d510cee6afd7a12f",
+                "sha1": "ef39300c702b594637a0bee0700c167c986800fc",
+                "sha256": "53a59d277540784927edb3d2342f857be2d8636f19fc01342e6dc11e5d9444d6"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "250.png"
     ],
-    "rom": "starfield.gb",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "VDB-STAR.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "starfield",
+    "title": "Starfield",
+    "typetag": "demo"
 }

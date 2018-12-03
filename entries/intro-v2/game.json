@@ -1,16 +1,30 @@
 {
-    "title": "Intro v2",
-    "slug": "intro-v2",
-    "developer": "Freeart",
-    "platform": "GBC",
-    "typetag": "demo",
-    "screenshots": [],
-    "rom": "FREEART Intro V2.gbc",
     "date": "2001-01-01",
+    "developer": "Freeart",
     "files": [
-        [
-            "FA-V2.ZIP",
-            "release"
-        ]
-    ]
+        {
+            "description": "release",
+            "filename": "FA-V2.ZIP",
+            "hash": {
+                "md5": "625b89c36e84497d6e7f8fcc4495b755d32c22f2",
+                "sha1": "625b89c36e84497d6e7f8fcc4495b755d32c22f2",
+                "sha256": "260cf7fb98c1ce960bd5b40c55ffa403d256b3ea99d35e5933e0e48712015ff0"
+            }
+        },
+        {
+            "default": true,
+            "filename": "FREEART Intro V2.gbc",
+            "hash": {
+                "md5": "4ab82089a0dee2df0087e1b2257af714",
+                "sha1": "ed725a6777199a6446008c9cb887a288ee1bdd37",
+                "sha256": "31427c639036b908bd4fc59cb3a2b337096828e22c86d08622bb1229c0885cb2"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [],
+    "slug": "intro-v2",
+    "title": "Intro v2",
+    "typetag": "demo"
 }

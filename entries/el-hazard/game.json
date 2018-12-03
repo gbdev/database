@@ -1,16 +1,30 @@
 {
-    "title": "El Hazard",
-    "slug": "el-hazard",
-    "developer": "Megaman_X",
-    "platform": "GB",
-    "typetag": "demo",
-    "screenshots": [],
-    "rom": "ELHMOVIE.GB",
     "date": "1998-01-01",
+    "developer": "Megaman_X",
     "files": [
-        [
-            "MMX-EHM.ZIP",
-            "release"
-        ]
-    ]
+        {
+            "description": "release",
+            "filename": "MMX-EHM.ZIP",
+            "hash": {
+                "md5": "3198a38741d58bf2a7386c15e7e3a616e9d44aab",
+                "sha1": "3198a38741d58bf2a7386c15e7e3a616e9d44aab",
+                "sha256": "bca088ea33511fe988a791e9633db1179f4c027c7569e0abeb4efa63491f35b1"
+            }
+        },
+        {
+            "default": true,
+            "filename": "ELHMOVIE.GB",
+            "hash": {
+                "md5": "481150a2e72102129426e8145082644f",
+                "sha1": "2be0459530e1602fd1b24bb1fd69769ddf0b4b68",
+                "sha256": "4a3673f05a0f66af769f1b39c66065b4c499152848435c3621fbe6841545c210"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "el-hazard",
+    "title": "El Hazard",
+    "typetag": "demo"
 }

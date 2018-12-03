@@ -1,12 +1,28 @@
 {
-	"title": "Tuff",
-	"slug": "tuff",
-	"license": "GPLv3",
-	"developer": "BonsaiDen",
-	"repository": "https://github.com/BonsaiDen/Tuff.gb",
-	"platform": "GB",
-	"typetag": "game",
-	"tags": [ "Open Source", "Platform" ],
-	"screenshots" : ["1.png"],
-	"rom" : "game.gb"
+    "developer": "BonsaiDen",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "hash": {
+                "md5": "d5f71894ebb36d4424de4207d9ecfa91",
+                "sha1": "cd1b425bcc7668328ba58fed6474ea8aaf4fd78d",
+                "sha256": "ca28220f7f04460cef5d652a6298989ff00efe92e2a08a67f874bc865d98f7a6"
+            },
+            "playable": true
+        }
+    ],
+    "license": "GPLv3",
+    "platform": "GB",
+    "repository": "https://github.com/BonsaiDen/Tuff.gb",
+    "screenshots": [
+        "1.png"
+    ],
+    "slug": "tuff",
+    "tags": [
+        "Open Source",
+        "Platform"
+    ],
+    "title": "Tuff",
+    "typetag": "game"
 }

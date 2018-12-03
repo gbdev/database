@@ -1,12 +1,27 @@
 {
-    "title": "Snake",
-    "slug": "snake-sanky",
-    "developer": "Sanky",
-    "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Open Source" ],
-    "screenshots" : [ "screenshot.bmp" ],
-    "rom" : "snake.gbc",
     "date": "2013-08-28",
-    "repository" : "https://bitbucket.org/Sanqui/snake/src/?at=master"
+    "developer": "Sanky",
+    "files": [
+        {
+            "default": true,
+            "filename": "snake.gbc",
+            "hash": {
+                "md5": "0e4140dfae009509958cf8c2c74002b2",
+                "sha1": "d56b3bb62073a8ebdc2cf84421974b9d050307b9",
+                "sha256": "3b4709860f1fb125222c10a83ce1cf23188ba5baf8ae1370e7d7dc35d0e198bd"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "https://bitbucket.org/Sanqui/snake/src/?at=master",
+    "screenshots": [
+        "screenshot.bmp"
+    ],
+    "slug": "snake-sanky",
+    "tags": [
+        "Open Source"
+    ],
+    "title": "Snake",
+    "typetag": "game"
 }

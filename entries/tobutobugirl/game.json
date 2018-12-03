@@ -1,14 +1,30 @@
 {
-    "title": "Tobu Tobu Girl",
-    "slug": "tobutobugirl",
-    "license": "MIT",
+    "date": "12/01/2017",
     "developer": "Tangram Games",
-    "repository": "https://github.com/SimonLarsen/tobutobugirl",
-    "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Open Source", "Action" ],
-    "screenshots" : [ "screenshot1.bmp" ],
-    "rom" : "tobu.gb",
+    "files": [
+        {
+            "default": true,
+            "filename": "tobu.gb",
+            "hash": {
+                "md5": "48ea776eace6f2582b70dc965cf2df1f",
+                "sha1": "8a8f3c1f21f903ea5a7df8fc8b0a6aa5a602e150",
+                "sha256": "5d3871cae77db2287807e8914fd21f76203e73aa3fec20955489d45cb4571d8f"
+            },
+            "playable": true
+        }
+    ],
+    "license": "MIT",
     "onlineplay": true,
-    "date": "12/01/2017"
+    "platform": "GB",
+    "repository": "https://github.com/SimonLarsen/tobutobugirl",
+    "screenshots": [
+        "screenshot1.bmp"
+    ],
+    "slug": "tobutobugirl",
+    "tags": [
+        "Open Source",
+        "Action"
+    ],
+    "title": "Tobu Tobu Girl",
+    "typetag": "game"
 }

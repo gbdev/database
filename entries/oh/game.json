@@ -1,9 +1,28 @@
 {
-    "title": "Oh!",
-    "slug": "oh",
+    "date": "2009-01-01",
     "developer": "Snorpung",
+    "files": [
+        {
+            "description": "release",
+            "filename": "SP-OH!.ZIP",
+            "hash": {
+                "md5": "b666a56640d982f5a747b96acbf144e36603ae88",
+                "sha1": "b666a56640d982f5a747b96acbf144e36603ae88",
+                "sha256": "d2ab261b6fac9c99336295246f0f09751701b1298b5b3cfdbdebf4785bb1cd19"
+            }
+        },
+        {
+            "default": true,
+            "filename": "oh.gb",
+            "hash": {
+                "md5": "1def62392742d2c7f878a7c9a8e6e92e",
+                "sha1": "c98519edb4af7506fb7c78624a1ca80550319ad1",
+                "sha256": "7b58248d68c4c9bc257f84bdcbdf8712cb3bd6c1fdf04073c4d0b2b5e5f108b1"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "555.png",
         "556.png",
@@ -19,12 +38,7 @@
         "566.png",
         "567.png"
     ],
-    "rom": "oh.gb",
-    "date": "2009-01-01",
-    "files": [
-        [
-            "SP-OH!.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "oh",
+    "title": "Oh!",
+    "typetag": "demo"
 }

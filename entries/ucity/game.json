@@ -1,13 +1,30 @@
 {
-	"title": "uCity",
-	"slug": "ucity",
-	"license": "GPLv3",
-	"developer": "AntonioND",
-	"repository": "https://github.com/AntonioND/ucity",
-	"platform": "GBC",
-	"typetag": "game",
-	"tags": [ "Open Source", "RPG", "Adventure" ],
-	"screenshots" : ["screenshot1.png"],
-	"rom" : "ucity.gbc",
-	"video" : "https://www.youtube.com/watch?v=2rir-TVx020"
+    "developer": "AntonioND",
+    "files": [
+        {
+            "default": true,
+            "filename": "ucity.gbc",
+            "hash": {
+                "md5": "4c34c67e2db310e8b45ec2b53bcca1de",
+                "sha1": "c5ad4b50e8dbcb65e0fa861f08bfea37947848cb",
+                "sha256": "0d608db175dd8ba22780be5df5fc17bf135876f6964f58ee141e4f8d81c62947"
+            },
+            "playable": true
+        }
+    ],
+    "license": "GPLv3",
+    "platform": "GBC",
+    "repository": "https://github.com/AntonioND/ucity",
+    "screenshots": [
+        "screenshot1.png"
+    ],
+    "slug": "ucity",
+    "tags": [
+        "Open Source",
+        "RPG",
+        "Adventure"
+    ],
+    "title": "uCity",
+    "typetag": "game",
+    "video": "https://www.youtube.com/watch?v=2rir-TVx020"
 }

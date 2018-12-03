@@ -1,16 +1,30 @@
 {
-    "title": "Terminator 2",
-    "slug": "terminator-2",
-    "developer": "Megaman_X",
-    "platform": "GB",
-    "typetag": "demo",
-    "screenshots": [],
-    "rom": "T2.gb",
     "date": "1999-01-01",
+    "developer": "Megaman_X",
     "files": [
-        [
-            "MMX-T2M.ZIP",
-            "release"
-        ]
-    ]
+        {
+            "description": "release",
+            "filename": "MMX-T2M.ZIP",
+            "hash": {
+                "md5": "9b0b255189b08f8714835f231a1c9abedc611f5c",
+                "sha1": "9b0b255189b08f8714835f231a1c9abedc611f5c",
+                "sha256": "70dcda7c989c7afe07a4d98922885f88a06573bf11ef899a61b24b8499e0e86b"
+            }
+        },
+        {
+            "default": true,
+            "filename": "T2.gb",
+            "hash": {
+                "md5": "8151853b8b0b0b610afe2c4c0dde7e7e",
+                "sha1": "3f2909ce8b43955842a68779e0b9ae061385d09a",
+                "sha256": "4427a525d3fcabfc4f86408c61f21e5c4658931e750dc2d969ac2755543d42e1"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "terminator-2",
+    "title": "Terminator 2",
+    "typetag": "demo"
 }

@@ -1,9 +1,28 @@
 {
-    "title": "Dawn",
-    "slug": "dawn",
+    "date": "1998-01-01",
     "developer": "Icebird",
+    "files": [
+        {
+            "description": "release",
+            "filename": "ICB-DAWN.ZIP",
+            "hash": {
+                "md5": "b5cad3e8bc0af5aee1bccc6f790db058c3e775e6",
+                "sha1": "b5cad3e8bc0af5aee1bccc6f790db058c3e775e6",
+                "sha256": "943385b2ffcea09347167c2f5789c7b382f505f9bd4a4c0108e44d686d1e7b5c"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Dawn.gb",
+            "hash": {
+                "md5": "ba7689754e599bbd4e13bddb3be6f5d0",
+                "sha1": "7538976a608cf5511618672ac988edc2217cf9fa",
+                "sha256": "c777d330e022408a96d513f6f16829d5a6fcd823a01ae512501247289ee06d02"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "103.png",
         "104.png",
@@ -11,12 +30,7 @@
         "106.png",
         "107.png"
     ],
-    "rom": "Dawn.gb",
-    "date": "1998-01-01",
-    "files": [
-        [
-            "ICB-DAWN.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "dawn",
+    "title": "Dawn",
+    "typetag": "demo"
 }

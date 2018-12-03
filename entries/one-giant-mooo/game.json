@@ -1,18 +1,32 @@
 {
-    "title": "One Giant Mooo",
-    "slug": "one-giant-mooo",
+    "date": "2001-01-01",
     "developer": "Capital",
+    "files": [
+        {
+            "description": "release",
+            "filename": "CPL-I_05.ZIP",
+            "hash": {
+                "md5": "0cc8540ed7de01e993d2f5ab53590ba563253807",
+                "sha1": "0cc8540ed7de01e993d2f5ab53590ba563253807",
+                "sha256": "9e457c01090c938ecddac4d327873814d7ce22a217c3731e2d74a386019e1c1a"
+            }
+        },
+        {
+            "default": true,
+            "filename": "cpl-i_05.gbc",
+            "hash": {
+                "md5": "b6417e54579911aadd1b6c55a0d22b24",
+                "sha1": "66a6c021ae3afb51fc5451803b897adda1d80c43",
+                "sha256": "60cdead3f7399ae843eb90b10200ddda07a99ed4d063e5bff12dd064b58a4634"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "208.png"
     ],
-    "rom": "cpl-i_05.gbc",
-    "date": "2001-01-01",
-    "files": [
-        [
-            "CPL-I_05.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "one-giant-mooo",
+    "title": "One Giant Mooo",
+    "typetag": "demo"
 }

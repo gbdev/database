@@ -1,9 +1,28 @@
 {
-    "title": "Child's Play",
-    "slug": "child-s-play",
+    "date": "2002-01-01",
     "developer": "Carillon Cyberiad",
+    "files": [
+        {
+            "description": "release",
+            "filename": "CNCD-CP.ZIP",
+            "hash": {
+                "md5": "2b83f43e76c0a3df6c07f5d0324870cdc2306b4d",
+                "sha1": "2b83f43e76c0a3df6c07f5d0324870cdc2306b4d",
+                "sha256": "12bdfe7e96c575df17053d4a9ad2739b56134d3410c472dd0aec1c4e66567476"
+            }
+        },
+        {
+            "default": true,
+            "filename": "childsplay.gbc",
+            "hash": {
+                "md5": "17635660b9167d758ab5ec4c37f2c419",
+                "sha1": "92ce24312e4e5dc89c675ddfd29d416517eab0de",
+                "sha256": "5bd3ff0f8a05ee223900be471d30bb1b77bc0ebeec227f6d9a6a07a145ecba1c"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "54.png",
         "55.png",
@@ -13,12 +32,7 @@
         "59.png",
         "60.png"
     ],
-    "rom": "childsplay.gbc",
-    "date": "2002-01-01",
-    "files": [
-        [
-            "CNCD-CP.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "child-s-play",
+    "title": "Child's Play",
+    "typetag": "demo"
 }

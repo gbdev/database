@@ -1,14 +1,30 @@
 {
-    "title": "Sheep it up!",
-    "slug": "sheepitup",
+    "date": "2017-07-07",
+    "devWebsite": "http://www.ludoscience.com",
     "developer": "Dr. Ludos",
+    "files": [
+        {
+            "default": true,
+            "filename": "sheepitup.gb",
+            "hash": {
+                "md5": "aefb99737d494f83e1b6299651f4ec72",
+                "sha1": "71892f55b45b2eebb4292d01647f66f31b4a71fe",
+                "sha256": "d7046b386aa426eedc32dd0e2634a46ae251ac68b0525a244642b262429ee7da"
+            },
+            "playable": true
+        }
+    ],
+    "gameWebsite": "https://gamejolt.com/games/sheepitup/267335",
     "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Platform", "Open Source" ],
-    "screenshots" : [ "screenshot.png" ],
-    "rom" : "sheepitup.gb",
-    "devWebsite" : "http://www.ludoscience.com",
-    "gameWebsite" : "https://gamejolt.com/games/sheepitup/267335",
-    "repository" : "https://gamejolt.com/games/sheepitup/267335",
-    "date" : "2017-07-07"
+    "repository": "https://gamejolt.com/games/sheepitup/267335",
+    "screenshots": [
+        "screenshot.png"
+    ],
+    "slug": "sheepitup",
+    "tags": [
+        "Platform",
+        "Open Source"
+    ],
+    "title": "Sheep it up!",
+    "typetag": "game"
 }

@@ -1,20 +1,34 @@
 {
-    "title": "Hi-Colour Demo",
-    "slug": "hi-colour-demo",
+    "date": "1999-01-01",
     "developer": "Icarus Productions",
+    "files": [
+        {
+            "description": "release",
+            "filename": "IP-GBHC.ZIP",
+            "hash": {
+                "md5": "ef7eb82f7505d351a6b0953409f725f3a1ad5b6e",
+                "sha1": "ef7eb82f7505d351a6b0953409f725f3a1ad5b6e",
+                "sha256": "8d223928871fccf4f1b3816e97188537f952d128993b3262f4936893a5b5f679"
+            }
+        },
+        {
+            "default": true,
+            "filename": "gbhc.gbc",
+            "hash": {
+                "md5": "862f3158a81f74012df944ad95d6a85e",
+                "sha1": "21c6313d9b186f08df29d2cb3e3c49566b6137af",
+                "sha256": "5c7bf3c16007e4725a62861b4019a61a24a408c2f9bca78283e984c518c8b2e9"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "461.png",
         "462.png",
         "463.png"
     ],
-    "rom": "gbhc.gbc",
-    "date": "1999-01-01",
-    "files": [
-        [
-            "IP-GBHC.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "hi-colour-demo",
+    "title": "Hi-Colour Demo",
+    "typetag": "demo"
 }

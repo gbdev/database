@@ -1,12 +1,29 @@
 {
-    "title": "kupman",
-    "slug": "kupman",
     "developer": "dubvulture",
+    "files": [
+        {
+            "default": true,
+            "filename": "kupman.gb",
+            "hash": {
+                "md5": "f6904b407d5727d56d5acd0ca52bdf4c",
+                "sha1": "7b6cc225f76bd4f61d3742267195b689ddf675d5",
+                "sha256": "649cc7b645953489db004e00221425a4ce3a6f063a635b477b62413132ab4640"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
+    "repository": "https://github.com/dubvulture/gbdev",
+    "screenshots": [
+        "screenshot01.bmp",
+        "screenshot02.bmp"
+    ],
+    "slug": "kupman",
+    "tags": [
+        "Open Source",
+        "Action"
+    ],
+    "title": "kupman",
     "typetag": "game",
-    "tags": [ "Open Source", "Action" ],
-    "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
-    "rom" : "kupman.gb",
-    "repository" : "https://github.com/dubvulture/gbdev",
-    "wip" : true
+    "wip": true
 }

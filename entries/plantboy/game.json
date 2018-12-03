@@ -1,14 +1,30 @@
 {
-    "title": "PlantBoy",
-    "slug": "plantboy",
-    "license": "MIT",
+    "date": "12-13-2015",
     "developer": "exezin",
-    "repository": "https://github.com/exezin/PlantBoy",
+    "files": [
+        {
+            "default": true,
+            "filename": "PlantBoy.gb",
+            "hash": {
+                "md5": "bdc82a36ea6f0ec95c1df030dfcb15cc",
+                "sha1": "7f96a25a9b34e9220c7991a5410a9f3dab184b66",
+                "sha256": "4b62569dfa8eda20912166b66306ff71885282916e78d760e2a7e3ec4ab3aa01"
+            },
+            "playable": true
+        }
+    ],
+    "license": "MIT",
+    "onlineplay": true,
     "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Open Source", "Action" ],
-    "screenshots" : [ "screenshot01.bmp" ],
-    "rom" : "PlantBoy.gb",
-    "date" : "12-13-2015",
-    "onlineplay" : true
+    "repository": "https://github.com/exezin/PlantBoy",
+    "screenshots": [
+        "screenshot01.bmp"
+    ],
+    "slug": "plantboy",
+    "tags": [
+        "Open Source",
+        "Action"
+    ],
+    "title": "PlantBoy",
+    "typetag": "game"
 }

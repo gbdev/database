@@ -1,18 +1,32 @@
 {
-    "title": "True Lies +1",
-    "slug": "true-lies-1",
+    "date": "2006-01-01",
     "developer": "Asgard",
+    "files": [
+        {
+            "description": "release",
+            "filename": "ASG-T_01.ZIP",
+            "hash": {
+                "md5": "82c0a5135dda239f0b86546b442003a324bda714",
+                "sha1": "82c0a5135dda239f0b86546b442003a324bda714",
+                "sha256": "e03b63bc560313c67d2e483e513c950a8088487335689f8585ef1db78b4f25fb"
+            }
+        },
+        {
+            "default": true,
+            "filename": "ASG-T_01.GB",
+            "hash": {
+                "md5": "23f0d648ded57577e00b18736ef45ce9",
+                "sha1": "5962506dd6a44d865d2188da75a9e559bed24773",
+                "sha256": "f38e2cb4ed569e7c66edf039cb09d48322b8f5289454eccfbfffde10a2001c2f"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "710.png"
     ],
-    "rom": "ASG-T_01.GB",
-    "date": "2006-01-01",
-    "files": [
-        [
-            "ASG-T_01.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "true-lies-1",
+    "title": "True Lies +1",
+    "typetag": "demo"
 }

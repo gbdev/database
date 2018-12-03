@@ -1,20 +1,34 @@
 {
-    "title": "Armageddon",
-    "slug": "armageddon",
+    "date": "1999-01-01",
     "developer": "Megaman_X",
+    "files": [
+        {
+            "description": "release",
+            "filename": "MMX-AGDN.ZIP",
+            "hash": {
+                "md5": "33c534d2300120eb4837c668c21ffdd04cf6281b",
+                "sha1": "33c534d2300120eb4837c668c21ffdd04cf6281b",
+                "sha256": "f5687b4584bcf9c6371dd67720d0fd71d5fbf500ba6a903aef6624a8fd08f350"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Armageddon.gb",
+            "hash": {
+                "md5": "bff88c7ccc6e21f79d7dec9a4e2ea299",
+                "sha1": "e78c65816aa39964832c571343301d02f1429765",
+                "sha256": "65e37faf67b4faf62f9a1f2b1af6a8e1ee76f43e4c27a3cb319159f49ba7546d"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "285.png",
         "286.png",
         "287.png"
     ],
-    "rom": "Armageddon.gb",
-    "date": "1999-01-01",
-    "files": [
-        [
-            "MMX-AGDN.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "armageddon",
+    "title": "Armageddon",
+    "typetag": "demo"
 }

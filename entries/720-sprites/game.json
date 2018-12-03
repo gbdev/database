@@ -1,18 +1,32 @@
 {
-    "title": "720 Sprites",
-    "slug": "720-sprites",
+    "date": "2000-01-01",
     "developer": "One Man Band",
+    "files": [
+        {
+            "description": "release",
+            "filename": "OMB-720S.ZIP",
+            "hash": {
+                "md5": "83ae8227461a01c31296e8b91a4c913a52dd792c",
+                "sha1": "83ae8227461a01c31296e8b91a4c913a52dd792c",
+                "sha256": "b3ac28a35fa9b758b1722452d1b31edccb206305238c6c6d47174009b51ea050"
+            }
+        },
+        {
+            "default": true,
+            "filename": "720spr.gb",
+            "hash": {
+                "md5": "af2b29e7f852722c70939ac2208c6991",
+                "sha1": "28392c2851e4dd7f3de68731c6c9b7e2bb8a2019",
+                "sha256": "76397e532823e930951d51f00c6e3133e2b39bb70302a8818d46c9a6292c7053"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "723.png"
     ],
-    "rom": "720spr.gb",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "OMB-720S.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "720-sprites",
+    "title": "720 Sprites",
+    "typetag": "demo"
 }

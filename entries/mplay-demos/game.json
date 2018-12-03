@@ -1,9 +1,28 @@
 {
-    "title": "MPlay Demos",
-    "slug": "mplay-demos",
+    "date": "1999-01-01",
     "developer": "Vibrants",
+    "files": [
+        {
+            "description": "release",
+            "filename": "V-MPLAY.ZIP",
+            "hash": {
+                "md5": "1bce97770c7d14f9cb15a919134cb1c1225c4b4b",
+                "sha1": "1bce97770c7d14f9cb15a919134cb1c1225c4b4b",
+                "sha256": "303dfb3ace7dfd8bea6ecfce38c462fb2ea645703423daceef38cacea039fe70"
+            }
+        },
+        {
+            "default": true,
+            "filename": "MPLAY205.GB",
+            "hash": {
+                "md5": "ff7504fb4173feb937b97d76c523555a",
+                "sha1": "d1648c28f0bbc72da633ab8b5e7c6ec758e9725c",
+                "sha256": "9fba09d5619ec07cdbd2bd5f0556992f16709e4d89b304663135099913116f49"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GB",
-    "typetag": "demo",
     "screenshots": [
         "736.png",
         "737.png",
@@ -11,12 +30,7 @@
         "739.png",
         "740.png"
     ],
-    "rom": "MPLAY205.GB",
-    "date": "1999-01-01",
-    "files": [
-        [
-            "V-MPLAY.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "mplay-demos",
+    "title": "MPlay Demos",
+    "typetag": "demo"
 }

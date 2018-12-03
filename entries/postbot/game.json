@@ -1,15 +1,32 @@
 {
-    "title": "PostBot",
-    "slug": "postbot",
-    "license": "MIT",
+    "devWebsite": "http://rojahn.org/",
     "developer": "Tobias Rojahn",
-    "repository": "https://github.com/MasterIV/PostBot",
-    "platform": "GB",
-    "typetag": "game",
-    "tags": ["Open Source", "Puzzle" ],
-    "screenshots" : ["screenshot1.bmp", "screenshot2.bmp", "screenshot3.bmp"],
-    "rom" : "PostBot.gb",
+    "files": [
+        {
+            "default": true,
+            "filename": "PostBot.gb",
+            "hash": {
+                "md5": "1b9066c196d2e326374db1ff63e83bd3",
+                "sha1": "40e358ca5f7f79d472a689008093a54bdd67afcb",
+                "sha256": "65824d3d7df8003f19923b38055a0660c20542cc363894091da661d9d49d13ad"
+            },
+            "playable": true
+        }
+    ],
+    "license": "MIT",
     "onlineplay": true,
-    "devWebsite": "http://rojahn.org/"
+    "platform": "GB",
+    "repository": "https://github.com/MasterIV/PostBot",
+    "screenshots": [
+        "screenshot1.bmp",
+        "screenshot2.bmp",
+        "screenshot3.bmp"
+    ],
+    "slug": "postbot",
+    "tags": [
+        "Open Source",
+        "Puzzle"
+    ],
+    "title": "PostBot",
+    "typetag": "game"
 }
-

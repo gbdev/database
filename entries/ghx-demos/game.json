@@ -1,16 +1,20 @@
 {
-    "title": "GHX Demos",
-    "slug": "ghx-demos",
-    "developer": "Shin'en",
-    "platform": "GB",
-    "typetag": "demo",
-    "screenshots": [],
-    "rom": "",
     "date": "2001-01-01",
+    "developer": "Shin'en",
     "files": [
-        [
-            "SHINEN.ZIP",
-            "release"
-        ]
-    ]
+        {
+            "description": "release",
+            "filename": "SHINEN.ZIP",
+            "hash": {
+                "md5": "bd099a960f286cf1f20ebef7e4448628baba8820",
+                "sha1": "bd099a960f286cf1f20ebef7e4448628baba8820",
+                "sha256": "19568826732340656cb8695ba3b4af3ddb4a687d89fa4bef635261685effc50f"
+            }
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "ghx-demos",
+    "title": "GHX Demos",
+    "typetag": "demo"
 }

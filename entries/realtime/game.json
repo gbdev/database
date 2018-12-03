@@ -1,20 +1,34 @@
 {
-    "title": "Realtime",
-    "slug": "realtime",
+    "date": "2000-01-01",
     "developer": "AGO",
+    "files": [
+        {
+            "description": "release",
+            "filename": "AGO-REAL.ZIP",
+            "hash": {
+                "md5": "cb4286df4e611535463f74d2983249731e5f01ce",
+                "sha1": "cb4286df4e611535463f74d2983249731e5f01ce",
+                "sha256": "246c100db30d0f9a799334c85b2e8ee98dbb576b408272e5ba525b4a179fc3d3"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Realtime.gb",
+            "hash": {
+                "md5": "1b1fa0e2e4fe677b782be229fc52d6f0",
+                "sha1": "a34691df2bd0b419b9e984dc4c654fb96d112163",
+                "sha256": "6ac3c77f7ff134c109572862566ecc3f3ee791422dbd59655d5d35a3b955056b"
+            },
+            "playable": true
+        }
+    ],
     "platform": "GBC",
-    "typetag": "demo",
     "screenshots": [
         "228.png",
         "229.png",
         "230.png"
     ],
-    "rom": "Realtime.gb",
-    "date": "2000-01-01",
-    "files": [
-        [
-            "AGO-REAL.ZIP",
-            "release"
-        ]
-    ]
+    "slug": "realtime",
+    "title": "Realtime",
+    "typetag": "demo"
 }

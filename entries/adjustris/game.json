@@ -1,14 +1,31 @@
 {
-    "title": "Adjustris",
-    "slug": "adjustris",
-    "license": "CC0-1.0",
+    "date": "07-17-2005",
     "developer": "Dave VanEe",
-    "repository": "https://github.com/tbsp/Adjustris",
+    "files": [
+        {
+            "default": true,
+            "filename": "adjustris.gb",
+            "hash": {
+                "md5": "5c82e3b0bd96f2cf8d6ec61c73f600b8",
+                "sha1": "3384658a512bb5c0965fac1c0cff2fa6520dbf82",
+                "sha256": "b6c8affe6d906419cfc99ff459718f33a1868af03254a2f65cea2a9430394712"
+            },
+            "playable": true
+        }
+    ],
+    "license": "CC0-1.0",
+    "onlineplay": false,
     "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Open Source", "Puzzle" ],
-    "screenshots" : [ "screenshot01.bmp", "screenshot02.bmp" ],
-    "rom" : "adjustris.gb",
-    "date" : "07-17-2005",
-    "onlineplay" : false
+    "repository": "https://github.com/tbsp/Adjustris",
+    "screenshots": [
+        "screenshot01.bmp",
+        "screenshot02.bmp"
+    ],
+    "slug": "adjustris",
+    "tags": [
+        "Open Source",
+        "Puzzle"
+    ],
+    "title": "Adjustris",
+    "typetag": "game"
 }

@@ -1,14 +1,30 @@
 {
-    "title": "Flappy Boy",
-    "slug": "flappy-boy",
-    "developer": "Felipe Alfonso",
-    "platform": "GB",
-    "typetag": "game",
-    "tags": [ "Open Source", "Action" ],
-    "screenshots" : [ "screenshot.png" ],
-    "rom" : "flappyboy.gb",
     "date": "2017-01-21",
-    "repository" : "https://github.com/bitnenfer/flappy-boy-asm",
-    "gameWebsite" : "http://voidptr.io/blog/2017/01/21/GameBoy.html",
-    "devWebsite" : "http://voidptr.io/"
+    "devWebsite": "http://voidptr.io/",
+    "developer": "Felipe Alfonso",
+    "files": [
+        {
+            "default": true,
+            "filename": "flappyboy.gb",
+            "hash": {
+                "md5": "5264f52f72d0ea6feeb06476cb3919cb",
+                "sha1": "228a5b5b076815b62c538711b980c167c8681e99",
+                "sha256": "fdee22217da0ffe70c6b767892defbd591e3629250eb920baa71acd238250b32"
+            },
+            "playable": true
+        }
+    ],
+    "gameWebsite": "http://voidptr.io/blog/2017/01/21/GameBoy.html",
+    "platform": "GB",
+    "repository": "https://github.com/bitnenfer/flappy-boy-asm",
+    "screenshots": [
+        "screenshot.png"
+    ],
+    "slug": "flappy-boy",
+    "tags": [
+        "Open Source",
+        "Action"
+    ],
+    "title": "Flappy Boy",
+    "typetag": "game"
 }
