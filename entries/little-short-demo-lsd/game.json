@@ -23,10 +23,8 @@
         }
     ],
     "platform": "GBC",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "little-short-demo-lsd",
     "title": "Little Short Demo (LSD)",
-    "typetag": "demo"
+    "typetag": "game"
 }

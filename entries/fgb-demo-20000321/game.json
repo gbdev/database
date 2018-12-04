@@ -23,10 +23,8 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "fgb-demo-20000321",
     "title": "FGB Demo (2000.03.21)",
-    "typetag": "demo"
+    "typetag": "game"
 }

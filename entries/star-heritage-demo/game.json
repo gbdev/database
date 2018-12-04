@@ -23,10 +23,8 @@
         }
     ],
     "platform": "GBC",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "star-heritage-demo",
     "title": "Star Heritage (Demo)",
-    "typetag": "demo"
+    "typetag": "game"
 }

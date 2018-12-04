@@ -23,10 +23,8 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "my-gb-is-your-gb-and-your-gb-is-my-gb",
     "title": "My GB is your GB and your GB is my GB",
-    "typetag": "homebrew"
+    "typetag": "game"
 }

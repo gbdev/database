@@ -23,10 +23,8 @@
         }
     ],
     "platform": "GBC",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "burly-bear-vs-the-mean-foxes",
     "title": "Burly Bear vs. The Mean Foxes",
-    "typetag": "homebrew"
+    "typetag": "game"
 }

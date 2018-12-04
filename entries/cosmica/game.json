@@ -22,10 +22,8 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "cosmica",
     "title": "Cosmica",
-    "typetag": "homebrew"
+    "typetag": "game"
 }

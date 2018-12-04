@@ -23,10 +23,8 @@
         }
     ],
     "platform": "GBC",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "gb-fm-synth-20090410",
     "title": "GB FM Synth (2009.04.10)",
-    "typetag": "homebrew"
+    "typetag": "game"
 }

@@ -23,10 +23,8 @@
         }
     ],
     "platform": "GBC",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "egg-racer",
     "title": "Egg Racer",
-    "typetag": "homebrew"
+    "typetag": "game"
 }

@@ -23,10 +23,8 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "slug": "mazezam-version-11",
     "title": "MazezaM (Version 1.1)",
-    "typetag": "homebrew"
+    "typetag": "game"
 }
