@@ -1,0 +1,33 @@
+{
+    "date": "2001-09-18",
+    "description": "The developer gave up trying to find a publisher for this game. \"Star Heritage is a quest game where player becomes the secret agent of Earthen Resistance who bumps into an unexpected accident to dive into the world of the distant future.\"",
+    "developer": "R-Lab",
+    "files": [
+        {
+            "description": "release",
+            "filename": "star_heritage.zip",
+            "hash": {
+                "md5": "275bd214921dbb499c7170915843c7b5",
+                "sha1": "313262aa0245437ce861fe55fb4d567b4da8fdfb",
+                "sha256": "8f040098d4d5aaf2557fb7a1cb2f5d73f4ae3336ccbf55e07582c29347232469"
+            }
+        },
+        {
+            "default": true,
+            "filename": "starheritagebattery.gbc",
+            "hash": {
+                "md5": "bbbe3c8987de434cffa7839676132e0d",
+                "sha1": "4eb7ad40520e21f1b371b06ac2adb6f2e1b507a9",
+                "sha256": "02ca40bfb99d44074908d994dd7761119912fc847925896360b3cbc16ba12205"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "star_heritage.png"
+    ],
+    "slug": "star-heritage-final",
+    "title": "Star Heritage (Final)",
+    "typetag": "game"
+}

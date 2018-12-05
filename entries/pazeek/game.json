@@ -1,0 +1,33 @@
+{
+    "date": "2001-06-01",
+    "description": "SkyRank Games scrapped this game and moved on to GBA development, they wrote \"The wait is over, PaZeek GBC is NOW available for download. The game is 85% complete with more then 50 playable levels.\"",
+    "developer": "SkyRank Games",
+    "files": [
+        {
+            "description": "release",
+            "filename": "pazeek.zip",
+            "hash": {
+                "md5": "9eb7757de7c386200f34bf6daee19709",
+                "sha1": "9a1509648430e6cb3bbb387e5b6ba52c7d472cbc",
+                "sha256": "a87a5eabb638567a27be460d313e6b0257b1ac39678da7517e8d806134af9655"
+            }
+        },
+        {
+            "default": true,
+            "filename": "skyrank-games---pazeek-6-9-01.gb",
+            "hash": {
+                "md5": "10f2d0b87916ac5730065cfb52f3ffce",
+                "sha1": "590dc27682dacb8a044b68d76ad3a0548973c390",
+                "sha256": "827675b3c8d42613b163480e6a9810bf046903186eec189e2969d45a00df2f7e"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "pazeek.png"
+    ],
+    "slug": "pazeek",
+    "title": "PaZeek",
+    "typetag": "game"
+}

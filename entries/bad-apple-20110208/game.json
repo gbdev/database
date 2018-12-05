@@ -1,0 +1,32 @@
+{
+    "date": "2011-02-07",
+    "developer": "Leaf",
+    "files": [
+        {
+            "description": "release",
+            "filename": "bapple_20110208.zip",
+            "hash": {
+                "md5": "d5fef072066cd39e1ba863c6d4a0467c",
+                "sha1": "9e4cb882bbe14183feca53da1db76952e3ffa1e6",
+                "sha256": "c9c11ba6a9d8a52c84311683d17548ce48b80fea3f9834b6e7dc37198de28886"
+            }
+        },
+        {
+            "default": true,
+            "filename": "badapple.gbc",
+            "hash": {
+                "md5": "1e8c2c4cdf5e67e708c51c9739e6f2c8",
+                "sha1": "3113f18f75e832c0d3b3f0223619b44a6c9ad285",
+                "sha256": "2e6a39c3de29dbfc54bada4d7b9ed0cf21f84e5d94dc02bb1f259c8621c03c65"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "badapple.png"
+    ],
+    "slug": "bad-apple-20110208",
+    "title": "Bad Apple!! (2011.02.08)",
+    "typetag": "game"
+}

@@ -1,0 +1,30 @@
+{
+    "date": "1999-05-21",
+    "developer": "Aaron St. John",
+    "files": [
+        {
+            "description": "release",
+            "filename": "mines.zip",
+            "hash": {
+                "md5": "e28ba2b0b9c7a3af612f4e2dedc2cabf",
+                "sha1": "a05719bc90c9df2a5c333f8793d158f1581e5bbd",
+                "sha256": "e1842753f510a9306581715f3dccf89dbedc1f6750884b6bea684c1ed83f8493"
+            }
+        },
+        {
+            "default": true,
+            "filename": "mines.gb",
+            "hash": {
+                "md5": "43ac31cd6cbf5d64ee62a8bb80187722",
+                "sha1": "3ddd9cb186efdf8833f894070e1d5099a412e34e",
+                "sha256": "c823cf9e471d69d25ded5dcb78d43080a471d3c4bb747b38198aef93690021f7"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "mines",
+    "title": "Mines",
+    "typetag": "game"
+}

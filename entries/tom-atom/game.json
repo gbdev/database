@@ -1,0 +1,32 @@
+{
+    "date": "2002-12-13",
+    "developer": "Small Blue Cube",
+    "files": [
+        {
+            "description": "release",
+            "filename": "tomatom.zip",
+            "hash": {
+                "md5": "410d78502337eab16eb1026f9c841e19",
+                "sha1": "bdf98fb8da25daeda078e4194d04a8ec24979fbf",
+                "sha256": "5402450231cfe4263867c7cac705a75862384a244d88c60e8cf9925f01079b17"
+            }
+        },
+        {
+            "default": true,
+            "filename": "tomatom.gbc",
+            "hash": {
+                "md5": "97cf0cb57155ffc1e7c4a957cc4e3ddc",
+                "sha1": "b22e751cf4fd42f276d7b8329057a854b79120df",
+                "sha256": "5f0957d571bb5ddcb3a88a32533a774b4d41be426942530a1bb05a591ed4738f"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "tomatom.png"
+    ],
+    "slug": "tom-atom",
+    "title": "Tom Atom",
+    "typetag": "game"
+}
