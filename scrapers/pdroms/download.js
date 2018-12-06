@@ -118,7 +118,7 @@ const fileQueue = async.queue(function ({ url, thumbnail, title, author, descrip
 			platform: "GB",
 			// typetag: "game",
 			// tags: [ ],
-			schreenshots: [ ],
+			screenshots: [ ],
 			rom: filename,
 			description
 		}
@@ -132,7 +132,7 @@ const fileQueue = async.queue(function ({ url, thumbnail, title, author, descrip
 					const path = PATH.format(PATH.parse(remotePath))
 					const file = PATH.basename(path)
 
-					json.schreenshots.push(file)
+					json.screenshots.push(file)
 					pipeline(res, fs.createWriteStream(PATH.join(dir, file)), cb)
 				})
 			},
