@@ -101,6 +101,11 @@
                 }
             }
         },
+        "nsfw":
+        {
+            "type": "boolean",
+            "description": "The game contains NSFW or controversial content"
+        },
         "screenshots":
         {
             "type": "array",
