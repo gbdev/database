@@ -4,6 +4,7 @@ const fs   = require('fs')
 const URL  = require('url')
 const PATH = require('path')
 const { pipeline } = require('stream')
+const slugify = require('slugify')
 
 const async  = require('async')
 const contentDisposition = require('content-disposition')
@@ -96,12 +97,12 @@ const fileQueue = async.queue(function ({ url, thumbnail, title, author, descrip
 	const request = https.get(url, function (res) {
 		let filename = res.headers.date + '.' + res.headers['content-type'].replace(/\//g, '-')
 		let folder = 'unknown'
-
+		let slug = slugify(title)
 		try {
 			const cdHeader = res.headers['content-disposition'].replace(/filename=([^"]+?)(?:;|$)/g, 'filename="$1";').replace(/;$/, '')
 			const cd = contentDisposition.parse(cdHeader)
 			filename = cd.parameters.filename
-			folder = title.trim().replace(/\s/g, '-')
+			folder = slug
 		}
 		catch (e) { }
 
@@ -111,15 +112,15 @@ const fileQueue = async.queue(function ({ url, thumbnail, title, author, descrip
 
 		const json = {
 			title,
-			slug: title,
+			slug,
 			// license: "No information"
 			developer: author,
 			// repository: "",
-			platform: "GB",
+			// platform: "GB",
 			// typetag: "game",
 			// tags: [ ],
 			screenshots: [ ],
-			rom: filename,
+			files: [ filename ],
 			description
 		}
 

@@ -71,6 +71,6 @@ for folder in os.listdir('pdroms.de'):
                 }
                 newData["files"].append(romFile)
 
-        with open(path + 'game2.json', 'w') as f:
+        with open(path + 'game.json', 'w') as f:
             f.write(json.dumps(newData,sort_keys=True, indent=4))
             f.close()
