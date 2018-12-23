@@ -1,6 +1,6 @@
 {
     "date": "2001-05-15",
-    "description": "\"We invite you to experience the weird and wonderful action odyssey that is 'FGB.' FGB is an unfinished action/adventure game on an epic scale for Game Boy Color. This is the final build of our unfinished action odyssey for Game Boy Color.\"",
+    "description": "We invite you to experience the weird and wonderful action odyssey that is 'FGB.' FGB is an unfinished action/adventure game on an epic scale for Game Boy Color. This is the final build of our unfinished action odyssey for Game Boy Color",
     "developer": "PlasmaWorks",
     "files": [
         {
@@ -32,5 +32,5 @@
     "slug": "fgb",
     "title": "FGB",
     "typetag": "game",
-    "rom": "fgb.gb",
+    "rom": "fgb.gb"
 }
