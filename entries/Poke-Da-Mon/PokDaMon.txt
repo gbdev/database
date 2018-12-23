@@ -1,0 +1,36 @@
+        P  O  K  E     D  A     M  O  N 
+        
+                A Game By Mike Kasprzak
+
+
+
+* What is Poke Da Mon? *
+
+Poke Da Mon is an action packed game of poking (!?) for the Nintendo Gameboy
+and Gameboy Color console.  Armed with a razor sharp poking stick, your goal
+is to poke the computer controlled opponent as many times as possible in 
+under 99 seconds.  This may sound simple, but your not the only one who has
+a stick. :)
+
+
+* How to play Poke Da Mon *
+
+Controls are Simple:
+
+        Use the pad to move your character around.  
+        To deploy the poking stick, press the A button.  
+        To Pause the game press the Start button.  
+
+
+* Gameplay Tips *
+
+- Razor Sharp Poking Sticks are heavy and you can't hold them up forever. If
+you hold it for 1 second, it'll take you 2 seconds before you can re-deploy.
+- Each time you hit the enemy, you get 100 points.
+- Each time the enemy hits you, you lose 50 points.
+- As a side effect of being hit by a poking stick, you are sucked into a 
+trans dimentional warp rift that sends you elsewhere on the map.  Sometimes
+you pop up close to where you were hit.
+- See if you can beat my current high score of 2250 points :)
+
+

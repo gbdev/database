@@ -1,0 +1,33 @@
+{
+    "description": "Rez is a unique synthesizer program for the Nintendo Gameboy by nitro2k01. It crudely simulates a resonant filter in a way inspired by the resonance algorithm used by the Casio CZ series phase distortion synthesis. It can both produce sounds meant to emulate this effect, and sounds more reminiscent of a hard sync oscillator. It also produces a graphical pattern on the Gameboy screen.",
+    "developer": "nitro2k01",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Rez_(11-12-2012)_(Gameboy).zip",
+            "hash": {
+                "md5": "b0ed710743df3bdf60cd8b55c15531985f2b64b7",
+                "sha1": "b0ed710743df3bdf60cd8b55c15531985f2b64b7",
+                "sha256": "eb91d276f098c5a3aa39a527de2f455466b4d7cf201342cb189e01c7371a1548"
+            }
+        },
+        {
+            "default": true,
+            "filename": "rez.gb",
+            "hash": {
+                "md5": "6acb1beff2a280194c82d633a9461fbf",
+                "sha1": "d066a17bdd6038ddedae5945a7ad5c3dd0bbd60d",
+                "sha256": "926762fc9f2fd9551553a263a3fef81da0a111e8499501d1fea21a32d61724b9"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "rez.gb",
+    "screenshots": [
+        "20130105_rez_(11-12-2012)_(gb_application).png"
+    ],
+    "slug": "Rez",
+    "title": "Rez",
+    "typetag": "game"
+}

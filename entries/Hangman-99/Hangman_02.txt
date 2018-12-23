@@ -1,0 +1,323 @@
+HANGMAN'99
+----------
+
+A freeware Gameboy game!
+
+(c) 1999 - Thomas V.
+
+License is granted to freely copy and use this game for as long as no profit is
+made from it for any reason and under any circumstances whatsoever.
+
+You may not distribute the game without this accompanying text file.
+
+
+BUT WHY?
+--------
+
+A couple of weeks ago (May 1999) I saw some news about a Gameboy development
+kit and thought I'd try it. I got the kit and managed to get this game running
+in about 2-3 days (version 1 was done in the first day, and then I added the
+various options for version 2). Why Hangman? Because it's the only game I can
+think of that doesn't need graphics and sound, so I could do everything using
+simple C code. I thought I'd add a few more twists to it but I hit some memory
+limit; adding one more ROM bank and changing some calls would take me some
+embarrasingly short time... which, unlike though it may sound, I really didn't
+have. As a result, I have cut some corners, i.e. a couple of useful routines
+and options are missing, and almost all the limitations I shall be mentioning
+next are memory related.
+
+Currently, Hangman has a dictionary of 13,545 words (no plurals, names, gerunds
+or past tenses).
+
+
+AND HOW?
+--------
+
+I use Gameboy98 v.0.05c (http://gameboy98.cjb.net) and Hangman plays just fine.
+Upon switching on, the game initialises by keeping an index of all words played
+that far so no duplicates are chosen in the same Gameboy session.
+
+I have included some screens with brief instructions in the game, but probably
+the only thing you need to know is what the keys are. Use the direction keys to
+move your pointer from a letter to another one when trying to guess a word. To
+select a letter, press the A button. SELECT and START have special functions at
+this stage (see AHA!). For all other possible keypresses, an appropriate
+message will appear at the bottom of the screen.
+
+You might find that using certain keypresses for various functions (e.g. "Press
+B" rather than "Press any key") is a bit inconvenient. Alas, it saves memory in
+more than one ways.
+
+
+HMMMMM...
+---------
+
+Make a choice of one out of three game types. To select a game, move the
+pointer to its title and press SELECT or A. To change the parameters of a game,
+move to the item you want to change with the up and down buttons and use the
+left/right buttons to decrease/increase the corresponding value respectively.
+
+These are the three game types:
+
+20 TIMES SCORE: You will be given 20 tries and attempt to get the highest SCORE
+--------------- average possible (for an explanation of what SCORE is, see
+E=mc^2). You can choose how many times each of the 6- to 10-letter words will
+appear in these 20 tries. You can set the number of words for these lengths
+in the range between 0 and 20. Below 0, there is the INF option, which
+basically means that there will be a random number of words chosen from this
+word-length. Note, however, that you have to either set all word lengths to INF
+or none at all.
+
+Changing the number of words for a word length also affects the other word
+lengths, as the total number needs to be 20. If you want to set everything
+easily without wondering why word numbers change where you don't want them to,
+then just do this: first change the 6-letter words to the desired value, then
+the 7-letter ones and so on. Everything will fall into pieces very nicely.
+
+When the game is over, a summary screen will appear.
+
+When playing the 20 TIMES SCORE game, the Game, Stats, Score and Lives numbers
+appear on screen.
+
+FREE PLAY: Choose minimum and maximum word length and play until it's time to
+---------- go out and watch Comet Halley. You can try to reach the highest
+number of total POINTS (see E=mc^2).
+
+When playing the FREE PLAY game, the Game, Stats and Lives numbers appear on
+screen.
+
+Note! When you start a FREE PLAY game you cannot exit; round after round you
+will be getting a new word to guess with no option to return to a previous
+menu. Reload the ROM to start again.
+
+BEST POINTS: Similar to FREE PLAY, but this time you choose the number of times
+------------ to play and try to get the highest average of POINTS. You can set
+this number of times to be anything (1 or more). When trying to select a number
+of times below 1, you will get the indication INF, which makes the BEST POINTS
+game identical to FREE PLAY, or RND. In RND mode, the computer will set (but
+not reveal) the number of times you will play before the game ends. This number
+will always be between 5 and 30 games.
+
+When the game is over, a summary screen will appear.
+
+When playing the BEST POINTS game, the Game, Stats and Lives numbers appear on
+screen.
+
+The end game summary is different depending on the game type (see IT WAS FUN).
+
+
+E=mc^2
+------
+
+For the purpose of scoring, we have to distinguish between two important
+definitions.
+
+* POINTS is your reward for guessing a word, or the penalty for not being able
+to do so. When your game consists of guessing more than one word, POINTS keep
+added to your previous amount, until the game is over.
+
+The number of POINTS you get for guessing a word depends on a number of
+parameters:
+- the fewer letters the word had, the more POINTS you will get
+- the fewer lives you've lost while trying to guess the word, the more POINTS
+  you will get
+- the fewer duplicate letters the word has, the more POINTS you will get
+
+When you have not been able to guess a word, you will be penalised, although
+not for as many POINTS as if you had guessed the word.
+- the fewer letters the word had, the fewer POINTS you will lose
+- the fewer duplicate letters the word has, the fewer POINTS you will lose
+
+* SCORE is a normalised version of POINTS, only used for the 20 TIMES SCORE
+game. It takes the number of POINTS you have at a given time in one of your 20
+tries and adds to it a bonus for the number of words you have managed to
+guess that far. The more words you have guessed out of the 20, the bigger the
+bonus is, and the more SCORE becomes larger than POINTS.
+
+If you can win all 20 games with 6-letter words only, without any miss when you
+chose letters and no duplicate letters in any of the words used, you will get
+the maximum average SCORE of 140.
+
+In a balanced-word length 20 TIMES SCORE game (i.e. 4 words for each word
+length), the above conditions return a maximum SCORE of 114.
+
+If you can win all 20 games using only 10-letter words with 4 lost lives and 3
+duplicate letters for each word guessed, you will get an average SCORE of about
+50.
+
+If you manage to lose all 20 games, you will end up with an average SCORE
+between -20 and -38.
+
+
+AHA!
+----
+
+So there are some points to remember when playing:
+
+- If you are playing to a fixed number of tries, using more shorter length
+words will give you more POINTS, higher SCORES and therefore higher averages.
+It is a good idea to try to compare your results to those you have obtained
+playing under the same conditions, i.e. the same amount of words for each word
+length.
+
+- Words with less than 7 letters are quite difficult to guess; you therefore
+get one life more when having a go at them.
+
+- You can press START when guessing a word and the program will immediately
+respond as if you had just guessed the word. SELECT is used for acting as if
+you had just lost all your lives for the current guess. This means that for
+that word you have an instant win (or miss), and your score is updated
+accordingly immediately. However, the program also keeps track of these cheat
+wins and misses. If you are playing to a fixed number of tries, your cheat
+action and cheat games will be displayed in the end.
+
+If you are playing to a fixed number of tries and you have used the win cheat,
+you will receive the rank of Cheater. Using the lose cheat has no effect in
+ranking.
+
+
+
+I SEE
+-----
+
+When trying to guess a word, a number of indexes will appear on the screen,
+depending on the type of game you play.
+
+Game: Shows the number of try you are currently attempting. If you are playing
+to a fixed number of tries, this end-game number follows on the right. However,
+if you have chosen to play for a random number of times (an unknown number
+between 5 and 30 for the BEST POINTS game), the string '??' appears instead.
+
+Stats: Your current success in the game. Three numbers are here, your total
+number of POINTS so far, the number of times you have won, and the number of
+times you have lost.
+
+Score: This set of numbers only appears if you are playing the 20 TIMES SCORE
+game. The first is your average SCORE, i.e. your POINTS plus guess bonuses
+divided by the number of games you have played. The second is your average
+POINTS, i.e. only the POINTS divided by the number of games you have played (no
+word guess bonuses).
+
+Lives: The remaining number of times you can try to guess the word.
+
+
+IT WAS FUN
+----------
+
+When the game is over, the summary screen appears. Here is the meaning of the
+items on it (those showing for 20 TIMES SCORE games only, appear with a
+'*' on their left):
+
+Games: Total number of games played.
+
+Won: Games won. If you have cheated, a breakdown of cheats is displayed to the
+right, in the format (normal wins + cheat wins).
+
+Lost: Games lost. If you have cheated, a breakdown of cheats is displayed to
+the right, in the format (normal misses + cheat misses).
+
+Points: The total of POINTS for all games played.
+
+Highest: The highest number of POINTS for a single word.
+
+Lowest: The lowest number of points for a single word (that you have guessed).
+
+Average: The POINTS average, i.e. POINTS / number of games.
+
+Win Avg: The average of POINTS taking into account wins only, i.e. POINTS/wins.
+
+* Score: The SCORE average (POINTS+guess-bonuses divided by number of games).
+
+Cheat: If you have not cheated, this displays 'No'. If you have only used the
+lose cheat this reports 'Lose only'. 'Yes' appears when the win cheat has been
+used.
+
+* Rank: A rough classification which has been known to be rather demeaning to
+some performances and utterly flattering for some others. When Cheat is 'Yes',
+the rank will be Cheater, regardless of the score achieved.
+
+
+OOPS!
+-----
+
+Yes, it's a REAL program, what would you expect?
+
+- Problem: "The SCORE turns negative after 32,000"
+- Explanation: POINTS are kept in a 16-bit variable.
+- Solution: Try to play less than, say, 500 games in one go. It will do good
+  both to your eyesight and to my reputation as a programmer. Or lose more
+  often.
+
+- Problem: "When the SCORE average goes higher than 127, it turns negative"
+- Explanation: SCORE average is assumed to always be less than 127 and handled
+  accordingly by the program.
+- Solution: Stop using the winning cheat and play again. You might get a
+  negative SCORE the normal way.
+
+- Problem: "I am at game no 934 and Gameboy appears to have slowed down"
+- Explanation: The algorithm for choosing an unused word is simple and slow. If
+  you only play with 10-letter words, there will be about 1,500 of them
+  scattered in the 13,000 word memory. If you have already used half of the
+  10-letter ones, the program will be looking for one of the remaining 750 out
+  of 13,000 words (that's one out of 20). Because of the random choice of
+  words, you might have to wait a bit (1-10 seconds) until that valid one in
+  the 20 is found. This certainly isn't noticable until you have reached at
+  least 200 games.
+- Solution: Be grateful that I did not include the 4 20-letter words in this
+  version.
+
+- Problem: "I am playing in FREE PLAY mode and I want to return to the game
+  type menu"
+- Explanation: You did not read the instructions.
+- Solution: Keep playing until a power failure occurs. When power is restored,
+  the Gameboy will reset and the game will display the main screen followed by
+  the game type menu. You can now choose a new game.
+
+
+2084 AD
+-------
+
+Right now the fixed ROM memory is literally full to the last byte; I had to
+shorten the on-screen instructions by a few characters in order to compile the
+thing! As I said in the beginning, I wanted to add a few more bits but I
+probably won't, unless I receive more than 5 emails asking me to. Here are my
+ideas:
+
+- save high scores
+- use 4- to 20-letter words
+  I actually have the lists and the code ready, but I have to free some fixed
+  ROM memory first
+- play double hangman
+  2 words at the same time for the same set of letters chosen by the player
+- play fixed or random pattern hangman
+- add a hangman to actually be there and sacrifice his life for the weak
+  player
+- add 2-player match
+  the letter you choose affects the other player's word and vice-versa
+- fix the game and POINTS counters
+- add option to allow word reuse
+- add an "exit FREE PLAY" option
+- improve keystroke options
+- add a timer for guessing a word
+
+
+HELP!
+-----
+
+If anyone has a good greek dictionary with single entries for each word (i.e.
+no declinations for nouns, no persons for verbs), please contact me.
+
+
+OBSERVATIONS
+------------
+
+Well, one really. I never tough I'd have so many things to say about a simple
+hangman game.
+
+
+EXCUSE ME, SIR!
+---------------
+
+Comments, questions, suggestions are encouraged and welcomed. You can reach me
+at thomas@sees.bangor.ac.uk
+

@@ -1,0 +1,46 @@
+F L A R E S Q U I P
+-------------------
+
+This is a small game for the Gameboy called Flare Squip (Square Flip).
+Simplicity was a key element of the design.  Even though the game is fully
+playable, due to time constraints, things such as menus and pretty graphics
+are missing. (The entire game code takes less than 8KB!)
+
+Goal:
+There is nothing to win, so the goal is to have fun playing a simple puzzle
+game.
+
+How to play:
+Move arrow around and press A at main tile you want to flip
+When all tiles are white, press start to go to "the next level."
+
+Press start while there are black pieces and then:
+Up to go to "the next level"
+Down to go "the previous level"
+Select to switch to next flip mode
+
+Different flip modes (assume arrow is on middle square):
+Orig.  First (Default)  Second  Third
+000    111              010     101
+010 -> 101              101     000
+101    010              111     000
+
+A new random level is generated each time a new "level" is selected or the
+flip mode is changed. A flip counter is provided to indicate how many flips
+have been executed so far.
+
+And that just about sums up this game...
+
+Design details:
+This game was written for the 2nd Amateur GameboyTM Format Games Coding
+Competition.
+99% code by Steven Fuller (me) <relnev@atdot.org>
+The code was written for and assembled with RGBDK in Linux.
+The random number generator is from Luc Van den Borre's rand.s
+(used in the GBDK)
+logo.asm is modified output from pcx2gb8, with the graphic being Bung's
+logo.jpg for the competition.
+All tiles are by Steven Fuller, using Chuck Mason's ggtedit (an unreleased
+gameboy tile editor).
+
+Email: relnev@atdot.org

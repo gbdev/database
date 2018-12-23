@@ -1,0 +1,18 @@
+Minesweeper for GameBoy
+Copyright (c)2000 Mattias Wadman <napolium@sudac.org>
+
+How to run:
+Run in an GameBoy emualtor or on the real thing
+
+should run on a real GameBoy too.
+thanks to "MoRpHiUs X" <phed_x69@hotmail.com> for testing
+
+Controlls:
+Arrows will move the pointer.
+A will sweep the current position
+Hold down B and then press A to mark the current position
+SELECT will show the setup menu
+
+Have fun
+-Mattias
+

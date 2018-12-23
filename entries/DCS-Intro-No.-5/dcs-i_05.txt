@@ -1,0 +1,7 @@
+ .-/credits/--------------------------------.
+ |           code: Gilligan                 |
+ |           logo: B                        |
+ |            msx: Wayne Kerr               |
+_|__       player: Heatbeat^CNCD          __|_
+ | /_________________________[DCS/GBC/05]_\ |
+ '                                          `

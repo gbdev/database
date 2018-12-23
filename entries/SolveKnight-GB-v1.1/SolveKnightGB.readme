@@ -1,0 +1,36 @@
+Short:    Solve the Knight games from any start position.
+Author:   http://drhirudo.hit.bg (Ventzislav Tzvetkov)
+Uploader: drHirudo@Amigascne.org (Ventzislav Tzvetkov)
+Version:  1.1
+Type:     game/hint
+
+ English:
+
+  This little program shows all the possible solutions of the game Knight
+and the game KnightMoves. The games are available from:
+Aminet:game/wb/Knight.lha
+Aminet:game/think/KnightMoves.lha
+
+ To get the solve just type coordinates of the start position for example:
+A1 or 11, B1, B2, C4, 34 etc...  The program then will start computing all
+the possible travels and will output them as move numbers shown  on  ASCII
+drawn chess board. More descriptions of the algorithm and the  methods  of
+program flow are in the source code (SolveKnight.c).
+
+  This GameBoy version was compiled with GBDK from Aminet.
+
+
+ Български:
+
+  Тази малка програма показва всички възможни решения на играта Knight и
+на играта KnightMoves, които могат да се изтеглят от:
+Aminet:game/wb/Knight.lha
+Aminet:game/think/KnightMoves.lha
+
+  За да получите решението, просто  въведете координати на началното поле
+например за A1 или 11, B1, B2,  C4,  34 и т.н...  След това програмата ще
+изчисли всички възможни турове на коня  и  ще  ги  изведе като  номера на
+ходове на ASCII нарисувано шахматно поле. Повече описание на алгоритъма и
+начина на действие на програмата има в изходния код (SolveKnight.c).
+
+ Тази ГеймБой версия беше компилирана с GBDK от Аминет.

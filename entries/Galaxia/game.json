@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Dox",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Galaxia__(Gameboy).zip",
+            "hash": {
+                "md5": "7fde777d786c2a6fdba5848c41ae5ada1b4a4799",
+                "sha1": "7fde777d786c2a6fdba5848c41ae5ada1b4a4799",
+                "sha256": "cf3f9b8818f5768df7233809db03cf9995b6d690dc09b705492a5216e03ed758"
+            }
+        },
+        {
+            "default": true,
+            "filename": "galaxia.gbc",
+            "hash": {
+                "md5": "6d4c932f35bbf99198040794ef42febe",
+                "sha1": "268e138f570e9988b72bd15d9b1cd07f91027d09",
+                "sha256": "7b3cbba2e24eaefed37ca3b0a868dffcf1f5b672ab40925ff89a6d0238419685"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "galaxia.gbc",
+    "screenshots": [
+        "20110402_galaxia.png"
+    ],
+    "slug": "Galaxia",
+    "title": "Galaxia",
+    "typetag": "game"
+}

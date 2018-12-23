@@ -1,0 +1,54 @@
+CUBES DX
+--------
+A little addictive (for some of us) puzzle game for the 3rd Bung compo
+(ending date 20/1/2000).
+
+Hope you like it...
+
+Dark Fader / BlackThunder
+
+
+HARDWARE REQUIREMENTS
+---------------------
+- GameBoy Color
+- MBC1/5 compatable (NO PocketVoice!) cartridge with enough free space
+
+
+SELECTION MODE
+--------------
+- Select puzzle with LEFT/RIGHT buttons
+- Go to play mode by pressing A, B or the START button.
+- Go to edit mode by pressing the SELECT button (user puzzles only!!!)
+
+
+PLAY MODE
+---------
+- Return to selection menu with START button
+- Move the player with the directional buttons
+- You can push certain cubes simply by walking into them
+- Combine two cubes by pushing one into another cube
+- The RED, GREEN and BLUE elements of the cubes determine if they can be
+  combined or not. If both cubes contains a certain element, the cubes
+  can't be combined.
+- These are all combinations possible:
+    red    + green -> yellow
+    green  + blue  -> cyan
+    blue   + red   -> purple
+    cyan   + red   -> white (*)
+    purple + green -> white (*)
+    yellow + blue  -> white (*)
+- Try to get much as possible white cubes.
+- You can complete a level by walking into white cubes.
+- Note that you can only push and not pull cubes.
+- Combine cubes to clear a path to other area's which must be done first.
+- Keep cubes away from the edges because they can't be moved back
+
+
+EDIT MODE
+---------
+- Exit to selection menu with START button.
+- Change requred white cubes with UP/DOWN while holding down the SELECT button.
+- Move editing cube with the directional buttons.
+- Change the cube at the current position with A/B buttons.
+- Clear the cube at the current position by pressing the A and B buttons
+  simultaniously.

@@ -1,0 +1,29 @@
+The Horrible Demon IV beta 0.1
+by Bertil Hörberg 
+for the Freedom 2001 competition
+
+
+	Well then, I'm back with another game, and unable to come up with a better name, I choose to call it "The Horrible Demon IV" (though there are no demons in it yet).
+	Though it may seem like I have only modified THD3 a bit, I can assure you that that is not the case. The game uses a new much more sophisticated engine, coded from scratch.
+	As you may have guessed by the beta 0.1 stuff, the game is not quite finished yet. I heard of the competition rather late, and have had a lot of other distractions since then, such as one of my hard disks breaking down, relieving me of a lot of developing essentials and some parts of this game as well (though, not the code, thankfully). Anyway, I spent far to much time creating the game engine and animating the main character for leaving the project after this ridiculously short game, so there will hopefully be new version sooner or later.
+	I would also like to make a little excuse for the horrible music in the game, my music player isn't really that awful, but when my hard disk broke down, it took all my mod-files and my mod converter with it, and not having time to recode the converter, I did what of course took a lot longer time, I wrote the music directly for my player, in hex under great stress.
+
+	Like someone at the gbdev mailing list suggested, I've combined the previous horrible demon games and made a side scrolling action RPG.
+Anyway here are the basic controls:
+	D-pad: 	Move
+	Start: 	Pause
+	A:	Jump
+	B:	Attack, Talk
+There are lots of different moves and attacks, but they're all explained in the game.
+
+
+Bertil Horberg
+Persgard
+340 32 Grimslov
+SWEDEN 
+email: dunderbertil@hotmail.com
+phone: +(46)470 750587
+
+
+
+

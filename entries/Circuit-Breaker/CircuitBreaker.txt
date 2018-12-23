@@ -1,0 +1,47 @@
+- CIRCUIT BREAKER (Gameboy) -
+[A.K.A. RSI Inducer =;o) ]
+
+The Hex Heroes / 1999
+web: http://hexheroes.homepage.com/
+
+James Rutherford (Assembler code, graphics and design)
+[For the 2nd Bung Amateur Gameboy Coder Competition]
+
+Works on gameboy emulators - best on a real Color Gameboy
+
+
+Test your mental speed, stamina and dexterity with this new
+game from the Hex Heroes.
+
+Play takes place on a square board with 16 action boxes.
+Your cursor highlights one of these boxes - and indicates which buttons
+you must press next. The direction arrows signify particular movements
+on the joypad, 'A' and 'B' are the two firebuttons, a 'plus' sign
+indicates any direction on the joypad (no preference which) and the 'A/B'
+icon indicates either firebutton (no preference which).
+
+The 'Pointer of pure evil' waits for you to start and then proceeds to
+track you around the grid. If it overtakes you and completes a whole lap
+more than you then it's game over. In order to win, you must complete
+a whole lap more than the dreaded cursor.
+
+Pressing a wrong button allows the pointer to catch up by one position.
+
+Every time you complete a circuit board, the game speeds up - get past
+a speed of 25 and you're doing well, 22 is pretty amazing...
+
+Thanks must go to:
+Assembler: Carsten Sorensen [Rednex Gameboy Development System]
+Other Tools: H.Mulder [Tile/Map Builder]
+Documentation: kOOPa, GeeBee
+Tutorial: Marc Gale [Lush]
+Hardware: Nintendo, Bung
+
+Hope you enjoy...
+
+
+James.
+And I couldn't speak a word of assembler 3 weeks ago =:o)
+
+/ This game rom (excluding source) has been granted freely distributable
+by the author - providing it is accompanied by this readme file /

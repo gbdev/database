@@ -1,0 +1,18 @@
+HI all, This is my first "big" appearance...
+This is my game for GBDEV 2000... I don't have much time, but I will say a few things.
+
+Tools I used:  
+ASMotor (rgbasm,xlink,rgbfix)
+GBTD and GBMB
+and a text editor.
+
+
+Anyhow... 
+
+I do have a website, and I may be posting the code for this game shortly...
+My website is http://gbdev.8k.com 
+My email address is sgstair@fcmail.com
+
+I hope there are a lot of good entries!
+
+Stephen

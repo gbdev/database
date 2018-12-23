@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Free Ware",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Ant_Soldiers__(Gameboy).zip",
+            "hash": {
+                "md5": "44212365817c55d039d107b2095cd2d41c354999",
+                "sha1": "44212365817c55d039d107b2095cd2d41c354999",
+                "sha256": "84c2d6d2571d48a8c764609e9aae6bb85ec8845edc7dfab6464c5c495812a816"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Ants.gb",
+            "hash": {
+                "md5": "37bff785581bc9bf76c8f23ee65d8b5b",
+                "sha1": "eb3e1b37076e99b398722f37a3d075a8c7c0b787",
+                "sha256": "8f42d5406db3ac052c536c3c29f4ef66e8f591bc1f8b8fc68a6f432660bde562"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Ants.gb",
+    "screenshots": [
+        "20110402_ant_soldiers.png"
+    ],
+    "slug": "Ant-Soldiers",
+    "title": "Ant Soldiers",
+    "typetag": "game"
+}

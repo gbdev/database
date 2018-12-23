@@ -1,0 +1,49 @@
+C  O  M  B  A  T     S  O  C  C  E  R
+	
+		A Game By Mike Kasprzak
+
+
+
+* What is Combat Soccer? *
+
+Combat Soccer is an intense game that somewhat looks like soccer.  You control the
+top player.  Your goal is to score 20 points against the bottom player.  To assist
+you in your game, you are provided with a Rubber Rocket Gun.  The Rockets can reflect
+the soccer ball in the other direction and temporarily make you opponent stop moving.
+Have Fun!
+
+
+* How to play Combat Soccer *
+
+Controls:
+
+	- Press LEFT and RIGHT to move your character.  
+	- Press B followed by LEFT or RIGHT to dash.
+	- While holding the ball, Hold A and either press LEFT, DOWN, RIGHT to pick a 
+	  direction to kick the ball.  You can also press UP to cancel the kick. Release
+	  the A button to perform the action.
+	- To Pause the game press START.
+	- To shoot a rocket, press SELECT.
+
+
+* Gameplay Tips *
+
+- You can change the direction of the ball by dashing in the direction you want to
+make it go.
+- After kicking the ball, try shooting a rocket beside your opponent.
+- You can't shoot while holding the ball.  A well placed missle can get you a sneaky
+goal.
+- You can only shoot 1 rocket at a time.
+- The dash can be your best friend.  You can perform some cool trick shots with it.
+- The rocket isn't 100% accurate. It might drag along the ground or go through someones
+legs, so don't depend on it all the time.
+
+
+* Contact Information * 
+
+e-mail: 	povrazor@subdimension.com
+web site: 	http://sykhronics.cjb.net
+snail mail:	Mike Kasprzak
+			115 Chancton Cres.
+			London, Ontario, Canada
+			N6E 2Y5

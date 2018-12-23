@@ -1,0 +1,17 @@
+------------------------------------
+Galaxia - 2002 Minigame Compo Entry
+------------------------------------
+
+Author   : Tomasz Slanina  dox@space.pl
+Platform : Gameboy Color
+
+Aim - try to avoid the red obstacles and destroy the green ones.
+Controls are :
+ cursor keys - ship movement up/down/left/right
+ a/b         - shoot
+
+Difficulty (3 levels) increases with the number of destroyed enemies.
+Game has been tested on emulators and on a real GBC as well.
+
+The source code should be compiled with RGBDS tools.
+

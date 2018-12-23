@@ -1,0 +1,7 @@
+ .-/credits/--------------------------------.
+ |           code: Wayne Kerr               |
+ |           logo: B                        |
+ |           font: from NFL SNES intro      |
+_|__ msx & player: from "Rodland GB"      __|_
+ | /_________________________[CPL/GBC/01]_\ |
+ '                                          `

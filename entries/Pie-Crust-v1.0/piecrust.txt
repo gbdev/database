@@ -1,0 +1,37 @@
+Author: Jarvik7
+Date..: 8-28-00
+Time..: 2:50am PST
+
+Title.: Pie Crust v1.0
+        GBDEV2K Competition entry
+	
+Info..: Compiled using GBDK v2.1.5 (with crt0.o from v2.9.4) for DOS
+        Graphics created in Microsoft Paintbrush and Jasc Paint Shop Pro 6
+        Graphics converted using PCX2GB v2.14 by MegaMan_X
+        Misc. tiles created with GBTD v2.0 by H. Mulder                  
+	
+Notes.: No DMG support (not due to lack of fast cpu)
+        Emulators do not correctly play this game. USE ACTUAL GBC HARDWARE!
+        1850 bytes free, no compression used
+	Saveram removed due to gbdev2k rules
+	Version to follow with music, sound, save, and more puzzles
+	There are hidden greets to a SELECT few (hint hint)
+
+History:
+Piecrust is based upon a type of puzzle called a Nonogram.
+Nonogram is a logic game invented by japanese Non Ishida 1987.
+
+Rules:
+Each row and column in a grid has a series of numbers. These refer to number of
+adjacent squares that should be filled. Each block of solid squares are separated by
+one or more unfilled squares. Blocks of solid squares can start anywhere in a row or
+column.
+
+Thanks to:
+Quang for flood/pour demo which taught me scroll registers
+GBDK team for gbdk
+MegaMan_X for pcx2gb
+Martin Korth for NO$GMB
+Harry Mulder for GBTD
+`Xenocide for some puzzles
+Tetsuoman for some puzzles

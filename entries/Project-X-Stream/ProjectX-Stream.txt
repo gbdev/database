@@ -1,0 +1,98 @@
+Welcome to Project-X-stream the Colour Gameboy Shoot-em-up (freeware).
+http://www.cdworld.co.uk/craig
+
+Entered at Bung - http://www.bung.com.hk
+
+!only 32k!
+
+NEW VERSION - Changes - 
+speed up collectable - 
+full 3 levels - 
+level 2 boss fixed-
+powerups fixed.
+
+-How to play-
+Use the B button to shoot (just keep it pressed). Blast everything you
+see. Try to get through all 3 levels and kill the boss at the end of
+each level.
+
+Collect the (S)peed-ups for a faster ship.
+Collect the (p)ower-ups for better weapons.
+
+-Here are the powerups:
+
+Weapon one - The standard shooter.
+Weapon two - A double shooter that has a wider range.
+Weapon Three - The crest wave which can't be stopped by baddies.
+Weapon four - Double Crest Wave.
+Weapon five - Shield (Can be re-charged with every extra power-up).
+
+-Advice (you can never get enough):
+
+KEEP FIRE PRESSED! - It gives the best fire power!
+Keep moving
+Don't fire when you don't have to (eg. in the asteroid storm)
+The first boss is VERY easy when you work out how the fireballs attack.
+In the Tunnels its best to keep getting the shield over and over.
+The boss on level 2 can only be destroyed by a powerful ship :)
+
+Why is the game so hard?
+Well it makes it more of a challenge, and there are only 3 levels.
+Besides, I think the harder the game the more lastablilty it has,
+R-Type is very hard, but is a great challenge.
+
+-------------------------------------------------------------------
+This game was written over a couple of months on and off, usually at
+night. It was written using GBDK and RGB-assembler (with the GB 
+assembler studio).
+
+I'm quite pleased with it on no$gb (which I used to test it) but I have
+not seen it on a real Colour GB (So there may be flicker problems).
+
+I don't really understand sound so I could only get a few clicks out
+of it :) Maybe I'll work on that if someone can help.
+
+The graphics are by me and I used the neat gameboy tile designer.
+I'm not very good at graphics, and Helen who usually does them was busy
+over the last few months. I think I did well anyway :þ
+
+It works on the normal GB but its not designed for it. There may be
+graphics glitches. Use a Colour GB.
+
+There was parallax scrolling until the last minute when I removed it as
+it sometimes corrupted the display (more often than not :) I'm going
+to work on the idea for my next game - It can be done in 100% aSm.
+
+The game should not be confused with the film ProjectX, or any of the
+old games called ProjectX (3!), it has nothing to do with them. Its 
+called 'Project-X-Stream'.
+
+The small font was converted by Quang.
+
+The game is quite hard, but you can complete it once you get used to 
+the levels (practice makes perfect - Or savegame makes perfect ;). 
+
+
+---------------------------------------------------------------------
+
+I'd like to work on a commercial gameboy game if anyone wants to hire 
+me! I can code in z80 and know the gameboy hardware very well.
+I'm based in England (Newcastle).
+
+If interested email: Craig@cdworld.co.uk
+Or write:
+
+Craig Rothwell
+422 Denton Road
+Denton Burn
+Newcastle Upon Tyne
+NE15 7HB
+England
+
+Take time to see my other games:  http://www.cdworld.co.uk/craig
+
+Jetset Miner Willy (PC)
+Jumping Jack (Gameboy, PC)
+Burgertime (PC)
+Head over Heels (PC) (wip)
+and more...

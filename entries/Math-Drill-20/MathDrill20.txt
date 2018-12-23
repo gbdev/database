@@ -1,0 +1,54 @@
+                       MATH DRILL 20
+
+
+                        Users Guide
+
+
+
+
+
+                        Norm Cramer
+                   nscramer@earthlink.net
+
+
+
+
+
+
+Math Drill 20 is an addition/subtraction trainer for children. It uses
+the numbers 0 - 20 as the maximum result and the maximum for any value
+in the equation. 
+
+To start the game, press "START" at the Bung logo.
+Press "START" again at the credits screen.
+Use the UP/DOWN arrow to select the game type. 
+
+Game types are as flows:
+
++ and - Random  -- Uses random addition and subtraction problems
++ Random        -- Same as above but uses only addition problems
+- Random        -- Same as above but uses only subtraction problems
++ Practice      -- Uses a sequence of numbers going from 0 to max 
+- Practice      -- Same a above but using subtraction problems
+
+When the type of game has been selected, press "SELECT" to start the
+game. 
+
+The problem will fly onto the screen and the 0 in the answer selector
+will be highlighted. The arrow keys are used to highlight the correct
+answer and "A" is pressed to enter it. If the answer is wrong, the
+player gets one more chance to get it right. 
+
+200 points are earned if the problem is correct on the first try, 100
+points if correct on the second try and 0 points if the problem is wrong
+on the second try. The game also keeps track of percent correct (first
+or second try) for each level. To proceed to the next level, the player
+needs to get at least 70% correct. The game is divided into levels. Each
+level has 10 problems. The problems will be in the form of 9 + box = 9,
+box + 9 = 9, or 9 + 0 = box. The player must select the correct answer
+from the answer box on the bottom of the screen. The first 4 levels use
+10 as the maximum number. After 4 levels, the maximum goes to 12. After
+4 more levels, maximum is 14. Levels continue in this manner until the
+maximum is 20. From the 20 point on, the maximum stays at 20 for all
+subsequent levels.
+

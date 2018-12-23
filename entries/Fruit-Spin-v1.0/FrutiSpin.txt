@@ -1,0 +1,25 @@
+                   Fruit Spin V1.0
+                   ***************
+
+10/10/99
+
+  Here is my second real attempt at a game boy game,  did not take too long but always wanted to write a game like this for some reason.
+
+  Next I hope to write somthing with a bit more too it, but dont know if I should try to learn asm first.
+
+
+
+Tools used for this game were..
+
+Quantizing tool by Peter Havelaar ..http://infinity.nl
+GBCE by purple fish     ..http://members.tripod.co.uk/gbce/
+GBDK by Pascal felber   ..http://gbdev.org/gbdk/
+GBTD/GBMB   HP Mulder   ..http://www.casema.net/~hpmulder
+
+and many thanx to these ppl!  : )
+
+
+  If I get round too it I will be adding some sound to the game and some other stuff,  I have found the scrolling is a bit jerky on the emus I tried but could not notice it on the gbc.
+
+Stu@gamebox.net
+

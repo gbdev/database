@@ -1,0 +1,8 @@
+              LITTLE FANTASY
+                 coded by
+             Tomas Rychnovsky
+            Rychnovsky@kobp.cz
+
+Best run with No$gmb,VGBC or real hardware.
+KGB and HGB has problems with Color GB pri-
+ority. Other emulators... I don't know.

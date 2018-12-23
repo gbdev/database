@@ -1,0 +1,33 @@
+{
+    "description": "zal0, sergeeo and kirblue released their Game Boy game Polka Sheep to the public a while ago. All the sheep of the flock have been captured in mysterious giant bubbles! Help Polka Sheep rescue his friends using his velcro powers! He can get fastened to all velcro surfaces around. Avoid hundreds of evil wolves, thousands of kawaii parrots and millions of poisoned spikes to liberate all your friends!! It\u2019s an epic fight to restore peace in the flock.",
+    "developer": "zal0, sergeeo, kirblue",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Polka_Sheep_v0.1.0_(Gameboy).zip",
+            "hash": {
+                "md5": "a01e382827d1862060eed290dfac9763e4ce952e",
+                "sha1": "a01e382827d1862060eed290dfac9763e4ce952e",
+                "sha256": "1b4a4b9f3691c1e88f6d1723f8cc885401da019909f9d0c1017fe82a779a9327"
+            }
+        },
+        {
+            "default": true,
+            "filename": "polkasheep.gb",
+            "hash": {
+                "md5": "4d44482421feac9e1ce353880840907d",
+                "sha1": "c184a34c260373a68ccf84ff9091e0aeefa771de",
+                "sha256": "021f638219506df3be97d1f526d1d98a111df1b5323f136e63d8fdd94eabc952"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "polkasheep.gb",
+    "screenshots": [
+        "PolkaSheeep-Game-Boy.png"
+    ],
+    "slug": "Polka-Sheep",
+    "title": "Polka Sheep",
+    "typetag": "game"
+}

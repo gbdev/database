@@ -1,0 +1,318 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+The Downward Spiral
+Written by Jason Stern
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Read me before playing
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+This readme file contains alot of information that is
+important to get the most out of playing The Downward
+Spiral. Failure to read this could result in a lessened
+game experience.
+The Downward Spiral is not recommended for children and
+people who get offended easily.
+
+
+Game Information
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+If you would've said a first person shoot'em up would've
+been written in GBDK, everyone would say bullshit. Well,
+the answer was simple. Don't write a *good* first person
+shoot'em up. Suddenly the game became alot more feasable,
+and eventually playable. Although I doubt I'll win with
+such games as brp.gbc and catdog.gbc in this contest. =)
+
+
+History
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+I got an e-mail on 1/10/00 saying that Bung's Third
+Amatuer Gameboy Development Contest's deadline was going
+to be delayed until the 20th. That gave me 10 days to
+write an entry. Not alot of time. Take in to consideration
+how much I work, socialize, and spend writing the readme
+instead of coding, it didn't look like I could write yet
+another pacman clone, let alone a FPS. But, what the hell,
+I thought. Might as well try and write a lame gbc fps in
+10 days. So I spent a few hours every other day or so
+writing the game, and this is how it turned out. Keep in
+consideration BigRedPimp and myself were moving GBDEV News
+at the time, and you'll see how crunched I really am. =)
+
+
+Getting Started
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+To play the game as it is intended to be played, you need
+* Gameboy Color
+        Although it plays well on a Gameboy, Gameboy
+        Pocket, Super Gameboy, and many emulators.
+        There are minor graphical errors, but it's really
+        not that bad, it doesn't take away from the
+        gameplay, and isn't that what's important?
+        Gameplay, then eye candy? =)
+* Bung XChanger
+        How else are you going to play the game on a
+        real Gameboy Color? Professional development kits
+        cost thousands of dollars, and immitation Bung
+        products are faulty and prone to failure.
+Or an emulator...
+* About no$gmb
+        no$gmb is the best Gameboy Color emulator, and is
+        the only Gameboy Color emulator that supports
+        sound with The Downward Spiral. Unfortunately,
+        there is a hissing noise when played on no$ that
+        is not nearly as noticeable on the Gameboy Color.
+        This drives me insane, but as long as you keep
+        playing hard, you shouldn't notice this. =)
+        There are no graphical errors in no$, though.
+
+To play the game, simply flash it to a Bung XChanger cart
+using your favorite copier program. You can find many
+flasher programs at -
+* http://www.bung.com.hk
+or * http://www.subport.org
+
+
+Gameplay
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+If you've started the game up, you're probably thinking
+what the fuck? Am I that red dot thing? Well, this is a
+completely different type of game than the standard
+run of the mill sidescroller. This is a First Person
+Shooter. What does that mean? That means play the game
+as if the Gameboy Color (tm) screen was what you were
+really seeing. 
+* To kill either an Otaku or BigRedHead, line up your
+gun vertically with the enemy and fire your shotgun.
+* The numbers in the upper right corner of the screen is
+your status. The first upper number is how much health
+you have.
+* You start out with 100 Health Points. There is no way
+to gain health during the level, however if you can
+complete a level, your health will be reset.
+* The second number (directly below the health) is how
+much ammo you currently have. You start out with 16
+rounds. In order to gather more ammo, you must walk over
+a box of ammo. To do this, just line the box up vertically
+on the screen and walk forward. Your character will pick
+up the ammo and the number in the corner should rise by
+8. You now have 8 more rounds. You can carry up to 99
+rounds of ammo at one time.
+* To move on to another level, you must succesfully kill
+all the aliens residing in a level. After you kill an
+enemy, another enemy will respawn in its place, so be
+alert.
+
+
+Controls
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+To get in full control of your player, memorize these
+simple buttons and button combinations.
+
+* Joypad UP - Move forward
+* Joypad DOWN - Move backwards.
+* Joypad LEFT - Turn Left
+* Joypad RIGHT - Turn Right.
+* Button A - Shoot shotgun
+* Button B - Strafe in conjunction with 
+        Joypad LEFT - Strafe Left
+        Joypad RIGHT - Strafe Right.
+* START Button - Pause Game
+
+
+Bad Guys
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Watch out as there are enemies out to put an end to your
+quest to destroy Reflex Point.
+
+        BigRedHead   A BigRedHead is a spherical creature
+                     with the ability to fly. BigRedHeads
+                     feature the ability to create large
+                     balls of energy which they can shoot at
+                     a target from a distance.
+
+        Otaku   An Otkau is a blue demon. Although it has no
+                ability to launch projectiles and is a
+                ground based enemy, its quick speed, high
+                endurance of pain, and vicious close range
+                attack make it an enemy to avoid at any
+                price.
+
+
+Features
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+The following are things that make The Downward Spiral
+such a great game.
+
+* Quasi-3D First Person Shoot'em Up Engine.
+        Walk around a unique world where not only do you
+        have to worry about what's above you and in front
+        of you, but to the side of you as well. Attack
+        enemies approaching from every angle while trying
+        to pick up much needed ammo boxes.
+* 3 Unique Levels
+        Blast the alien invaders back to their home planet
+        from the lush fields of the forest to the fiery
+        desert of Egypt to the alien center location-
+        Reflex Point.
+* 2 Distinctively Different Badguys
+        One flying Big Red Head is launching projectiles
+        at you while a blue Otaku demon is stalking you
+        down on foot.
+* Digital Audio based on routines from Aaron St. John.
+        Hear the blast of your shotgun and the screams of
+        pain from the alien invaders.
+* Rumble Pak Support
+        Although Bung's current line of carts do not
+        support the Rumble Pak, I do hope that future
+        versions do. If and when they do, this game has
+        been coded to take advantage of it. Feel the jolt
+        as you fire your shotgun or get attacked by an
+        incoming demon. =)
+* Extensive Use of All 40 Sprites
+        While many games use many of the sprites, The
+        Downward Spiral uses all 40 sprites at near all
+        times during gameplay to allow for a more intense
+        game than most.
+* Proximity Damage
+        The farther away the badguys are, the less likely
+        your shotgun will hit them full effect.
+* Enemies can damage each other
+        If a BigRedHead's energy ball hits an Otaku,
+        it will hurt. =)
+* 1 Megabit Game
+        The Downward Spiral has been written to take
+        advantage of a 1 Megabit cartridge. This allows
+        room for digital audio along with graphics and
+        small cutscene text info.
+
+
+Things missing
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+In order to get the game released by Bung3, certain
+features had to be cut that otherwise wouldn't have.
+* Scalable Sprites.
+        There's a 40 sprite limit on the gameboy color that
+        really kind of fucked me up here. Also, a lack of
+        time to convert the graphics to every size and a
+        lack of skill needed to write a very fast scaling
+        sprite code left that out. =(
+* Multiple Weapons
+        Again, due to time restraints, I wasn't able to code
+        alot of different weapons. This really did save some
+        time as I didn't have to worry about weapon trails-
+        or even weapon effects. =)
+* A Plot
+        I was rushed and the text I splurred out for a
+        plot isn't the most in-depth thought-provoking
+        piece of writing I have done, but it still has a
+        plot which is more than you can say for most
+        homebrew games. =)
+* Cheat Codes
+        God Mode/Invulnerability, Infinite Ammo, and
+        Special can all be found if you know the right
+        combinations. =)
+
+
+Compatability
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+This program was tested using a Nintendo Gameboy Color,
+Bung XChanger, and a Bung Doctor 64M Card. Bung's products
+are obtainable from http://www.bung.com.hk
+Backwards compatability has been tested with no$gmb
+super/pocket/color emulator. No$gmb is obtainable from
+http://www.work.de/nocash
+
+
+Programs Used
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+In accordance with Bung's request, here is all the tools
+and programs used in the creation of The Downward Spiral.
+
+* GBDK
+        Mike Hope's wonderful C compiler and assembler package.
+
+* Adobe Photoshop
+        Sprite drawings (terrible. just terrible) =)
+
+* pcx2gb
+        Megaman X's dead picture converter. Used to convert all the
+        sprites in the game and the title picture.
+
+* snd2gbw
+        Megaman X's programs for converting wav files to gameboy audio
+        files.
+
+* bin2h
+        Charles Doty's bin2h. Used to convert the gameboy audio files to
+        something I can use in GBDK.
+
+* Microsoft Notepad
+        IDE for GBDK. Would use MS-Edit if I could only run it in a window
+        and still be able to read it. =)
+
+
+Greetings
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Greetings go to the following people...
+* Bung Ltd.
+* Aaron St. John
+* Mike Parks
+* Pan of Anthrox
+* Anders Granlund
+* Quang
+* Otaku no Hentai
+* Charles Doty
+* Joshua Neal
+* GeeBee
+* Dark Fader
+* Fogel (if he copies that CD for me) =)
+* All the *cool* people on the gbdev mailing list.
+* All the IRCites I hang out with but didn't do enough
+  for me to remember to write their names in here.
+
+
+Graphics & Sounds
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+* Sprites are based off of the sprites in ID Software's
+        Doom, although alot of cosmetic changes have been
+        made.
+* In-Game sound effects are also based off ID Software's
+        Doom, although altered for better sounding.
+* Bung Audio created by MTV's Beavis And Butthead.
+* Background graphics for the 3 levels drawn by BigRedPimp.
+
+
+Does anyone read this?
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+If so, don't forget to check out my other Bung Contest
+entry Mouse Trap and BigRedPimp's entries CatDog and BRP.
+Wow. The readme is almost the size of the game. =)
+
+
+Internet
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+* Bung's products can be obtained from
+        http://www.bung.com.hk
+* Martin Korth's gameboy emulator no$gmb can be obtained
+        from http://www.work.de/nocash
+* Visit 420 Studios on the web by checking out GBDEV News
+        at http://www.tripmode.com/gbdev
+* 420 Studios is hosted by the wonderful people at
+        tripmode.com. Visit http://www.tripmode.com to see
+        what they're up to. =)
+
+
+Legal Shit
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+XChanger is (tm) Bung Ltd.
+Gameboy, Gameboy Pocket, Super Gameboy, Gameboy Color, and
+anything I may have missed is (c) (tm), etc of Nintendo
+of America.
+
+
+Contact
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Contact Jason by e-mailing drunk-ass@beer.com
+
+

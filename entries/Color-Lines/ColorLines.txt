@@ -1,0 +1,35 @@
+-[ c o s m i g o ]----------------------
+
+          A puzzle game from 
+            c o s m i g o .
+              for BUNG #2
+
+            { COLOR LINES }
+
+           code: pan|cgo
+           gfx:: dsc|cgo
+           msx:: bfa|cgo
+
+
+[How to play]
+
+This game is very popular in eastern
+Europe and especially Russia.
+
+Move the objects (fruits/blocks/gems)
+to build horizontal, vertical or 
+diagonal lines of 5 or more of the same 
+color and they disappear.
+
+You can only move the object to its
+destination when there is a path
+available. Select/Deselect with [A]/[B].
+
+Though easy in the beginning it gets
+very challenging in the hard level.
+Experienced players reach scores above
+1000 points there. Beat that!
+
+
+contact us:   dsc@cosmigo.com    10:1999
+------------------------------------.:.-

@@ -1,0 +1,38 @@
+Rob's Pakman
+
+(See pacman.c sourcefile for version history etc.)
+
+Use the old d-pad to move Pakman around the maze. 
+Press Start to pause the game (a hi-tech blank screen will be displayed until Start is pressed again). Every so often a cherry will appear, these are good for building up the score! 
+You get a bonus life every so many points (I forget the exact value; it's in the vars.h source somewhere). 
+You can't have more than 5 lives at once though. 
+The game has 4 different mazes that simply loop around and around; however, once you've gone through a 'set' of 4, the game will get slightly faster.
+The ghosts are truly stupid. A future version might rectify this.
+There is no sound. Do not adjust your gameboy!
+
+Seems to work fine on No$Gmb (which it was developed on) and on a real CGB.
+
+I make no claims on the quality of the code, or the battery-preserving nature of the instructions, etc. I'm just making this up as I go along.
+
+There is no vblank stuff - the game is a little jerky at times. :-(
+
+This is my first attempt at writing something on the gameboy. Hopefully my next attempt will be something a little more original and impressive. :-)
+
+Coded using GBDK 2.95-3, CodeWrite, GBMB, GBTD and GIQ. Nice...
+
+Thanks to the good people of the Gameboy Development mailing list, the GBDK soldiers themselves, and those awfully helpful people you find on Cix if you know where to look. :-)
+
+Knocking this up, on and off over a period of a few weeks, helped me to recuperate from a cornea transplant that has subsequently 'rejected'. I'm off alcohol for a little while (if you know me you'll know what a bummer that is for me), and I expect to be under the knife for another transplant attempt in the next few weeks. If you try to get in touch with me and get no response; I'm not snubbing you, I'm probably just temporarily unwell. :-)
+
+I'm particularly interested in constructive criticism, and people who go 'you could have done this bit like this, instead, and that would have been better because....' etc. - I'm genuinely interested in learning about GB/CGB development. I'm a dull Windows programmer by day....!
+
+
+If you want to see how games were really done in the 'old' days, visit www.robsoft.co.uk/ultimate
+
+
+Cheers!
+
+Rob Uttley
+7 Feb 2001
+
+rob@robsoft.co.uk

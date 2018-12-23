@@ -1,0 +1,33 @@
+{
+    "description": "Dropini is an exciting puzzle game for the PC and gameboy. A variant of the ever popular Tetris, Dropini will provide you with several hours of addictive gameplay a day. The two player version will allow you and a friend to battle it out for dropini supremacy.",
+    "developer": "Shen Mansell",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Dropini__(Gameboy).zip",
+            "hash": {
+                "md5": "59f91fe2c0329f756a2ee1f416da78896c6d90f9",
+                "sha1": "59f91fe2c0329f756a2ee1f416da78896c6d90f9",
+                "sha256": "3ba639dfcd1720e0724fa6d549081e19e77053a64bc7f767fd575361d6b97ac9"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Dropini.gbc",
+            "hash": {
+                "md5": "19c8266fb03a4016fce49bab33fca381",
+                "sha1": "7ab6097e199328a31af2b27cbbcf6f36f0917fec",
+                "sha256": "38de0aa7947e9054a98660a2180805ae8834622204a975b3247ebb8a6235ec65"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Dropini.gbc",
+    "screenshots": [
+        "20110402_dropini.png"
+    ],
+    "slug": "Dropini",
+    "title": "Dropini",
+    "typetag": "game"
+}

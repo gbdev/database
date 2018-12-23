@@ -1,0 +1,41 @@
+Books of the Bible for Gameboy
+by: Danny H. Newport
+homepage: http://www.danny-newport.com
+email: dannynewp@aol.com
+
+Controls:
+A Button	Check your answer
+B Button	Get a Hint....first letter of the book
+Up Button	Increment book by 1
+Down Button	Decrement book by 1
+Right Button	Increment book by 8
+Left Button	Decrement book by 8
+Start Button	Reset game and scores
+Select Button	Options menu
+
+
+Options:
+view score	find out what your current score is
+start at NT	Start out at book one (Old Testament)
+start at OT	Start out at book 40 (New Testament)
+goto a book	manually enter the starting point using the keypad and 'A' button
+		use 'start' button when done
+view help	lists the controls menu again
+
+Scoring:
+10pts		correct guess entered
+-5pts		wrong guess entered after 3 guesses
+-1pts		for each hint 
+
+
+This program will start at book 1 of the Bible and will wait until you find the
+correct book and enter it using button 'A', at which point it will go to book 2
+and waint for the second book to be entered and so on.  The books are in alphabetical
+order and can be searched through using the keypad to either change the book listed 
+by 1 or 8 depending on which button you press.  If at any time, you get stuck, you can 
+just press the 'B' button to get a hint which will be the first letter of the book.
+For every correct answer entered, you get 10 points, and you lose 5 points for every 
+wrong guess entered, and you lose 1 point for every hint.  The game is done when you
+reach the end of the Bible at book 66 with a max of 660 points.
+
+God Bless.....Danny

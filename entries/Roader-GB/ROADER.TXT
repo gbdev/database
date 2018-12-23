@@ -1,0 +1,32 @@
+                         Roader GB (c) 1998 Jay Cook
+              jaycook1@juno.com     http://members.tripod.com/~ziel
+                        11-20-98   freeware Gameboy game
+
+- Intro
+
+    This is a simple game I wrote to learn how to program in C with a Gameboy.
+This will probally be the only version of this I put out, but if I do choose
+to make a new version it will most likely have sound and more variety in the
+track. The source is fairly messy and I if I were to sit down and reprogram
+it, there would be several things I would do different. But, this was mainly
+for me to learn how the Gameboy C compiler worked. I will probally put out at
+least one more Gameboy game, but don't hold me to that. Also, I have never
+tried this on a real Gameboy, only in emulators. If you get this dumped on a
+cart, please let me know how it runs.
+
+- Roader?
+
+    Where did this game come from? Back in the early 80's there was a computer
+magazine called Compute! Every month it would have games you could type up in
+basic for multiple computers. Roader came out sometime in 1984, and I thought
+that this would be a good game to start out with on the Gameboy.
+
+- How to play
+
+    You drive down this track that gets narrower the farther you go. The
+longer you play, the faster you drive. Avoid hitting the walls, and you will
+be good to go. Your game ends when you wreck your car(by hitting a wall). You
+control your car with the directional pad (left and right). In the main menu,
+use the directional pad(up and down) to move the cursor and hit start to
+make your selection.
+

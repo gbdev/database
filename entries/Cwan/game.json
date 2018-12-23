@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Sabre Wulf",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Cwan__(Gameboy).zip",
+            "hash": {
+                "md5": "f3844408b7927605427ef294cce341b30062ff17",
+                "sha1": "f3844408b7927605427ef294cce341b30062ff17",
+                "sha256": "19b4c3c09ed1dca56b11b77d8895799fca8337bcdb7075dcce45555266ce3e18"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Cwan.cgb",
+            "hash": {
+                "md5": "b747b5e2bff85547ff89d6fa113feab0",
+                "sha1": "29aa04ecf163072de431af8a1682eccccbe62977",
+                "sha256": "82ac45ce34d3b29ffa2a12400f6d8c4c1d8783d284b4ec39b29f76521656de39"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Cwan.cgb",
+    "screenshots": [
+        "20110402_cwan.png"
+    ],
+    "slug": "Cwan",
+    "title": "Cwan",
+    "typetag": "game"
+}

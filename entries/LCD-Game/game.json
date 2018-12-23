@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Dark Fader",
+    "files": [
+        {
+            "description": "release",
+            "filename": "LCD_Game__(Gameboy).zip",
+            "hash": {
+                "md5": "3b0cb17ecfa4c821f0406ae1cc01073a9c0f337a",
+                "sha1": "3b0cb17ecfa4c821f0406ae1cc01073a9c0f337a",
+                "sha256": "152fad7a3937d27226da0fe045fc98a2f464d2be4ff6c095eb1a319755891c41"
+            }
+        },
+        {
+            "default": true,
+            "filename": "LCDGame.gbc",
+            "hash": {
+                "md5": "461511f939e9c1b544f18a9e60995675",
+                "sha1": "d3f1569482a86c36eac394649bc4433fd93b51f1",
+                "sha256": "b07ac962a4bbc27058790bb58ca810ef1d4ee024e6e777d19687d98cac6db106"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "LCDGame.gbc",
+    "screenshots": [
+        "20110402_lcd_game.png"
+    ],
+    "slug": "LCD-Game",
+    "title": "LCD Game",
+    "typetag": "game"
+}

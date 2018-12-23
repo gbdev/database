@@ -1,31 +1,33 @@
 {
-    "date": "07-17-2005",
+    "description": "This game was made as an entry for the PDRoms Coding Competition 3.33.",
     "developer": "Dave VanEe",
     "files": [
+        {
+            "description": "release",
+            "filename": "Adjustris_v1.00_(Gameboy).zip",
+            "hash": {
+                "md5": "eed21f4127b2e6a355a0ee827835f0bf26124e01",
+                "sha1": "eed21f4127b2e6a355a0ee827835f0bf26124e01",
+                "sha256": "7197d12d1a242eb0aaafba65a55cc8c968062f311a560ebbaedba494bb8a501b"
+            }
+        },
         {
             "default": true,
             "filename": "adjustris.gb",
             "hash": {
-                "md5": "5c82e3b0bd96f2cf8d6ec61c73f600b8",
-                "sha1": "3384658a512bb5c0965fac1c0cff2fa6520dbf82",
-                "sha256": "b6c8affe6d906419cfc99ff459718f33a1868af03254a2f65cea2a9430394712"
+                "md5": "bc26b52dc0661fd20b754700d7a349ed",
+                "sha1": "61c0d3ab874786110b152e4ae183961bcf760744",
+                "sha256": "47f1fa0b5d0ee47f6380c8c388dce2a839f73a55cb4060a4decb44cf36c2a13b"
             },
             "playable": true
         }
     ],
-    "license": "CC0-1.0",
-    "onlineplay": false,
     "platform": "GB",
-    "repository": "https://github.com/tbsp/Adjustris",
+    "rom": "adjustris.gb",
     "screenshots": [
-        "screenshot01.bmp",
-        "screenshot02.bmp"
+        "20110402_adjustris.png"
     ],
     "slug": "adjustris",
-    "tags": [
-        "Open Source",
-        "Puzzle"
-    ],
-    "title": "Adjustris",
+    "title": "adjustris",
     "typetag": "game"
 }

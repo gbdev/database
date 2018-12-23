@@ -1,0 +1,53 @@
+King's Korner by Harold Toler, herg@bigfoot.com
+______________________________________________
+
+After writing Klondike, I had almost everything
+needed for this game, so I went ahead and wrote
+it in a few hours.  It is harder to win than it
+first seems.  Please send *ANY* comments or
+suggestions to my email address.
+
+
+Controls
+_______________________________________________
+
+D-pad: controls mouse pointer
+
+A:     Action button, used to click on spaces
+       and cards       
+
+B:     Same as clicking on dealt card hole,
+       changes mode from discard to deal
+
+SELECT
++DOWN: Redeals the cards
+
+
+King's Korner Rules
+_______________________________________________
+
+The object of King's Korner is to deal all the cards from the deck onto 
+the board and get rid of all cards other than the face cards.
+
+There are only four limitations to how you can do this: 
+· You cannot put a card on another card.
+· You must put kings in the corner spaces.
+· You must put jacks in the left and right non-corner spaces.
+· You must put queenss in the top and bottom non-corner spaces.
+
+Each time a card is dealt, click on the space (using the 'A' button) where
+you want to put the card.
+
+When you have filled all the spaces, you must then remove any tens or 
+pairs of cards which add up to ten. You do this by clicking on the cards; 
+if the card is a ten, it will be removed, otherwise a dot will be placed
+on the card to indicate that it is active and you will need to click on 
+another card which makes a total of ten.
+
+When you have removed all the cards possible, click on the dealt card
+hole or press the 'B' button and the cards will be dealt for you to refill 
+the spaces.
+
+You can get stuck in two ways: 
+· You can't place a dealt face card in any of its appropriate spaces.
+· You can't remove any cards after filling the spaces.

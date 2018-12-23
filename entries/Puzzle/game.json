@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Puzzle__(Gameboy).zip",
+            "hash": {
+                "md5": "d44774c2451feb804da04392e353eca43a04eb40",
+                "sha1": "d44774c2451feb804da04392e353eca43a04eb40",
+                "sha256": "d83ffafa067817d781f9018e2f60e25568d4ec1014feed1671e4f3e7ced6f44b"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Puzzle.gb",
+            "hash": {
+                "md5": "20ff6bc8d25e73588a8485257648e279",
+                "sha1": "6c3aafbbef2c59fd06431760d18aa7e82dc75c49",
+                "sha256": "0af4ea4f7cd9d06a7e3e53e924586bc529065e6051b088a2e5334834f9eeeb35"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Puzzle.gb",
+    "screenshots": [
+        "20110402_puzzle.png"
+    ],
+    "slug": "Puzzle",
+    "title": "Puzzle",
+    "typetag": "game"
+}

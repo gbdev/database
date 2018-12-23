@@ -1,0 +1,57 @@
+   OOOO
+ OO    OO
+OO      OO
+OO      OO  YY   YY     YY   YY
+OO      OO   YY YY       YY YY
+ OO    OO     YYY  OOO    YYY  OOO
+   OOOO       YY  OO OO   YY  OO OO
+             YY   OO OO  YY   OO OO
+            YY     OOO  YY     OOO	ver 0.7
+
+02 oct 1999
+
+
+Oyoyo is a game in a medieval time and start in a castle,
+you will need to use all your skill to pass the traps and dangerous places ! ;-) ... (just kidding)
+and as well you will encounter a terrible gardian ... MUSHBACK !!
+so to pass your way and found monney during your quest,
+you will need to hit him several times...
+
+
+Rules:
+
+at title screen
+---------------
+
+push START button to PLAY game
+
+
+in game
+-------
+
+push START button to PAUSE game
+push START button again to continue your quest.
+
+push B button to JUMP
+
+push A button to HIT
+
+to pass next level hit 6x Mushback and gain 6x the coins.
+
+at the credit screen
+--------------------
+
+push START button to comeback at the title screen
+
+enjoy :)
+
+
+regards
+
+G.Raimond <aka Lemon>
+
+Lemon@urbanet.ch
+
+
+
+if you finish all the levels you will have 1 more intermediate screen... (not a level!)

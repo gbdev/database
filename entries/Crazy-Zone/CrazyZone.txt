@@ -1,0 +1,16 @@
+	************************************
+	* Crazy Zone by Sam Blanchard 1999 *
+	************************************
+
+Instruction :
+
+Crazy Zone works only on Gameboy Color.
+
+press A to fire.
+press START to start or pause the game.
+
+you've got 2 lives to finish the game. Each life contains 2 hearts.
+When you collect 99 coins you win a life !
+
+Crazy Zone have only 2 levels cause I haven't got enough time but they are
+extremly hard (in my opinion ;-).

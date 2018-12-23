@@ -1,0 +1,67 @@
+===================
+QUADROP v0.9
+(c) 2003 Dave VanEe
+===================
+
+This game was made as an entry for the game portion of the PDRoms Coding Competition.
+
+The game is a variation on a common theme that I haven't seen implemented and thought could be somewhat entertaining.  Instead of the the 4-block pieces simply dropping downward, the pieces
+will start in the center and fall toward one of the four edges.  The fall direction begins as downward, and rotates clockwise after each piece is placed.  The current fall direction is indicated by the scrolling border as well as an arrow in the top-left of the screen.  Lines can be completed on all four edges and will result in the half of the screen on which the line was cleared falling toward the corresponding edge.  It's not as complicated as it may sound.
+
+Sadly I didn't get around to adding music.  The only way I would have managed it was with my own music player and you'll have to trust me when I say no music is better than that music.
+
+NOTE: The game should run on all gameboy systems, including the original.
+
+Legal:
+------
+I am releasing this work as freeware.  I really don't know what else to say about that.
+
+Controls:
+---------
+D-Pad - Move Piece
+A     - Rotate CCW
+B     - Rotate CW
+Start - Pause (press Select when paused to give up)
+
+Play Modes:
+-----------
+Infinite - Play until the playfield is 'full'
+10 Lines - Play until you clear 10 lines (time taken is your 'score'), or the playfield is 'full'
+
+The top 3 scores from each playmode are recorded.
+
+Tools Used:
+-----------
+RGBDS
+NO$GMB
+GB Tile Designer
+GBITOOL (pcx2gbi)
+GBX-Tool
+
+Special Thanks:
+---------------
+Kojote
+Duo
+Lord_Nigh
+Xyzzyx
+BigRedPmp
+joshua
+dox
+quang
+otaku
+
+#gameboy on EFNet
+
+Version History:
+----------------
+v0.93 Cart Type Fix (11-02-2003)
+ - Changed to cart type 3 from 9 because some emulators wouldn't load the game
+
+v0.92 Binary Fix (11-02-2003)
+ - Padded rom properly to allow use on a multi-rom cart
+
+v0.91 Bug Fix (11-02-2003)
+ - Changed a few constants which I had forgot to update after 'final' testing
+
+v0.9 Initial Release (11-02-2003)
+ - Not v1.0 due to possible unknown bugs as well as hiscore bug which improperly orders scores sometimes (cause unknown)

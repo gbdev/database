@@ -1,0 +1,17 @@
+Slippy for GameBoy
+Copyright (c)2000 Mattias Wadman <napolium@sudac.org>
+
+How to run:
+Run in an GameBoy emualtor or on the real thing.
+
+should run on a real GameBoy.
+thanks to "MoRpHiUs X" <phed_x69@hotmail.com> for testing
+
+Controlls:
+Arrows to move around.
+Move blocks: hold down B and press the arrow to the direction you want to push it.
+Change level: hold down SELECT and press left or right.
+
+Have fun
+-Mattias
+

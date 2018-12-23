@@ -1,0 +1,65 @@
+
+                                        ***Dynamite!!***
+             A Gameboy Color game by MattPW written for the GBDev2000 Competition 
+
+                               E-Mail - gbdev@dial.pipex.com 
+
+                        Web Site - http://www.gbdev.dial.pipex.com
+
+Introduction:
+-------------
+
+ This game is freeware may be freely distributed. It was written using GBDK and was finished in August 
+ 2000. It was designed for the Gameboy Color, and although playable on the original Gameboy system, 
+ the graphics look pretty terrible on it. The game also works much better on the real hardware rather 
+ than in an emulator, so if you have a GBXChanger or something similar, try the game out on your Gameboy 
+ Color and you'll find it's much more playable.
+
+Gameplay:
+---------
+
+ You are Dynamite Pete and you have been sent underground to defuse all of the dynamite that has been
+ left behind by the evil Bob the Bomber. Each stick of dynamite has a 20 second fuse, so you have that
+ long to get to the dynamite before it explodes. To reach the dynamite, Pete must sometimes push walls
+ out of the way, but he can only push a wall into an empty space. Therefore he must be careful that he
+ doesn't get himself trapped or blocked by the walls.
+
+ There is sometimes more than one stick of dynamite in each room. Luckily for Pete, they are all linked 
+ remotely, so he doesn't have to reach every one. If he manages to defuse one of them, they will all be 
+ made safe. Remember, pushing a wall over the top of a bomb doesn't defuse it, it just means Pete can't 
+ get to it!
+
+ This game has 29 levels, and hopefully it will take a while to complete. They start easy, but get harder,
+ and you can't just learn a sequence of movements for each level because they randomly flip in different
+ directions each time you play. I might write more levels in the future, but I didn't have enough time for 
+ this version. Once the GBDev 2000 competition is over, I'll probably release the source code on my site 
+ and if anyone can understand it, they can write their own levels for the game.
+
+Controls:
+---------
+
+ The controls are pretty obvious really, but here they are:
+
+ D-pad - This moves Pete in any direction. To push a wall just walk in to it. 
+
+ Start/Select - These buttons pause the game during play.
+
+Credits:
+--------
+
+ Thanks must go to the following people without whose programs this game could not have been written:
+
+   Pascal Felber's GBDK C compiler, now maintained and developed by Michael Hope - http://gbdk.sourceforge.net/
+
+   Harry Mulder - for his brilliant Gameboy Tile Designer and Map Builder
+
+   Peter Havelar and all the folks at Lost Boys Games for their GB Tile Quantizer - http://www.games.lostboys.nl
+
+   G.Raimond (aka Lemon) - for his Lemon tracker player - http://www.gbdev.org/lemon/
+
+   Fredrik Huss and Magnus Högdahl, the programmers of FastTracker, a music file editor.
+
+
+And finally, thanks to Quang for organizing this brilliant GBDev 2000 competition - http://www.quangdx.com/
+
+

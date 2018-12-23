@@ -1,0 +1,7 @@
+ .-/credits/--------------------------------.
+ |    code & msx: Wayne Kerr                |
+ |      font 1x1: from "Lucky Luke GBC"     |
+ |      font 2x2: Sector9^Razor1911         |
+_|__      player: Heatbeat^CNCD           __|_
+ | /_________________________[CPL/GBC/05]_\ |
+ '                                          `

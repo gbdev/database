@@ -1,0 +1,48 @@
+Instructions Paddle Mission - written by Jan Stiensma (jan.stiensma@hetnet.nl)
+------------------------------------------------------------------------------
+
+The goal of this game is easy: try to score 10 points.
+If the computer scores 10 points, the game is over.
+
+There are to paddles, the left one is yours:
+
+Sample playing situation:
+
+- - - - - - - - - - - - - - - -
+     You  2  -  1  Comp
+  _
+ | |				
+ | |			 _
+ | |		o	| |
+ |_|			| |
+			| |
+			|_|
+     
+     Chains       F.Paddle
+       3x	   23 sec		
+- - - - - - - - - - - - - - - -
+
+To make a point, try to bounce the ball along the paddle of the 
+computer. There are some items that can help you to do this.
+ ___			 ___			 ___
+|   |			|   |			|   |
+| B | = Fast ball (5x)  | C |  = Chains	(3x)	| P |  = Fast paddle
+|___|			|___|                   |___|     (30 sec)
+
+When the ball hits an item, and you've hit the ball as last, the item
+is yours. Otherwise the item is for the computer.
+
+When you've Fast ball, you can bounce the ball with some extra speed.
+Hold down A when the ball bounces on your paddle.
+
+HINT: For the quickest balls, you must hit the ball with the centre of 
+      your paddle holding A (when you have fast ball).
+
+With Chains, you can block the computer's paddle when pressing on the
+A button at any time. The paddle of the computer will be blocked for
+a short period.
+
+If you have Fast paddle, your paddle will be nearly 2 times faster as
+normal. So now you can block almost every ball.
+
+There are 7 levels, try to clear them all!

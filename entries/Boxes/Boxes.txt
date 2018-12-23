@@ -1,0 +1,58 @@
+B O X E S
+---------
+
+Boxes has been rewritten and rewritten by many people and companies alike. 
+Versions exist for the TI calculator series, as well as Nintendo's Nintendo
+Entertainment System (R), Gameboy (R), and Super Nintendo Entertainment
+System(R).
+
+Boxes was started without knowledge of its existance for any of Nintendo's
+consoles and/or handhelds.
+
+Boxes was created and prepared for Bung's 2nd Amateur GameboyTM Format 
+Games Coding Competition.
+
+How to play
+-----------
+Boxes starts with the bung logo, then proceeds to the boxes logo screen. 
+Press start and the game will begin.
+
+Move the crosshair around to push blocks onto their desired space without
+messing up.  
+
+Objective
+---------
+To get all boxes onto the desired target.
+
+A total of 32 levels exist, and it is possible to skip the level, restart
+the level, and/or reset the entire game.
+
+Upon beating the 32nd level, the game will restart at 1.
+
+Other
+-----
+Your game is saved automatically when you turn the Gameboy(R) off.  Once the
+power is turned on again, you will begin on the same level you left off.
+
+I had originally planned for a level editor along with other miscelleneous
+"goodies," but due to lack of motivation and commitment, they are
+unimplemented.
+
+Boxes is released under the GPL.  Please follow terms and such as stated in
+the "LICENSE" file.
+
+Programs Used in the Creation of Boxes
+--------------------------------------
+pcx2gb8 - http://www.ender.com/~adam/gameboy/pcx2gb8.tar.gz
+bin2c: included in package
+ggtedit: gameboy tile editor (available at request)
+GBDK - http://www.gbdev.org/gbdk
+
+
+Contact
+-------
+You can contect me, Chuck Mason, at the follow email address:
+
+chuckjr@sinclair.net
+
+Thanks.

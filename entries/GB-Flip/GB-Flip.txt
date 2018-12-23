@@ -1,0 +1,47 @@
+GBFLIP (preview version) 1999 Wooden Spoon wdnspoon@homepage.com http:/wdnspoon.homepage.com
+========================
+this game was written for bung's second game coding competition. here's how
+to play:
+
+Rules for playing GBFlip
+========================
+
+-position cursor over the blocks you desire to move using D pad.
+-press A and the cursor will change colour
+-while it is this colour, press a direction that you want to move the blocks
+the blocks will move as though they were being mirrored in the direction that
+was pressed. If you do not wish to move the block, just press A again.
+-the cursor will change colour again, during this time you cannot move, it's
+doing number processing
+-attempt to make rows of 3 or more same colour blocks. Once you have gotten
+rid of all the blocks then you have won.
+-if you are stuck on a level, press select and the level will reset
+
+Tips:
+=====
+-You must never get rid of blocks of a same colour if it will leave 2 or 1 blocks
+of that colour remaining
+-If blocks of the same colour are separated by an odd number of spaces, you cannot 
+have those two blocks meet. To get this two into a chain together, you must use a 
+block from elsewhere to attach them.
+
+Tools used:
+===========
+Pascal Felbers GBDK
+Harry Mulders GBTD and GBMB
+Rednex RGBFix95
+
+Programmed and ending picture art done by:
+================================
+Joshua Koudys (aka WdnSpoon, aka Wooden Spoon, aka Woodrow Spooner)
+
+the good art done by:
+==================
+Luke Weagent (maytag69)
+
+special thanks to:
+==================
+MegaMan_X
+Jarvik7
+sdfs
+and all the other #gbdev regulars

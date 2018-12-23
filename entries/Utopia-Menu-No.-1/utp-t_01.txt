@@ -1,0 +1,7 @@
+ .-/credits/--------------------------------.
+ |           code: Mr.Happy                 |
+ |            gfx: DeeKay/Crest             |
+ |            msx: Worthless                |
+_|__       player: BlackBox               __|_
+ | /_________________________[UTP/GBC/01]_\ |
+ '                                          `

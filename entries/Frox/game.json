@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Thorsten Stockmeier",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Frox__(Gameboy).zip",
+            "hash": {
+                "md5": "c047fbb0156a233820e792b70882b03a40a31a5a",
+                "sha1": "c047fbb0156a233820e792b70882b03a40a31a5a",
+                "sha256": "bf112427a57d545ee8a2221b963378c8c23620998bb0d6d8868a3615af9ad631"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Frox.cgb",
+            "hash": {
+                "md5": "3b7ecd7c840948118b8923618dc6f887",
+                "sha1": "2830b7218277c2056b249347c4beef4e3f91b8d1",
+                "sha256": "44270bbb80edab6682679cca4e79677e2fbb6a102a15b375a3ac2bcfb1f32941"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Frox.cgb",
+    "screenshots": [
+        "20110402_frox.png"
+    ],
+    "slug": "Frox",
+    "title": "Frox",
+    "typetag": "game"
+}

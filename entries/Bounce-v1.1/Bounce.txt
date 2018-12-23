@@ -1,0 +1,13 @@
+Bounce by Jarvik7
+
+Bounce the ball with your paddle and try to make computer miss.
+
+Created for the second Bung Coding Competition
+
+History:
+
+1.1
+Repaired complementary CRC error
+
+1.0
+Initial release

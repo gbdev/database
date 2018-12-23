@@ -1,0 +1,67 @@
+Noah's Arkaid                                             by Ed Mandy
+---------------------------------------------------------------------
+Concept:	We wanted to create a game that used the PocketVoice
+		to record and play sounds.  We came up with the idea
+		of a memory-like (concentration-like) game.  The
+		original idea was to create it so that the player
+		could enter animal sounds before playing.  Then, 
+		while playing, when the player chose an animal, 
+		that animal's sound would be played.
+
+Gameplay:	It's really easy.  Use the directional-pad to move
+		the pointer (a pointing hand) around to different
+		tiles.  If you move the pointer to a tile that you
+		are not able to pick, the pointer will change to a
+		closed fist.  Notice that it does this on the free
+		tile right away.  It will later do this on any tiles
+		that have already been matched and removed from the
+		playfield.
+
+		When you want to flip a tile over, move the pointer
+		to that tile, and then press the A button.  That tile
+		will remain face-up.  Then, flip over another tile.
+		If the tiles match, they will be removed from the
+		playfield.  If the tiles to not match, they will
+		remain face-up until you choose another tile.
+
+Technical:	I used GBDK to write this game.  I also used the
+		following programs/libraries to help me.
+
+		Used:	GBDK
+			GB Color Tiler
+			PalRed
+			Gameboy Tile Designer ("GBTD")
+			Gameboy Map Builder ("GBMB")
+			GameMan
+			PaintShop Pro
+			LemonPlayer
+			Sound.h (used until I got LemonPlayer working)
+			Borland C++ (for editing)
+			Windows Notepad (for editing)
+			Some other apps that I can't think of			
+
+Notes:		The PocketVoice functionality had to be removed due
+		to technical difficulties.  Recording and playback
+		worked, but I was unable to work correctly with the
+		PocketVoice ROM.  Hopefully, I can get that to work
+		in an upcoming release.
+
+		Also, look for my PocketVoice routines for GBDK.
+
+Thanks:
+		Name				What They Did
+		------------------------------------------------------
+		Ed Mandy (me)			(Everything)
+		Tonya Mandy (wife)		(Animals+Concept)
+		Tanya Swanson (friend)		(Intro Splash Screen)
+		Wooden Spoon			(Help via IRC)
+		David Pfeffer			(Sound.h help via ICQ)
+		Joshua Neal			(PocketVoice info)
+		Lemon@urbanet.ch		(Lemon Tracker Player)
+		Anyone that wrote an 
+		   application that I used	(Wrote an app. I used)
+
+Contact:	Please feel free to contact me for any reason.
+		Ed Mandy
+		emandy@atcorp.com
+		ICQ:  17868116

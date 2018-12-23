@@ -1,0 +1,17 @@
+The Horrible Demon 3
+by Bertil Horberg
+
+Created for the 
+Bung Amateur Gameboy TM Format Games Coding Competition      
+
+--==CONTROLS==--
+
+D-PAD: Move the character
+A Button: Jump
+B Button: Attack
+START: Pause
+
+Programmed through GBDK
+Graphics were created using Harry Mulder's GBTD & GBMB
+Music made with Lemon's Lemon Player
+

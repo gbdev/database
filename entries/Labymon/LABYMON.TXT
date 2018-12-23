@@ -1,0 +1,92 @@
+
+        
+        LL       AAAA   BBBBB   YY  YY     ''   MM  MM  OOOOOO  NN  NN
+        LL      AA  AA  BB  BB  YY  YY    ''    MMMMMM  OO  OO  NNN NN
+        LL      AAAAAA  BBBBB    YYYY           MM  MM  OO  OO  NN NNN
+        LL      AA  AA  BB  BB    YY            MM  MM  OO  OO  NN  NN
+        LLLLLL  AA  AA  BBBBB     YY            MM  MM  OOOOOO  NN  NN
+
+                                FOR COLOR GAMEBOY
+                             (: By  Joseph Norman :)
+
+	For Bung's 3 rd Amateur Gameboy TM Format Game Coding Competition
+
+1. What is it????
+
+   Laby'mon is a maze kind of game. But just not a maze game were you have to
+   go from start to end and hen next level. But not this game. You will have
+   to use your wits to find out secret passages, collect items, go through
+   doors, warp to different places on the map, and more! Also, it will make
+   you go crazy trying to guess your way out of some of the mazes :). In some
+   mazes, there will be spaces that will look like you can pass through. You
+   try to go through, but boom! You find out you can't pass through that
+   space. There will also be secret passages you will need to keep a look out
+   for, like spaces that look like walls, but really, some you can just pass
+   right through, like a blank space. Like MAGIC, huh (ya right)! Like I said,
+   some mazes will keep you puzzled for a while, so hang in there.
+
+2. How do I play this thing????
+
+   Like regular maze games, the object is to go from start to the end. But
+   on this game, you will experience a couple of obstacles. If you encounter
+   a blank space, you could either walk through it, or it might not be your
+   lucky day and you won't be able to pass through it. In a space that looks
+   all black (A.K.A. A wall), won't be able to pass through it, or you might
+   be lucky and ya will be able to pass through it. On a space that looks like
+   a door, you will either need a key that fits the perfect color of the door,
+   or you might not pass through. On a space that looks like a ladder, you
+   will be able to go to the next level, which is a good thing. On a space
+   that looks like a hole with a ladder, it serves a very good purpose in the
+   game, it does absolutely nothing! Actually it's where you start. On a space
+   that looks like a box with a color; it will transport you to a space that
+   has a little checkerboard like square with the same color. For all you
+   wondering what that little space that looks like a hole going to nowhere,
+   it is actually a pit that make you go back to the start. And finally, on a
+   space that looks like glasses; it will let you view all the invisible
+   spaces.
+
+3. What are the keys????
+
+   Well, it's simple. Like regular games:
+
+              GO UP
+                ^
+        GO LEFT< >GO RIGHT
+                V
+             GO DOWN
+
+   I guess you couldn't figure that one out, huh?
+
+4. A little history lesson
+
+   1-20-2000     First beta release to Bung Compo. and public	v0.0000000001
+
+5. Contact
+
+   For positive feedback on this game, go ahead and e-mail me at:
+   joseph_n15@hotmail.com. come on, I dare ya to e-mail me.
+
+6. Thanks to:
+   Pascal Felber, Michael Hope for their excellent C compiler (GBDK).
+   MegaMan_X his great graphic to gameboy format converter PCX2GB.
+   For all those people that keep making those GB programming tutorials.
+   And also ME, of course :)
+
+7. Last words
+
+   In the future, there will probably be another version available. In
+   upcoming versions, I know I could and will implement background music,
+   a level editor, more map objects, more levels, better control, a lot
+   better graphics (a lot better than seeing Mr. Stick), password features,
+   SRAM functions, the releasing of the source (only for this beta), a lot
+   optimizing in the code,.........the list goes on. I'm also working on a
+   HUGE Gameboy RPG game taking up a fourth of my time and also school
+   being in the way, especially for this is finals week, so I wouldn't
+   count on there being another version for a while.
+
+
+
+
+   
+
+

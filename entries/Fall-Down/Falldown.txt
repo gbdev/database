@@ -1,0 +1,38 @@
+=================================================================
+Fall Down
+David Phillips <david@acz.org>
+Assembly Coder's Zenith
+http://www.acz.org/
+=================================================================
+
+Fall down is a game for the Nintendo Game Boy or Color Game Boy.
+It should work on most emulators or on the actual Game Boy, if
+copied onto a catridge such as the one's from Bung Enterprises,
+Ltd.  The game was created for Bung's third programming contest.
+Their website can be visited here:  http://www.bung.com.hk/
+
+Playing the game is very simple.  At the title screen, press left
+or right to select a difficulty level: Easy, Medium and Hard.
+Then press start to play the game.  While playing, use the
+directional pad to move the ball left or right and fall through
+the holes in the bricks.  If the ball becomes trapped between the
+bricks and the top of the screen, then you die and the game is
+over.
+
+Your score increases while the ball is falling.  You do not earn
+points if the ball is sitting on the bricks.  If you beat the
+high score for the difficulty level that you are playing, then
+you can enter your initials into the game.  Use the A button to
+enter a letter, and the B button as a backspace key.  When done,
+move the cursor to OK and press the A button, or press the start
+button.  Your initials and high score will be shown on the title
+screen whenever that difficulty level is selected.
+
+When playing the easy difficulty level, the ball move twice as
+fast as the other two levels.  On normal, there are more chances
+of holes appearing than on the other two levels.  The playing
+field is randomly generated, so it is a different game everytime
+you play.
+
+Be sure to visit our website for more games and programs.  But,
+most importantly, have fun!

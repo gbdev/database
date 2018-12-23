@@ -1,0 +1,6 @@
+ .-/credits/--------------------------------.
+ |    code & msx: Wayne Kerr                |
+ |   logo & font: from C-64                 |
+_|__      player: Heatbeat^CNCD           __|_
+ | /_________________________[CPL/GBC/07]_\ |
+ '                                          `

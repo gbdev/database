@@ -1,0 +1,33 @@
+{
+    "description": "Collect all the ant eggs before the beetles get them or you!",
+    "developer": "Ed Federmeyer",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Ant_Hill__(Gameboy).zip",
+            "hash": {
+                "md5": "da41ef20936895cdf7869b01e1cc1f2d94c7ce97",
+                "sha1": "da41ef20936895cdf7869b01e1cc1f2d94c7ce97",
+                "sha256": "4ca3e4324de089f5fef3ba757478004f411c39da5d748f13ff7ca07e1a364f55"
+            }
+        },
+        {
+            "default": true,
+            "filename": "AntHill.gb",
+            "hash": {
+                "md5": "1b9ed9e8bd6cca730bf2d9964a94da92",
+                "sha1": "53d993c72bd84eb1bb021f145221ca70bd0f55fb",
+                "sha256": "501f182e0c886d271b97658d980615b689ec9bce38321d13fac4648e0721472b"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "AntHill.gb",
+    "screenshots": [
+        "20110402_ant_hill.png"
+    ],
+    "slug": "Ant-Hill",
+    "title": "Ant Hill",
+    "typetag": "game"
+}

@@ -1,0 +1,191 @@
+-----------------------------------------------------------------------------
+				POKE Mission 97
+                             For Nintendo Gameboy
+
+                          (c) Anders Granlund 1997
+   Original Atari ST code is copyrighted to Anders and Leif Granlund 1991
+-----------------------------------------------------------------------------
+                          DECICATED TO LEIF GRANLUND
+-----------------------------------------------------------------------------
+
+--> You may copy this game to whoever you want, but please make sure that
+    this document goes with it, please!
+
+--> Please let me know what you think of the game, my Email is at the
+    end of the document.
+
+--> If anyone is interessed in the sourcecode, please Email me and I will
+    send it to you. It's the first time I program in assembler, so don't
+    expect it to be well-done in any way (It's actually kind of crappy).
+
+-----------------------------------------------------------------------------
+!!		 This is the FINAL release of the game.
+-----------------------------------------------------------------------------
+!! Special thank to Michael J. Mika and Jeff Frohwein for testing this
+!! game on the real Gameboy and for all the GREAT help the have given me!
+!! Thank you very much!
+-----------------------------------------------------------------------------
+
+
+                            SOME HISTORY OF THE GAME
+                            ------------------------
+
+The first version of POKE Mission was written in 1990-1991 by Anders and
+Leif Granlund. It was written in STOS-Basic for the Atari ST.
+A couple of weeks ago I discovered the Dr.Pan of Anthrox document, and
+became more and more interested in programming on the Gameboy. I have
+never used assembler before, but thanks to the excellent document I soon
+learned how to use sprites, background, etc...
+There has been two official demo-versions (ver0.1 and ver 0.2) released
+before this FINAL version was completed!
+
+
+
+                                  GAMEPLAY
+                                  --------
+
+The rules of the game are simple:
+You controll the 'paddle' at the bottom of the screen, you can only
+move left and right. If you press A or B you fire a ball.
+At the top of the screen, a 'catcher' is moveing left and right, if you
+hit the catcher five times you advance to the next level. You get 25 points
+for each hit. When you have reached 3000 points you will be rewarded with an
+extra life!
+If an enemy hits you or your own ball hits you, you loose one life.
+There are 50 levels to conquer, so don't waste you time reading this, get
+to work!
+Have fun...
+
+Button		What it does
+------		------------
+A		Fire the ball
+B		Fire the ball
+START		Pause the game amd take you to the save menu
+Left		Move paddle left
+Right		Move paddle right
+
+
+
+
+
+
+			   SAVEING YOUR GAME:
+			   ------------------
+
+Just hit START during play, this will pause the game and bring you 
+to a menu looking like this:
+
+		PAUSED
+
+	    -> CONTINUE <-
+		 SAVE
+
+Use SELECT, UP or DOWN to change position of the arrows. START, A-button or
+B-button selects current option.
+
+Continue - takes you right back to the action...
+Save	 - saves the current game, the arrows will point at continue
+	   afterwards so just press button one more time to return to action!
+
+
+			  LOADING AN OLD GAME:
+			  --------------------
+
+If a saved game position is present, a menu will appear right after the
+titel sreen:
+
+
+	-> START NEW GAME <-
+
+	   CONTINUE SAVED
+	     (LEVEL xx)
+
+
+
+>use SELECT, UP or DOWN to change position of the arrows, and press START,
+>A-button or B-button to select option.
+
+START NEW GAME - You start a new game from level1
+CONTINUE SAVED - Lets you continue from your last saveing (at level xx)
+
+
+
+
+	   		   HISTORY SINCE LAST RELEASE
+			   --------------------------
+98/11/19
+* Added ten more levels, we are now at a total of 50 levels!
+* Save-game now reported to work on real gameboy! (Thanks Jeff)
+* Menus can be controlled with joypad, not only with SELECT
+98/11/18
+* Made the PAUSE menu look better.
+* Added ten more levels... We now have 40 levels of action!
+* Two more soundFX
+98/11/17
+* Added saveing options - thanks Jeff for the idea + help!
+97/11/12
+* Made the real "Finish-game" screen with music.
+* Added 14 more levels, now at a total of 30 levels!
+97/11/11
+* Added titelscreen music
+97/11/09 
+* Added two more enemy types
+* Fixed screen coordinate problems on real GB (Thank's Mike!)
+* There are now some preliminary sound FX 
+* Added eight more levels, total levels = 16.
+* Extra-life at 3000p
+
+
+Release date:				PREVIOUS RELEASES
+					-----------------
+97/11/08 - ver 0.2 (demo)
+* Worked on real Gameboy, but sometimes it misplaced the bakground.
+  
+97/11/06 - ver 0.1 (demo)
+* didn't work on real Gameboy nor no$gmb emulator
+* no sound
+* only two enemy-types
+* only eight levels
+
+
+
+
+
+				CREDITS
+				-------
+
+Dr. Pan of Anthrox
+Harry Mulder
+Jeff Frohwein
+Michael J. Mika of Genetic Fantasia
+Paul Robson
++Everyone else related to developement on the Gameboy!
+
+
+				
+			PROGRAMS AND STUFF I'M USING
+			----------------------------
+
+emulator:	mainly GB97!	(everything else is slow on my 486/66)
+				(VGB-DOS,NO$GMB is used for testing also)
+
+assembler:	TASM,		table by Jeff Frohwein
+
+tools:		GBTD, 		Tile designer for win95 by Harry Mulder
+		GFTile,		Tile-map maker for DOS by Mike Mika
+		Rollercoaster,	Sine and Random generator by Dr. Pan of Anthrox
+		GBDK sound ex.  For makeing the soundFX
+		RGBfix,		For validating header, by Carsten Sorensen
+
+documents:	Dr. Pan doc,	doesn't everyone!
+		Opode list,	by Jeff
+		+others..	Thanks to everyone who contributed!		
+
+
+
+Please Email me if you have any questions or comments about the game,
+or if you want the source-code.
+
+Anders Granlund.
+Email:    anders.granlund@sundsvall.mail.telia.com
+

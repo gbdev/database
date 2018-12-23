@@ -1,0 +1,15 @@
+-----------------------------------
+Rescue - 2002 Minigame Compo Entry
+-----------------------------------
+
+Author   : Tomasz Slanina  dox@space.pl
+Platform : Gameboy Color
+
+Don't shot, don't kill, don't eat -  rescue  ;)
+
+Controls are :
+ cursor keys - movement left/right
+
+Difficulty increases with the number of rescued ppls.
+Game has been tested on emulators and on a real GBC as well.
+

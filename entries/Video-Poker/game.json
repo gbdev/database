@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "David Etherton",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Video_Poker__(Gameboy).zip",
+            "hash": {
+                "md5": "298e2d88680e40e1e54cd4b7a0dfca44d4755bc4",
+                "sha1": "298e2d88680e40e1e54cd4b7a0dfca44d4755bc4",
+                "sha256": "29fa6a930f4eca758a112bcd98751b8d58e1e68f912f9f515522ba5daf98de6d"
+            }
+        },
+        {
+            "default": true,
+            "filename": "VideoPoker.cgb",
+            "hash": {
+                "md5": "58b0790f5cbd0d412249ef1d7b32730d",
+                "sha1": "e894ab04cb7953d106749c5f7896d16a7cdd9941",
+                "sha256": "928017656725d1596563b35691b4c5925cea1dc7a4fa418a20808a338a2ece64"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "VideoPoker.cgb",
+    "screenshots": [
+        "20110402_video_poker.png"
+    ],
+    "slug": "Video-Poker",
+    "title": "Video Poker",
+    "typetag": "game"
+}

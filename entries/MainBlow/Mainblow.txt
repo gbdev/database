@@ -1,0 +1,13 @@
+MainBlow for 4th Bungs competition
+
+Your target: drive jeap and fly to kill
+enemys and clear zone. Collect bonus to
+increase weapon and lives.
+
+Press any key to skip decruching.
+Press 'start' to run mission.
+Press 'select' to change jeap/fly.
+
+Good luck!
+
+Read more info in intro part.

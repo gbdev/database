@@ -1,0 +1,31 @@
+				Balloon Man v1
+			Presented by Dark Penguin
+
+                 Coded by Johan MacLeod (Mac)
+
+Background...
+			I have been programming for quite a number of years now. I started at school, learning Pascal
+and Basic for the pc. At university I learnt c and c++.
+			I have written amateur games for the playstation (I am a yaroze member) and the pc. A friend
+mentioned that the gameboy scene seemed worth looking into. Not long after I was hooked. I have always
+enjoyed "old style" type games and this is a platform which is eminently suited to that sort of game.
+This is my first game for the gameboy.
+			I decided to start off with something simple and here it is! It is based on the old kaboom/
+MadBomber type game. There is no sound at the moment as I have not yet looked into it properly.
+
+Instructions...
+			Stop the balloons from hitting the spikes. This is done by moving the small bat at the top
+of the screen left and right, catching the balloons before they burst.
+
+
+											Mac
+
+Please note:
+			This game is Freeware. It is allowed to be distributed as long as it is not sold for any
+profit, and is kept in its original state with this text file included.
+
+
+			Neither the author nor this game are affiliated with Nintendo in any way.
+
+
+

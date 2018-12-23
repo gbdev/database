@@ -1,0 +1,84 @@
+
+  ____
+ |  _ \ ___ ____
+ | |_) / _ \_  /
+ |  _ <  __// /
+ |_| \_\___/___|
+ 
+ by nitro2k01
+
+ What is it?
+ ===========
+
+ Rez is a unique synthesizer program for the Nintendo Gameboy.
+ It crudely simulates a resonant filter in a way inspired by the resonance
+ algorithm used by the Casio CZ series phase distortion synthesis. Whether
+ I've come close to this type of synthesis, I leave to the users of the 
+ program to decide. It can both produce sounds meant to emulate this 
+ effect, and sounds more reminiscent of a hard sync oscillator. It also
+ produces a graphical pattern on the Gameboy screen.
+ 
+ During the development of this program, I've encountered a number of 
+ subtle issues with the DMG hardware, which you can either see as bugs or
+ charming features of the hardware being (ab)used.
+
+ What should you run it on?
+ ==========================
+ 
+ Rez is intended to be used on real hardware, in particular on a DMG, the
+ original "brick" variety of Gameboy. If you wish to use an emulator, BGB
+ and Gambatte are good choices.
+ 
+ Honorary mentions go out to no$gmb, TGB Dual and smygb02 for sounding
+ glitchy in ways that may be interesting, even though they sound nothing 
+ like intended.
+
+ How does it work?
+ =================
+ 
+ In this version, the controls are simple. Up and down control the
+ "resonant frequency". Left and right control the "fundamental frequency".
+ Currently, the synth is not tuned to any scale, so you need to manually
+ tune it if you wish to use it with other instruments.
+ 
+ The values of these parameters are shown on the screen: The four hex
+ digit value is the resonant frequency and the two hex digit number is
+ the fundamental frequency.
+ 
+ A and B toggles between different waveforms which gives the resonance a
+ different character, from relatively smooth to harsh to a hard synced
+ sawtooth oscillator. 
+ 
+ On the far right (press A you can't get any further) there's a clean
+ sawtooth waveform. This waveform is unaffected by the resonant frequency
+ setting and may be useful for tuning the fundamental frequency to another
+ instrument.
+ 
+ There's a bug in the DMG hardware which sometimes causes the waveform
+ stored in the channel 3 wave RAM to be corrupted. You can press start
+ to enable a workaround for this issue, at the expense of a slightly 
+ different timbre. You may also choose to leave this off which randomly
+ and radically changes the waveform.
+ 
+ Pressing select shows the current contents of the wave RAM. This is a
+ debug feature that I used to debug the wave RAM bug. It may be of 
+ interest if you're curious.
+ 
+ All buttons can be used simultaneously.
+ TIP: Find a "sweet spot" resonance and fundamental setting and alternate
+ between holding left+up and right+down. This increases one setting and
+ decreases the other. This may can some nice effects.
+ 
+ Future versions
+ ===============
+
+ I have plans for more features for Rez, including among other things
+ better ways of controlling the parameters. I don't want to promise too
+ much yet, but MIDI input support (using Arduinoboy or Nanoloop MIDI-USB)
+ may be plausible. But I felt that I wanted to get a version of this out
+ the door to avoid tweaking the program indefinitely and never releasing 
+ it.
+
+ Rez is not shitwave 2. Don't believe the rumors.
+ 
+ http://blog.gg8.se/wordpress/

@@ -1,0 +1,68 @@
+       |\
+-------+-> ShutDown
+       |/
+
+
+=> Copyright (let's get it over with....)
+
+ Shutdown is (C) 1997, Adam Hay. This game is Freeware. this means
+that it can be freely distributed by anyone as long as the following
+conditions are met :-
+
+	* The ROM is distributed intact with no alterations
+
+	* No profit is made from it (a small amount to cover costs is
+	  acceptable if you are distributing on disks, CD's or
+	  attempting to put onto a cartridge (I cannot garantee this
+	  is possible)
+
+	* This program may be distributed with other programs or
+	  emulators as long as this file stays with it.
+
+	* This program is NOTHING TO DO WITH NINTENDO WHATSOEVER! it
+	  is not garanteed to work on a real nintendo and is not
+	  licensed by Nintendo. Nintendo don't even know I exist
+	  (It may be better to keep it that way...)
+
+
+=> The plot
+
+ I got bored on day sitting at my A3010, so I wrote this game. I got
+bored a few weeks later and converted it to run on the Gameboy. That's
+it. sorry that there's no damn aliens or conspiricies.....
+
+==> The Game
+
+ The objective of the game is simple - shut down all of the blocks.
+The problem is that each block affects its neighbours. 
+
+ Fig. 1
+
+     |u|+|u|	Key : - u - Unaffected block
+     |+|c|+|		+ - Affected block
+     |u|+|u|		c - The block that was clicked (Also affected)
+
+ The best way to understand the game is to have a try. the controls are
+simple. Pressing any of the direction keys moves the highlighted block
+around the screen. Pressing Gameboy button A (possibly A or ctrl on 
+your emulator) clicks on the selected block. Pressing start brings up
+the pause screen. Here you can see a reminder of the above diagram and
+also a readout of how many blocks are on or off at that time.
+
+
+==> Credits, thanks, etc.
+
+ Thanks to :- 
+
+	-pan- / anthrox for the gameboy docs,
+	Jeff Frohwein for the great technical pages and routines
+	Purple Monchichi for the Acorn Gameboy emulator
+	Pascal Felber for the GameBoy Development Kit (used to write this)
+
+-------------------------------------------------------------------------------------------------
+             For more Acorn RISC (And soon Nintendo GameBoy) freeware, Visit :-
+
+                     http://www.geocities.com/siliconvalley/way/9274
+
+                               E-Mail sack@cyberdude.com
+--------------------------------------------------------------------------------------[ Sack ]---

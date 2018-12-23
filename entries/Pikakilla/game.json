@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Dacotter",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Pikakilla__(Gameboy).zip",
+            "hash": {
+                "md5": "9473b786949ce32a19fc4b1fe4436d6dcbf9e4a0",
+                "sha1": "9473b786949ce32a19fc4b1fe4436d6dcbf9e4a0",
+                "sha256": "31fec3c0bc5616dac00809eb0276f6a68df5fcdb13258be77b2ce01f4bc3b27f"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Pikakilla.gb",
+            "hash": {
+                "md5": "3aae8067840c9d616bf25f7b2f832d9e",
+                "sha1": "dc80b9e4a556cb1d1b6c65c7c1e291ec71305947",
+                "sha256": "8438cbfcf1b1c6cb5bd13a5ab6bce0bb28e1379966ecc88990797658882827c1"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Pikakilla.gb",
+    "screenshots": [
+        "20110402_pikakilla.png"
+    ],
+    "slug": "Pikakilla",
+    "title": "Pikakilla",
+    "typetag": "game"
+}

@@ -1,0 +1,68 @@
+                             GBamaTron
+
+          Entry for the PDROMs coding competition 2.
+
+Platform: GameBoy classic (detects and utilizies the Color GameBoy).
+Author:   http://drhirudo.hit.bg drHirudo@Amigascne.org (Ventzislav Tzvetkov)
+Version:  1.0
+Type:     game/shoot
+
+
+Introduction
+------------
+
+You are Doctor Burkanovich, whose laboratory robots have mutated, gone crazy
+and they kill now. But not everything is lost. Thanks to the rechargable
+blaster, there is a chance for escape. Use it for annihilating the robots
+and keep away from the electrical walls. And watch out for Sonia and Doti.
+Good Luck!
+
+
+Controls
+--------
+
+During the game use the D-Pad for moving, A-Button to lock your firing
+direction, B-Button to forbid firing in left and right and Start for pause.
+The shooting is automatic.
+
+
+Bonuses
+-------
+
+On the higher levels they appear more often:
+
+Suitcase -  enhanced weapon;
+Pack     -  normal   weapon;
+Man      -  extra life;
+Bell     -  180 points;
+Crystal  -  150 points;
+Cup      -  110 points;
+Vase     -   88 points;
+Apple    -   85 points;
+
+
+Status
+------
+
+  This game is cardware. If you like it, please send me a postcard from
+your hometown. Thanks.
+
+
+Legal Issues
+------------
+
+  `GBamaTron' is provided  "AS-IS"  without any warranties. Although  I
+did my best for it being bug free,  there still  might be  some  hidden
+ones, of which I am not aware. That's why I am NOT responsible  for any
+damages caused by this software.
+
+
+Miscellaneous
+-------------
+
+  The game was developed from scratch after the announcement of the second
+PDROMs coding competition. The software used for creation was (All on Amiga)
+GBDK 2.1.0, Personal Paint 7.1, Wzonka-Lad 1.03, CygnusEd Pro V4.17,
+Programmer 2.0, Directory Opus 4.16, OctaMed 1.03c, AHX 2.0, AmiGameBoy,
+Next 3.6 and probably more. Full sourcecode with comments will be available
+on my website some days after the competition.

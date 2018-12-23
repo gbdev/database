@@ -1,0 +1,109 @@
+                                  DROPINI
+                                    by
+                     Shen Mansell (shenmansell@hotmail.com)
+
+    ------------
+    INTRODUCTION
+    ------------
+    
+    Dropini is an exciting puzzle game for the PC and gameboy. A variant of 
+    the ever popular Tetris, Dropini will provide you with several hours of
+    addictive gameplay a day. The two player version will allow you and a 
+    friend to battle it out for dropini supremacy.
+
+    ---------                              
+    THE STORY
+    ---------
+
+    Little balls of slime are falling from the sky and it is up to you to
+    color coordinate them in groups of four or more, allowing them to
+    disappear. Dynamite may also be used to help the little guys on 
+    their merry way.
+
+
+    -----------                           
+    HOW TO PLAY
+    -----------
+
+    Colored balls will drop in lots of two. These balls can be rotated using
+    the space bar, moved left and right useing the arrow keys and forced to
+    drop faster using the down key. If you have a score of more then fifty
+    then one ball may be turned into dynamite by hitting the enter key.
+
+    The object of the game is the join the balls into groups of four or more 
+    balls of the same color. When two balls of the same color are placed
+    next to each other they will join, and when four or more join in a group
+    that group will disappear.
+
+    When a group disappears you will get a score based on how many balls 
+    were in the group. the first ball in the group will score 1 point, the
+    second ball in the group will score 2 points, the third 3 and so on.
+
+    If you are able to make 2 group disappear with 1 set of falling balls 
+    then the score you receive will be the score of both individual groups 
+    added together then multiplied by 8.
+
+    For example:
+      a group of 4 balls will give you:
+         1 + 2 + 3 + 4 = 10 points
+      a group of 5 balls:
+         1 + 2 + 3 + 4 + 5 = 15 points
+      a group of 4 balls and a group of 5 balls:
+         ( 15 + 10 ) * 8 = 120 points
+
+    As you make more groups of balls disappear, the balls will begin to 
+    fall at a faster pace. Eventually the balls will slow down, but when
+    this happens, the minimum number of balls needed to make a group 
+    disappear will increase by one. So the first time the speed slows down
+    you will need to start making groups of at least 5 balls.
+
+    If you are playing a fast game then the game will end when you complete
+    50 lines, or the balls reach the top of the playing field. In a long 
+    game play will continue until the balls reach the top of the playing 
+    field.
+
+    
+    -------------
+    ABOUT DROPINI
+    -------------
+    
+    Dropini was written on a 386sx-20 using Turbo C++ version 3.0 from
+    Borland International, Inc. The amazing graphics for the game were 
+    draw by hand and scanned into the computer using a black and white 
+    hand held scanner, then colored in using the paint program included 
+    with Windows 95.
+
+    Several libraries developed by other people were used. Without their
+    help this game would have taken much longer to write and/or been less
+    excellent then it currently is. The libraries used are
+
+    The Modex105 graphics library by Matt Pritchard.
+    The SMIXC sound library by Ethan Brodsky.
+    The Fmplay music library by Ezra Dreisbach and
+    A joystick library by Simone Zanella.
+
+    The Gameboy Port uses:
+    GBDK v 2-1-0 by all the GBDK Team	
+    GBTD and GBMB by Harry Mulder
+   
+    --------
+    ABOUT ME
+    --------
+
+    The PC version of this game was primarily written in the period of 
+    time between finishing university and getting a job. I now work at the 
+    Wellington City Council as an applications programmer (C, Sybase and
+    Powerbuilder). The gameboy version was started on 19 Jan 2000.
+
+    ----------
+    DISCLAIMER
+    ----------
+
+    The author makes no warranty, express or implied, with respect to 
+    this software, its quality, performance, merchantability or fitness 
+    for a particular purpose. The author shall have no liability for 
+    special, incidental, or consequential damages arising out of or 
+    resulting from the use of modification of this software. 
+
+
+

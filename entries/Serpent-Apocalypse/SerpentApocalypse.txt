@@ -1,0 +1,23 @@
+SERPENT APOCALYPSE V.6
+
+Written for GBDEV2000
+
+REQUIREMENTS
+Gameboy Color or Gameboy Color Emulator.
+
+INSTRUCTIONS
+It's snake with a different name :)
+
+I'm sure there was a competent version of snake out there somewhere 
+for the Gameboy but I couldn't find it so I wrote this.
+
+MORE DETAILED INSTRUCTIONS
+Guide your serpent around the around the arena. Don't run into the glowing
+walls. Don't run into your own body. Do run into the people, chickens and 
+other snacks as they appear.
+
+CREDITS
+Code - Glenn Bussell
+Competent Gfx - Justin Rumpff
+Less Competent Gfx - Glenn Bussell
+

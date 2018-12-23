@@ -1,0 +1,23 @@
+Jumping Jack the Colour Gameboy Version - this one is 10k :)
+
+My first gameboy project - took 3 days with the devkit. Then an extra 
+day to fool about with the colour gameboy and get it to work.
+
+This is a conversion of the Imagine classic for the ZX Spectrum.
+You must try to get to the top of the screen and defeat all 5 levels.
+*This colour version will only work on the colour gameboy*
+ 
+Code - Craig Rothwell (craig@cdworld.co.uk)
+Font - Quang(?)
+
+Thanks to Quang for the source for JPDX.001 it got me started :)
+
+Other games etc... (inc the PC version of JJ & Jetset Willy):
+http://www.cdworld.co.uk/craig
+
+CD-ROMS etc... (ZX Spectrum):
+http://www.cdworld.co.uk/mmcd
+
+enjoy!
+
+-Craig. (Chuckie egg for the gameboy is next)

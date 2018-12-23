@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Craig Rothwell",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Project-X-Stream__(Gameboy).zip",
+            "hash": {
+                "md5": "77c015401175726c227dbf54380c00f5e98098af",
+                "sha1": "77c015401175726c227dbf54380c00f5e98098af",
+                "sha256": "fb781531dfc83c16cd676562b20766e6cf9c6811d5d1a78bfff8d0e90a49a54f"
+            }
+        },
+        {
+            "default": true,
+            "filename": "ProjectX-Stream.cgb",
+            "hash": {
+                "md5": "0338d5db5ce675b7526401e9ef3e4cdf",
+                "sha1": "952ae66d6264cd75ebe35a3a622ced5628d60810",
+                "sha256": "5925ddff056496dc648a904c6b9dbf44b3482651bebeeac68f24261aae973ffd"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "ProjectX-Stream.cgb",
+    "screenshots": [
+        "20110402_project-x-stream.png"
+    ],
+    "slug": "Project-X-Stream",
+    "title": "Project-X-Stream",
+    "typetag": "game"
+}

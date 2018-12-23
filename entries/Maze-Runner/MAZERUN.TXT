@@ -1,0 +1,48 @@
+Maze Runner
+Written by Jason for the GBDEV 2000 Contest (http://www.quangdx.com)
+drunk-ass@beer.com
+
+No chance of winning.
+Of course, in the time I've spent fucking around with ideas like this
+I could have made a decent game... =)
+
+Controls
+        Up - Move forwards
+        Down - Move backwards
+        Left - Turn Left
+        Right - Turn Right
+        Select - Restart
+
+There isn't a goal, nor badguys. It's just running around a maze.
+
+Source code is available from http://www.tripmode.com/gbdev/
+Feel free to take the source code, add some bad guys, etc, and
+enter yourself a game with a chance of winning... if you are so
+inclined to do so. =)
+
+Tools Used
+        GBDK 2.94
+        MS-DOS Editor 2.0.026
+        GBTD 2.2
+
+Thanks go to...
+        Quang Nguyen
+        Michael Hope
+        Jeff Frohwein
+Greetings go to...
+        Fogel
+        Aaron St. John
+        Danzig of Napalm
+        dox
+        Pascal Felber
+        Pan of Anthrox
+        Megaman_X
+        G_De_Sade
+        PhewwwSLP
+        And all the people I forgot but actually meant to thank
+
+And a special fuck you goes to...
+no one. you got lucky. =)
+
+And don't forget my T-Shirt. =)
+

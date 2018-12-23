@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Jon Wingrove",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Cyberball__(Gameboy).zip",
+            "hash": {
+                "md5": "7dec3c351b9cb5cf330c8b3a53dfffa244e50431",
+                "sha1": "7dec3c351b9cb5cf330c8b3a53dfffa244e50431",
+                "sha256": "09e9bbee7c4cc4b7bb1c93428aae57590c7e2aa45c07c6b322b83ec77699b487"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Cyberball.cgb",
+            "hash": {
+                "md5": "9144d33f9e9074fd0502173438a40596",
+                "sha1": "c3ebcf69b6bc6acde520c0b15c47133bbf917d9f",
+                "sha256": "35ebee6517c5d8564c3f15929b7fe8ed4c2dacc2c95803109077bd24afeece5d"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Cyberball.cgb",
+    "screenshots": [
+        "20110402_cyberball.png"
+    ],
+    "slug": "Cyberball",
+    "title": "Cyberball",
+    "typetag": "game"
+}

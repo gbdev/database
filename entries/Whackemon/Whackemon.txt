@@ -1,0 +1,51 @@
+Title:   Whackemon
+Format:  Gameboy Colour
+Coder:   Decay
+E-Mail:  gbce@lycosmail.com
+URL:     http://members.tripod.co.uk/GBCE/index.html (NOTE CASE)
+Music:   Nine Inch Nails, Lucys Drowning, Lacuna Coil, Magenta, more NIN!!
+Weather: Stormy :)
+
+
+Contents
+1. What's Whackemon?
+2. Controls
+3. Options
+4. Lucys Drowning
+5. Disclaimer
+
+
+1. What's Whackemon?
+====================
+Whackemon is a recreation of my favourite sub-game in Mystical Ninja on the SNES. 
+The idea of the game is to whack the critters that pop up before they disappear. There are 3 game modes, Timed Attack, Persecution and Whackathon, details are given in the game.
+
+
+2. Controls
+===========
+The board is split into two sets of holes, a left and right side. Each side has a top, left, right and bottom hole. To whack a hole on the left side you must press the B button and a direction (corresponding to the hole, ie: press up to hit the top hole) on the D-Pad. To whack holes on the right side press button A instead of button B. Start pauses the game, select (when paused) quits to the menu.
+
+
+3. Options
+==========
+Current options are...
+Time - the timer can be set to ether 30, 60, 90 or infinite
+Speed - sets the game speed to slow or fast
+Misses - for the whackathon mode, this is the number of times your allowed to miss. 0 to 4.
+Blood - choose sparkle or blood effects.
+
+
+4. Lucys Drowning
+=================
+Lucys Drowning is a great new band from Birmingham, if you like good music (NIN etc) then you'll like Lucys Drowning. Download free full tracks from...
+http://stage.vitaminic.co.uk/lucys_drowning
+http://lucysdrowning.iuma.com
+official site (not online yet) www.lucysdrowning.co.uk
+
+
+5. Disclaimer
+=============
+I do not have any association with Nintendo, or any of its affiliates. The names Nintendo and Gameboy are owned by Nintendo. I do not take any responsiblility for any crashes or loss of data or work that may occur from playing the game.
+
+Have fun
+Decay.

@@ -1,0 +1,32 @@
+Proxima Written by Alan Obee (C) 2001
+
+Plot
+----
+8 Alien battle cruisers are on there way to destory earth, your mission is to destory all the power units located on each cruiser which will then render it useless and allow you to continue to the next cruiser.  
+They will not go without a fight, each cruiser has patrolling enemy ships, you've been warned!
+The power units are square objects with a flashing center, and these are also located on the radar by flashing dots.
+
+Tips
+----
+Shoot enemy ships to release fuel dumps, and then collect.
+Avoid objects with shadows, they are raised from the surface and will kill you.
+Power-ups can be collected for rapid fire and other weapons.
+Try and keep note of where the enemy are on the radar.
+
+Instructions
+------------
+Hi-score table is located on title screen, and will appear after a short pause.
+
+In-game controls;
+A = Fire
+B = Toggle Music/Sfx
+Select = Pause
+
+Currently there are only two different levels which are then repeated.
+
+
+Name : Alan Obee
+Address : 10 Bliss Court, Brownswood, Milton Keynes, MK7 8DB, UK.
+Tel : 01908 365232
+Email :ado@apb.co.uk
+

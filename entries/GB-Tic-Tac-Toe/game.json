@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Norman Nithman",
+    "files": [
+        {
+            "description": "release",
+            "filename": "GB_Tic-Tac-Toe__(Gameboy).zip",
+            "hash": {
+                "md5": "acbf431a14b59de55bacbaa6575ec5b51294c0c4",
+                "sha1": "acbf431a14b59de55bacbaa6575ec5b51294c0c4",
+                "sha256": "a730ac8da432861678d7f3e3cd76a777a0b65d23d1791a55e9844866082faa5f"
+            }
+        },
+        {
+            "default": true,
+            "filename": "GB-TicTacToe.gb",
+            "hash": {
+                "md5": "b9a4d8316e3713ac17ac7acd5c24d92a",
+                "sha1": "34bb25e1eb34db01048b2e9b8f145ab592d57ecf",
+                "sha256": "f1c323066081a4ebfc201c3ebc1f75e7c199f90f370685d1a83a0762f28a37b2"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "GB-TicTacToe.gb",
+    "screenshots": [
+        "20110402_gb_tic-tac-toe.png"
+    ],
+    "slug": "GB-Tic-Tac-Toe",
+    "title": "GB Tic-Tac-Toe",
+    "typetag": "game"
+}

@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Lawnboy__(Gameboy).zip",
+            "hash": {
+                "md5": "4a9af00003306afd483a1b980f9b1318465417dc",
+                "sha1": "4a9af00003306afd483a1b980f9b1318465417dc",
+                "sha256": "c679ac2250f48a27b09da98a9da050605227526cfda1e11ac0f5e885f3f7d592"
+            }
+        },
+        {
+            "default": true,
+            "filename": "LAWNBOY.GBC",
+            "hash": {
+                "md5": "30029384d2f944a03f32c6e2a2ba42e0",
+                "sha1": "7d787640b32b45f36643f33ebe5defd676be5ebd",
+                "sha256": "d205ecd174ae36bae1ca2245d659872af8787621117a6527614359d417038b3d"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "LAWNBOY.GBC",
+    "screenshots": [
+        "20110402_lawnboy.png"
+    ],
+    "slug": "Lawnboy",
+    "title": "Lawnboy",
+    "typetag": "game"
+}

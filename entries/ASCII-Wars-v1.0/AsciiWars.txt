@@ -1,0 +1,27 @@
+ASCII WARS
+by Sean Hatfield
+v1.0
+
+
+ASCII WARS is my first gameboy program, and my first C program.
+
+The object is to shoot down as many UFO's as possible.
+
+Controls:
+
+Left 	- Move left
+
+Right 	- Move right
+
+A 	- fire
+
+Start	- Speeds up the game
+	  Also speeds through the title screens
+
+Bonus Life: Every 30 points
+
+Sound:
+The simple sound effects used in this game sound much better on real hardware than on VGB.
+
+The first few versions had 'safe spots', those have been removed by giving the ufos good aim.
+

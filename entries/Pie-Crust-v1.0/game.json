@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Jarvik7",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Pie_Crust_v1.0_(Gameboy).zip",
+            "hash": {
+                "md5": "d7d6e36b1d3584640970832cf67dd081a0408016",
+                "sha1": "d7d6e36b1d3584640970832cf67dd081a0408016",
+                "sha256": "516912edaf331dfed4ca399452ac3becfd5595375be3bf33ff52f17e7da601b2"
+            }
+        },
+        {
+            "default": true,
+            "filename": "piecrust.gbc",
+            "hash": {
+                "md5": "d076ab5be2ec4972376de685c3705ff2",
+                "sha1": "b01cad9652bf1c65151dd8d2bd21251a9cf44d43",
+                "sha256": "b82cf53a55e7d49ec90a9ccef6394576ed50d675e1d5194e6d7816a4a64107bc"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "piecrust.gbc",
+    "screenshots": [
+        "20110402_pie_crust.png"
+    ],
+    "slug": "Pie-Crust-v1.0",
+    "title": "Pie Crust v1.0",
+    "typetag": "game"
+}

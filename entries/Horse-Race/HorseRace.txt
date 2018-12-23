@@ -1,0 +1,43 @@
+                        Horse Race
+
+
+                       Users Guide
+
+
+
+
+
+                       Norm Cramer
+                  nscramer@earthlink.net
+
+
+
+
+
+
+Horse Race is a horse race betting game.  The goal of the game is to win as 
+much money as possible.  
+
+To play the game, press "START" at the Bung logo.
+Press "START" again at the introduction screen.
+
+The screen will show a list of horses and payoffs to choose from. Use
+the UP/DOWN arrows to select a horse to bet on. Use the RIGHT arrow or
+the "A" key to bet on the horse. When betting, use the LEFT/RIGHT arrows
+to select a digit to change, use UP/DOWN to change the digit. To place
+the bet press "A", to cancel the bet press "B". 
+
+You can bet on as many horses as you like.
+
+To start the race, move the arrow from the list of horses to the "Start
+Race" line. Use the RIGHT arrow or the "A" key to start the race. 
+
+The race track and the horses assigned to each lane are displayed along
+with how much you bet on each horse. As the race is run, dots
+representing the horses move across the screen. The dot to cross the
+finish line first wins. Press any button to continue. Next will be a
+display of the horses in finish order. If your horse wins, you win the
+amount you bet times the payoff. Press any button to continue. If you
+run out of money, the game is over and it will show the maximum score
+that you had. From the "Game Over" screen, press "START" to play again.
+

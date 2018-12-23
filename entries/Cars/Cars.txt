@@ -1,0 +1,25 @@
+
+CARS by Stefan Giesewetter
+
+
+General
+=======
+
+Drivers are lost in your home town. You have to show them the way out - and keep them from crashing into each other by placing road signs in their way. But for everyone who gets out, another lost drivers enters the town. How long can you handle it?
+
+
+How to Play
+===========
+
+At the beginning, a menu appears. Choose the number of cars, the cars' speed, and the difference of speed between the cars using the left, right, up and down button. Press START to start the game.
+
+You see a maze of streets. The cars are coming in through the 4 entrances at the border of the screen. Upon hitting a wall, they turn into a random direction. In the center, you see the cursor. Move it from one intersection to the other using the direction buttons. Place an arrow at the intersection by pressing the A button and a direction at the same time. Remove the arrow by just pressing the A button. The next car to reach the intersection will go where the arrow is pointing to. Also, you can stop an approaching car at an intersection by pressing the B button and the direction button of where the car is coming from. The stop sign will disappear after some seconds - and the car be loose again.
+
+Your objective is to steer a car out of the town into one of the 4 exits (entrances). Once the car enters the exit, you will receive 1 point - and a new car will enter the town at a random entrance. So, watch out that the other cars are not too close to the entrances at that time...
+
+Press START to restart the game and SELECT to bring up the menu.
+
+Have fun!
+
+
+

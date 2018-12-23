@@ -1,0 +1,7 @@
+ .-/credits/--------------------------------.
+ |          code: Wayne Kerr                |
+ |    logo & msx: Twoflower                 |
+ |          font: TCH^Brutal                |
+_|__      player: Heatbeat^CNCD           __|_
+ | /_________________________[CPL/GBC/04]_\ |
+ '                                          `

@@ -1,0 +1,436 @@
+ATTENTION:      PLEASE do not distribute YARS REVENGE without this
+!!!!!!!!!       document, or the files listed at the bottom of this
+                document.                         Thank you! -MIKE
+
+----------------------------------------------------------------------
+ VERSION 1.0
+                              Y A R S 
+
+                           R E V E N G E
+
+                       THE QOTILE ULTIMATUM!
+
+                          FOR GAMEBOY(tm)
+
+----------------------------------------------------------------------
+      Dedicated to Micki and Jenny because they accept our vices
+----------------------------------------------------------------------
+
+TABLE OF CONTENTS:
+
+0.0     History
+1.0     Why Yar's Revenge?
+1.1     Z80, Gameboy(tm) and the Universe
+1.2     YARS REVENGE <=> RAY'S REVENGE??
+1.3     Credit where credit is due!
+2.0     "You're a fly named Yar on a quest in space..."
+2.1     Scoring
+2.2     Controls
+2.3     Level Divisions
+2.4     Different Qotiles!
+3.0     Technical Information
+3.1     Debug Game Variables
+4.0     Who are these guys?!
+4.1     Brains for Hire
+5.0     Copyrights
+6.0     Thanks to all our Gameboyz...
+7.0     What is included
+
+0.0     History
+
+Here is a documented project history.  Not very useful, but helpful
+in tracking my insanity.  I have an old school pride in getting
+things done QUICKLY.  Thanks to folks mentioned throughout this
+document, I was able to do that.  All work was done in my free
+time (Which is VERY limited when you work full-time).
+
+12-13-96        ***** RELEASE DAY OF V1.0!! *****
+                Friday the 13th, our lucky day.  Game appears to
+                to be complete!  Final stages of bug reporting.
+                Initial release! Jeff Frohwein says it may not
+                be able to be burned, first time hearing about
+                update issues.  I'm gonna order a smart card
+                system!
+
+12-12-96        Added pause, fixed some bugs, added level
+                indicator.  Bob informs me he has reached
+                a score of 114,000.  Can I beat it?
+                looks like next week for release.  Just have
+                to bug check the whole thing.  Already laying
+                out plans for next project!  Mars Attacks!
+                comes out tomorrow at the show, how fitting...
+                I got 245,853 points!
+
+12-11-96        Fixed Quotile shooting bug (It didn't see you 
+                at the far right).  Fixed startup shooting bug
+                as well.  Also put x-limit on shooting so you
+                can't shoot cells from the far left!  Fixed
+                right boundary problems, fixed all collisions
+                for better accuracy.  Added more levels.
+                Added hidden *LEVEL SELECT*.  Added Qotile
+                sound effects based on DX/DY.  Added windup
+                effect for Qotile spin.  Bob got 140,000+
+                tonight!  MY GOD!  He's iNsAnE!  I think a
+                release is finally ready... a few more bug
+                fixes.
+
+12-10-96        Added High Score Keeping.  It seems to work.
+                Bob got 89,000+ last night!  Wowza.
+                Yar Overlay finished.  Got a new colorscheme!
+                Bob starts work on new driver, will be used
+                in upcoming Gameboy(tm) title (Not Yars!).
+
+12-09-96        Officially organized YARS.TXT and added GAME OVER
+                screen.  Damn, I need to organize my spaghetti-
+                like code! Scoring and free live conditions set.
+
+12-08-96        We now have score, levels, difficulty, intermission,
+                lives.  A new Intermission tune by Bob.  Bob and
+                Mike power-talk via e-mail.  Many code swaps done
+                through E-Mail.
+
+12-07-96        We now have collisions, effects, etc.  A sub-title
+                screen offers copyright info.  Sent source code
+                to myself in a sealed, postage marked envelope for
+                precautions.  (Not to protect money making potential,
+                just so I can take action against people who claim
+                it is THEIR work.  Feel free to rip my source, as
+                I have done to others.  But make sure you credit
+                those people!  I will gladly make source available
+                to trustworthy fellows!)  Also, I think I am wasting
+                too many cycles.  I will work on slashing code for
+                next revision.
+
+12-06-96        We have a Zorlon Cannon, a cruise missile.. No collisons.
+
+12-05-96        We have music.  My lame themes are replaced by Bob's
+                wonderful tunes.  Added more game elements.  Ripped  
+                GBAPA2 for line drawing routine to shoot SWIRL.  Took
+                me too long to figure out.  Wasted whole day!  I'm
+                a loser!
+
+12-04-96        Yar's is working!  I can recognize things.  Got it
+                moving with sound.  Found out Yar's was Girlfriend's
+                favorite game.  I did it on purpose (wink...wink How
+                did I know??)  She still calls me a nerd.
+                Bob wanted a sound tracker, he got one.  The worst
+                tracker ever made.  You go Bob.  
+
+12-02-96        Added control.  Wow, that HERO/ZERO document
+                rules.  POWER!  Think I'll make YARS.  
+
+11-30-96        We have sound!  Thanks PAN of Anthrox!  I can
+                also animate, Thanks me for being me!
+
+11-29-96        My first sprite and PCX conversion.  How good my
+                little sprite looks over a picture of Shaft Daddy
+                from the World Wide Waste (www.oeonline.com/~bip)
+
+11-28-96        Wow, I got a screen up.  It reads "John's Bogus
+                Adventure by McNeff Games"  (This was an inside
+                joke that lead to my first contact with GB
+                programming.)
+
+1.0     Why Yar's Revenge?
+
+As a child, I spent countless hours playing Yar's Revenge on the Atari 2600.
+It wasn't until a few years ago that I found another copy of the game that
+included the comic book (Which was M.I.A. amongst my other comics).
+I again became addicted to the game when John Dullea's PC ATARI emulator
+came out.  The choice was easy.  Among all other classic games, Yar's
+was the way to go.
+
+1.1     Z80, Gameboy(tm) and the Universe
+
+On 11-28-96, I downloaded a text file from a site on the internet called
+ANTHROX.  In it, a fellow by the name of PAN supplied some technical
+information on the Gameboy(tm).  After looking at it a while, I realised my
+classic C-64 assembly skills could be put to action and I quickly went
+to work on creating a text display.  Thanks to people like Jeff Frohwein
+and the folks at Damaged Cybernetics, I was able to download so much
+information that in about a week I was able to get a working, playable,
+copy of Yar's Revenge.   
+
+1.2     YARS REVENGE <=> RAY'S REVENGE??
+
+Oftentimes, when arcade games are copied for home video systems, the
+resulting game is a lackluster rendition of the original.  However, the
+designer of Yars' Revenge, Howard Warshaw, avoided this potential problem.
+"The original assignment was to do the coin-op game Star Castle," said
+Warshaw, "But I felt that the game would translate poorly into the 2600.
+My objective when designing a game is to achieve good play, not copy
+something regardless. So I topologically reconfigured Star Castle, added
+a few twists, and voila, Yars' Revenge was born."
+
+Although the marketing department usually decides on the name for a
+particular game, Howard used a little ingenuity to get the name he
+wanted on the product. "Marketing was considering a number of very lame
+names for the game. So I invented Yars' Revenge and actually wrote the
+story for the game that was done in a comic book and released with
+the game. The way I did it was to write the story, then "leak" some info
+to marketing that would lock up the title. The reason it is named
+YARS' Revenge, is that YAR spelled backwards is RAY. The CEO of Atari
+at the time was RAY Kassar. I told one marketing dude that Ray knew
+of the naming and was enthusiastic about it. I told him to keep this
+info to himself, knowing that it would be all over marketing in 2 hours.
+I also figured that no one in marketing would have the gumption to talk
+to Ray about this. So, they informed me in a couple of days that this
+title had been selected. I out marketed marketing."
+
+While at Atari (1981-1984), Howard also worked on the games Raiders of
+the Lost Ark and ET.  "Since I left Atari, I have gotten a California Real
+Estate Brokers license (hated real estate), written and published two books
+(one on a gambling card game called Pan, and another on how to have a
+stellar college career called Conquering College), I have done some
+teaching in business and some local colleges, I took the LSATs (91%),
+I am a photographer and recently received my certification in video
+production. I have already done a documentary on Russian immigration
+and a corporate piece for Tecnomatix."  Warshaw is currently writing CAD
+applications for Tecnomatix in San Jose.
+
+* Ripped from Activision's Classic Action Pack - Please do not be
+  offended Activision!
+
+1.3     Credit where credit is due!
+        (Original Game Credits for the Atari 2600)
+
+Original Cartridge Programmer                      ...Howard Scott Warshaw
+Writer                                             ...Hope Shafer
+Illustrators                                       ...Frank Cirocco
+                                                      Ray Garst
+                                                      Hiro Kimura
+Art Director                                       ...Steve Hendricks
+
+2.0     "You're a fly named Yar on a quest in space..."
+
+GAME PLAY  
+
+The primary objective of the game is to break a path through the shield,
+and destroy the Qotile with a blast from the Zorlon Cannon.  The
+secondary objective is to score as many points as possible.
+
+The shield is the moving area in front of the Qotile base.  It appears
+in one of two shapes, as an arch, or a shifting rectangle.  
+
+The shield is made up of cells.  The Yar scout can destroy these cells
+by firing at them with energy missiles, from any location on the
+playfield, or by devouring them on direct contact.  (The Zorlon Cannon
+can be used to demolish cells, but this is a waste of a powerful
+weapon.)
+
+Once a path has been cleared through the shield, the Zorlon Cannon 
+must be used to destroy the Qotile.  To call up the cannon, the Yar
+can either eat five cells, or run over the Qotile.
+
+The Zorlon Cannon appears on the far left side of the playfield, and
+moves in a direct line with the Yar.  This means the Yar is in its line
+of fire.  It is important, therefore, to aim the cannon at the Qotile,
+fire it, and fly out of the way FAST!
+
+The Qotile shoots off two weapons.  The Destroyer Missile and Swirls.
+The Destroyer Missiles come in a more or less constant stream, one
+at a time.  The Yar must do his best to dodge them.  Periodically the
+Qotile turns into a Swirl.  This Swirl winds up and rushes after the
+Yar.  A Swirl can be destroyed with the Zorlon Cannon by hitting it
+either in its base location, or in mid-air.  The further you go into
+the armada, the Swirl becomes increasingly dangerous.
+
+The glittering path down the center of the screen is the Neutral Zone.
+This area will protect a Yar from Destroyer Missiles, but not from
+Swirls.  While in the Neutral Zone, a Yar cannot fire any energy 
+missiles of his own.
+
+When a Yar is hit by a Destroyer Missile, a Swirl or his own Zorlon
+Cannon, he dies.  Each player has four Yars (Turns) to play in a 
+game.  Additional Yars can be earned.
+
+2.1     Scoring
+
+ACTIVITY                        POINTS          BONUS
+Cell, hit by missile            1       
+Cell, devoured by Yar           5               
+Cell, hit by Zorlon             10
+Qotile, destroyed               1000
+Swirl, destroyed in place       2000
+Swirl, destroyed in mid-air     6000            additional life
+
+2.2     Controls
+
+----------------------------------------------------------------------
+GAMEBOY         ACTION                          VGB-DOS
+----------------------------------------------------------------------
+D-PAD           Moves Yar in any direction      Cursor Keys/D-PAD
+BUTTON A        Fire missile                    Left Alt/A BUTTON
+BUTTON B        Fire Zorlon Cannon              Left Cntrl/B BUTTON
+START           Skip titles/Start Game/Pause    Shift/C BUTTON
+SELECT          Not Used. (?)                   Z/D BUTTON
+
+2.3     Level Divisions
+
+There are about 8 different level divisions, designated by the
+Yar Commander's quote before each level.  They are tightly spaced
+until you get into the higher levels, in which case the level
+divisions are about 60 levels apart!  There are 255 levels before
+it flips.  If you can get to level 255, you are too good for this
+game!  
+
+2.4     Different Qotiles!
+
+Yes, you heard it, throughout the heated battle different forms
+of Qotile will appear.  Later in the fight, you go up against
+the Elite Qotile Destroyers, which are protected by gigantic
+shields!  Also, beware of the Qotile tactics, they will do anything
+to destroy the Neutral Zone!  If you can last that long, don't
+fret, Planet 3 has some tricks up their sleeves to destroy the
+Qotile's ability to protect themselves!
+
+3.0     Technical Information
+
+If you have any questions on how we did it, we will gladly answer all
+e-mail (See Addresses Below).  
+
+The music is tracked by a rather shoddy driver.  It uses two track data 
+and a third metronome track using the noise channel.  A much more  
+advanced tracker is in the works by Bob.  Bob Baffy worked around my
+limited driver to produce the tunes you hear in the game.
+
+The graphics were created using Photoshop and GBCONVERT by HeroZero
+/OldSkool.  I use 8x16 sprite mode to make life a little easier.  I use
+two palettes, a flashing palette done by rotating the bits in the palette,
+and another that is the standard colors.  I move the neutral zone and Qotile
+shield by rotating the bits left or right, depending on the case.  
+
+I compile my work with TASM and the TASM69.TAB by Jeff Frohwein.
+I find that TASM is my favorite only because I know how to use it,
+and Jeff answers my questions!  Thanks Jeff!  I got around the
+32k barrier by simply addressing the $014000, and then padding it,
+then using the LD $2000,#.  Works like a charm. 
+
+All my variables are in $c000 and $a000.  Why?  I felt like it.  I split
+the two after I saw the GBAPA2 technical code that used variables in
+TASM.  I used his variable space ($c000) by default.  I also ripped
+his line drawing routine to figure out how to make the Qotile swirl
+aim at the yar.  You have to respect the GBAPA2...
+
+I tried everything on VGB-DOS by Marcel De Kogel.  Thanks Marcel for
+the incredible emulator!  If someone tries it on a Gameboy(tm) and it
+works, let me know, please!  I'm thinking about getting a Smart
+Card Backup System.  Somebody give me some information on this, or
+if you know of anyone who produces GB carts, I want to tote my
+Yar's around!
+
+I use GBTOOL by Rip of Masters of Magic to redo the complement check and 
+CRC check.  Why?  Because of the 32k limit on the crc.exe prg by Jeff.
+If you are writing under 32k, I highly recommend CRC.EXE for speed.
+
+How do I scroll the screen?  I use the built in scrolling on the
+Gameboy(tm).  The background stars are simply sprites to give the illusion
+of object scrolling.  It was a good speed and programming trick on my
+part. ;)
+
+I mapped everything by hand because I was too lazy to program an editor,
+and all current editors do not work on my system for one reason or 
+another.  I hope to make a map and character set editor soon.  Like Yars
+maps are complicated...
+
+3.1     Debug Game Variables
+
+BANK 0
+
+$a000   Yar Frame                       $a01e   Zorlon 0=no 1+=yes
+$a001   Anim count                      $a01f   Yar Lives Counter
+$a002   Yar X                           $a020   How much cells eaten?
+$a003   Yar Y                           $a021   Death Pause
+$a004   Last Control input              $a022   D.Timer A 
+$a005   Shot DX                         $a023   D.Timer B
+$a006   Shot DY                         $a024   Screen Wipe A Win!
+$a007   Active Shot DX                  $a025   Screen Wipe B Win!
+$a008   Active Shot DY                  $a026   Screen Wipe C Win!
+$a009   Shot Life                       $a027   Level #
+$a00a   SPR/BG X $ffx$ff to 32x32       $a028   Shield Scroll Delay Timer
+$a00b   SPR/BG Y $ffx$ff to 32x32       $a029   Shield Speed
+$a00c   Eat Count (Slow down eating)    $a02a   Swirl Attack Delay
+$a00d   Scroll fort up/down (0/1)       $a02b   Intermission Text Pointer
+$a00e   Character Beneath Yar           $a02c   Shield Morph Timer A
+$a00f   Destroyer Missile Speed         $a02d   Shield Morph Timer B
+$a010   ----                            $a02e   Score Digit    
+$a011   Base Shot Info A                $a02f   Score Digit
+$a012   Base Shot Info B                $a030   Score Digit
+$a013   Shoot Swirl? 0=no 1=yes         $a031   Score Digit
+$a014   Qotile Frame Count              $a032   Score Digit
+$a015   Qotile Shot Speed               $a033   Score Digit
+$a016   Qotile Mode 0=normal 1+=Deadly  $a034   HiScore Digit
+$a017   Counter Space 1                 $a035   HiScore Digit
+$a018   Counter Space 2                 $a036   HiScore Digit
+$a019   Counter Space 3                 $a037   HiScore Digit
+$a01a   Counter Space 4                 $a038   HiScore Digit
+$a01b   Destroyer Missile Speed         $a039   HiScore Digit
+$a01c   Yar Dead? 0=no 1+=yes           $a03a   Pause toggle
+$a01d   In Neutral Zone? 0=no 1+=yes
+
+4.0     Who are these guys?!
+
+Bob Baffy is a Web Designer, Artist, Music Engineer and Game Designer.  
+He works two jobs, one at a prestigious company, and the other 
+at Genetic Fantasia.  You can reach him at bip@oeonline.com.  He  
+is a nice guy and is willing to outsource his talent as well through
+Genetic Fantasia.  He has a family to feed, we can't give away ALL
+our work.
+
+Mike Mika is a Programmer, Artist and Game Designer.  He works  
+two jobs as well, one at a PC/POS/AUTO ID Distributor, and the other
+at Genetic Fantasia.  (No more third person)  I can be reached
+at mikam@smurfy.tcimet.net.  I'll answer all your questions if
+they are good (Just kidding!).  I encourage anyone with a passion
+for programming to contact me.
+
+Genetic Fantasia was founded in 1995 by Jeff Burke, Bob Baffy and
+Mike Mika.  It was created to develop software for the Atari Jaguar.
+It's potential claim to fame would have been Bomberman Legends,
+an Eight Player multi-link version of the Hudson Soft hit series.
+Though development was nearly finished, it was stopped when Atari
+could not negotiate the license.  No attempt to modify the game to
+every legal avenue was made to release the title because Atari hit
+the bottom by this time.  Other projects in the works are now being
+refitted for the PC and Playstation.  Current staff is five people,
+spread over every facet of development.
+
+4.1     Brains for Hire
+
+Genetic Fantasia is a third party developer willing to work on
+your projects.  We can support your visual and audio needs, as
+well as consult with you about game design.  We also have a series
+of games being dveloped that have not yet been marketed to publishers.
+If you are a publisher who is interested in what we have to offer,
+please contact us.  If you are a developer who needs a helping hand,
+we are ready to go.
+
+5.0     Copyrights
+
+Yars' Revenge is Copyright 1982 Atari, Inc. The gameboy code is
+copyright 1996 by Mike Mika and Genetic Fantasia.  This game is
+free to everyone.  The source will be made available to those
+who need it (Be forewarned, it is creepy).  Gameboy is copyright
+and trademarked by Nintendo.  
+
+6.0     Thanks to all our Gameboyz...
+        (Though they probably don't know us!)
+
+PAN of Anthrox (And all of Anthrox), Jeff Frohwein, Marat Fayzullin,
+Marcel De Kogel, Dave of Dave's Videogame Classics, Rip of Masters of
+Magic, HeroZero/OldSkool, DiskDude, Sean Whalen of Siamese Dream, all
+the guys at Damaged Cybernetics, MegaMan X, Yoshi, John Dullea, Sean Kelly,
+Nintendo, Norman Nithman, Matt Currie, Micah Dowty, Bob also thanks Mike for
+the introduction to assembly, which has renewed his interest in programming
+and restored his faith in humanity! ;) Howard Warshaw, Santa Claus
+(Thanks for the fruitful years), Jeff Burke, Jeremy Mika, Eric Auger,
+Typhoon Z, Big Weird, Vilewrath, Avatar Z, Bill 'The Classic Video Game
+Nut' McNeff, John Morawiec, Eugene Jarvis, Jeff Minter and Nolan Bushnell!
+
+7.0     What you should have:
+
+yar.gb                  -The game!
+yar.gif                 -The Super Stylin' Yars Overlay for VGB-DOS
+yar.txt                 -This text file
+yar.jpg                 -Yar's Revenge Conceptual Cover Art (We can dream)
+yar.bat                 -Batch file to run Yars with VGB-DOS SCHEMES

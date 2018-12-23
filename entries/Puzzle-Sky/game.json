@@ -1,0 +1,33 @@
+{
+    "description": "Your goal is to direct the little people to their homes. The little people are trapped in the sky, and you have to jump and walk on clouds to reach them. When you stand in front of a little guy you can toss him up, down, left or right. When the little people are in their homes (A,B,C\u2026), you have completed the puzzle. Watch out for the flying star!",
+    "developer": "Par Johannesson",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Puzzle_Sky__(Gameboy).ZIP",
+            "hash": {
+                "md5": "e0aaf626369354918181486fca2521d548c1a86c",
+                "sha1": "e0aaf626369354918181486fca2521d548c1a86c",
+                "sha256": "7c984a10d6cd50a3503647284bae19e3fa982dd5ef135be62691fbe6563f6299"
+            }
+        },
+        {
+            "default": true,
+            "filename": "PUZZLESKY.GBC",
+            "hash": {
+                "md5": "03e46bdaf3c58186c82bd30ab7a2a45e",
+                "sha1": "d8f9700f4d91a0777e2b2c3bd0be7fc507c99e48",
+                "sha256": "b53546dd781f3e4d8e1fc7d38583890696591e25c2d14c7aab52552c3f60c76c"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "PUZZLESKY.GBC",
+    "screenshots": [
+        "20110402_puzzle_sky.png"
+    ],
+    "slug": "Puzzle-Sky",
+    "title": "Puzzle Sky",
+    "typetag": "game"
+}

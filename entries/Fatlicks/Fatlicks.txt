@@ -1,0 +1,68 @@
+Fatlicks!  Created by Steve Jones, 26th September 1999.
+
+
+HowToPlay: Simple!
+
+Just move your mallet between the four holes using the D-pad, and press
+Button A to whack the Lickers!  Hit them and increase your score, get
+licked by them and lose a score! Beat the Hi-Score and award yourself a
+prize! (like having another go ;-)
+
+
+Why?: Because Lickers are up to no good. And its fun to hit Lickers!
+
+Why????:-)
+
+Well I wanted to enter a shoot-em-up for this Bung contest, but I had
+a lot of work to do to it, so I decided not to bother with an entry
+this time, and concentrate on the Year 2000 compo. But this was no fun!
+
+Five days before the 30th September deadline I decided to at least
+code something simple to enter. So I did this!
+
+And after being an Amusement Arcade engineer, working on various Namco
+mallet games (Sweetlicks, Cracky Crab ;-) I couldn't resist doing a
+simple version...
+
+
+But its called Fatlicks, I see no fat?:
+
+Yes sorry, I was initially going to use my fat brother as the Licker,
+using a GBCamera, so I designed the title graphics for this purpose.
+But I had to drop the digitised graphics as I had to spend too much
+time on them :-(  Don't worry, fat bro will now appear in his own
+virtual pet sim, called Super Virtual Fat Brother.
+
+
+Theres no sound!:
+
+Sorry again! Not enough time to code sound effects or music, I spent
+TOO much time on the graphics, then realised I had to code the game
+logic in ONE day! There will be sound in later versions, more tables,
+and MORE LICKERS!
+
+
+Later versions?:
+
+Yes, I'll code a special version, either for my Birthday in November,
+or a special Christmas one! With extra goodies! I just don't have the
+time at the moment, I'm moving to London now!
+
+
+How do I get this?:
+
+I'll post it everywhere I can when its ready, GB home dev rom scene
+gets bigger all the time!
+
+
+Contact?:
+
+Don't be offended if I don't answer you quickly, as I'll be living
+without a PC for a while now!
+
+My EMail is: sjones@dominionamtx.freeserve.co.uk
+I'm sometimes on EFNET IRC #GBDev as "scallywag"
+
+
+
+

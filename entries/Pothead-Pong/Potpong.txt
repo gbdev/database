@@ -1,0 +1,15 @@
+Pothead Pong
+by Psycosys
+for Bung's Second annual coding competition
+
+
+This is a game I (with the help of many others, Jason, Wooden Spoon,
+more who's names I can't remember) wrote for Bung's Second Coding 
+Competition.  It may look like pong but unless you've been smoking 
+something it won't play like pong.  The object is to hit the right 
+paddle as many times as you can because the more you hit it the more 
+points you get.  I think the controls are pretty obvious.  Hopefully
+my next game will be much better than this one.
+
+
+-Psycosys

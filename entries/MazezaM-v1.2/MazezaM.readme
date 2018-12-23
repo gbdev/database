@@ -1,0 +1,60 @@
+Short:    Puzzle game for the GameBoy Classic and GameBoy Color.
+Author:   http://hirudov.com
+Version:  1.2
+Type:     game/think
+
+MazezaM - a puzzle game
+
+Introduction:
+=============
+MazezaM (pronounced "may-zam") is a simple puzzle game. You enter the
+mazezam on the left and you have to get to the exit on the right by
+pushing rows of blocks left and right. If you get stuck you can
+retry the mazezam, but this will cost you a life.
+
+To the best of my knowledge MazezaM's specific game logic is original. 
+Unfortunately, there are so many puzzles out there that it is impossible for
+me to be sure. If you are aware of a prior instance of the idea, please get
+in touch. If possible, include a link which I can add to my web page.
+
+The idea for MazezaM came to me while recalling an Oric-1 type-in game
+called "Fall Guy" (from the book "Sixty Programs for the Oric-1" by Robert
+Erskine, Humphrey Walwyn, Paul Stanley and Michael Bews). The game play is a
+reminiscent of the game Sokoban (Thinking Rabbit, Inc) and also bears a
+resemblance to "sliding block" or "sliding piece" puzzles where wooden shapes
+are moved around in order to get a (usually larger) shape from one side of the
+puzzle to the other. The name "MazezaM" was suggested by Robert Byrne.
+
+
+The included prefs file is for use with Wzonka-Lad (The ultimate GameBoy
+emulator for Amiga). Download it for free from Aminet.
+
+New Levels Wanted:
+==================
+If you like this game and are good at designing levels, I encourage you to
+create levels and send them to any of the authors for include  in  further
+versions. Credit of course will be given.
+
+Original Sinclair and Java games - Copyright (C) 2002 Malcolm Tyrrell
+http://www.cs.tcd.ie/Malcolm.Tyrrell/
+
+Amiga Version
+Copyright (C) 2003-2005 Ventzislav Tzvetkov
+http://hirudov.com/amiga/Amiga.html
+
+Gameboy Version
+Copyright (C) 2003-2009 Ventzislav Tzvetkov
+http://hirudov.com/nintendo/MazezaM.php
+Developed using GBDK v2.1.0-1, Wzonka-Lad 1.03.00 and VisualBoyAdvance
+
+Oric Atmos Version
+Copyright (C) 2004-2008 Ventzislav Tzvetkov
+http://hirudov.com/oric/MazezaM.html
+
+Apple II Version
+Copyright (C) 2004 Ventzislav Tzvetkov
+http://hirudov.com/apple/Apple.html
+
+Commodore 64 Version
+Copyright (C) 2004 Ventzislav Tzvetkov
+http://hirudov.com/commodore/Commodore.html

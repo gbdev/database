@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Aaron St.John",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Skistyle__(Gameboy).zip",
+            "hash": {
+                "md5": "1c31ed4c78ab6f508f8e0b05007b92a59caa32a8",
+                "sha1": "1c31ed4c78ab6f508f8e0b05007b92a59caa32a8",
+                "sha256": "4bdd4a4e2a82a954e42d7debc0f817be496f3c5a8ec5696e71f2e35a045a2646"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Skistyle.cgb",
+            "hash": {
+                "md5": "cf386116a7e838ffa79b20dcc91f164a",
+                "sha1": "a478601eaaccace346f9b6f531d7e8532f39255f",
+                "sha256": "846d1f2dd32de50a918a5196583e40401e18f5e64b06bed2991232c183d8f534"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Skistyle.cgb",
+    "screenshots": [
+        "20110402_skistyle.png"
+    ],
+    "slug": "Skistyle",
+    "title": "Skistyle",
+    "typetag": "game"
+}

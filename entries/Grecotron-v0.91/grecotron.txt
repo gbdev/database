@@ -1,0 +1,45 @@
+===================
+GRECOTRON v0.91
+(c) 2004 Dave VanEe
+===================
+
+This game was made as an entry for the game portion of the PDRoms Coding Competition #2.
+
+This is my take on the llamatron style shooter.  You play the role of
+an upper-case sigma out to destroy waves of lower-case greek letters.
+Once the entire alphabet (24 letters) is dead, you've won!
+
+NOTE: The game should run on all gameboy systems, including the original.  Visual Boy Advance doesn't seem to like my random number
+routine, but it works fine with no$ and on real hardware.
+
+Legal:
+------
+I am releasing this work as freeware.  I really don't know what else to say about that.
+
+Controls:
+---------
+D-Pad - Move Around
+A     - Lock Firing Direction
+Start - Start Game
+
+Tools Used:
+-----------
+RGBDS
+NO$GMB
+GB Tile Designer
+GBITOOL (pcx2gbi)
+GBX-Tool
+
+Special Thanks:
+---------------
+Duo
+Kojote
+Lord_Nigh
+
+#gameboy on EFNet
+
+Version History:
+----------------
+v0.9 Initial Release (02-06-2004)
+v0.91 'Feature Update' (02-06-2004)
+ - Added speed increase and ordered enemies (game can now be beaten)

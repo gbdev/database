@@ -1,0 +1,33 @@
+{
+    "description": "The goal is to remove pegs from the board by jumping over each peg with another peg \u2013 this removes the \u201cjumped\u201d peg. Only horizontal and vertical jumps are allowed.",
+    "developer": "Dox",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Peggy__(Gameboy).zip",
+            "hash": {
+                "md5": "83efde8a909b8c3621503556df8edba92771d5eb",
+                "sha1": "83efde8a909b8c3621503556df8edba92771d5eb",
+                "sha256": "0f4e067d6f7baba9f330d88136a805230f73981280a3c83117ca0f676dbf5347"
+            }
+        },
+        {
+            "default": true,
+            "filename": "peggy.gbc",
+            "hash": {
+                "md5": "4fcc92cf90b8982f869616c6fa29ad83",
+                "sha1": "dd4dd7e04069405aceeee610e6d85c160803334c",
+                "sha256": "12adce53d2bd4b521626dda681493da1ccf9abd74eabd3b0b5190884a04b52e2"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "peggy.gbc",
+    "screenshots": [
+        "20110402_peggy.png"
+    ],
+    "slug": "Peggy",
+    "title": "Peggy",
+    "typetag": "game"
+}

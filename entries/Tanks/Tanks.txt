@@ -1,0 +1,25 @@
+
+TANKS
+
+(c) Martin Eyre 1999/2000
+
+3rd Bung Game Coding Competition 99
+
+The ROM file is named TANK.GB
+
+The Game has been written in C using GBDK version 2.1.5.  
+
+Graphics have been produced using Gameboy map builder Version 1.8 and Gameboy Tile Designer 2.1
+
+Music and sound was created using Crionics music player V4.5
+
+Full source code ,graphics and miscellaneous file have been included.
+
+The ROM file is a GB colour only file and uses Battery backed up RAM.
+
+The RAM can be reset by holding the START button while turning on the GAMEBOY, hold START until the title screen appears or tank.sav can be loaded into the gameboy SRAM.
+
+Object of game is to score as many points as possible by destroying the enemy tanks.
+
+A life is lost when you are hit by enemy fire, or the time runs down to zero.
+

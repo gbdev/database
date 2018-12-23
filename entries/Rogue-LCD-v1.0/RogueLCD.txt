@@ -1,0 +1,23 @@
+                      Rogue LCD v1.0   
+            by Haroldo de Oliveira Pinheiro
+
+        made for the PDRoms Coding Competition 2.5
+
+ This is my entry for the PDRoms Coding Competition 2.5.
+ It's a simple rogue-like game, made according to the rules 
+of the competition (Monochrome, no smooth scrolling, no 
+animation, no overlapping sprites, single sound channel).
+
+ The objective of the game is actually very simple: just 
+collect as much treasure as you can, an then find the 
+stairs to advance to the next stage, all the while avoiding 
+the enemies.
+
+ You gain an extra life for every 2 stages completed.  Enemies get faster and more agressive as you progress. 
+Each time you're hit by an enemy, you'll be teleported to 
+another location in the map of the current level.
+
+ Have fun!
+
+ My homepage is http://members.fortunecity.com/haroldoop
+ My e-mail is haroldoop@ig.com.br

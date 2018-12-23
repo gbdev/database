@@ -1,0 +1,7 @@
+ .-/credits/--------------------------------.
+ |             code: Wayne Kerr             |
+ |             logo: Fab                    |
+ |             font: Crest                  |
+_|__   msx & player: BlackBox             __|_
+ | /_________________________[PDX/GBC/01]_\ |
+ '                                          `

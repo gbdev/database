@@ -1,0 +1,17 @@
+		CYBER SQUASH
+(c) 2001 - Jordan Tuzsuzov - |Mordred|.
+
+Cyber Squash is an arcade sport game with rules similar to
+squash. The game runs with Nintendo GameBoy and GameBoy Color
+computer systems (or with PC or other personal computer with
+emulator - tested on PC qith REW and NO$GMB).
+
+Move your robot with the left and right keys of joypad, and 
+make large or small jumps with up/down and 'A'/'B' keys. 
+You can turn the sounds on/off with the 'select' button, and
+start/continue the game with the 'start' button.
+
+
+(c) 2001 - Jordan Tuzsuzov - |Mordred|
+http://mordred.8m.com
+mail:mordred@dir.bg

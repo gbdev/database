@@ -1,0 +1,21 @@
+Sabinov:
+
+Created by Keldon Alleyne and David Kirkland
+
+
+The game involved pressing the joypad in the direction of the oncoming warrior soldiers.
+
+When you miss the direction, your support walls break down and scatter around your wall, you can build them up by capturing more soldiers to build them back. The first two levels of the game are there to get you used to the game.
+
+After that it's all about reaching that top score. Also at the beginning of each level your wall is rebuilt, so there is nothing to worry about. The game is pretty short of many patterns, but this will be developped into hundreds of patterns to try out.
+
+
+
+Music: Keldon Alleyne		kel@immortalsgate.com
+Coding: Keldon Alleyne
+Graphics: David Kirkland
+
+
+42b Rosenthal Road
+Catford
+SE6 2BY

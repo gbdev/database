@@ -1,0 +1,9 @@
+GB Quiz For Kids
+(c) Antti Sepp„ aka inspeis!
+
+Compiler used: GBDK-2.0 beta
+Source and compiled versions included
+
+Gameplay is extremely easy. Just use "A" and "B".
+
+Contact: tribe@neutech.fi

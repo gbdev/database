@@ -1,0 +1,34 @@
+Welcome to Space Mission DX !
+-----------------------------
+
+This GBC game is based upon a 1987's(?) idea of Stefan Nowak.
+You must destroy all sattelites in each level with the gun of your
+starship, but the brakes of your starship are broken. D'oh ! So you also
+have to keep track of and avoid all the obstacles in the levels.
+
+You start with 3 ships, and for each finished level you get an extra
+ship. The status window at the bottom of the screen shows you the amount
+of sattelites left in the current level ("TO GO"). You have to
+destroy all of them.
+
+There are 3 difficulty levels to choose from: easy, medium and hard. The 
+only difference between them is the speed of your starship. The total 
+amount of levels is 10. New future versions of Space Mission DX will 
+probably contain more levels.
+
+
+Controls:
+
+Left, Right - Rotate your starship
+A, B        - Shoot
+Start       - Pause
+
+
+
+Have a lot of fun !
+
+Chris Nowak a.k.a. chn, 05-Jan-2001
+
+
+Chris Nowak  <chnowak@web.de>,   ICQ 40934944
+Stefan Nowak <gun.smoke@web.de>, ICQ 41330647

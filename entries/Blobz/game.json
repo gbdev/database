@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Dave Vanee",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Blobz__(Gameboy).zip",
+            "hash": {
+                "md5": "088c33dbdb072a5f1b33e5f9d24ec729088dd3c3",
+                "sha1": "088c33dbdb072a5f1b33e5f9d24ec729088dd3c3",
+                "sha256": "f423e45dfd61a43b121453b2d099f7ec5e5aa2de08b1b18b198760e2b7a9f7f1"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Blobz.cgb",
+            "hash": {
+                "md5": "c70b97595f37eaba889292b09099458a",
+                "sha1": "d8e60c95391f4687d6456b37e74db2cb58d17872",
+                "sha256": "1fd32c13505ac79fe9c2852f67143401e7bd3b055b2188ccd03e12b9eb765280"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Blobz.cgb",
+    "screenshots": [
+        "20110402_blobz.png"
+    ],
+    "slug": "Blobz",
+    "title": "Blobz",
+    "typetag": "game"
+}

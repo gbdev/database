@@ -1,0 +1,12 @@
+                - BALL -
+    A SIMPLE GAME BY TOMASZ SLANINA
+
+Tools Used:
+
+  - RGBASM 1.10
+  - TileBuddy 4.1
+  - GBTD 2.2
+  - ANMM v1.0 [private]
+
+Contact:
+ dox@malenstwo.iinf.polsl.gliwice.pl

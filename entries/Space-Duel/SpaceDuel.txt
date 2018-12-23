@@ -1,0 +1,83 @@
+
+Space Duel Readme
+-----------------
+
+It's a simple duel game written for the Bung's 2nd Amateur GameboyTM Format Games Coding Competition.
+
+It works both on the old gameboy and the gameboy color.
+
+1 How to play
+-------------
+
+The game starts with the bung logo.
+Then the main menu appears.
+You can move the "mouse" with the D-Pad, and click with both A and B buttons.
+
+2 Main Menu Items
+-----------------
+
+Start Game - opens the "start game" dialog box.
+Ship Factory - opens the "ship factory" screen.
+
+2.1 Start Game dialog box
+-------------------------
+You can choose your ship and the computer's ship by clicking on the "<<" and ">>". 
+The "Demo" option is only if you want a computer to fight for you. 
+After that, click on the "Let's start" button.
+
+2.2 Ship Factory
+----------------
+You must select the ship you want to edit.
+Then the ship editing screen appears, and you can customize it by selecting which items you want.
+
+2.2.1 Items
+-----------
+* Ship *
+
+It's self-explaining.
+
+* Core *
+
+The core produces energy for your ship.
+
+* Shield *
+
+The shield will protect your ship from the biggest damages. 
+
+* Engine *
+
+The engine permits your ship to move.
+
+* Weapon *
+
+I think it's obvious.
+
+* Price *
+
+The price is just an indication. This value is not used in game anywhere. 
+Therefore you may fight the 12000$ computer's ship with your 40000$ ship :-).
+
+3 The Game
+----------
+
+Once you started the game, you will see two ships. The ship on the bottom is yours. You can move it with the D-Pad, and shoot with the A and B buttons.
+There are three meters near the two ships :
+
+	Left to right :
+
+	- Energy meter : the energy produced by the core. When it reaches 0, you can't move or shoot.
+
+	- Shield meter : the shield protection. When it reaches 0, you aren't protected anymore.
+
+	- Health meter : when this meter reaches 0, the ship explodes.
+
+You can stop the game by pressing select and start during a short time.
+
+The game is saved when you turn the GB off.
+
+4 Me
+----
+
+I'm a 16 years old student and I live in Switzerland (in Geneva). I discovered the GB programming a year ago.
+
+e-mail : denisrosset@hotmail.com

@@ -1,0 +1,14 @@
+The aim of the game is to move the left and right to avoid the walls.
+A simple game but i've only been programming the GB for a week now.
+Check out my other entry (Viper)
+
+if you have any comments mail me at darren.scott@sci.monash.edu.au
+
+software tools used :
+Gameboy development studio (free of the web)
+includes tile edit
+pcx2gb
+Gameboy C (SDK from the web)
+
+
+  

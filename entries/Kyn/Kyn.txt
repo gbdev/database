@@ -1,0 +1,37 @@
+ ||  // ||  || ||    ||
+ || //  ||  || ||\\  ||
+ ||//   \\  // || \\ ||
+ ||\\    ====  ||  \\||
+ || \\    ||   ||   \||
+ ||  \\   ||   ||    ||
+
+        MANUAL
+
+-----------------------
+
+--==CONTROLS==--
+
+D-PAD: Move your ship
+A Button: Shoot
+START: Pause, skip title screens
+
+--==AIM==--
+
+The aim of the game is to shoot as many bubbles as you can.
+Every time you shoot 10 bubbles, the level increases and the
+bubble color changes.
+
+--==Powerups==--
+
+At level 3 a bonus ship will start to fly around, if you shoot
+it you will get a speed powerup.
+
+--==Credits==--
+
+Programming, GFX:
+Nick London (NutZboy)
+
+Programmed through GBDK
+Special thanks to everyone on #GBDEV
+
+

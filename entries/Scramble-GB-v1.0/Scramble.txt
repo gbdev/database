@@ -1,0 +1,28 @@
+
+Scramble GB -  A Torn-pocket production.
+-----------------------------------------
+
+Coding   : John Ward
+Graphics : Lee Bonner
+
+
+Written using GBDK, plus Harry Mulders excellent Tile and Map designers.
+
+
+A version of the all time classic arcade game, for colour gameboy.
+
+Version 1.00 - 28th March,2000.
+-------------------------------
+
+Known problems:
+
+No sound.
+Collision detection not fully implemented.
+Lives will decrease below zero (and continue forever)
+
+
+
+Any feedback would be appreciated - development will continue if the demand is there.
+
+e-mails to tornpocket@hotmail.com if you would like the source code...
+

@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Cosmigo",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Margo__(Gameboy).zip",
+            "hash": {
+                "md5": "6835dcb8d6c67b32f25c10bb618e83f1f6dc0d25",
+                "sha1": "6835dcb8d6c67b32f25c10bb618e83f1f6dc0d25",
+                "sha256": "100939a94ed8f61c60a986e429103a14f5eee49610216f37f023cc3513950954"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Margo.cgb",
+            "hash": {
+                "md5": "849f0a4b16ccb920036e95a2845bbc9b",
+                "sha1": "9792e7a877a92905c11889e3d3f6ac77f56ed102",
+                "sha256": "37dca0316e5d5dd96753ea6ed1f8fb1f2ad7d7083e361b224c2265a99e02671c"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Margo.cgb",
+    "screenshots": [
+        "20110402_margo.png"
+    ],
+    "slug": "Margo",
+    "title": "Margo",
+    "typetag": "game"
+}

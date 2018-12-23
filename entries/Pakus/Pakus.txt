@@ -1,0 +1,26 @@
+"PAKUS " CGB game
+
+Quick info for the game:
+Control Pakus character throughout several mazes collecting
+dots and bonus fruits. Avoid enemy ghosts trying to catch you.
+Find power dots to hunt ghosts. Take the opportunity to score
+extra points during challanging stages.
+
+Scoring:
+10 points for normal dot
+50 points for power dot
+200,400,800,1600 points for catching ghosts
+100 - 10000 points for bonus fruits
+3000 points for completing challanging stages
+extra live after 10000 points
+
+Keys: 
+press START button to start the game,
+SELECT button to pause and control pad to steer Pakus left,
+right, up and down.
+
+Please note that "Pakus" can be run only on COLOR GAMEBOY.
+
+
+Pawel Labojko
+pawl@polbox.com

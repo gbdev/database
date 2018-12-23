@@ -1,0 +1,11 @@
+                                          FIREGEAR
+                                 -------------------------
+                                     SHORT INSTRUCTION 
+    
+  There's shoot'em all game, you have good chance to kill enemyes, keep alive and
+complete your mission. You will meeting 12 different target types, include green
+bonus ship, meteors, mines. When you kill bonus ship you can received an additional
+weapon activated by 'B' button. You can have maximum: two shields (up/down - each for 1 point),
+two vertical fire balls - 2 points, one circle fire balls - 3 points, rear shield - 4 points,
+inivisible mode - 5 points.
+   Enjoy!

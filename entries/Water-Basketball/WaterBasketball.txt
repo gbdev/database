@@ -1,0 +1,18 @@
+-[ c o s m i g o ]----------------------
+
+       Just a little testgame from 
+            c o s m i g o .
+           only for BUNG #2
+
+         { WATER BASKETBALL }
+
+           code: pan|cgo
+           gfx:: pan|cgo (ingame)
+                 dsc|cgo (intro)
+           msx:: sorry no sound in
+                 this fast release
+
+  additional intro credits to sab|cgo
+
+contact us:   dsc@cosmigo.com    10:1999
+------------------------------------.:.-

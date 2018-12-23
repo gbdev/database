@@ -1,0 +1,127 @@
+                            AntiISDA Warrior
+
+                         by Ventzislav Tzvetkov
+
+
+                             GameBoy Version
+
+                            v1.0 (26.12.2003)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+
+Introduction:
+=============
+
+  Your server full with all those 15 years old GameBoy software, of  which
+nobody cares anymore since ages, unfortunately is being attacked by some
+ISDA agents and they want to format your only hard disk you ever owned.
+
+  They are attacking from various ports,  so you have  to aim your  ping
+bombs more precisely with the cursor keys. Press A or B to shoot.
+
+Controls:
+
+Use the Control Pad to aim and A or B to shoot.
+
+Good Luck.
+
+--
+
+Български:
+==========
+                            АнтиИСДА Боец
+
+  Сървъра ви пълен с 15 годишен стар АйБиЕм софтуер,за който никой не го
+е грижа от цели епохи, за нещастие е атакуван от няколко  ИСДА  агенти и
+те искат да форматират единствения диск, който някога сте имали (40МБ).
+
+  Тъй като те атакуват от различни портове, е необходимо да насочвате
+по прецизно пинг-бомбите си със стрелките. Натиснете Интервал за стрелба.
+
+Управление:
+
+Изполвайте контролера за управление и A или B за стрелба.
+
+Успех.
+
+--
+
+Credits:
+========
+
+  "AntiISDA Warrior" - is Copyright 2003-2004 © by Ventzislav Tzvetkov.
+
+  Reach me electronically at:
+ 
+   drHirudo@Amigascne.org
+
+   http://drhirudo.hit.bg
+
+  Or by snail mail at:
+  
+   DrHirudo / Void
+   Ventzislav Tzvetkov
+   Druzba 2 Bl. 419 Wh. A Ap. 29
+   1582 Sofia
+   Bulgaria
+
+ This game is also available for PC, Amiga, Sinclair ZX Spectrum, Apple
+ II and  Oric.  Versions for other platforms are/will be available from
+ my site.
+
+--
+
+Legal Issues:
+=============
+
+  This software can be freely copied, as long as it remains in its
+ original form, and the archive is intact.
+
+  `AntiISDA Warrior' is provided  "AS-IS"  without any warranties.
+Although I did my best for it being bug free,  there still might be  some
+hidden ones, of which I am not aware. That's why I am NOT responsible for
+any damages caused by this software.
+
+--
+
+Sources:
+========
+
+The sources are available for every specific platform in the particular
+archives.
+
+The GameBoy version was compiled with GBDK v2.1.0-1. For testing
+Wzonka-Lad and AmiGameBoy emulators were used.
+
+The PC version was compiled with Borland Turbo C++ v1.01, on PC-Task 4.4.
+For text editor Cygnus-Ed Pro V4.17 was used, and for writing to the
+hardfile - mshf.device from PCx v1.1.
+
+The Amiga version was compiled with VBCC v0.8. EditPad was used for
+editor and Personal Paint 7.1 for some drawings.
+
+The Apple 2 version was written directly on Apple2000e (The Apple 2e
+emulator for Amiga), and compiled with TASC.
+
+The Oric version was written directly on AmOric V1.5 - the Oric emulator
+for Amiga.
+
+The Sinclair version was written directly on ZXAM 2.0B - Sinclair ZX
+Spectrum emulator for Amiga.
+
+--

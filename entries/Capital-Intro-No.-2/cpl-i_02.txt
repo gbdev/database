@@ -1,0 +1,6 @@
+ .-/credits/--------------------------------.
+ |          code: Iopop                     |
+ |     gfx & msx: Twoflower                 |
+_|__      player: Heatbeat^CNCD           __|_
+ | /_________________________[CPL/GBC/03]_\ |
+ '                                          `
