@@ -17,4 +17,5 @@ On the result:
 Those issues had to be fixed manually:
 
 - *FGB, Binary Chaos, Pazeek, Jumping Jack, Run!!, Espionage* had nested folders and/or zipfiles, so the ROM file had to be found and moved manually
-- Duplicates: 
+- Duplicates: Zoomar, 
+- Removed: Wario Land (copyright?)
