@@ -131,9 +131,10 @@ const fileQueue = async.queue(function ({ url, thumbnail, title, author, descrip
 					const remotePath = URL.parse(thumbnail).path
 					const path = PATH.format(PATH.parse(remotePath))
 					const file = PATH.basename(path)
-
-					json.screenshots.push(file)
-					pipeline(res, fs.createWriteStream(PATH.join(dir, file)), cb)
+					
+					const file2 = file.replace(/\?is-pending-load=1/g,'');
+					json.screenshots.push(file2)
+					pipeline(res, fs.createWriteStream(PATH.join(dir, file2)), cb)
 				})
 			},
 			(cb) => fs.writeFile(PATH.join(dir, 'game.json'), JSON.stringify(json, null, 4), cb)
