@@ -1,0 +1,10 @@
+ .-/credits/--------------------------------.
+ |            code: sekret                  |
+ |            logo: from C-64               |
+ |           fonts: Arcade                  |
+ |    msx & player: "0x99ED:0xDE GBC"       |
+ |                                          |
+ |           notes: NEVER RELEASED!         |
+_|__                                      __|_
+ | /__________________________[OS/GBC/01]_\ |
+ '                                          `
