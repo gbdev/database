@@ -1,0 +1,15 @@
+NAME            : NINETY
+HARDWARE REQ    : GBC
+ROM/RAM         : 32 KB / 0 KB
+AUTHOR          : Tomasz 'DOX' Slanina
+                  dox@malenstwo.iinf.polsl.gliwice.pl
+TOOLS USED      : RGBAsm, Tilebuddy
+
+NOTICE :
+Rotate gbc 90 degrees clockwise !
+All datas are PRECALCULATED.
+NO SOUND :(
+
+To organizers:
+   Rice is better than origami.
+

@@ -1,0 +1,37 @@
+==============================================
+
+		SHEEP IT UP!
+
+	   A Game Boy game by Dr. Ludos
+
+==============================================
+
+Sheep It Up! is an arcade game where a sheep has to climb up by hanging himself to flying velcro straps. 
+
+The concept is simple, but the game rapidly gets quite challenging: how high can you climb without falling down?
+
+==============================================
+	       ROM or cartridge?
+==============================================
+
+You're currently playing a "Free ROM" version of the game. Feel free to distribute it to anyone you want! 
+This ROM will work on any GB/GBC emulator or any Game Boy model: from the original Game Boy to the Game Boy Advance SP including the Game Boy Pocket, the Game Boy Color, the Super Game Boy and the Game Boy Player!
+
+If you want to support the game, you can buy it on a beautiful cartridge right here:
+https://catskullgames.com/sheep-it-up
+
+In any case, I really hope you'll enjoy the game!
+
+==============================================
+		  MAKING OF
+==============================================
+
+I wrote a detailed article about how the game was made, including a lot for details on how the Game Boy works (tile based display, audio generation, making cartridges...).
+
+If you're interested, you can read it online:
+https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/
+
+==============================================
+Cartridge release date: October 20th, 2017.
+FREE ROM release date: March 26th, 2018.
+==============================================

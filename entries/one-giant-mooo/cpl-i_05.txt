@@ -1,0 +1,11 @@
+ .-/credits/--------------------------------.
+ |           intro: "One Giant Mooo"        |
+ |   code & design: sekret                  |
+ |            font: Arcade                  |
+ |             msx: Mast (ZX Spectrum)      |
+ |          player: Freeman^FTL             |
+ |                                          |
+ |           notes: NEVER RELEASED!         |
+_|__                                      __|_
+ | /_________________________[CPL/GBC/09]_\ |
+ '                                          `
