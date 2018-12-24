@@ -1,0 +1,34 @@
+ #              |
+ #              | A short little demo for the Nintendo-GameBoyColor,
+ #              | producted and copyrighted by Cheese-d33p-Entertainment.
+ #  i t t l e   |
+ #              | Released for Lik-Sang's Y2KODE handheld compo, Feb, 2001.
+ #  $$          |
+ ##@##$         |
+   $            |
+   $            |
+    $           | Quick Kredits:
+     $ h o r t  | Code, Musik,gfx(?): Oyd11
+     %&         | Additional [help | moral support | ideas]:
+   $ %$%        | Quasi and ravEon>
+    $&  %       |
+     %  %       |
+     %  % e m o |
+     % %        |
+     %%         |
+----------------+.
+                .
+
+~/gb/src/lsd $cat *.asm *.inc | perl -n -e 'print unless (/^\s*$/ or /^\s*;/);' | wc -l 
+   8393
+
+-----------------------------------------------------
+      _
+     / ` |    _   _   _   _
+    (    .-. ._) ._) (_` ._)      _(      _
+     \_, ( ) \_, \_, ._) \_,     (_) 3 3 (_)
+                                         (
+
+Copyright:
+    (c) Cheese d33p Entertainment, 2000 - 2001.
+

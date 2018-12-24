@@ -1,0 +1,19 @@
+CNCD_CIRCLE1886.gbc
+===================
+
+Contribution to 64K Intro Competition at Proxy 1886 in Kannus, Finland
+
+Music, graphics and programming by Aleksi Eeben
+HiColour Convertor written by Glen Cook
+
+
+The intro won't work correctly on any software emulator!
+
+If you don't own a Game Boy Color try the VGBC emulator by Rusty Wagner.
+
+'cncd.gif' is included to give some idea of what the end part looks like
+on the real hardware.
+
+
+email: aleksi@cncd.fi
+http://www.cncd.fi/aeeben

@@ -1,0 +1,8 @@
+ .-/credits/--------------------------------.
+ |           menu: "Are you real?"          |
+ |           code: sekret                   |
+ |    logo & font: from C-64                |
+ |            msx: Deetsay                  |
+_|__       player: Heatbeat^CNCD          __|_
+ | /_________________________[DCS/GBC/07]_\ |
+ '                                          `

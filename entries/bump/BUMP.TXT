@@ -1,0 +1,14 @@
+NAME            : Bump
+HARDWARE REQ    : GBC
+ROM/RAM         : 32 KB / 0 KB
+
+CODE            : DOX
+                  dox@malenstwo.iinf.polsl.gliwice.pl
+GFX             : FAUST
+                  kkarkosz@mail.jagliellonia.krakow.pl
+MUSIC           : YERZMYEY/H-PRG
+                  hprg@priv1.onet.pl
+
+PLAYER          : MUSIC BOX
+
+

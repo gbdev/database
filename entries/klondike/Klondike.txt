@@ -1,0 +1,31 @@
+Klondike by Harold Toler, herg@bigfoot.com
+______________________________________________
+
+Here is my first attempt at a Gameboy game. I
+hope you enjoy playing it as much as I enjoyed
+writing it.  Please send *ANY* comments to my
+email address.  It works on emulators in both
+color and B/W modes, but I can't test it on a
+real Gameboy b\c I don't have a flash system
+yet.
+
+
+Controls
+_______________________________________________
+
+D-pad: controls mouse pointer
+
+A:     Action button, select a card (dot shows
+       which card is active) then move pointer
+       to another card and press 'A' again to
+       place the active card if the move is legal
+
+B:     Moves the card under the pointer to the
+       goal piles if the move is legal
+
+START: Pauses the game, and allows the player
+       to change the game style (whether to
+       draw 1 or 3 cards
+
+SELECT
++DOWN: Redeals the cards

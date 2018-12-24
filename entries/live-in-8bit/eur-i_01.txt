@@ -1,0 +1,10 @@
+ .-/credits/--------------------------------.
+ |           intro: "Live in 8bit"          |
+ |   code & design: sekret                  |
+ |           fonts: from C-64               |
+ |    msx & player: "0x6370:0xAD GBC"       |
+ |                                          |
+ |           notes: NEVER RELEASED!         |
+_|__                                      __|_
+ | /_________________________[EUR/GBC/01]_\ |
+ '                                          `

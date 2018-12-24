@@ -1,0 +1,37 @@
+
+FRIKI RACE
+by Enrique Sanchez Rosa
+
+This is my contribution to Bung's 2nd Amateur GB Game Coding Competition,
+in September 1999. It is a pretty simple car racing game, in which you
+must reach the goal in time through 3 different stages. Also you have to
+overtake as many rivals as possible to become the first in the ranking.
+
+This game has been designed to be compatible with all Game Boy models,
+but it will show enhanced coloured graphics when played with Game Boy Color.
+
+Controls are:   pad left & right     ---> move the car
+                pad up or A button   ---> accelerate
+                pad down or B button ---> brake
+                start (during game)  ---> pause
+
+I accept full responsability for the legality of this game, which
+does not contain any copyrighted material, trademarks or icons which I do
+not have the rights to use.
+Also I hereby grant Bung Enterprises full rights to distribute the ROM
+file without my prior consent, as long as it is distributed as freeware and
+no fee is charged for it at all.
+
+The game has been developed using Carsten Sorensen's RGBDS v1.10. The
+included file FRIKIRC.ASM contains the game's source code to prove its
+authenticity. This file alone can't be assembled, as many data files
+(*.BIN) containing graphics, tables and other binary data must be present.
+I won't provide these files unless it is strictly neccesary. However every
+program routine of the game is included in FRIKIRC.ASM, so I think it is
+enough to prove authenticity.
+
+
+
+PS: In case you're wondering what 'friki' means, it is Spanish slang for
+'freak'.
+

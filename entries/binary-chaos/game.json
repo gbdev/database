@@ -24,7 +24,13 @@
     ],
     "platform": "GBC",
     "screenshots": [
-        "bchaosss.png"
+        "shoplady.gif",
+        "bchaosss.png",
+        "charsel.gif",
+        "gameplay.gif",
+        "mission.gif",
+        "paused.gif",
+        "shop.gif"
     ],
     "slug": "binary-chaos",
     "title": "Binary Chaos",

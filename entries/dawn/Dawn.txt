@@ -1,0 +1,55 @@
+                                 Dawn
+                                 ====
+                                 
+                             Icebird, 1998
+
+
+This should have been our contribution to the GameBoy '98 Competition -
+Phase II, but after we having finished it, we were told that the Competition
+was canceled. :( Anyway, we hope that you like our production...
+
+This demo should run on any decent GameBoy emulator as well as on the
+real hardware, although we were not able to test this. It has been
+tested and runs beautifully on the GameBoy emulator by Purple Monochichi
+on Acorn computers. It has also been tested and seems to run quite ok on
+the VGB emulator.
+
+
+Credits:
+--------
+  graphics : gizmo
+  code     : exoticorn (*)
+  music    : exoticorn
+
+
+This demo has been written on an Acorn A5000 using our own Xasm patch for
+the BBC Basic inline assembler. This patch is able to assemble Chip8,
+GameBoy and 6502 assembler and will (hopefully) be released to public in
+the near future...
+
+
+Greetings:
+----------
+  Anders Granlund
+  Arm'sTech
+  BASS
+  Darren Salt
+  Dave Sharp
+  DFI
+  Expression
+  Kulture
+  Marvin
+  MegaMan_X
+  Moving Pixels
+  The Xperience
+  Topix
+  + all Acorn users
+    see you at Revelation '98
+
+
+To contact us, write to:
+Dennis_Ranke @ hb2.maus.de
+
+---
+(*) Not entirely correct, the original 8x8 tunnel has been coded by mr hill,
+    I have only changed it to 4x4 resulution...

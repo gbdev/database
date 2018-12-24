@@ -1,0 +1,10 @@
+Included in this zip file are the following:
+
+The actual ROM (chaos.gbc)
+Screen Shots
+The Manual in 3 different formats:
+	Word 97 (Binary Chaos.doc)
+	WordPad (Binary Chaos Word 6 Version.doc)
+	HTML (Binary Chaos.htm & Binary Chaos_files)
+
+If you are using an emulator to judge this game the PLEASE read the document over carefully! It contians vital information on the differences between what the game looks like on an emu vs. the real thing.  To be fair, we highly recommend using a REAL gameboy color if at all possible.

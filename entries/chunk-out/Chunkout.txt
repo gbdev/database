@@ -1,0 +1,27 @@
+Chunk Out
+---------
+1999 James Todd
+for Bung Coding Competition 2 1999
+
+General Gameplay:
+-----------------
+
+The general idea of the game is to delete as many tiles as possible,
+in as large chunks as possible. The score works like so:
+
+		tot_score = (n-1)^2
+		(where n is number of tiles > 1)
+
+If all tiles are erased in a game, a bonus of 1000 points will be
+added to your score. A good score in this game is 2500+. To delete
+tiles, move the cursor around and press the A button. NB, chunks must
+be bigger than 1 tile!
+
+Thanks to:
+----------
+Jeff Frohwein - Gameboy God
+Michael Hope - GBDK helps even lamers
+		make GB games (good thing and bad thing)
+Harry Mulder - GBTD and GBMB are great tile editors
+Megaman X - Thanks for the old faithful PCX2GB :)
+

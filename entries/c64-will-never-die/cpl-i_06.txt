@@ -1,0 +1,11 @@
+ .-/credits/--------------------------------.
+ |           intro: "C64 will never die"    |
+ |            code: sekret                  |
+ |     logo & font: from C-64               |
+ |    msx & player: Laxity                  |
+ |                                          |
+ |           notes: NEVER FINISHED NOR      |
+ |                  RELEASED!               |
+_|__                                      __|_
+ | /_________________________[CPL/GBC/10]_\ |
+ '                                          `
