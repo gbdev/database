@@ -1,0 +1,111 @@
+
+                         They came from outer space...
+                    -------------------------------------
+                        (c) 1998 Carcatau Development
+
+
+
+1.      Introduction
+--------------------
+
+        Carcatau Development is a Gameboy(tm) developing group consisting
+        of two people, Anders Granlund (programmer)
+        and Joona Pîhî (graphic artist).
+        This game is freeware, meaning you can freely copy it to anyone
+        you want and/or post it on the internet or any BBS as long as
+        this textfile goes along with the binaries.
+
+
+
+2.      Compatibility & legal stuff
+-----------------------------------
+
+        Carcatau Development takes no responsibility of whatever damage
+        this game might do to any of your hardware or software you are using
+        to store or play this game with.
+
+        The game was developed using freeware DOS-based Gameboy emulators and
+        is intended for use on any such emulator. Although the game has been
+        tested to work fine on the real Gameboy and Super Gameboy, we cannot
+        guarantie that the game wont cause any harm to your hardware.
+        To be on the safe side we recommend you to run it on any decent
+        Gameboy / Super Gameboy emulator.
+
+        This game is _NOT_ licenced or in any way endorsed by Nintedo(tm).
+        We hardly think that Nintendo even know of this games existance.
+
+
+
+3.      The game
+----------------
+
+        The game is a clone of the classic game of "Space Invaders". The goal
+        is simple: just destory as many of the alien invaders to gain high
+        scores.
+        There are some bonuses to collect by shooting down alien UFO's giving
+        you more firepower to kill the invaders more easily.
+
+        Controlls:
+
+        A or B button:  Shoot
+        left/right:     Move the gun left/right
+
+
+4.          The story:
+---------------------- 
+
+When the signal reached Earth, a signal from what seemed to be intelligent
+life, many UFO enthusiasts were overwhelmed by happiness. This was the moment
+some people had waited for in their whole life, the proof that would show
+us that we are not alone in this universe!
+
+However, the happiness lasted not very long. As soon as the alien fleet reached
+earth they opened fire without warning or explanation. This action took us
+by surprise and laid most of our defences to waste. There are only a few
+ships left to defend Earth agains the huge alien attack fleet.
+
+Are you ready to fight for the survival of planet Earth?
+
+
+5.      Contacting us:
+----------------------
+
+        Programmer:
+                Anders Granlund (anders.granlund@sundsvall.mail.telia.com)
+
+        Graphic artist:
+                Joona Pîhî (retrolan@mbnet.fi)
+
+
+
+6.      Credits:
+----------------
+
+    Anders Granlund would like to thank the following people that in
+    some ways have contributed in the completion of this game:
+    (in no particular way of apperance)
+
+        Erika ègren
+        Jeff Frohwein
+        Harry Mulder
+        Carsten Sorensen
+        Megaman_X
+        Pan of Anthrox
+        Jim Geffre
+        Martin Korth
+        Matt Currie
+        kOOpa
+        + everyone else involved in the art of GB programming...
+
+
+    Joona Pîhî would like to thank.....
+
+        Ada
+        Everybody at Dalnet's #nes98...
+        Cloanto Software
+
+        And nobody else... =)
+
+
+------------------------------------------------------------------------------
+                        (c) 1998 Carcatau Development

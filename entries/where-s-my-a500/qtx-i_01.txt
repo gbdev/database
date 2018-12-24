@@ -1,0 +1,8 @@
+ .-/credits/--------------------------------.
+ |         intro: "Where's my A500 ?!"      |
+ |          code: sekret                    |
+ |         music: Wayne Kerr                |
+ |          font: Arcade                    |
+_|__      player: Heatbeat^CNCD           __|_
+ | /_________________________[QTX/GBC/01]_\ |
+ '                                          `

@@ -1,0 +1,57 @@
+                               Wall Defence
+
+Platform: GameBoy Color (Works on Classic GameBoys).
+Author:   http://drhirudo.hit.bg (Ventzislav Tzvetkov)
+Version:  1.0
+
+
+Introduction
+------------
+
+  It's The Middle Age and you are a brave knight, whom only mission  is to
+protect his fortress from being invaded by the orcs. If you   fight   good
+enough, the attack army ends, and you are transported to the opposite side
+of the fortress.
+
+Good Luck.
+
+
+Controls
+--------
+
+During the game use the D-Pad for moving, A-Button to pick a stone, possible
+only at selected places and B-Button to throw button, if you hold one.
+Press START for pause.
+
+Bonuses
+-------
+
+Bonus award as extra life is given for every 5000 points scored.
+
+
+Status
+------
+
+  This game is freeware.
+
+
+Legal Issues
+------------
+
+  `Wall Defence' is provided  "AS-IS"  without any warranties. Although
+I did my best for it being bug free,  there still  might be some hidden
+ones, of which I am not aware. That's why I am NOT responsible  for any
+damages caused by this software.
+
+
+Miscellaneous
+-------------
+
+  The game was developed from scratch after the announcement  of  the  third
+PDROMs coding competition. The software used for creation was (All on Amiga)
+GBDK 2.1.0, Personal Paint 7.1, CygnusEd Pro V4.17, Programmer 2.0,  DirOpus
+4.16, OctaMed 1.03c, AHX 2.0, AmiGameBoy, Next 3.6 and probably more.   Full
+release with sourcecode will be available several days after the competition
+deadline.
+
+Have Fun.

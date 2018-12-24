@@ -24,7 +24,8 @@
     ],
     "platform": "GBC",
     "screenshots": [
-        "walldefence.png"
+        "walldefence.png",
+        "20110402_wall_defence.png"
     ],
     "slug": "wall-defence",
     "title": "Wall Defence",
