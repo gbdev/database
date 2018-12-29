@@ -1,0 +1,1 @@
+ffmpeg -i videoinput.avi -i audio.wav -c:v libx264 -crf 40 -vf scale=960:864:flags=neighbot output.mkv -pix_fmt yuv420p
