@@ -1,0 +1,10 @@
+{
+    "title": "Sheep Leap",
+    "slug": "sheep-leap",
+    "developer": "Familiar Meteor",
+    "devWebsite": "https://familiarmeteor.com",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots" : ["screenshot1.png","screenshot2.png"],
+    "rom" : "SheepLeap.gb"
+}
