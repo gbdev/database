@@ -1,0 +1,28 @@
+{
+  "title": "Evoland.gb",
+  "date": "2019-04-21",
+  "description": "A fan-made port of the Evoland, a game from Shiro Games studio.",
+  "slug": "evolandgb",
+  "developer": "Fabien LOISON (FLOZz)",
+  "repository": "https://github.com/flozz/evoland.gb",
+  "gameWebsite": "https://evogb.flozz.org/",
+  "devWebsite": "https://blog.flozz.fr/",
+  "platform": "GB",
+  "typetag": "game",
+  "rom": "evoland_0.3.0_en.gb",
+  "wip": true,
+  "tags": [
+    "RPG"
+  ],
+  "screenshots": [
+    "screenshot_01.png",
+    "screenshot_02.png",
+    "screenshot_03.png",
+    "screenshot_04.png",
+    "screenshot_05.png"
+  ],
+  "files": [
+      ["evolandgb-0.3.zip", "Release (en & fr)"],
+      ["LICENSE.md", "License"]
+  ]
+}
