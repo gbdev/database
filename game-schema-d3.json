@@ -31,7 +31,7 @@
         {
             "type": "string",
             "description": "Type of the software",
-            "enum": ["game", "homebrew", "demo", "hackrom"]
+            "enum": ["game", "homebrew", "demo", "hackrom", "music"]
         },
         "gameLicense":
         {
