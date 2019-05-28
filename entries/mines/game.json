@@ -23,7 +23,7 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [ "1.bmp", "2.bmp" ],
     "slug": "mines",
     "title": "Mines",
     "typetag": "game"
