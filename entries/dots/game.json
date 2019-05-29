@@ -1,0 +1,23 @@
+{
+    "title": "Dots",
+	"description": "Inspired by minimalist art, Dots was created with the notion that beauty and fun are not mutually exclusive",
+    "video": "https://www.youtube.com/watch?v=xFZH5nic9RU"
+	"date": "2019-04-10"
+	"slug": "dots",
+    "license": "",
+	  "tags": [
+		"Puzzle"
+	],
+    "developer": "G Miller",
+    "repository": "",
+	"gameWebsite": "http://www.gmiller.net/2019/04/dots-for-gameboy-color/",
+    "devWebsite": "http://www.gmiller.net"
+	"platform": "GBC",
+    "typetag": "game",
+    "tags": [ ],
+    "screenshots" : [
+	    "1.bmp",
+		"2.bmp",
+	],
+    "rom" : "dots.gbc"
+}
