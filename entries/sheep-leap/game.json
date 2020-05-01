@@ -1,10 +1,11 @@
 {
     "title": "Sheep Leap",
     "slug": "sheep-leap",
-    "developer": "Familiar Meteor",
-    "devWebsite": "https://familiarmeteor.com",
+    "developer": "oshf",
     "platform": "GB",
     "typetag": "game",
+	"date": "2018-07-07",
+	"description": "Made for the bitbitjam4 game jam.",
     "screenshots" : ["screenshot1.png","screenshot2.png"],
     "rom" : "SheepLeap.gb"
 }
