@@ -18,5 +18,13 @@
 	    "1.bmp",
 	    "2.bmp"
 	],
-    "rom" : "dots.gbc"
+    "rom" : "dots.gbc",
+    "files": [
+        {
+            "description": "release",
+            "filename": "dots.gbc",
+	    "playable": true,
+	    "default": true
+        }
+     ]
 }
