@@ -14,5 +14,6 @@
 	    "default": true,
             "description": "release",
             "filename": "HungryBirds.gb"
-        },
+        }
+    ]
 }
