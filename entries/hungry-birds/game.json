@@ -7,5 +7,12 @@
 	"description": "Made in 48 Hours for the ZGBJAM2 game jam.",
 	"date": "2019-07-28",
     "screenshots" : ["screenshot1.png","screenshot2.png"],
-    "rom" : "HungryBirds.gb"
+    "rom" : "HungryBirds.gb",
+    "files": [
+        {
+	    "playable": true,
+	    "default": true,
+            "description": "release",
+            "filename": "HungryBirds.gb"
+        },
 }
