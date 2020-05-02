@@ -14,10 +14,9 @@
     "devWebsite": "http://www.gmiller.net",
 	"platform": "GBC",
     "typetag": "game",
-    "tags": [ ],
     "screenshots" : [
 	    "1.bmp",
-		"2.bmp",
+	    "2.bmp"
 	],
     "rom" : "dots.gbc"
 }
