@@ -7,5 +7,14 @@
 	"date": "2018-07-07",
 	"description": "Made for the bitbitjam4 game jam.",
     "screenshots" : ["screenshot1.png","screenshot2.png"],
-    "rom" : "SheepLeap.gb"
+    "rom" : "SheepLeap.gb",
+    "files": [
+        {
+	    "playable": true,
+	    "default": true,
+            "description": "release",
+            "filename": "SheepLeap.gb"
+        }
+    ]
+	
 }
