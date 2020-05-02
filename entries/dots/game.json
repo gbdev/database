@@ -11,7 +11,7 @@
     "developer": "G Miller",
     "repository": "",
 	"gameWebsite": "http://www.gmiller.net/2019/04/dots-for-gameboy-color/",
-    "devWebsite": "http://www.gmiller.net"
+    "devWebsite": "http://www.gmiller.net",
 	"platform": "GBC",
     "typetag": "game",
     "tags": [ ],
