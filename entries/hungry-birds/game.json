@@ -1,0 +1,11 @@
+{
+    "title": "Hungry Birds",
+    "slug": "hungry-birds",
+    "developer": "oshf",
+    "platform": "GB",
+    "typetag": "game",
+	"description": "Made in 48 Hours for the ZGBJAM2 game jam.",
+	"date": "2019-07-28",
+    "screenshots" : ["screenshot1.png","screenshot2.png"],
+    "rom" : "HungryBirds.gb"
+}
