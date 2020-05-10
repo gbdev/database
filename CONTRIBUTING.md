@@ -48,7 +48,7 @@ In the folder we just created, create a file called `game.json`:
 ```
 
 Fill in every property. You can take a look at existing games to make sure everything is correct. 
-[This](ucity/game.json) is an example of a correct `game.json`.
+[The `ucity` entry](entries/ucity/game.json) is an example of a correct `game.json`.
 
 #### Required Fields
 
