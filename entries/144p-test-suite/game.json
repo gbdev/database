@@ -1,0 +1,25 @@
+{
+    "title": "144p Test Suite",
+    "slug": "144p-test-suite",
+    "gameLicense": "GPLv3",
+    "developer": "Damian Yerrick",
+    "repository": "https://github.com/pinobatch/240p-test-mini",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "tags": [ "Open Source" ],
+    "screenshots" : [
+        "screenshot1.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "gb240p.gb",
+            "hash": {
+                "md5": "xxxx",
+                "sha1": "xxxxx",
+                "sha256": "xxxxxxxx"
+            },
+            "playable": true
+        }
+    ]
+}

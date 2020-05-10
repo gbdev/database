@@ -1,0 +1,23 @@
+{
+    "title": "Libbet and the Magic Floor",
+    "slug": "libbet",
+    "gameLicense": "Zlib",
+    "developer": "Damian Yerrick",
+    "repository": "https://github.com/pinobatch/libbet",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source", "Puzzle" ],
+    "screenshots" : [ ],
+    "files": [
+        {
+            "default": true,
+            "filename": "libbet.gb",
+            "hash": {
+                "md5": "xxxx",
+                "sha1": "xxxxx",
+                "sha256": "xxxxxxxx"
+            },
+            "playable": true
+        }
+    ]
+}
