@@ -4,13 +4,17 @@
     "slug": "linum-alpha-a01",
     "license": "Beta Cat",
     "developer": "Jack Heney",
-    "wip"
-    "onlineplay"
-    "date": "2020-06-24"
+    "date": "2020-06-24",
     "repository": "https://github.com/Villagerjj/Linum",
     "platform": "GB",
     "typetag": "demo",
     "tags": [ "Platform" ],
     "screenshots" : [ "linum.PNG" ],
-    "rom" : "Linum_Alpha_a01.gb"
+    "files": [
+        {
+            "default": true,
+            "filename": "Linum_Alpha_a01.gb",
+            "playable": true
+        }
+    ],
 }
