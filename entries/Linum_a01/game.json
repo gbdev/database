@@ -1,0 +1,16 @@
+{
+    "title": "Linum Alpha a01",
+    "description": "Linum currently is a simple platformer demo with fluid animation that is written in C. I plan on making it into a fighting and platforming type of game with even more optimized animation. Linum's future also will have support for the link cable for CO-OP and PVP. you will also be able to take snapshots and print them out with the gameboy printer. Linum will be a simple yet stunning game. And i am the only developer.",
+    "slug": "linum-alpha-a01",
+    "license": "Beta Cat",
+    "developer": "Jack Heney",
+    "wip"
+    "onlineplay"
+    "date": "2020-06-24"
+    "repository": "https://github.com/Villagerjj/Linum",
+    "platform": "GB",
+    "typetag": "demo",
+    "tags": [ "Platform" ],
+    "screenshots" : [ "linum.PNG" ],
+    "rom" : "Linum_Alpha_a01.gb"
+}
