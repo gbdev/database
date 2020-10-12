@@ -1,0 +1,40 @@
+{
+    "title": "Pluto's Corner",
+    "slug": "plutos-corner",
+    "license": "CC-BY-NC-SA",
+    "developer": "bbbbbr",
+    "description": "A home-brew 2D platformer about Lil' Matchy's adventures. Built for the Game Boy (DMG) and will run on original hardware. Lil' Matchy the cat hears that the Cat King of the block, Pluto, is on the prowl. Matchy's got a lot to do! Help her complete the day's checklist, including a showdown with Pluto. Can she make it to the end and get a good nap?",
+    "gameWebsite": "https://bbbbbr.itch.io/plutos-corner",
+    "devWebsite": "https://github.com/bbbbbr/plutoscorner",
+    "repository": "https://github.com/bbbbbr/plutoscorner",
+    "platform": "gb",
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Open Source",
+        "Adventure"
+    ],
+    "onlineplay": true,
+    "screenshots" : [
+        "pluto_001.png",
+        "pluto_002.png",
+        "pluto_003.png",
+        "pluto_004.png",
+        "pluto_005.png",
+        "pluto_006.png"
+    ],
+    "rom" : "PLUTOS_CORNER.gb",
+    "date": "2019-06-19",
+    "files": [
+        {
+            "default": true,
+            "filename": "PLUTOS_CORNER.gb",
+            "hash": {
+                "md5": "DA341149D4B5399A98410C351132235F",
+                "sha1": "3DD8304770C9D96C9DE33F510D2A38487D2D2C39",
+                "sha256": "1647C713B49641A69D719238DDE2E7015699389ADEFBD1F4B340BC0B6CD41D68"
+            },
+            "playable": true
+        }
+    ],
+}
