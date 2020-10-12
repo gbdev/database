@@ -10,7 +10,6 @@
     "devWebsite": "https://pixelsyntax.com",
     "onlineplay": true,
     "screenshots" : ["bgb00002.bmp", "bgb00003.bmp", "bgb00004.bmp", "bgb00005.bmp" ],
-    "rom" : ""
      "files": [
         {
             "description": "release",
