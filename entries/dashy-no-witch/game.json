@@ -10,5 +10,12 @@
     "devWebsite": "https://pixelsyntax.com",
     "onlineplay": true,
     "screenshots" : ["bgb00002.bmp", "bgb00003.bmp", "bgb00004.bmp", "bgb00005.bmp" ],
-    "rom" : "DashyHalloween2019.gb"
+    "rom" : ""
+     "files": [
+        {
+            "description": "release",
+            "filename": "DashyHalloween2019.gb",
+            "playable": true
+        }
+    ],
 }
