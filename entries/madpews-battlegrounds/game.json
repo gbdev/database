@@ -1,0 +1,18 @@
+{
+    "title": "madpews battlegrounds",
+    "slug": "madpews-battlegrounds",
+    "license": "Unlicense",
+    "assetLicense": "Unlicense",
+    "description": "A short game about cats throwing rocks in a backyard.",
+    "video": "https://www.youtube.com/watch?v=o_VAjl1DDzo",
+    "date": "2020-02-28",
+    "onlineplay": true,
+    "gameWebsite": "https://madpew.itch.io/madpews-battleground",
+    "developer": "madpew",
+    "repository": "https://github.com/madpew/hello-asm",
+    "platform": "GB",
+    "typetag": "game",
+    "tags": [ "Open Source" ],
+    "screenshots" : [ "title.png", "game.png" ],
+    "rom" : "battlegrounds.gb"
+}
