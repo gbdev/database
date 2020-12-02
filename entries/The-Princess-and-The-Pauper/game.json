@@ -24,7 +24,9 @@
     ],
     "platform": "GBC",
     "rom": "princess.GBC",
-    "screenshots": [],
+    "screenshots": [
+        "screenshot.png"
+    ],
     "slug": "The-Princess-and-The-Pauper",
     "title": "The Princess & The Pauper",
     "typetag": "game"

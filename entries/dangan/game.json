@@ -1,7 +1,9 @@
 {
     "developer": "Snorpung, Nordloef",
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "screenshot.png"
+    ],
     "slug": "dangan",
     "tags": [],
     "title": "dangan GB",

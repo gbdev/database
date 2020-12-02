@@ -22,7 +22,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "screenshot.png"
+    ],
     "slug": "cosmica",
     "title": "Cosmica",
     "typetag": "game"

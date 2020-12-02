@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "screenshot.png"
+    ],
     "slug": "mgb-version-133",
     "title": "mGB (Version 1.3.3)",
     "typetag": "game"
