@@ -14,5 +14,11 @@
     "typetag": "game",
     "tags": [ "Open Source" ],
     "screenshots" : [ "title.png", "game.png" ],
-    "rom" : "battlegrounds.gb"
+    "files": [
+        {
+            "default": true,
+            "filename": "battlegrounds.gb",
+            "playable": true
+        }
+    ],
 }
