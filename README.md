@@ -1,10 +1,8 @@
-## [Homebrew Hub](https://gbhh.avivace.com)
+# Homebrew Hub games database
 
-# Games Database
+JSON and Assets database of all the game and homebrew entries on [Homebrew Hub](https://hh.gbdev.io). Propose here additions, improvements and fixes.
 
-JSON and Assets Database of all the game and homebrew entries. Propose here additions, improvements and fixes, every change propagates to Homebrew Hub.
-
-## [Contribute](CONTRIBUTING.md)
+## Contribute
 
 We want to include every homebrew, game or demo ever produced for Game Boy or Game Boy Color.
 If you know an interesting entry, please [contribute](CONTRIBUTING.md), everyone can add new games or improve the existing entries, it's really easy!
