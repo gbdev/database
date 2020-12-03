@@ -7,7 +7,7 @@
     "gameWebsite": "https://bbbbbr.itch.io/petris",
     "devWebsite": "https://github.com/bbbbbr/Petris",
     "repository": "https://github.com/bbbbbr/Petris",
-    "platform": "gbc",
+    "platform": "GBC",
     "typetag": "game",
     "tags": [
         "Open Source",
