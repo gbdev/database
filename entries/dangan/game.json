@@ -10,6 +10,6 @@
     "typetag": "game",
     "rom": "dangan.gb",
     "files":[
-      { "name": "dangan.gb"}],
+      { "filename": "dangan.gb"}],
     "website": "https://snorpung.itch.io/dangan-gb"
 }
