@@ -1,24 +1,24 @@
-# CONTRIBUTE
+# Contributing
 
 ## Write a scraper
 
-The most useful thing you can do in this repository is to create a scraper that takes one of the [sources](https://github.com/gbdev/database/issues?q=is%3Aissue+is%3Aopen+label%3Asource) full of Game Boy homebrews and spits out a valid folder structure like the one we have in this repository (`entries/` folder).
+The most useful thing you can do in this repository is to create a scraper that takes one of the [sources](https://github.com/gbdev/database/issues?q=is%3Aissue+is%3Aopen+label%3Asource), websites listing Game Boy homebrews and spits out valid folders to add in this repository (`entries/` folder).
 
 Take a look to the scrapers we already made in the `scrapers` folder.
 
-## Manually add entries
+## Add a game
 
-Start by forking this repository and cloning your fork locally.
+To add an entry, start by forking this repository and cloning your fork locally.
 
 ### 1. Decide the game `slug` 
 
 Decide a "slug" for the game you are adding. It's like an username: short, no spaces, special characters, or punctuation other than hyphens and underscores. It may start with a letter or digit.
 
-> If the game is called "Super Roto Land I: Tales from the Dumper", a good slug would be `super-roto-land-1`.
+> If the game is called "Super Roto Land I: Tales from the Dumper", a good slug could be `super-roto-land-1`.
 
 ### 2. Create the game folder and add the related files 
 
-Add the decided game slug in the `gamesList.json` file and create, in the `entries` directory, a folder with the slug as name.
+Add the decided game slug at the end of `gamesList.json` file and create, in the `entries` directory, a folder with the slug as name.
 
 > E.g. `gamesList.json` will now contain `"super-roto-land-1` as element, and we created a folder named `super-roto-land-1` in `entries/`
 
@@ -30,37 +30,47 @@ In the created folder, put:
 
 ### 3. Add the `game.json` file 
 
-In the folder we just created, create a file called `game.json`:
+In the folder we just created, create a file called `game.json`. Here's a basic example:
 
-```
+```json
 {
-    "title": "",
-    "slug": "",
-    "license": "",
-    "developer": "",
-    "repository": "",
-    "platform": "",
-    "typetag": "",
-    "tags": [ ],
-    "screenshots" : [ ],
-    "rom" : ""
+    "developer": "Sanqui",
+    "files": [
+        {
+            "default": true,
+            "filename": "2048.gb",
+            "playable": true
+        }
+    ],
+    "license": "Zlib",
+    "platform": "GB",
+    "repository": "https://github.com/Sanqui/2048-gb",
+    "screenshots": [
+        "1.png",
+    ],
+    "slug": "2048gb",
+    "tags": [
+        "Open Source",
+        "Puzzle"
+    ],
+    "title": "2048gb",
+    "typetag": "game"
 }
 ```
 
-Fill in every property. You can take a look at existing games or the [`game.json` schema](game-schema-d3.json) to make sure everything is correct.
-[The `ucity` entry](entries/ucity/game.json) is an example of a correct `game.json`.
+Fill in every property with your values. You can take a look at existing games or the [`game.json` schema](game-schema-d3.json) to make sure everything is correct.
 
 #### Required Fields
 
-| Property      | Description                                                          | Possible values                                         |
-|---------------|----------------------------------------------------------------------|---------------------------------------------------------|
-| title         | The complete name, including spacing.                                | String                                                  |
-| slug          | A short identificative name that will be the in the URL              | String, Only letters, underscores, dashes and numbers   |
-| developer     | Name of the developer                                                | String                                                  |
-| platform      | Target console                                                       | String: `GB` or `GBC`                                   |
-| typetag       | The type of the software                                             | String: `game`, `homebrew`, `demo` or `hackrom`         |
-| screenshots   | A list of the filenames of the screenshots in the folder             | Array of String of the screnshots file names (no path)  |
-| rom           | The name of the ROM in the folder                                    | String (no path)                                        |
+| Property      | Description                                                           | Possible values                                         |
+|---------------|-----------------------------------------------------------------------|---------------------------------------------------------|
+| title         | The complete name, including spacing.                                 | String                                                  |
+| slug          | A short identificative name that will be the in the URL               | String, Only letters, underscores, dashes and numbers   |
+| developer     | Name of the developer                                                 | String                                                  |
+| platform      | Target console                                                        | String: `GB` or `GBC`                                   |
+| typetag       | The type of the software                                              | String: `game`, `homebrew`, `demo` or `hackrom`         |
+| screenshots   | A list of the filenames of the screenshots in the folder              | Array of String of the screnshots file names (no path)  |
+| files         | Array of objects, each one with a "filename" and "playable" field     | String (no path)                                        |
 
 The `platform` specifies the minimum requirement. For a dual-mode entry (compatible with Game Boy and including Game Boy Color or Super Game Boy enhancement), use `GB`.
 
@@ -82,41 +92,12 @@ The following fields are appreciated, but not strictly required:
 | devWebsite    | Developer personal website/page                                      | String, URI                                             |
 | onlineplay    | Allow or not the game to be played directly on the website           | Boolean                                                 |
 | wip           | Flag a game as work-in-progress (not yet completely stable/bugfree)  | Boolean                                                 | 
-| files         | Related files with (optional) description                            | Array of 2-d Arrays E.g. (`[["file1.zip", "description of file1.zip"],["file2.zip", "description of file2.zip"],["file3.zip"]]`)|
 
-The `date` refers to the first public release of a project, not the release of the current version or the date it was added to the database.<!-- (A future version of the schema is expected to include the release of the current version.) -->
+The `date` refers to the first public release of a project, not the release of the current version or the date it was added to the database.
+
+<!-- (A future version of the schema is expected to include the release of the current version.) -->
 
 The possible categories for `tags` are: `RPG`, `Open Source`, `Adventure`, `Action`, `Puzzle`, `Platform`.
-
-> E.g. If we added 2 screenshots named `screenshot1.png` and `screenshot2.png` and a ROM named `game.gbc`, the folder structure will look like this:
->
->```
->database/
->├── gamesList.json
->├── entries/
->|   └── my-new-game/
->│      ├── my-game.gb
->│      ├── screenshot1.png
->│      ├── screenshot2.png
->│      └── game.json
->```
->
-> Our `game.json` will look like this:
-> 
->```
->{
->    "title": "Super Roto Land 1",
->    "slug": "super-roto-land",
->    "license": "GPLv3",
->    "developer": "Emanuele Rotto",
->    "repository": "https://github.com/dubrotto/gbrottoland",
->    "platform": "gbc",
->    "typetag": "game",
->    "tags": [ "Platform", "Puzzle" ],
->    "screenshots" : [ "screenshot1.png", "screenshot2.png" ],
->    "rom" : "game.gbc"
->}
->```
 
 
 ### 4. Check your changes and create a PR
