@@ -22,7 +22,9 @@
     "screenshot_05.png"
   ],
   "files": [
-      ["evolandgb-0.3.zip", "Release (en & fr)"],
-      ["LICENSE.md", "License"]
+    {"filename": "evolandgb-0.3.zip", 
+     "description": "Release (en & fr)"},
+    {"filename": "LICENSE.md",
+     "description":"License"}]
   ]
 }
