@@ -140,6 +140,11 @@
                 {
                     "type": "string"
                 },
+                "playable":
+                {
+                    "type": "boolean",
+                    "description": "Describes if the file is a GB/GBC ROM"
+                },
                 "hash":
                 {
                     "type": "object",
@@ -162,7 +167,7 @@
                 "default":
                 {
                     "type": "boolean",
-                    "description": "Describes if the file the default ROM to play"
+                    "description": "Describes if the file is the default ROM to play"
                 }
             },
             "required": ["filename"]
