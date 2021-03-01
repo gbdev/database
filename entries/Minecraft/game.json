@@ -1,0 +1,16 @@
+{
+    "title": "Minecraft_Public_02",
+    "description": "Minecraft for GB will be a 2D version of minecraft with the goal of being as fun as minecraft yet retain some of that gameboy charm!",
+    "slug": "Minecraft-Public-02",
+    "license": "Beta Cat",
+    "developer": "John Heney",
+    "wip"
+    "onlineplay"
+    "date": "2021-03-1"
+    "repository": "https://github.com/OkieCat/Minecraft-GB",
+    "platform": "GB",
+    "typetag": "Beta",
+    "tags": [ "Sandbox" ],
+    "screenshots" : [ "Minecraft.PNG" ],
+    "rom" : "Minecraft_Public_02.gb"
+}
