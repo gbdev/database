@@ -1,0 +1,19 @@
+{
+    "title": "Last Crown Warriors",
+    "slug": "last-crown",
+    "developer": "Light Games",
+    "platform": "GB",
+    "typetag": "game",
+	"description": "",
+	"date": "2019-12-01",
+    "screenshots" : ["screenshot1.png"],
+    "rom" : "lastcrowndemo.gb",
+    "files": [
+        {
+	    "playable": true,
+	    "default": true,
+            "description": "release",
+            "filename": "lastcrowndemo.gb"
+        }
+    ]
+}
