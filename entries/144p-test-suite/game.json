@@ -8,7 +8,7 @@
     "typetag": "homebrew",
     "date": "2018-04-17",
     "tags": [ "Open Source" ],
-    "play": true,
+    "play": {"enable": true},
     "screenshots" : [
         "gb240p-linearity.png",
         "gb240p-megaton.png",

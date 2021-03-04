@@ -6,16 +6,20 @@
     "repository": "https://github.com/pinobatch/libbet",
     "platform": "GB",
     "typetag": "game",
+    "date": "2018-10-16",
     "tags": [ "Open Source", "Puzzle" ],
-    "screenshots" : [ ],
+    "screenshots" : [ 
+        "libbet6x4.png"
+    ],
+    "play": {"enable": true},
     "files": [
         {
             "default": true,
             "filename": "libbet.gb",
             "hash": {
-                "md5": "xxxx",
-                "sha1": "xxxxx",
-                "sha256": "xxxxxxxx"
+                "md5": "85b802dacad72f5614aee947aa3859de",
+                "sha1": "9c72848fadc5d10aba617089406c2c3247ae64f3",
+                "sha256": "079d161bf2bff4f3baec01339b4f6f02ff6f966c69456885a165b97aac11fa12"
             },
             "playable": true
         }
