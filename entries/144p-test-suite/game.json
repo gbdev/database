@@ -1,0 +1,33 @@
+{
+    "title": "144p Test Suite",
+    "slug": "144p-test-suite",
+    "gameLicense": "GPLv3",
+    "developer": "Damian Yerrick",
+    "repository": "https://github.com/pinobatch/240p-test-mini",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "date": "2018-04-17",
+    "tags": [ "Open Source" ],
+    "play": {"enable": true},
+    "screenshots" : [
+        "gb240p-linearity.png",
+        "gb240p-megaton.png",
+        "gb240p-audiosync.png",
+        "gb240p-shadowsprite.png",
+        "gb240p-stopwatch.png",
+        "gb240p-smpte.png",
+        "gb240p-bleed.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "gb240p.gb",
+            "hash": {
+                "md5": "31b36a2702887bd762b8969f8e16339e",
+                "sha1": "046f15d659e02424eb0bf7fe068fc3349bdf5417",
+                "sha256": "2f68e8aa7d060bb6b58a5dfd308ed48c15da8f4738936db5f20fee7280a2156d"
+            },
+            "playable": true
+        }
+    ]
+}
