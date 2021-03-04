@@ -4,15 +4,15 @@
     "developer": "Light Games",
     "platform": "GB",
     "typetag": "game",
-	"description": "",
-	"date": "2017-07-21",
+    "description": "",
+    "date": "2017-07-21",
     "screenshots" : ["screenshot1.png"],
     "rom" : "rocketmandemo.gb",
+    "wip": true,
     "files": [
         {
 	    "playable": true,
 	    "default": true,
-            "description": "release",
             "filename": "rocketmandemo.gb"
         }
     ]
