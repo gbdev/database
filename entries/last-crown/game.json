@@ -4,15 +4,15 @@
     "developer": "Light Games",
     "platform": "GB",
     "typetag": "game",
-	"description": "",
-	"date": "2019-12-01",
-    "screenshots" : ["screenshot1.png"],
-    "rom" : "lastcrowndemo.gb",
+    "description": "",
+    "date": "2019-12-01",
+    "screenshots": ["screenshot1.png"],
+    "wip": true,
+    "rom": "lastcrowndemo.gb",
     "files": [
         {
-	    "playable": true,
-	    "default": true,
-            "description": "release",
+            "playable": true,
+            "default": true,
             "filename": "lastcrowndemo.gb"
         }
     ]
