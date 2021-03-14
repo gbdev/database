@@ -1,0 +1,24 @@
+{
+    "developer": "VHVS",
+    "files": [
+        {
+            "default": true,
+            "filename": "CrystalLake.gb",
+            "playable": true
+        }
+    ],
+    "license": "Zlib",
+    "platform": "GB",
+    "screenshots": [
+        "crystallake-1.png",
+		"crystallake-2.png",
+		"crystallake-3.png"
+    ],
+    "slug": "Crystal-Lake",
+    "tags": [
+        "Action",
+		"Puzzle"
+    ],
+    "title": "Crystal Lake",
+    "typetag": "game"
+}
