@@ -5,7 +5,18 @@
             "default": true,
             "filename": "CrystalLake.gb",
             "playable": true
+        },
+		{
+            "default": false,
+            "filename": "CrystalLake-PlayersManual.pdf",
+            "playable": false
+        },
+		{
+            "default": false,
+            "filename": "readme.txt",
+            "playable": false
         }
+
     ],
     "license": "Zlib",
     "platform": "GB",
@@ -20,5 +31,7 @@
 		"Puzzle"
     ],
     "title": "Crystal Lake",
-    "typetag": "game"
+    "typetag": "game",
+	"date": "2020/05/11",
+	"website": "https://www.becomingthebeast.com/vhvs/index.html"
 }
