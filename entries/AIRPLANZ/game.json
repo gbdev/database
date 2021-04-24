@@ -1,0 +1,24 @@
+{
+    "developer": "NotImplementedLife",
+    "files": [
+        {
+            "default": true,
+            "filename": "AIRPLANZ.gb",
+            "playable": true
+        }
+    ],
+    "license": "GPL-3.0-only",
+    "platform": "GB",
+    "repository": "https://github.com/NotImplementedLife/AIRPLANZ",
+    "screenshots": [
+        "screenshot.png"
+    ],	
+    "slug": "AIRPLANZ",
+    "tags": [
+        "Open Source",
+        "Puzzle"
+    ],
+    "title": "AIRPLANZ",
+    "typetag": "game",
+	"description": "Battleship-like game for Gameboy written in Assembly"
+}
