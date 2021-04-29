@@ -12,7 +12,7 @@
             "playable": true
         }
     ],
-    "license": "GPLv3",
+    "license": "MIT",
     "platform": "GB",
     "repository": "https://github.com/BonsaiDen/Tuff.gb",
     "screenshots": [
