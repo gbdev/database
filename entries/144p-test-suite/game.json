@@ -1,7 +1,7 @@
 {
     "title": "144p Test Suite",
     "slug": "144p-test-suite",
-    "gameLicense": "GPLv3",
+    "gameLicense": "GPL-2.0-or-later",
     "developer": "Damian Yerrick",
     "repository": "https://github.com/pinobatch/240p-test-mini",
     "platform": "GB",
