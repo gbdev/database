@@ -12,7 +12,7 @@
             "playable": true
         }
     ],
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "platform": "GBC",
     "repository": "https://github.com/AntonioND/ucity",
     "screenshots": [
