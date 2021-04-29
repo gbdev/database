@@ -13,7 +13,7 @@
             "playable": true
         }
     ],
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "onlineplay": true,
     "platform": "GBC",
     "repository": "https://github.com/AntonioND/geometrix",
