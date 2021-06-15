@@ -1,0 +1,28 @@
+{
+  "date": "2021-06-15",
+  "developer": "Graham Coulby (IonicLimb)",
+  "description": "A casual jumping platform game",
+  "files": [
+    {
+      "default": true,
+      "filename": "jp.gb",
+      "playable": true
+    },
+    {
+      "description": "release",
+      "filename": "jp.zip",
+      "playable": false
+    }
+  ],
+  "license": "MIT",
+  "platform": "GB",
+  "repository": "https://github.com/gcoulby/JP",
+  "gameWebsite": "https://grahamcoulby.co.uk/projects/jp-a-homebrew-gameboy-developed-in-c",
+  "devWebsite": "https://grahamcoulby.co.uk/",
+  "onlineplay": true,
+  "screenshots": ["jp-screenshot.bmp"],
+  "slug": "jp",
+  "tags": ["Open Source", "Platform"],
+  "title": "JP",
+  "typetag": "game"
+}
