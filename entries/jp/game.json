@@ -20,7 +20,7 @@
   "gameWebsite": "https://grahamcoulby.co.uk/projects/jp-a-homebrew-gameboy-developed-in-c",
   "devWebsite": "https://grahamcoulby.co.uk/",
   "onlineplay": true,
-  "screenshots": ["jp-screenshot.bmp"],
+  "screenshots": ["jp-screenshot-1.bmp", "jp-screenshot-2.bmp", "jp-screenshot-3.bmp", "jp-screenshot-4.bmp"],
   "slug": "jp",
   "tags": ["Open Source", "Platform"],
   "title": "JP",
