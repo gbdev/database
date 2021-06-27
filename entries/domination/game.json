@@ -1,0 +1,33 @@
+{
+  "date": "2021-06-28",
+  "developer": "Graham Coulby (IonicLimb)",
+  "description": "A player-vs-ai puzzle card game",
+  "files": [
+    {
+      "default": true,
+      "filename": "domination.gb",
+      "playable": true
+    },
+    {
+      "description": "release",
+      "filename": "domination.zip",
+      "playable": false
+    }
+  ],
+  "license": "MIT",
+  "platform": "GB",
+  "repository": "https://github.com/gcoulby/Domination",
+  "gameWebsite": "https://www.grahamcoulby.co.uk/projects/domination-a-homebrew-card-game-for-nintendo-gameboy",
+  "devWebsite": "https://grahamcoulby.co.uk/",
+  "onlineplay": true,
+  "screenshots": [
+    "domination-screenshot-1.bmp",
+    "domination-screenshot-2.bmp",
+    "domination-screenshot-3.bmp",
+    "domination-screenshot-4.bmp"
+  ],
+  "slug": "domination",
+  "tags": ["Open Source", "Puzzle"],
+  "title": "Domination",
+  "typetag": "game"
+}
