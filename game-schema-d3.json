@@ -25,7 +25,7 @@
         {
             "type": "string",
             "description": "Target console",
-            "enum": ["GB", "GBC"]
+            "enum": ["GB", "GBC", "GBA"]
         },
         "typetag":
         {
