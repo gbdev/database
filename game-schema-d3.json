@@ -60,7 +60,7 @@
             "items":
             {
                 "type": "string",
-                "enum": ["RPG", "Open Source", "Adventure", "Action", "Puzzle", "Platform"]
+                "enum": ["RPG", "Open Source", "Adventure", "Action", "Puzzle", "Platform", "gbajam21", "gbcompo21"]
             }
         },
         "alias":
