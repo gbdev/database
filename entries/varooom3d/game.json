@@ -1,0 +1,34 @@
+{
+    "developer": "GValiente, tempest, Kaappis",
+    "files": [
+        {
+            "default": true,
+            "filename": "varooom-3d.gba",
+            "hash": {
+                "md5": "4c34c67e2db310e8b45ec2b53bcca1de",
+                "sha1": "c5ad4b50e8dbcb65e0fa861f08bfea37947848cb",
+                "sha256": "0d608db175dd8ba22780be5df5fc17bf135876f6964f58ee141e4f8d81c62947"
+            },
+            "playable": true
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "platform": "GBA",
+    "repository": "https://github.com/GValiente/butano/tree/master/games/varooom-3d",
+    "screenshots": [
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png",
+        "5.png"
+    ],
+    "slug": "varooom3d",
+    "tags": [
+        "Open Source",
+        "RPG",
+        "Adventure",
+        "gbajam21"
+    ],
+    "title": "Varooom 3D",
+    "typetag": "game"
+}
