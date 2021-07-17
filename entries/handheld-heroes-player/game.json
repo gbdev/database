@@ -1,0 +1,15 @@
+{
+    "title": "Handheld Heroes Player",
+    "slug": "handheld-heroes-player",
+    "platform": "GB",
+    "typetag": "music",
+    "play": {"enable": true},
+    "files": [
+        {
+            "default": true,
+            "filename": "handheld-heroes-player-rev-b.gb",
+            "playable": true
+        }
+    ],
+    "screenshots": []
+}
