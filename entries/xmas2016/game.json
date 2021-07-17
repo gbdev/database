@@ -1,0 +1,15 @@
+{
+    "title": "Xmas 2016",
+    "slug": "xmas2016",
+    "platform": "GB",
+    "typetag": "music",
+    "play": {"enable": true},
+    "files": [
+        {
+            "default": true,
+            "filename": "XMAS2016FREE.gb",
+            "playable": true
+        }
+    ],
+    "screenshots": []
+}
