@@ -1,0 +1,15 @@
+{
+    "title": "Heebie-GBs-2014",
+    "slug": "heebie-gbs-2014",
+    "platform": "GB",
+    "typetag": "music",
+    "play": {"enable": true},
+    "files": [
+        {
+            "default": true,
+            "filename": "Heebie-GBs-2014.gb",
+            "playable": true
+        }
+    ],
+    "screenshots": []
+}
