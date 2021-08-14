@@ -3,11 +3,26 @@ import pouet_common
 import requests
 import unicodedata
 import re
+import os
 from bs4 import BeautifulSoup
 from unidecode import unidecode
+import zipfile
 
+import shutil
+import fnmatch
+
+print("WARNING: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
+    
 baseurl = "https://pouet.net"
 
+def find(pattern, path):
+    result = []
+    for root, dirs, files in os.walk(path):
+        for name in files:
+            if fnmatch.fnmatch(name, pattern):
+                result.append(os.path.join(root, name))
+
+    return result
 def build_slug(slug: str):
     # delete characters not needed in the slug
     slug = re.sub("[^0-9a-zA-ZÀ-ÖØ-öø-ÿ]+", " ", slug)  # removes all except letters and numbers
@@ -24,7 +39,7 @@ def build_slug(slug: str):
 '''
 def scrape(platform):
     #TODO: change variable in the URL: now it only parse demos page
-    page = requests.get("https://www.pouet.net/prodlist.php?type%5B%5D=demo&platform%5B%5D=" + platform + "&page=1")
+    page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=" + platform + "&page=1")
     soup = BeautifulSoup(page.content, 'html.parser')
 
     # get total number of pages
@@ -37,7 +52,7 @@ def scrape(platform):
     for i in range(0, numberofpages):
         print("\nParsing page: " + str(i))
         #TODO: dont call twice this page, as it is called before
-        page = requests.get("https://www.pouet.net/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1))
+        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1))
         soup = BeautifulSoup(page.content, 'html.parser')
 
         # get the big prods table
@@ -59,8 +74,13 @@ def scrape(platform):
                             
                             # scrape pouet's page: the returned object will be used to build the file hierarchy
                             prod = scrape_page(slug, pouet_internal_link)
-                            prod.platform = pouet_common.PLATFORMS[platform]    # defining proper platform --> the default one is GB
-                            print(prod.title + " - " + prod.developer)
+                            
+                            # defining proper platform --> the default one is GB
+                            prod.platform = pouet_common.PLATFORMS[platform]
+                            
+                            # building files
+                            build(prod)
+                            
 
 '''
     given a slug and Pouet production url, it returns an object containing everything useful
@@ -109,8 +129,9 @@ def scrape_page(slug, url):
     screenshottd = table.find('td', id="screenshot")
     screenshots.append(screenshottd.findChildren()[0]['src'])
 
-    # fetching download link
-    files = table.find('a', id="mainDownloadLink").get('href')
+    # fetching download link: regex has been used because if not, it won't download any file (view it is just a landing page)
+    url = table.find('a', id="mainDownloadLink").get('href')
+    url = re.sub("https://files.scene.org/view/", "https://files.scene.org/get/", url)
     
     # fetching source link (if present)
     source = soup.find(lambda tag: tag.name == "a" and "source" in tag.text.lower())
@@ -120,15 +141,70 @@ def scrape_page(slug, url):
     video = soup.find(lambda tag: tag.name == "a" and "youtube" in tag.text.lower())
     video = video.get("href") if video else ""
     
-    return Production(title, slug, developer, "GB", typetag, screenshots, files, video, repository=source)
+    return Production(title, slug, developer, "GB", typetag, screenshots, files, video, repository=source, url=url)
 
 '''
     given a prod "Production" object:
     1. create a proper named folder and build a JSON according to Production data field
     2. fetches all slug and add it to gamesList.json
 '''
-def build(prod):
-    return 0
+def build(prod: Production):
+    entrypath = "a/"
+
+    if not os.path.exists(entrypath + prod.slug):
+        #############
+        # PROD FILE #
+        #############
+        # make its own folder
+        os.mkdir(entrypath + prod.slug, 0o777)
+
+        # figuring out the suffix
+        suffix = prod.url.split(".")[-1]
+
+        # building the filepath
+        filepath = entrypath + prod.slug + "/"
+
+        # download the file
+        r = requests.get(prod.url, allow_redirects=True)
+        open(filepath + prod.slug + "." + suffix, 'wb').write(r.content)
+
+        # unzip in case of zip
+        if prod.url.endswith(".zip"):
+            # download and unzip
+            with zipfile.ZipFile(filepath + prod.slug + "." + suffix,"r") as zip_ref:
+                zip_ref.extractall(filepath + "unzippedfolder")
+
+            # fetching rom name in the unzippedfolder
+            if prod.platform == "GB":
+                suffix = "gb"
+                path = find("*.gb", filepath + "unzippedfolder")
+            elif prod.platform == "GBC":
+                suffix = "gbc"
+                path = find("*.gbc", filepath + "unzippedfolder")
+            elif prod.platform == "GBA":
+                suffix = "gba"
+                path = find("*.gba", filepath + "unzippedfolder")
+
+            # proper renaming and moving the file
+            if path != []:
+                os.rename(path[0], filepath + prod.slug + "." + suffix)
+            else:
+                print("[WARN]: cant rename file")
+        
+            # cleaning up
+            shutil.rmtree(filepath + "unzippedfolder")
+            os.remove(filepath + prod.slug + "." + "zip")
+        else:
+            # it is a proper gb file -> just write the filename in its own structure field
+            pass
+        
+        # update production object file
+        prod.files.append(prod.slug + "." + suffix)
+        
+    else:
+        print("[WARNING]: directory already present, skipping " + prod.slug + "...")
+
+
 
 def main():
     '''
@@ -146,6 +222,3 @@ def main():
     scrape("Gameboy")
 
 main()
-
-
-#pouetbox_prodlist > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) > span:nth-child(3) > a:nth-child(1)

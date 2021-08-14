@@ -1,7 +1,7 @@
 class Production:
     def __init__(self, title, slug, developer, platform, typetag, screenshots, files,
     lic, assetLicense="", description="", video="", date="", tags=[], alias="", repository="", gameWebsite="", devWebsite="", onlineplay="",
-    wip=""):
+    wip="", url = ""):
         # mandatory fields
         self.title = title
         self.slug = slug
@@ -24,3 +24,5 @@ class Production:
         self.devWebsite = devWebsite if devWebsite else ""
         self.onlineplay = onlineplay if onlineplay else ""
         self.wip = wip if wip else ""
+
+        self.url = url
