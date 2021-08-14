@@ -11,9 +11,10 @@ import urllib.request as request
 from contextlib import closing
 import shutil
 import fnmatch
+import urllib3
 
 # since this error is gonna be prompted many times making everything too verbose
-PYTHONWARNINGS="ignore:Unverified HTTPS request"
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 #TODO: find a way to make this print disappears. Currently there is no solution to this issue.
 print("[WARN]: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
@@ -56,20 +57,19 @@ def scrape(platform):
         - this object will be used to build JSON, files and folders
     '''
     #TODO: change variable in the URL: now it only parse demos page
-    page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=" + platform + "&page=1", timeout=1)
+    page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=" + platform + "&page=1", timeout=2)
     soup = BeautifulSoup(page.content, 'html.parser')
 
     # get total number of pages
     selpages = soup.find("select", {"name":"page"})
     options = selpages.find_all("option")
-    print(options)
     numberofpages = int(options[-1].text)
 
     # parsing every page
     for i in range(0, numberofpages):
-        print("\nParsing page: " + str(i))
+        logger.write("[INFO]: Parsing page: " + str(i) + "\n")
         #TODO: dont call twice this page, as it is called before
-        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=1)
+        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=2)
         soup = BeautifulSoup(page.content, 'html.parser')
 
         # get the big prods table
@@ -190,7 +190,7 @@ def build(prod: Production):
             r = requests.get(prod.url, allow_redirects=True, timeout=1, verify=False)
             
             if r.status_code == 404:
-                logger.write("[ERR]: 404: " + prod.slug + " - " + prod.url)
+                logger.write("[ERR]: 404: " + prod.slug + " - " + prod.url + "\n")
 
                 # cleaning in case of error
                 shutil.rmtree(entrypath + prod.slug)
@@ -224,7 +224,7 @@ def build(prod: Production):
                 if path != []:
                     os.rename(path[0], filepath + prod.slug + "." + suffix)
                 else:
-                    logger.write("[WARN]: cant rename file")
+                    logger.write("[WARN]: cant rename file" + "\n")
             
                 # cleaning up unneeded files
                 shutil.rmtree(filepath + "unzippedfolder")
@@ -232,7 +232,7 @@ def build(prod: Production):
 
                 pass
             except zipfile.BadZipFile as e:
-                logger.write("[ERR] " + str(e) + " bad zip file")
+                logger.write("[ERR] " + str(e) + " bad zip file" + "\n")
                 shutil.rmtree(entrypath + prod.slug)
                 return 1
         else:
@@ -246,7 +246,7 @@ def build(prod: Production):
         r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=1)
         open(filepath + prod.slug + "." + "png", 'wb').write(r.content)
     else:
-        logger.write("[WARN]: directory already present, skipping " + prod.slug + "...")
+        logger.write("[WARN]: directory already present, skipping " + prod.slug + "..." + "\n")
 
 def main():
     scrape("Gameboy")
