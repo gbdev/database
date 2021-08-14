@@ -7,14 +7,23 @@ import os
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 import zipfile
-
+import urllib.request as request
+from contextlib import closing
 import shutil
 import fnmatch
 
-print("WARNING: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
-    
+# since this error is gonna be prompted many times making everything too verbose
+PYTHONWARNINGS="ignore:Unverified HTTPS request"
+
+#TODO: find a way to make this print disappears. Currently there is no solution to this issue.
+print("[WARN]: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
+
 baseurl = "https://pouet.net"
 
+# global logger: it will be used to diagnose what's wrong (skipped files, 404 errors...)
+logger = open("log.txt", "w+")
+
+# find files matching a path in a folder and its subfolders
 def find(pattern, path):
     result = []
     for root, dirs, files in os.walk(path):
@@ -23,7 +32,15 @@ def find(pattern, path):
                 result.append(os.path.join(root, name))
 
     return result
+
 def build_slug(slug: str):
+    '''
+        a slug it is built in this way:
+            - removes all special characters, except for letters
+            - makes everything lowercase
+            - hyphens are used instead of spaces
+            - accented characters are normalized (ascii)
+    '''
     # delete characters not needed in the slug
     slug = re.sub("[^0-9a-zA-ZÀ-ÖØ-öø-ÿ]+", " ", slug)  # removes all except letters and numbers
     slug = slug.lower() # to lowercase
@@ -32,14 +49,14 @@ def build_slug(slug: str):
 
     return slug
 
-'''
-    - scrape Pouet's prods page and fetches all links
-    - each link will be processed (scraped) and a Production object will be built
-    - this object will be used to build JSON, files and folders
-'''
 def scrape(platform):
+    '''
+        scrape Pouet's prods page and fetches all links
+        - each link will be processed (scraped) and a Production object will be built
+        - this object will be used to build JSON, files and folders
+    '''
     #TODO: change variable in the URL: now it only parse demos page
-    page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=" + platform + "&page=1")
+    page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=" + platform + "&page=1", timeout=1)
     soup = BeautifulSoup(page.content, 'html.parser')
 
     # get total number of pages
@@ -52,7 +69,7 @@ def scrape(platform):
     for i in range(0, numberofpages):
         print("\nParsing page: " + str(i))
         #TODO: dont call twice this page, as it is called before
-        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1))
+        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=1)
         soup = BeautifulSoup(page.content, 'html.parser')
 
         # get the big prods table
@@ -81,18 +98,17 @@ def scrape(platform):
                             # building files
                             build(prod)
                             
-
-'''
-    given a slug and Pouet production url, it returns an object containing everything useful
-    to build a file hierarchy
-'''
 def scrape_page(slug, url):
+    '''
+        given a slug and Pouet production url, it returns an object containing everything useful
+        to build a file hierarchy
+    '''
     # init variables ( if not, lil' python cries :/ )
     screenshots = []
     files = []
     typetag = ""
 
-    page = requests.get(url)
+    page = requests.get(url, timeout=1)
     soup = BeautifulSoup(page.content, 'html.parser')
 
     # get the prod data table
@@ -143,13 +159,17 @@ def scrape_page(slug, url):
     
     return Production(title, slug, developer, "GB", typetag, screenshots, files, video, repository=source, url=url)
 
-'''
-    given a prod "Production" object:
-    1. create a proper named folder and build a JSON according to Production data field
-    2. fetches all slug and add it to gamesList.json
-'''
 def build(prod: Production):
+    '''
+        given a prod "Production" object:
+        1. create a proper named folder and build a JSON according to Production data field
+        2. fetches all slug and add it to gamesList.json
+    '''
+    # while testing, change it in something gibberish; it may helps a lot and you are not going to directly merge everything in
+    # the main folder.
     entrypath = "a/"
+
+    print("[INFO]: " + prod.title + " - " + prod.url)
 
     if not os.path.exists(entrypath + prod.slug):
         #############
@@ -165,35 +185,56 @@ def build(prod: Production):
         filepath = entrypath + prod.slug + "/"
 
         # download the file
-        r = requests.get(prod.url, allow_redirects=True)
-        open(filepath + prod.slug + "." + suffix, 'wb').write(r.content)
+        # in case of http
+        if prod.url.startswith("http"):
+            r = requests.get(prod.url, allow_redirects=True, timeout=1, verify=False)
+            
+            if r.status_code == 404:
+                logger.write("[ERR]: 404: " + prod.slug + " - " + prod.url)
 
+                # cleaning in case of error
+                shutil.rmtree(entrypath + prod.slug)
+                return(1)
+            
+            open(filepath + prod.slug + "." + suffix, 'wb').write(r.content)
+        else:
+            with closing(request.urlopen(prod.url)) as r:
+                with open(filepath + prod.slug + "." + suffix, 'wb') as f:
+                    shutil.copyfileobj(r, f)
+        
         # unzip in case of zip
         if prod.url.endswith(".zip"):
             # download and unzip
-            with zipfile.ZipFile(filepath + prod.slug + "." + suffix,"r") as zip_ref:
-                zip_ref.extractall(filepath + "unzippedfolder")
+            try:
+                with zipfile.ZipFile(filepath + prod.slug + "." + suffix,"r") as zip_ref:
+                    zip_ref.extractall(filepath + "unzippedfolder")
 
-            # fetching rom name in the unzippedfolder
-            if prod.platform == "GB":
-                suffix = "gb"
-                path = find("*.gb", filepath + "unzippedfolder")
-            elif prod.platform == "GBC":
-                suffix = "gbc"
-                path = find("*.gbc", filepath + "unzippedfolder")
-            elif prod.platform == "GBA":
-                suffix = "gba"
-                path = find("*.gba", filepath + "unzippedfolder")
+                # fetching rom name in the unzippedfolder
+                if prod.platform == "GB":
+                    suffix = "gb"
+                    path = find("*.gb", filepath + "unzippedfolder")
+                elif prod.platform == "GBC":
+                    suffix = "gbc"
+                    path = find("*.gbc", filepath + "unzippedfolder")
+                elif prod.platform == "GBA":
+                    suffix = "gba"
+                    path = find("*.gba", filepath + "unzippedfolder")
 
-            # proper renaming and moving the file
-            if path != []:
-                os.rename(path[0], filepath + prod.slug + "." + suffix)
-            else:
-                print("[WARN]: cant rename file")
-        
-            # cleaning up
-            shutil.rmtree(filepath + "unzippedfolder")
-            os.remove(filepath + prod.slug + "." + "zip")
+                # proper renaming and moving the file
+                if path != []:
+                    os.rename(path[0], filepath + prod.slug + "." + suffix)
+                else:
+                    logger.write("[WARN]: cant rename file")
+            
+                # cleaning up unneeded files
+                shutil.rmtree(filepath + "unzippedfolder")
+                os.remove(filepath + prod.slug + "." + "zip")
+
+                pass
+            except zipfile.BadZipFile as e:
+                logger.write("[ERR] " + str(e) + " bad zip file")
+                shutil.rmtree(entrypath + prod.slug)
+                return 1
         else:
             # it is a proper gb file -> just write the filename in its own structure field
             pass
@@ -201,24 +242,13 @@ def build(prod: Production):
         # update production object file
         prod.files.append(prod.slug + "." + suffix)
         
+        # download the screenshot
+        r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=1)
+        open(filepath + prod.slug + "." + "png", 'wb').write(r.content)
     else:
-        print("[WARNING]: directory already present, skipping " + prod.slug + "...")
-
-
+        logger.write("[WARN]: directory already present, skipping " + prod.slug + "...")
 
 def main():
-    '''
-    THIS IS THE PROPER MAIN
-
-    for platform in pouet_common.PLATFORMS:
-        scrape(platform)
-    '''
-    '''
-        TESTING AREA
-    url = "https://www.pouet.net/prod.php?which=86234"
-    p = scrape_page("hey", url)
-    
-    '''
     scrape("Gameboy")
 
 main()
