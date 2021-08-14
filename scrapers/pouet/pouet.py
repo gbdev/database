@@ -56,47 +56,51 @@ def scrape(platform):
         - each link will be processed (scraped) and a Production object will be built
         - this object will be used to build JSON, files and folders
     '''
-    #TODO: change variable in the URL: now it only parse demos page
-    page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=" + platform + "&page=1", timeout=2)
-    soup = BeautifulSoup(page.content, 'html.parser')
-
-    # get total number of pages
-    selpages = soup.find("select", {"name":"page"})
-    options = selpages.find_all("option")
-    numberofpages = int(options[-1].text)
-
-    # parsing every page
-    for i in range(0, numberofpages):
-        logger.write("[INFO]: Parsing page: " + str(i) + "\n")
-        #TODO: dont call twice this page, as it is called before
-        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=2)
+    for category in pouet_common.CATEGORIES:
+        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=" + category + "&platform%5B%5D=" + platform + "&page=1", timeout=2)
         soup = BeautifulSoup(page.content, 'html.parser')
 
-        # get the big prods table
-        prodTable = soup.findAll('table')[1].findAll('tr')
+        # get total number of pages
+        selpages = soup.find("select", {"name":"page"})
+        options = selpages.find_all("option")
         
-        # get rows; for each rows, get the name of the prod and the internal link
-        for tr in prodTable:
-            tds = tr.find_all('td')
-            if(tds):
-                for td in tds:
-                    spans = td.find_all("span", {"class": "prod"}, recursive=False)
-                    for span in spans:
-                        if span:
-                            a = span.findChildren()[0]
-                            pouet_internal_link = baseurl + "/" + a.get("href")
-                            
-                            # building slug: all lowercase, each word separated by hyphen, no special character
-                            slug = build_slug(a.text)
-                            
-                            # scrape pouet's page: the returned object will be used to build the file hierarchy
-                            prod = scrape_page(slug, pouet_internal_link)
-                            
-                            # defining proper platform --> the default one is GB
-                            prod.platform = pouet_common.PLATFORMS[platform]
-                            
-                            # building files
-                            build(prod)
+        if options == []: continue  # in case of no pages
+        
+        numberofpages = int(options[-1].text)
+        logger.write("[INFO]: Total number of pages: " + str(i) + "\n")
+
+        # parsing every page
+        for i in range(0, numberofpages):
+            logger.write("[INFO]: Parsing page: " + str(i) + "\n")
+            #TODO: dont call twice this page, as it is called before
+            page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=2)
+            soup = BeautifulSoup(page.content, 'html.parser')
+
+            # get the big prods table
+            prodTable = soup.findAll('table')[1].findAll('tr')
+            
+            # get rows; for each rows, get the name of the prod and the internal link
+            for tr in prodTable:
+                tds = tr.find_all('td')
+                if(tds):
+                    for td in tds:
+                        spans = td.find_all("span", {"class": "prod"}, recursive=False)
+                        for span in spans:
+                            if span:
+                                a = span.findChildren()[0]
+                                pouet_internal_link = baseurl + "/" + a.get("href")
+                                
+                                # building slug: all lowercase, each word separated by hyphen, no special character
+                                slug = build_slug(a.text)
+                                
+                                # scrape pouet's page: the returned object will be used to build the file hierarchy
+                                prod = scrape_page(slug, pouet_internal_link)
+                                
+                                # defining proper platform --> the default one is GB
+                                prod.platform = pouet_common.PLATFORMS[platform]
+                                
+                                # building files
+                                build(prod)
                             
 def scrape_page(slug, url):
     '''
