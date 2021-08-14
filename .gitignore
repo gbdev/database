@@ -2,3 +2,5 @@ scraper/entries
 *.swp
 game2.json
 __pycache__
+log.txt
+pouet_demoscene
