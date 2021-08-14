@@ -67,11 +67,11 @@ def scrape(platform):
         if options == []: continue  # in case of no pages
         
         numberofpages = int(options[-1].text)
-        logger.write("[INFO]: Total number of pages: " + str(i) + "\n")
+        logger.write("[INFO]: Total number of pages: " + str(numberofpages) + "\n")
 
         # parsing every page
         for i in range(0, numberofpages):
-            logger.write("[INFO]: Parsing page: " + str(i) + "\n")
+            logger.write("[INFO]: Parsing page: " + str(i+1) + "\n")
             #TODO: dont call twice this page, as it is called before
             page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=2)
             soup = BeautifulSoup(page.content, 'html.parser')
