@@ -32,6 +32,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # global logger: it will be used to diagnose what's wrong (skipped files, 404 errors...)
 logger = open("log.txt", "w+")
 
+updateJSONQueue = []
+globalgameslist = []
+
 #TODO: find a way to make this print disappears. Currently there is no solution to this issue.
 print("[WARN]: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
 
@@ -114,11 +117,14 @@ def scrape(platform):
                                 # building files
                                 ret = build(prod)
 
-                                # make required JSON file
-                                if ret != 1:
-                                    makeJSON(prod)
-                                    #updateGlobalJSON("gamesList.json")
-                                return
+                                # check if it could be added to database or not
+                                if prod.slug not in globalgameslist:
+                                    # make required JSON file
+                                    if ret != 1:
+                                        ret = makeJSON(prod)
+
+                                        if ret != 1:
+                                            updateJSONQueue.append(prod.slug)    
                             
 def scrape_page(slug, url):
     '''
@@ -297,17 +303,29 @@ def makeJSON(prod):
             "typetag": prod.typetag
         }
 
-        jsonstr = json.dumps(jsondata)
-        jsonfile = open(entrypath + prod.slug + "/game.json", "w")
-        jsonfile.write(jsonstr)
-        jsonfile.close()
-
+        updateJSON(jsondata, entrypath + prod.slug + "/game.json")
     else:
         logger.write("Unable to create file for " + prod.slug + ". There is no directory for this prod.")
         return 1
     return 0
 
+def updateJSON(data, path):
+    jsonstr = json.dumps(data)
+    jsonfile = open(path, "w")
+    jsonfile.write(jsonstr)
+    jsonfile.close()
+
+
 def main():
-    scrape("Gameboy")
+    for platform in pouet_common.PLATFORMS.keys():
+        # load global games list
+        with open('../../gamesList.json') as json_file:
+            globalgameslist = json.load(json_file)
+
+        updateJSONQueue = []
+
+        scrape(platform)
+
+        updateJSON(globalgameslist + updateJSONQueue, "../../gamesList.json")
 
 main()
