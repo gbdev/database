@@ -2,29 +2,38 @@
 
 from Production import Production
 import pouet_common
-import requests
-import unicodedata
 import re
 import os
-from bs4 import BeautifulSoup
-from unidecode import unidecode
+import json
+import shutil
 import zipfile
+import fnmatch
+import urllib3
+import requests
+import unicodedata
 import urllib.request as request
 from contextlib import closing
-import shutil
-import fnmatch
-import json
-import urllib3
+from bs4 import BeautifulSoup
+from unidecode import unidecode
 
 ########################
 ### GLOBAL VARIABLES ###
 ########################
 baseurl = "https://pouet.net"
 cleanzip = True    # enable this if you want to delete downloaded zip file 
+blacklist = [
+    "grey-screen-with-no-music", # 22kb zip (empty)
+    "dangan-gb-4-trainer",      # corrupted zip
+    "altstork-2004-invitation",  # 404, but cant manage it
+    "dcs-gbc-intro-7"          # corrupted zip             https://ftp.untergrund.net/users/havoc/POUET/gameboy/DCS-I_06.ZIP
+]
 
-# while testing, change it in something gibberish; it may helps a lot and you are not going to directly merge everything in
-# the main folder. Default: entries
-entrypath = "a/"
+# while testing, change it in something else;
+# it may helps a lot and you are not going to directly merge everything in
+# the main folder. Default: "../../entries
+entrypath = "pouet_demoscene/"  # this means: database/scrapers/pouet/pouet_demoscene/
+if not os.path.isdir(entrypath):
+    os.mkdir(entrypath)
 
 # since this error is gonna be prompted many times making everything too verbose
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -33,7 +42,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 logger = open("log.txt", "w+")
 
 updateJSONQueue = []
-globalgameslist = []
+with open('../../gamesList.json') as json_file:
+    globalgameslist = json.load(json_file)
+
 
 #TODO: find a way to make this print disappears. Currently there is no solution to this issue.
 print("[WARN]: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
@@ -69,17 +80,17 @@ def scrape(platform):
         scrape Pouet's prods page and fetches all links
         - each link will be processed (scraped) and a Production object will be built
         - this object will be used to build JSON, files and folders
-    '''
+    ''' 
     for category in pouet_common.CATEGORIES:
         logger.write("[INFO]: Scraping category " + category + "\n")
-        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=" + category + "&platform%5B%5D=" + platform + "&page=1", timeout=2)
+        page = requests.get(baseurl + "/prodlist.php?type%5B%5D=" + category + "&platform%5B%5D=" + platform + "&page=1", timeout=None)
         soup = BeautifulSoup(page.content, 'html.parser')
 
         # get total number of pages
         selpages = soup.find("select", {"name":"page"})
         options = selpages.find_all("option")
         
-        if options == []: continue  # in case of no pages
+        if options == []: continue  # in case of empty page
         
         numberofpages = int(options[-1].text)
         logger.write("[INFO]: Total number of pages: " + str(numberofpages) + "\n")
@@ -88,7 +99,8 @@ def scrape(platform):
         for i in range(0, numberofpages):
             logger.write("[INFO]: Parsing page: " + str(i+1) + "\n")
             #TODO: dont call twice this page, as it is called before
-            page = requests.get(baseurl + "/prodlist.php?type%5B%5D=" + category + "&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=2)
+            
+            page = requests.get(baseurl + "/prodlist.php?type%5B%5D=" + category + "&platform%5B%5D=" + platform + "&page=" + str(i+1), timeout=None)
             soup = BeautifulSoup(page.content, 'html.parser')
 
             # get the big prods table
@@ -109,24 +121,26 @@ def scrape(platform):
                                 slug = build_slug(a.text)
                                 
                                 # scrape pouet's page: the returned object will be used to build the file hierarchy
-                                prod = scrape_page(slug, pouet_internal_link)
-                                
-                                # defining proper platform --> the default one is GB
-                                prod.platform = pouet_common.PLATFORMS[platform]
-                                
-                                # building files
-                                ret = build(prod)
+                                prod = scrape_page(slug, pouet_internal_link, platform)
+
+                                #DBGPRINT slugprint
+                                #print(prod.slug)
 
                                 # check if it could be added to database or not
-                                if prod.slug not in globalgameslist:
+                                if prod.slug not in globalgameslist and prod.slug not in blacklist:
+                                    # building files
+                                    ret = build(prod)
+
                                     # make required JSON file
                                     if ret != 1:
                                         ret = makeJSON(prod)
 
                                         if ret != 1:
-                                            updateJSONQueue.append(prod.slug)    
-                            
-def scrape_page(slug, url):
+                                            updateJSONQueue.append(prod.slug)
+                        
+    return updateJSONQueue
+
+def scrape_page(slug, url, platform):
     '''
         given a slug and Pouet production url, it returns an object containing everything useful
         to build a file hierarchy
@@ -136,16 +150,13 @@ def scrape_page(slug, url):
     files = []
     typetag = ""
 
-    page = requests.get(url, timeout=1)
+    page = requests.get(url, timeout=None)
     soup = BeautifulSoup(page.content, 'html.parser')
 
     # get the prod data table
     table = soup.find('table', id="pouetbox_prodmain")
     
     # get rows; for each rows, get the name of the prod and the internal link
-    '''    for tr in table:
-            print(tr)
-    '''
     prodheader = soup.find('span', id="title")
 
     # fetching title
@@ -185,24 +196,14 @@ def scrape_page(slug, url):
     video = soup.find(lambda tag: tag.name == "a" and "youtube" in tag.text.lower())
     video = video.get("href") if video else ""
     
-    return Production(title, slug, developer, "GB", typetag, screenshots, files, video, repository=source, url=url)
+    return Production(title, slug, developer, pouet_common.PLATFORMS[platform], typetag, screenshots, files, video, repository=source, url=url)
 
 def build(prod: Production):
     '''
         given a prod "Production" object containing
         all production's data, create a proper named folder, fetches all files (screenshot + rom)
         and properly organize everything 
-
-        There also is a blacklist inside this function, to exclude problematic titles.
     '''
-    blacklist = ["grey-screen-with-no-music"]
-
-    print("[INFO]: " + prod.title + " - " + prod.url)
-
-    if prod.slug in blacklist:
-        logger.write("[BLACK]: " + prod.slug + " is blacklisted" + "\n")
-        return 1
-
     if not os.path.exists(entrypath + prod.slug):
         #############
         # PROD FILE #
@@ -211,7 +212,7 @@ def build(prod: Production):
         os.mkdir(entrypath + prod.slug, 0o777)
 
         # figuring out the suffix
-        suffix = prod.url.split(".")[-1]
+        suffix = str.lower(prod.url.split(".")[-1])
 
         # building the filepath
         filepath = entrypath + prod.slug + "/"
@@ -219,10 +220,10 @@ def build(prod: Production):
         # download the file
         # in case of http
         if prod.url.startswith("http"):
-            r = requests.get(prod.url, allow_redirects=True, timeout=2, verify=False)
+            r = requests.get(prod.url, allow_redirects=True, timeout=None, verify=False)
             
-            if r.status_code == 404:
-                logger.write("[ERR]: 404: " + prod.slug + " - " + prod.url + "\n")
+            if r.status_code != 200:
+                logger.write("[ERR]:" + str(r.status_code) + ": " + prod.slug + " - " + prod.url + "\n")
 
                 # cleaning in case of error
                 shutil.rmtree(entrypath + prod.slug)
@@ -235,7 +236,7 @@ def build(prod: Production):
                     shutil.copyfileobj(r, f)
         
         # unzip in case of zip
-        if prod.url.endswith(".zip"):
+        if prod.url.endswith(".zip") or prod.url.endswith(".ZIP"):
             # download and unzip
             try:
                 with zipfile.ZipFile(filepath + prod.slug + "." + suffix,"r") as zip_ref:
@@ -273,12 +274,14 @@ def build(prod: Production):
         prod.files.append(prod.slug + "." + suffix)
         
         # download the screenshot
-        r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=2)
+        r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=None)
         open(filepath + prod.slug + "." + "png", 'wb').write(r.content)
         prod.screenshots[0] = prod.slug + "." + "png"
     else:
         logger.write("[WARN]: directory already present. Skipping " + prod.slug + "..." + "\n")
-
+        return 1
+    return 0
+    
 def makeJSON(prod):
     '''
         build the json file contained in each directory
@@ -310,7 +313,7 @@ def makeJSON(prod):
     return 0
 
 def updateJSON(data, path):
-    jsonstr = json.dumps(data)
+    jsonstr = json.dumps(data, sort_keys=True, indent=4)
     jsonfile = open(path, "w")
     jsonfile.write(jsonstr)
     jsonfile.close()
@@ -318,14 +321,16 @@ def updateJSON(data, path):
 
 def main():
     for platform in pouet_common.PLATFORMS.keys():
+        logger.write("\nParsing platform: " + platform)
+
         # load global games list
         with open('../../gamesList.json') as json_file:
             globalgameslist = json.load(json_file)
 
         updateJSONQueue = []
-
-        scrape(platform)
-
+        updateJSONQueue = scrape(platform)
         updateJSON(globalgameslist + updateJSONQueue, "../../gamesList.json")
+        
+        json_file.close()
 
 main()
