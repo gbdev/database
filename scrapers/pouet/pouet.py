@@ -1,3 +1,5 @@
+# dag7 - 2021
+
 from Production import Production
 import pouet_common
 import requests
@@ -11,18 +13,27 @@ import urllib.request as request
 from contextlib import closing
 import shutil
 import fnmatch
+import json
 import urllib3
+
+########################
+### GLOBAL VARIABLES ###
+########################
+baseurl = "https://pouet.net"
+cleanzip = True    # enable this if you want to delete downloaded zip file 
+
+# while testing, change it in something gibberish; it may helps a lot and you are not going to directly merge everything in
+# the main folder. Default: entries
+entrypath = "a/"
 
 # since this error is gonna be prompted many times making everything too verbose
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-#TODO: find a way to make this print disappears. Currently there is no solution to this issue.
-print("[WARN]: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
-
-baseurl = "https://pouet.net"
-
 # global logger: it will be used to diagnose what's wrong (skipped files, 404 errors...)
 logger = open("log.txt", "w+")
+
+#TODO: find a way to make this print disappears. Currently there is no solution to this issue.
+print("[WARN]: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
 
 # find files matching a path in a folder and its subfolders
 def find(pattern, path):
@@ -57,6 +68,7 @@ def scrape(platform):
         - this object will be used to build JSON, files and folders
     '''
     for category in pouet_common.CATEGORIES:
+        logger.write("[INFO]: Scraping category " + category + "\n")
         page = requests.get(baseurl + "/prodlist.php?type%5B%5D=" + category + "&platform%5B%5D=" + platform + "&page=1", timeout=2)
         soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -73,7 +85,7 @@ def scrape(platform):
         for i in range(0, numberofpages):
             logger.write("[INFO]: Parsing page: " + str(i+1) + "\n")
             #TODO: dont call twice this page, as it is called before
-            page = requests.get(baseurl + "/prodlist.php?type%5B%5D=demo&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=2)
+            page = requests.get(baseurl + "/prodlist.php?type%5B%5D=" + category + "&platform%5B%5D=Gameboy&page=" + str(i+1), timeout=2)
             soup = BeautifulSoup(page.content, 'html.parser')
 
             # get the big prods table
@@ -100,7 +112,13 @@ def scrape(platform):
                                 prod.platform = pouet_common.PLATFORMS[platform]
                                 
                                 # building files
-                                build(prod)
+                                ret = build(prod)
+
+                                # make required JSON file
+                                if ret != 1:
+                                    makeJSON(prod)
+                                    #updateGlobalJSON("gamesList.json")
+                                return
                             
 def scrape_page(slug, url):
     '''
@@ -165,15 +183,19 @@ def scrape_page(slug, url):
 
 def build(prod: Production):
     '''
-        given a prod "Production" object:
-        1. create a proper named folder and build a JSON according to Production data field
-        2. fetches all slug and add it to gamesList.json
+        given a prod "Production" object containing
+        all production's data, create a proper named folder, fetches all files (screenshot + rom)
+        and properly organize everything 
+
+        There also is a blacklist inside this function, to exclude problematic titles.
     '''
-    # while testing, change it in something gibberish; it may helps a lot and you are not going to directly merge everything in
-    # the main folder.
-    entrypath = "a/"
+    blacklist = ["grey-screen-with-no-music"]
 
     print("[INFO]: " + prod.title + " - " + prod.url)
+
+    if prod.slug in blacklist:
+        logger.write("[BLACK]: " + prod.slug + " is blacklisted" + "\n")
+        return 1
 
     if not os.path.exists(entrypath + prod.slug):
         #############
@@ -191,14 +213,14 @@ def build(prod: Production):
         # download the file
         # in case of http
         if prod.url.startswith("http"):
-            r = requests.get(prod.url, allow_redirects=True, timeout=1, verify=False)
+            r = requests.get(prod.url, allow_redirects=True, timeout=2, verify=False)
             
             if r.status_code == 404:
                 logger.write("[ERR]: 404: " + prod.slug + " - " + prod.url + "\n")
 
                 # cleaning in case of error
                 shutil.rmtree(entrypath + prod.slug)
-                return(1)
+                return 1
             
             open(filepath + prod.slug + "." + suffix, 'wb').write(r.content)
         else:
@@ -232,9 +254,7 @@ def build(prod: Production):
             
                 # cleaning up unneeded files
                 shutil.rmtree(filepath + "unzippedfolder")
-                os.remove(filepath + prod.slug + "." + "zip")
-
-                pass
+                if cleanzip: os.remove(filepath + prod.slug + "." + "zip")
             except zipfile.BadZipFile as e:
                 logger.write("[ERR] " + str(e) + " bad zip file" + "\n")
                 shutil.rmtree(entrypath + prod.slug)
@@ -247,10 +267,45 @@ def build(prod: Production):
         prod.files.append(prod.slug + "." + suffix)
         
         # download the screenshot
-        r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=1)
+        r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=2)
         open(filepath + prod.slug + "." + "png", 'wb').write(r.content)
+        prod.screenshots[0] = prod.slug + "." + "png"
     else:
-        logger.write("[WARN]: directory already present, skipping " + prod.slug + "..." + "\n")
+        logger.write("[WARN]: directory already present. Skipping " + prod.slug + "..." + "\n")
+
+def makeJSON(prod):
+    '''
+        build the json file contained in each directory
+    '''
+    if os.path.exists(entrypath + prod.slug):
+        jsondata = {
+            "developer": prod.developer,
+            "files": [
+                {
+                    "default": True,
+                    "filename": prod.files[0],
+                    "playable": True
+                }
+            ],
+            "platform": prod.platform,
+            "repository": prod.repository,
+            "screenshots": [
+                prod.screenshots[0],
+            ],
+            "slug": prod.slug,
+            "title": prod.title,
+            "typetag": prod.typetag
+        }
+
+        jsonstr = json.dumps(jsondata)
+        jsonfile = open(entrypath + prod.slug + "/game.json", "w")
+        jsonfile.write(jsonstr)
+        jsonfile.close()
+
+    else:
+        logger.write("Unable to create file for " + prod.slug + ". There is no directory for this prod.")
+        return 1
+    return 0
 
 def main():
     scrape("Gameboy")
