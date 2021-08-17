@@ -19,7 +19,7 @@ from os.path import isfile, join
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 
-from py_common.logger import logger
+from py_common.Logger import Logger
 from py_common.Production import Production
 
 ########################
@@ -27,7 +27,7 @@ from py_common.Production import Production
 ########################
 DEBUG = True 
 CLEANZIP = True     # enable this if you want to delete downloaded zip file 
-logger = logger()
+logger = Logger()
 entrypath = "../../entries"
 
 
