@@ -31,6 +31,13 @@ BETA_FOLDER = "beta"    # warning: this must not be blank. If you dont want to u
 
 logger = Logger()
 
+# required: we need to check if BETA_FOLDER does exist or not
+if BETA_FOLDER == "":
+    print("BETA_FOLDER" can't be empty!")
+    exit(1)
+if not os.path.isdir("py_common/" + BETA_FOLDER):
+    os.mkdir("py_common/" + BETA_FOLDER)
+
 #################
 ### FUNCTIONS ###
 #################
