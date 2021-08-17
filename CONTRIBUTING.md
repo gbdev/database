@@ -116,7 +116,6 @@ The final folder structure will look like this:
 
 ```
 database/
-├── gamesList.json
 ├── entries/
 |   ├── my-new-game/
 |   │   ├── my-game.gb
