@@ -1,6 +1,6 @@
 class Production:
     def __init__(self, title, slug, developer, platform, typetag, screenshots, files,
-    lic, assetLicense="", description="", video="", date="", tags=[], alias="", repository="", gameWebsite="", devWebsite="", onlineplay="",
+    lic="", assetLicense="", description="", video="", date="", tags=[], alias="", repository="", gameWebsite="", devWebsite="", onlineplay="",
     wip="", url = ""):
         # mandatory fields
         self.title = title
