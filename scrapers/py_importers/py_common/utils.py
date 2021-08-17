@@ -76,7 +76,7 @@ def gimme_global_games_list():
     '''
     entries_list = listdir("../../entries")
     
-    return(sorted(entries_list + listdir(BETA_FOLDER)) if DEBUG else sorted(entries_list))
+    return(sorted(entries_list + listdir("py_common/" + BETA_FOLDER)) if DEBUG else sorted(entries_list))
 
 def build(prod: Production, entrypath: str):
     '''
