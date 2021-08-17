@@ -16,11 +16,19 @@ Decide a "slug" for the game you are adding. It's like an username: short, no sp
 
 > If the game is called "Super Roto Land I: Tales from the Dumper", a good slug could be `super-roto-land-1`.
 
+While scraping, if you're using Python3, you could give a look to `utils` under `py_importer/py_common`, since there is a function which is used to slugify something.
+
+E.g.
+```
+slug = create_slug("Super Roto Land I: Tales from the Dumper")
+```
+`slug` will be equal to `super-roto-land-i-tales-from-the-dumper`
+
 ### 2. Create the game folder and add the related files 
 
-Add the decided game slug at the end of `gamesList.json` file and create, in the `entries` directory, a folder with the slug as name.
+Create, in the `entries` directory, a folder with the slug as name.
 
-> E.g. `gamesList.json` will now contain `"super-roto-land-1` as element, and we created a folder named `super-roto-land-1` in `entries/`
+> E.g. we created a folder named `super-roto-land-1` in `entries/`
 
 In the created folder, put:
 
