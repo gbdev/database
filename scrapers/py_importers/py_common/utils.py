@@ -22,27 +22,18 @@ from unidecode import unidecode
 from py_common.Logger import Logger
 from py_common.Production import Production
 
-########################
-### GLOBAL VARIABLES ###
-########################
-DEBUG = True 
-CLEANZIP = True     # enable this if you want to delete downloaded zip file 
-logger = Logger()
-entrypath = "../../entries"
+###########################
+### GLOBAL VAR AND CONS ###
+###########################
+DEBUG = True            # enable if you want a more detailed log, beta folder and other useful things 
+CLEANZIP = True         # enable if you want to delete downloaded zip file 
+BETA_FOLDER = "beta"    # warning: this must not be blank. If you dont want to use this simply set DEBUG to False
 
+logger = Logger()
 
 #################
 ### FUNCTIONS ###
 #################
-def if_not_create_common_dir(path):
-    if path == "":
-        return 1
-    if not os.path.isdir(path):
-        os.mkdir("py_common/" + path)
-
-    print(path)
-    return 0
-    
 # return a proper built slug
 def build_slug(slug: str):
     '''
@@ -76,7 +67,9 @@ def gimme_global_games_list():
     '''
         return a list containing all slugs in entrypath 
     '''
-    return(sorted(listdir(entrypath)))
+    entries_list = listdir("../../entries")
+    
+    return(sorted(entries_list + listdir(BETA_FOLDER)) if DEBUG else sorted(entries_list))
 
 def build(prod: Production, entrypath: str):
     '''

@@ -89,15 +89,9 @@ PLATFORMS = {
     # "Gameboy Advance":"GBA"
 }
 
-##################
-### CHECK AREA ###
-##################
-betafolder = "beta"
-utils.if_not_create_common_dir(betafolder)
-
-# disable utils.DEBUG flag
+# disable utils.DEBUG flag in prod
 # Default: "../../entries
-entrypath = "py_common/" + betafolder + "/" if utils.DEBUG else "../../entries"  # this means: database/scrapers/py_common/pouet_demoscene/
+entrypath = "py_common/" + utils.BETA_FOLDER + "/" if utils.DEBUG else "../../entries"  # this means: database/scrapers/py_common/pouet_demoscene/
 
 #TODO: Resolve this issue.
 print("[WARN]: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
