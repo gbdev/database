@@ -28,15 +28,18 @@ from py_common.Production import Production
 DEBUG = True            # enable if you want a more detailed log, beta folder and other useful things 
 CLEANZIP = True         # enable if you want to delete downloaded zip file 
 BETA_FOLDER = "beta"    # warning: this must not be blank. If you dont want to use this simply set DEBUG to False
+TMP_FOLDER = "tmp"      # warning: this must not be blank. It is used to store tmp files.
 
 logger = Logger()
 
-# required: we need to check if BETA_FOLDER does exist or not
-if BETA_FOLDER == "":
-    print("BETA_FOLDER can't be empty!")
+# required: we need to check if BETA_FOLDER and TMP_FOLDER exist or not
+if not BETA_FOLDER or not TMP_FOLDER or BETA_FOLDER == "" or TMP_FOLDER == "":
+    print("BETA_FOLDER or TMP_FOLDER can't be empty!")
     exit(1)
 if not os.path.isdir("py_common/" + BETA_FOLDER):
     os.mkdir("py_common/" + BETA_FOLDER)
+if not os.path.isdir("py_common/" + TMP_FOLDER):
+    os.mkdir("py_common/" + TMP_FOLDER)
 
 #################
 ### FUNCTIONS ###
