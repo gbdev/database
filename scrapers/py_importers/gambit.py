@@ -72,7 +72,7 @@ entrypath = "py_common/" + utils.BETA_FOLDER + "/" if utils.DEBUG else "../../en
 tmp_zip_path = "py_common/" + utils.TMP_FOLDER + "/"    # this means: database/scrapers/py_common/tmp
 
 #TODO: Resolve this issue.
-print("[WARN]: if a prod is already present in the gamesList with another slugname, two different entries will be created!")
+print("[WARN]: if a prod is already present in the entries folder with another slugname, two different entries will be created!")
 
 #################
 ### FUNCTIONS ###
