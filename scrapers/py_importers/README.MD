@@ -14,6 +14,18 @@ As far as it will be manually tested, it works for GBA too and almost every othe
 Starting from a Pouet prod's page, it builds a file in compliance with `data model`, generates appropriate json files for
 every production, fetches images and updates the global database. 
 
+## gambit-scraper
+
+gambit-prods page is a mess.
+
+Not only you will need to scrape everything, but once scraped, roms will be
+in a strange pdb format.
+
+gambit-prods provide a link where to download all those roms in a normal gb/gbc format in a single zip file.
+
+This script will download that zip file and it will move every gb file into an appropriate folder, with screenshots
+and game.json
+
 ### Prerequisites
 All the libraries are in `requirements.txt` (in theory), just use pip to install them. 
 ```
