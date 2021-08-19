@@ -25,12 +25,13 @@ from py_common.Production import Production
 ###########################
 ### GLOBAL VAR AND CONS ###
 ###########################
-DEBUG = True            # enable if you want a more detailed log, beta folder and other useful things 
-CLEANZIP = True         # enable if you want to delete downloaded zip file 
-BETA_FOLDER = "beta"    # warning: this must not be blank. If you dont want to use this simply set DEBUG to False
-TMP_FOLDER = "tmp"      # warning: this must not be blank. It is used to store tmp files.
+DEBUG = True                    # enable if you want a more detailed log, beta folder and other useful things 
+CLEANZIP = True                 # enable if you want to delete downloaded zip file 
+BETA_FOLDER = "beta"            # warning: this must not be blank. If you dont want to use this simply set DEBUG to False
+TMP_FOLDER = "tmp"              # warning: this must not be blank. It is used to store tmp files.
+PREFERRED_OUTPUT = "CONSOLE"    # change it to LOG if you need to output everything in log.txt file
 
-logger = Logger()
+logger = Logger(PREFERRED_OUTPUT)
 
 # required: we need to check if BETA_FOLDER and TMP_FOLDER exist or not
 if not BETA_FOLDER or not TMP_FOLDER or BETA_FOLDER == "" or TMP_FOLDER == "":
@@ -81,6 +82,18 @@ def gimme_global_games_list():
     
     return(sorted(entries_list + listdir("py_common/" + BETA_FOLDER)) if DEBUG else sorted(entries_list))
 
+def fetch_prod_name(prod, suffix, filepath):
+    '''
+        return a list with path as the first entry if file is found in the unzippedfolder
+    '''
+    path = []           # manage the unknown extensions
+
+    # fetching product path in the unzippedfolder
+    if prod.platform == suffix.upper():     # e.g. if "GB" == "GB"
+        path = find("*." + suffix, filepath + "unzippedfolder")
+        
+    return path
+
 def build(prod: Production, entrypath: str):
     '''
         given a prod "Production" object containing
@@ -124,28 +137,22 @@ def build(prod: Production, entrypath: str):
                 with zipfile.ZipFile(filepath + prod.slug + "." + suffix,"r") as zip_ref:
                     zip_ref.extractall(filepath + "unzippedfolder")
 
-                # fetching rom name in the unzippedfolder
-                if prod.platform == "GB":
-                    suffix = "gb"
-                    path = find("*.gb", filepath + "unzippedfolder")
-                elif prod.platform == "GBC":
-                    suffix = "gbc"
-                    path = find("*.gbc", filepath + "unzippedfolder")
-                elif prod.platform == "GBA":
-                    suffix = "gba"
-                    path = find("*.gba", filepath + "unzippedfolder")
-                else:
-                    # manage the unknown extensions
-                    path = []
-                    logger.write("[WARN]"," extension is " + prod.platform + ", unable to manage this extension\n")
-
+                # manage all extensions, and it doesn't matter if they have uppercase or lowercase
+                path = []       # eventually the file
+                extensions = [ "gb", "GB", "gbc", "GBC"] # "gba", "GBA"]
+                for extension in extensions:
+                    path = fetch_prod_name(prod, extension, filepath)
+                    if path != []:
+                        break
 
                 # proper renaming and moving the file
                 if path != []:
                     os.rename(path[0], filepath + prod.slug + "." + suffix)
                 else:
-                    logger.write("[WARN]"," cant rename file")
-            
+                    logger.write("[WARN]",prod.title + " extension is not a " + prod.platform + " file.")
+                    shutil.rmtree(entrypath + prod.slug)
+                    return 1
+
                 # cleaning up unneeded files
                 shutil.rmtree(filepath + "unzippedfolder")
                 if CLEANZIP: os.remove(filepath + prod.slug + "." + "zip")

@@ -21,7 +21,8 @@ import py_common.utils as utils
 ### GLOBAL VARIABLES ###
 ########################
 globalgameslist = utils.gimme_global_games_list()   # slug in entries folder
-logger = Logger()
+logger = Logger(utils.PREFERRED_OUTPUT)     # logger will print in file or on console depending on params in utils.PREFERRED_OUTPUT --> LOG or CONSOLE
+
 baseurl = "https://pouet.net"
 blacklist = [
     "grey-screen-with-no-music", # 22kb zip (empty)
@@ -133,7 +134,7 @@ def scrape(platform):
             # get rows; for each rows, get the name of the prod and the internal link
             for tr in prodTable:
                 tds = tr.find_all('td')
-                if(tds):
+                if tds:
                     for td in tds:
                         spans = td.find_all("span", {"class": "prod"}, recursive=False)
                         for span in spans:
