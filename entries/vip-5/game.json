@@ -1,0 +1,18 @@
+{
+    "developer": "Venom",
+    "files": [
+        {
+            "default": true,
+            "filename": "vip-5.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "vip-5.png"
+    ],
+    "slug": "vip-5",
+    "title": "vip +5",
+    "typetag": "demo"
+}

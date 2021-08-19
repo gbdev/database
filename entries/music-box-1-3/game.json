@@ -1,0 +1,18 @@
+{
+    "developer": "Resource",
+    "files": [
+        {
+            "default": true,
+            "filename": "music-box-1-3.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "groups.php?which=531",
+    "screenshots": [
+        "music-box-1-3.png"
+    ],
+    "slug": "music-box-1-3",
+    "title": "music box 1.3",
+    "typetag": "homebrew"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "Paragon5",
+    "files": [
+        {
+            "default": true,
+            "filename": "p5-gameboy-tracker.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "p5-gameboy-tracker.png"
+    ],
+    "slug": "p5-gameboy-tracker",
+    "title": "P5 Gameboy Tracker",
+    "typetag": "homebrew"
+}

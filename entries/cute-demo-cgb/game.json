@@ -1,0 +1,18 @@
+{
+    "developer": "Mills",
+    "files": [
+        {
+            "default": true,
+            "filename": "cute-demo-cgb.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "https://github.com/mills32/CUTE_DEMO",
+    "screenshots": [
+        "cute-demo-cgb.png"
+    ],
+    "slug": "cute-demo-cgb",
+    "title": "Cute Demo CGB",
+    "typetag": "demo"
+}

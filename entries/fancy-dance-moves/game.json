@@ -1,0 +1,18 @@
+{
+    "developer": "Pasi Toska",
+    "files": [
+        {
+            "default": true,
+            "filename": "fancy-dance-moves.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "fancy-dance-moves.png"
+    ],
+    "slug": "fancy-dance-moves",
+    "title": "fancy dance moves",
+    "typetag": "demo"
+}

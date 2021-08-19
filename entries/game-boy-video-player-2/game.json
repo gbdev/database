@@ -1,0 +1,18 @@
+{
+    "developer": "unknown",
+    "files": [
+        {
+            "default": true,
+            "filename": "game-boy-video-player-2.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "game-boy-video-player-2.png"
+    ],
+    "slug": "game-boy-video-player-2",
+    "title": "Game Boy Video Player 2",
+    "typetag": "demo"
+}

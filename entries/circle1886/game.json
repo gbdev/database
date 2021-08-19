@@ -1,0 +1,18 @@
+{
+    "developer": "Carillon & Cyberiad",
+    "files": [
+        {
+            "default": true,
+            "filename": "circle1886.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "circle1886.png"
+    ],
+    "slug": "circle1886",
+    "title": "Circle1886",
+    "typetag": "demo"
+}

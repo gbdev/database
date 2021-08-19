@@ -1,0 +1,18 @@
+{
+    "developer": "Nukleus",
+    "files": [
+        {
+            "default": true,
+            "filename": "jamaica-rom-2001-invitation-gb.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "jamaica-rom-2001-invitation-gb.png"
+    ],
+    "slug": "jamaica-rom-2001-invitation-gb",
+    "title": "jamaica rom 2001 invitation (GB)",
+    "typetag": "demo"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "Venom",
+    "files": [
+        {
+            "default": true,
+            "filename": "rayman-2.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "rayman-2.png"
+    ],
+    "slug": "rayman-2",
+    "title": "rayman 2",
+    "typetag": "demo"
+}

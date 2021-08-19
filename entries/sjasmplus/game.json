@@ -1,0 +1,18 @@
+{
+    "developer": "breeze",
+    "files": [
+        {
+            "default": true,
+            "filename": "sjasmplus.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "sjasmplus.png"
+    ],
+    "slug": "sjasmplus",
+    "title": "sjasmplus",
+    "typetag": "homebrew"
+}

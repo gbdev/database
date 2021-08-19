@@ -1,0 +1,18 @@
+{
+    "developer": "Tesko",
+    "files": [
+        {
+            "default": true,
+            "filename": "shape-gameboy.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "shape-gameboy.png"
+    ],
+    "slug": "shape-gameboy",
+    "title": "Shape! Gameboy",
+    "typetag": "demo"
+}

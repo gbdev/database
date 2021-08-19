@@ -1,0 +1,18 @@
+{
+    "developer": "All You Can Execute",
+    "files": [
+        {
+            "default": true,
+            "filename": "lost-in-translation.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "https://github.com/AYCEdemo/LostInTranslation",
+    "screenshots": [
+        "lost-in-translation.png"
+    ],
+    "slug": "lost-in-translation",
+    "title": "Lost in Translation",
+    "typetag": "demo"
+}

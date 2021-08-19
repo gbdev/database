@@ -1,0 +1,18 @@
+{
+    "developer": "Proxima",
+    "files": [
+        {
+            "default": true,
+            "filename": "yo-grl-makes-a-demo.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "yo-grl-makes-a-demo.png"
+    ],
+    "slug": "yo-grl-makes-a-demo",
+    "title": "Yo-grl Makes a Demo",
+    "typetag": "demo"
+}

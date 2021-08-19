@@ -1,0 +1,18 @@
+{
+    "developer": "Quartex",
+    "files": [
+        {
+            "default": true,
+            "filename": "harvest-moon3.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "harvest-moon3.png"
+    ],
+    "slug": "harvest-moon3",
+    "title": "Harvest Moon3",
+    "typetag": "demo"
+}

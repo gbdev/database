@@ -1,0 +1,18 @@
+{
+    "developer": "Resistance",
+    "files": [
+        {
+            "default": true,
+            "filename": "trainermenu-1.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "trainermenu-1.png"
+    ],
+    "slug": "trainermenu-1",
+    "title": "trainermenu #1",
+    "typetag": "demo"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "unknown",
+    "files": [
+        {
+            "default": true,
+            "filename": "terminator-ii.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "http://www.pdroms.de/file_details.php?fn=62",
+    "screenshots": [
+        "terminator-ii.png"
+    ],
+    "slug": "terminator-ii",
+    "title": "Terminator II",
+    "typetag": "demo"
+}

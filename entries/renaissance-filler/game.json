@@ -1,0 +1,18 @@
+{
+    "developer": "eimink",
+    "files": [
+        {
+            "default": true,
+            "filename": "renaissance-filler.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "renaissance-filler.png"
+    ],
+    "slug": "renaissance-filler",
+    "title": "Renaissance Filler",
+    "typetag": "demo"
+}

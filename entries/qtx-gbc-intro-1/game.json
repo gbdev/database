@@ -1,0 +1,18 @@
+{
+    "developer": "Quartex",
+    "files": [
+        {
+            "default": true,
+            "filename": "qtx-gbc-intro-1.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "qtx-gbc-intro-1.png"
+    ],
+    "slug": "qtx-gbc-intro-1",
+    "title": "qtx gbc intro #1",
+    "typetag": "demo"
+}

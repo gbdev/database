@@ -1,0 +1,18 @@
+{
+    "developer": "bitnenfer",
+    "files": [
+        {
+            "default": true,
+            "filename": "merken.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "merken.png"
+    ],
+    "slug": "merken",
+    "title": "MERK\u00c9N",
+    "typetag": "demo"
+}

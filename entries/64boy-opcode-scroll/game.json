@@ -1,0 +1,18 @@
+{
+    "developer": "basxto",
+    "files": [
+        {
+            "default": true,
+            "filename": "64boy-opcode-scroll.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "https://github.com/basxto/64boy_opscro/releases/tag/lovebyte2021",
+    "screenshots": [
+        "64boy-opcode-scroll.png"
+    ],
+    "slug": "64boy-opcode-scroll",
+    "title": "64BOY_OPCODE_SCROLL",
+    "typetag": "demo"
+}

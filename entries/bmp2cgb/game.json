@@ -1,0 +1,18 @@
+{
+    "developer": "unknown",
+    "files": [
+        {
+            "default": true,
+            "filename": "bmp2cgb.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "bmp2cgb.png"
+    ],
+    "slug": "bmp2cgb",
+    "title": "bmp2cgb",
+    "typetag": "homebrew"
+}

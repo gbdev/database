@@ -1,0 +1,18 @@
+{
+    "developer": "Dual Crew Shining",
+    "files": [
+        {
+            "default": true,
+            "filename": "dcs-gbc-intro-2.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "dcs-gbc-intro-2.png"
+    ],
+    "slug": "dcs-gbc-intro-2",
+    "title": "dcs gbc intro #2",
+    "typetag": "demo"
+}

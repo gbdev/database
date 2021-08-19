@@ -1,0 +1,18 @@
+{
+    "developer": "AGO",
+    "files": [
+        {
+            "default": true,
+            "filename": "realtime-gbc.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "realtime-gbc.png"
+    ],
+    "slug": "realtime-gbc",
+    "title": "Realtime [gbc]",
+    "typetag": "demo"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "basxto",
+    "files": [
+        {
+            "default": true,
+            "filename": "sierpinskiboy.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "sierpinskiboy.png"
+    ],
+    "slug": "sierpinskiboy",
+    "title": "SIERPINSKIBOY",
+    "typetag": "demo"
+}

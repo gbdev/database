@@ -1,0 +1,18 @@
+{
+    "developer": "DuoDreamer",
+    "files": [
+        {
+            "default": true,
+            "filename": "pdroms-com-re-launch-intro.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "pdroms-com-re-launch-intro.png"
+    ],
+    "slug": "pdroms-com-re-launch-intro",
+    "title": "PDROMS.com Re-Launch Intro",
+    "typetag": "demo"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "naavis",
+    "files": [
+        {
+            "default": true,
+            "filename": "roboto.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "roboto.png"
+    ],
+    "slug": "roboto",
+    "title": "Roboto",
+    "typetag": "demo"
+}

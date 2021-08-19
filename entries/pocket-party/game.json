@@ -1,0 +1,18 @@
+{
+    "developer": "PoroCYon",
+    "files": [
+        {
+            "default": true,
+            "filename": "pocket-party.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "pocket-party.png"
+    ],
+    "slug": "pocket-party",
+    "title": "Pocket Party",
+    "typetag": "demo"
+}

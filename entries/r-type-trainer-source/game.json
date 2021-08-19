@@ -1,0 +1,18 @@
+{
+    "developer": "Nightfall",
+    "files": [
+        {
+            "default": true,
+            "filename": "r-type-trainer-source.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "r-type-trainer-source.png"
+    ],
+    "slug": "r-type-trainer-source",
+    "title": "R-Type trainer + source",
+    "typetag": "demo"
+}
