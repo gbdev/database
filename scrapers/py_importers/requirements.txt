@@ -8,6 +8,5 @@ six==1.16.0
 soupsieve==2.2.1
 Unidecode==1.2.0
 urllib3==1.26.6
-validate==5.1.0.dev0
 webencodings==0.5.1
 wget==3.2
