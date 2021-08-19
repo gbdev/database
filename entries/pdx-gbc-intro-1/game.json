@@ -1,0 +1,18 @@
+{
+    "developer": "Paradox",
+    "files": [
+        {
+            "default": true,
+            "filename": "pdx-gbc-intro-1.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "pdx-gbc-intro-1.png"
+    ],
+    "slug": "pdx-gbc-intro-1",
+    "title": "pdx gbc intro #1",
+    "typetag": "demo"
+}

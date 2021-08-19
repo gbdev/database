@@ -1,0 +1,18 @@
+{
+    "developer": "Nintendo Co., Ltd.",
+    "files": [
+        {
+            "default": true,
+            "filename": "gameboy-color-demo.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "gameboy-color-demo.png"
+    ],
+    "slug": "gameboy-color-demo",
+    "title": "Gameboy Color Demo",
+    "typetag": "demo"
+}

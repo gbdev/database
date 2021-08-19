@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "papyrus-3-trainer.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "papyrus-3-trainer.png"
+    ],
+    "slug": "papyrus-3-trainer",
+    "title": "Papyrus +3 Trainer",
+    "typetag": "demo"
+}

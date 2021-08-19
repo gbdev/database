@@ -1,0 +1,18 @@
+{
+    "developer": "Joker",
+    "files": [
+        {
+            "default": true,
+            "filename": "pocket-lissajous.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "pocket-lissajous.png"
+    ],
+    "slug": "pocket-lissajous",
+    "title": "Pocket Lissajous",
+    "typetag": "demo"
+}

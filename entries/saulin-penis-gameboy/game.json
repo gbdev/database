@@ -1,0 +1,18 @@
+{
+    "developer": "Jumalauta",
+    "files": [
+        {
+            "default": true,
+            "filename": "saulin-penis-gameboy.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "saulin-penis-gameboy.png"
+    ],
+    "slug": "saulin-penis-gameboy",
+    "title": "Saulin Penis Gameboy",
+    "typetag": "demo"
+}

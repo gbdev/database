@@ -1,0 +1,18 @@
+{
+    "developer": "Pasi Toska",
+    "files": [
+        {
+            "default": true,
+            "filename": "wobbly-celebration.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "wobbly-celebration.png"
+    ],
+    "slug": "wobbly-celebration",
+    "title": "Wobbly Celebration",
+    "typetag": "demo"
+}

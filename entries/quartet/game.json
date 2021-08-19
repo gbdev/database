@@ -1,0 +1,18 @@
+{
+    "developer": "All You Can Execute",
+    "files": [
+        {
+            "default": true,
+            "filename": "quartet.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "quartet.png"
+    ],
+    "slug": "quartet",
+    "title": "quartet",
+    "typetag": "demo"
+}

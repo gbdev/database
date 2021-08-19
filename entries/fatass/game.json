@@ -1,0 +1,18 @@
+{
+    "developer": "unknown",
+    "files": [
+        {
+            "default": true,
+            "filename": "fatass.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "fatass.png"
+    ],
+    "slug": "fatass",
+    "title": "Fatass",
+    "typetag": "homebrew"
+}

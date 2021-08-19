@@ -1,0 +1,18 @@
+{
+    "developer": "Beige",
+    "files": [
+        {
+            "default": true,
+            "filename": "the-syntax-pocket-party.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "the-syntax-pocket-party.png"
+    ],
+    "slug": "the-syntax-pocket-party",
+    "title": "The Syntax Pocket Party",
+    "typetag": "demo"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "All You Can Execute",
+    "files": [
+        {
+            "default": true,
+            "filename": "gbc-niccc.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "https://github.com/AYCEdemo/GBC-NICCC",
+    "screenshots": [
+        "gbc-niccc.png"
+    ],
+    "slug": "gbc-niccc",
+    "title": "GBC-NICCC",
+    "typetag": "demo"
+}

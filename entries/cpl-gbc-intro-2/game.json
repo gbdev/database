@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "cpl-gbc-intro-2.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "cpl-gbc-intro-2.png"
+    ],
+    "slug": "cpl-gbc-intro-2",
+    "title": "cpl gbc intro #2",
+    "typetag": "demo"
+}

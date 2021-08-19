@@ -1,0 +1,18 @@
+{
+    "developer": "Mills",
+    "files": [
+        {
+            "default": true,
+            "filename": "second-reality-gameboy-remix.php?s=24814b6752224514efb1eeca8efeb181&attachmentid=38559&d=1398556049",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "second-reality-gameboy-remix.png"
+    ],
+    "slug": "second-reality-gameboy-remix",
+    "title": "Second Reality (Gameboy remix)",
+    "typetag": "demo"
+}

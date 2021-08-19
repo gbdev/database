@@ -1,0 +1,18 @@
+{
+    "developer": "unknown",
+    "files": [
+        {
+            "default": true,
+            "filename": "merry-x-mas.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "merry-x-mas.png"
+    ],
+    "slug": "merry-x-mas",
+    "title": "Merry X-Mas",
+    "typetag": "demo"
+}

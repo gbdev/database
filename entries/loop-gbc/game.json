@@ -1,0 +1,18 @@
+{
+    "developer": "amuQ Creations",
+    "files": [
+        {
+            "default": true,
+            "filename": "loop-gbc.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "loop-gbc.png"
+    ],
+    "slug": "loop-gbc",
+    "title": "LoOp (GBC)",
+    "typetag": "demo"
+}
