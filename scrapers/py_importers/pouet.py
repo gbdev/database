@@ -35,9 +35,9 @@ blacklist = [
     "bmp2cgb",                  # not a prod -- it is a tool
     "gejmbaj",                  # rar file, cant deal with it
     "intrinsic-gravelty",       # not a gb production
-    "second-reality-gameboy-remix"      # gibberish output file
-    "sjasmplus"                 # not a gb file --> it is a tool
-
+    "second-reality-gameboy-remix",      # gibberish output file + duplicate entry
+    "sjasmplus",                # not a gb file --> it is a tool
+    "shape-gameboy"
 ]
 
 #############
