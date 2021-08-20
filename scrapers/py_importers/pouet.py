@@ -28,7 +28,8 @@ blacklist = [
     "grey-screen-with-no-music", # 22kb zip (empty)
     "dangan-gb-4-trainer",      # corrupted zip
     "altstork-2004-invitation",  # 404, but cant manage it
-    "dcs-gbc-intro-7"          # corrupted zip             https://ftp.untergrund.net/users/havoc/POUET/gameboy/DCS-I_06.ZIP
+    "dcs-gbc-intro-7",          # corrupted zip             https://ftp.untergrund.net/users/havoc/POUET/gameboy/DCS-I_06.ZIP
+    "beauty-girls-vol-i"
 ]
 
 #############
@@ -154,7 +155,7 @@ def scrape(platform):
                                 # check if it could be added to database or not
                                 if prod.slug not in globalgameslist and prod.slug not in blacklist:
                                     # building files
-                                    ret = utils.build(prod, entrypath)
+                                    ret = utils.build(prod, entrypath, list(PLATFORMS.values()))
 
                                     # make required JSON file
                                     if ret != 1:
@@ -163,6 +164,8 @@ def scrape(platform):
                                         # useful to print all added entries (to spot duplicates for example)
                                         if utils.DEBUG:
                                             added.append(prod.slug)
+                                else:
+                                    logger.write("[WARN]", prod.slug + " either in blacklist or already in entries folder!")
 
 
                     

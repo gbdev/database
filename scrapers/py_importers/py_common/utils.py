@@ -30,6 +30,7 @@ CLEANZIP = True                 # enable if you want to delete downloaded zip fi
 BETA_FOLDER = "beta"            # warning: this must not be blank. If you dont want to use this simply set DEBUG to False
 TMP_FOLDER = "tmp"              # warning: this must not be blank. It is used to store tmp files.
 PREFERRED_OUTPUT = "CONSOLE"    # change it to LOG if you need to output everything in log.txt file
+DONT_CARE_EXT = True            # dont care if it is a GB file while scraping GBC (or viceversa), put it in a folder anyway
 
 logger = Logger(PREFERRED_OUTPUT)
 
@@ -85,16 +86,21 @@ def gimme_global_games_list():
 def fetch_prod_name(prod, suffix, filepath):
     '''
         return a list with path as the first entry if file is found in the unzippedfolder
+        if DONT_CARE_EXT is enabled, it will search if there is a file with a certain extension
+        regardless what it's scraping
     '''
     path = []           # manage the unknown extensions
 
     # fetching product path in the unzippedfolder
-    if prod.platform == suffix.upper():     # e.g. if "GB" == "GB"
+    if DONT_CARE_EXT:
         path = find("*." + suffix, filepath + "unzippedfolder")
-        
+    else:
+        if prod.platform == suffix.upper():     # e.g. if "GB" == "GB"
+            path = find("*." + suffix, filepath + "unzippedfolder")
+    
     return path
 
-def build(prod: Production, entrypath: str):
+def build(prod: Production, entrypath: str, desired_extentions: list):
     '''
         given a prod "Production" object containing
         all production's data, create a proper named folder, fetches all files (screenshot + rom)
@@ -112,7 +118,7 @@ def build(prod: Production, entrypath: str):
 
         # building the filepath
         filepath = entrypath + prod.slug + "/"
-
+        
         # download the file
         # in case of http
         if prod.url.startswith("http"):
@@ -139,15 +145,16 @@ def build(prod: Production, entrypath: str):
 
                 # manage all extensions, and it doesn't matter if they have uppercase or lowercase
                 path = []       # eventually the file
-                extensions = [ "gb", "GB", "gbc", "GBC"] # "gba", "GBA"]
-                for extension in extensions:
+                
+                extentions = fix_extentions(desired_extentions)
+                for extension in extentions:
                     path = fetch_prod_name(prod, extension, filepath)
                     if path != []:
                         break
-
+                
                 # proper renaming and moving the file
                 if path != []:
-                    os.rename(path[0], filepath + prod.slug + "." + suffix)
+                    os.rename(path[0], filepath + prod.slug + "." + extension)
                 else:
                     logger.write("[WARN]",prod.title + " extension is not a " + prod.platform + " file.")
                     shutil.rmtree(entrypath + prod.slug)
@@ -175,6 +182,31 @@ def build(prod: Production, entrypath: str):
         logger.write("[WARN]", "directory already present. Skipping " + prod.slug + "...")
         return 1
     return 0
+
+def fix_extentions(desired_extentions):
+    '''
+        given a theorical list of extensions, it returns a list containing additional correct extensions (like CGB, AGB)
+        in this way, we deals with these kind of files
+    '''
+    final_list = []
+
+    if "GB" in desired_extentions:
+        final_list.append("GB")
+        final_list.append("gb")
+
+    if "GBC" in desired_extentions:
+        final_list.append("GBC")
+        final_list.append("gbc")
+        final_list.append("CGB")
+        final_list.append("cgb")
+
+    if "GBA" in desired_extentions:
+        final_list.append("GBA")
+        final_list.append("gba")
+        final_list.append("AGB")
+        final_list.append("agb")
+
+    return final_list
     
 def makeJSON(prod, entrypath):
     '''
