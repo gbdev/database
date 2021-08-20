@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+distlib==0.3.2
+regex==2021.8.3
+requests==2.26.0
+resolvelib==0.5.5
+six==1.16.0
+soupsieve==2.2.1
+Unidecode==1.2.0
+urllib3==1.26.6
+webencodings==0.5.1
+wget==3.2
