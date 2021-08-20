@@ -29,7 +29,15 @@ blacklist = [
     "dangan-gb-4-trainer",      # corrupted zip
     "altstork-2004-invitation",  # 404, but cant manage it
     "dcs-gbc-intro-7",          # corrupted zip             https://ftp.untergrund.net/users/havoc/POUET/gameboy/DCS-I_06.ZIP
-    "beauty-girls-vol-i"
+    "beauty-girls-vol-i",
+    "fire-gbc",                 # duplicate entry
+    "fatass",                   # not a prod -- it is a tool
+    "bmp2cgb",                  # not a prod -- it is a tool
+    "gejmbaj",                  # rar file, cant deal with it
+    "intrinsic-gravelty",       # not a gb production
+    "second-reality-gameboy-remix"      # gibberish output file
+    "sjasmplus"                 # not a gb file --> it is a tool
+
 ]
 
 #############
