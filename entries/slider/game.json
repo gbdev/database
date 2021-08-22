@@ -1,0 +1,20 @@
+{
+    "developer": "Jaeden Amero",
+    "files": [
+        {
+            "default": true,
+            "filename": "slider.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "screen1.png",
+        "screen2.png",
+        "screen3.png"
+    ],
+    "slug": "slider",
+    "title": "slider",
+    "typetag": "game"
+}

@@ -1,0 +1,19 @@
+{
+    "developer": "kresna",
+    "files": [
+        {
+            "default": true,
+            "filename": "SHMUP.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "screen1.png",
+        "screen2.png"
+    ],
+    "slug": "shmup",
+    "title": "shmup",
+    "typetag": "game"
+}

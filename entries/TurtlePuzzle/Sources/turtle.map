@@ -1,0 +1,441 @@
+AREA .  .ABS.
+	RADIX HEX
+	BASE 0000
+	SIZE 0000
+	ATTRIB ABS OVR
+	GLOBALS
+		l__HEAP	0000
+		l__BSEG	0000
+		l_.  .ABS.	0000
+		l__GSFINAL	0000
+		l__ISEG	0000
+		s_.  .ABS.	0000
+		s__HEADER	0000
+		l__XSEG	0000
+		.init	0000
+		l__OVERLAY	0000
+		l__LIT	0000
+		l__GSINITTAIL	0001
+		l__BSS	005C
+		l__HOME	01D3
+		l__HEADER	01E1
+		s__CODE	0200
+		l__BASE	0254
+		l__GSINIT	075F
+		l__DATA	0ED2
+		l__CODE	4241
+		s__HOME	4441
+		s__BASE	4614
+		s__LIT	4868
+		s__GSINIT	4868
+		s__GSINITTAIL	4FC7
+		s__GSFINAL	4FC8
+		.OAM	C000
+		s__DATA	C0A0
+		s__BSS	CF72
+		s__HEAP	CFCE
+		s__BSEG	CFCE
+		s__ISEG	CFCE
+		s__XSEG	CFCE
+		s__OVERLAY	CFCE
+		.STACK	E000
+		.refresh_OAM	FF80
+AREA _CODE
+	RADIX HEX
+	BASE 0200
+	SIZE 4241
+	ATTRIB REL CON
+	GLOBALS
+		_stackInit	0200
+		_stackPush	0243
+		_stackPop	0283
+		_stackTop	02BE
+		_loadLevel	02E8
+		_getDrawingPos	06F3
+		_initGameMap	0838
+		_dispTitleScreen	0E44
+		_runInstructions	1234
+		_setCommand	196D
+		_selectCommands	201A
+		_main	2269
+		_cgbOnlyMap	23BE
+		_credits	2528
+		_gameMapPalette	2692
+		_gameMap	27FC
+		_levelObjects000	2966
+		_level000	29EC
+		_levelObjects001	2A72
+		_level001	2AF8
+		_levelObjects002	2B7E
+		_level002	2C04
+		_levelObjects003	2C8A
+		_level003	2D10
+		_levelObjects004	2D96
+		_level004	2E1C
+		_levelObjects005	2EA2
+		_level005	2F28
+		_levelObjects006	2FAE
+		_level006	3034
+		_levelObjects007	30BA
+		_level007	3140
+		_levelObjects008	31C6
+		_level008	324C
+		_levelObjects009	32D2
+		_level009	3358
+		_levelObjects010	33DE
+		_level010	3464
+		_levelObjects011	34EA
+		_level011	3570
+		_levelObjects012	35F6
+		_level012	367C
+		_levelObjects013	3702
+		_level013	3788
+		_levelObjects014	380E
+		_level014	3894
+		_levelObjects015	391A
+		_level015	39A0
+		_levelObjects016	3A26
+		_level016	3AAC
+		_levelObjects017	3B32
+		_level017	3BB8
+		_levelObjects018	3C3E
+		_level018	3CC4
+		_levelObjects019	3D4A
+		_level019	3DD0
+		_levelObjects020	3E56
+		_level020	3EDC
+		_levelObjects021	3F62
+		_level021	3FE8
+		_levelObjects022	406E
+		_level022	40F4
+		_levelObjects023	417A
+		_level023	4200
+		_set_bkg_palette_entry	4284
+		_set_sprite_palette_entry	42AC
+		_cpu_slow	42D4
+		_cpu_fast	42EF
+		_cgb_compatibility	42F6
+		__divschar_rrx_s	433F
+		__divschar_rrx_hds	4346
+		__modschar_rrx_s	434D
+		__modschar_rrx_hds	4354
+		__divsint_rrx_s	4359
+		__divsint_rrx_hds	4365
+		__modsint_rrx_s	436D
+		__modsint_rrx_hds	4379
+		__divuchar_rrx_s	437F
+		__divuchar_rrx_hds	4386
+		__moduchar_rrx_s	438D
+		__moduchar_rrx_hds	4394
+		__divuint_rrx_s	4399
+		__divuint_rrx_hds	43A5
+		__moduint_rrx_s	43AD
+		__moduint_rrx_hds	43B9
+		.mod8	43BF
+		.div8	43BF
+		.mod16	43C7
+		.div16	43C7
+		.modu8	4401
+		.divu8	4401
+		.modu16	4404
+		.divu16	4404
+AREA _HEADER
+	RADIX HEX
+	BASE 0000
+	SIZE 01E1
+	ATTRIB ABS OVR
+	GLOBALS
+		_exit	01D2
+AREA _HOME
+	RADIX HEX
+	BASE 4441
+	SIZE 01D3
+	ATTRIB REL CON
+	GLOBALS
+		.set_mode	4441
+		.remove_VBL	4451
+		.remove_LCD	4457
+		.remove_TIM	445D
+		.remove_SIO	4463
+		.remove_JOY	4469
+		.add_VBL	446F
+		.add_LCD	4475
+		.add_TIM	447B
+		.add_SIO	4481
+		.add_JOY	4487
+		.remove_int	448D
+		.add_int	44AD
+		.wait_vbl_done	44C9
+		_wait_vbl_done	44C9
+		_display_off	44E0
+		.display_off	44E0
+		.serial_IO	4501
+		_mode	4530
+		_get_mode	4539
+		_enable_interrupts	453E
+		_disable_interrupts	4540
+		_reset	4542
+		.reset	4542
+		_set_interrupts	4548
+		_remove_VBL	4553
+		_remove_LCD	455E
+		_remove_TIM	4569
+		_remove_SIO	4574
+		_remove_JOY	457F
+		_add_VBL	458A
+		_add_LCD	4595
+		_add_TIM	45A0
+		_add_SIO	45AB
+		_add_JOY	45B6
+		_clock	45C1
+		__printTStates	45CA
+		banked_call	45CB
+		banked_ret	45E4
+		__initrleblock	45ED
+AREA _BASE
+	RADIX HEX
+	BASE 4614
+	SIZE 0254
+	ATTRIB REL CON
+	GLOBALS
+		.set_sprite_prop	4614
+		_set_sprite_prop	4621
+		.mv_sprite	462C
+		_move_sprite	463B
+		_set_bkg_palette	4648
+		_set_sprite_palette	4673
+		_set_win_data	469E
+		_set_bkg_data	469E
+		_set_sprite_data	46EB
+		.padup	471A
+		_waitpadup	471A
+		.jpad	472A
+		.wait_pad	4757
+		_joypad	475E
+		_waitpad	4763
+		.set_sprite_tile	476D
+		_set_sprite_tile	477A
+		.delay	4785
+		_delay	47BF
+		.copy_vram	47C8
+		_get_data	47D7
+		_set_data	47D7
+		_set_bkg_tiles	47EA
+		.set_xy_wtt	47FE
+		.set_xy_btt	480F
+		.set_xy_tt	481E
+		_set_tiles	484F
+AREA _LIT
+	RADIX HEX
+	BASE 4868
+	SIZE 0000
+	ATTRIB REL CON
+AREA _GSINIT
+	RADIX HEX
+	BASE 4868
+	SIZE 075F
+	ATTRIB REL CON
+	GLOBALS
+		gsinit	4868
+AREA _GSINITTAIL
+	RADIX HEX
+	BASE 4FC7
+	SIZE 0001
+	ATTRIB REL CON
+AREA _GSFINAL
+	RADIX HEX
+	BASE 4FC8
+	SIZE 0000
+	ATTRIB REL CON
+AREA _DATA
+	RADIX HEX
+	BASE C0A0
+	SIZE 0ED2
+	ATTRIB REL CON
+	GLOBALS
+		_cgbOnlyTiles	C0A0
+		_creditsPalette	C440
+		_function1	C5A8
+		_function2	C5B2
+		_function3	C5BC
+		_function1Cond	C5C6
+		_function2Cond	C5D0
+		_function3Cond	C5DA
+		_OMGWTFBBQ	C5E4
+		_functionLength	C5E5
+		_tiles	C5E8
+		_levelMap	C621
+		_levelObjects	C6A5
+		_i	C729
+		_j	C72A
+		_functionLines	C72B
+		_functionColumn	C72C
+		_spriteCount	C72D
+		_paint	C72E
+		_paintColor	C72F
+		_instructions	C730
+		_currentMode	C731
+		_objectives	C732
+		_speed	C733
+		_currentLevel	C734
+		_pos	C735
+		_retStack	C738
+		_joyState	C839
+		_turtleSpritesPalette	C83A
+		_turtleTilesPalette	C852
+		_titleScreen	C892
+		_titleScreenPalette	C9FA
+		_turtleSprites	CB62
+		_turtleTiles	CBE2
+AREA _BSS
+	RADIX HEX
+	BASE CF72
+	SIZE 005C
+	ATTRIB REL CON
+	GLOBALS
+		__cpu	CF72
+		.mode	CF73
+		__io_out	CF74
+		__io_in	CF75
+		__io_status	CF76
+		.vbl_done	CF77
+		__current_bank	CF78
+		_sys_time	CF79
+		.sys_time	CF79
+		.int_0x40	CF7B
+		.int_0x48	CF8B
+		.int_0x50	CF9B
+		.int_0x58	CFAB
+		.int_0x60	CFBB
+AREA _HEAP
+	RADIX HEX
+	BASE CFCE
+	SIZE 0000
+	ATTRIB REL CON
+	GLOBALS
+		_malloc_heap_start	CFCE
+AREA _OVERLAY
+	RADIX HEX
+	BASE CFCE
+	SIZE 0000
+	ATTRIB REL CON
+AREA _ISEG
+	RADIX HEX
+	BASE CFCE
+	SIZE 0000
+	ATTRIB REL CON
+AREA _BSEG
+	RADIX HEX
+	BASE CFCE
+	SIZE 0000
+	ATTRIB REL CON
+AREA _XSEG
+	RADIX HEX
+	BASE CFCE
+	SIZE 0000
+	ATTRIB REL CON
+MODULES
+	FILE /home/xubuntu/gbdk/lib/small/asxxxx/gb/crt0.o
+		NAME Runtime
+	FILE cgbOnlyTiles.c.o
+		NAME lcc64200
+	FILE creditsPalette.c.o
+		NAME lcc64240
+	FILE main.c.o
+		NAME lcc64280
+	FILE palettes.c.o
+		NAME lcc64320
+	FILE titleScreen.c.o
+		NAME lcc64360
+	FILE titleScreenPalette.c.o
+		NAME lcc64400
+	FILE turtleSprites.c.o
+		NAME lcc64440
+	FILE turtleTiles.c.o
+		NAME lcc64480
+	FILE cgbOnlyMap.s.o
+	FILE credits.s.o
+	FILE gameMapPalette.s.o
+	FILE gameMap.s.o
+	FILE levels/level000_Objects.s.o
+	FILE levels/level000.s.o
+	FILE levels/level001_Objects.s.o
+	FILE levels/level001.s.o
+	FILE levels/level002_Objects.s.o
+	FILE levels/level002.s.o
+	FILE levels/level003_Objects.s.o
+	FILE levels/level003.s.o
+	FILE levels/level004_Objects.s.o
+	FILE levels/level004.s.o
+	FILE levels/level005_Objects.s.o
+	FILE levels/level005.s.o
+	FILE levels/level006_Objects.s.o
+	FILE levels/level006.s.o
+	FILE levels/level007_Objects.s.o
+	FILE levels/level007.s.o
+	FILE levels/level008_Objects.s.o
+	FILE levels/level008.s.o
+	FILE levels/level009_Objects.s.o
+	FILE levels/level009.s.o
+	FILE levels/level010_Objects.s.o
+	FILE levels/level010.s.o
+	FILE levels/level011_Objects.s.o
+	FILE levels/level011.s.o
+	FILE levels/level012_Objects.s.o
+	FILE levels/level012.s.o
+	FILE levels/level013_Objects.s.o
+	FILE levels/level013.s.o
+	FILE levels/level014_Objects.s.o
+	FILE levels/level014.s.o
+	FILE levels/level015_Objects.s.o
+	FILE levels/level015.s.o
+	FILE levels/level016_Objects.s.o
+	FILE levels/level016.s.o
+	FILE levels/level017_Objects.s.o
+	FILE levels/level017.s.o
+	FILE levels/level018_Objects.s.o
+	FILE levels/level018.s.o
+	FILE levels/level019_Objects.s.o
+	FILE levels/level019.s.o
+	FILE levels/level020_Objects.s.o
+	FILE levels/level020.s.o
+	FILE levels/level021_Objects.s.o
+	FILE levels/level021.s.o
+	FILE levels/level022_Objects.s.o
+	FILE levels/level022.s.o
+	FILE levels/level023_Objects.s.o
+	FILE levels/level023.s.o
+LIBRARIES
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
+		MODULE crt0_rle.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE set_prop.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE mv_spr.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE cgb.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE set_data.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
+		MODULE div.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE pad.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE set_spr.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE delay.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE cpy_data.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE set_bk_t.o
+	LIBRARY /home/xubuntu/gbdk/lib/small/asxxxx/gb/gb.lib
+		MODULE set_xy_t.o
+USERBASEDEF
+	_CODE=0x0200
+	_DATA=0xC0A0
+	_CODE_1=0x4000
+USERGLOBALDEF
+	.OAM=0xC000
+	.STACK=0xE000
+	.refresh_OAM=0xFF80
+	.init=0x0000
