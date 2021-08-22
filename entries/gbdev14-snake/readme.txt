@@ -1,0 +1,1 @@
+Very simple snake game made from scratch in 2 hours, right at the end of the competition period.

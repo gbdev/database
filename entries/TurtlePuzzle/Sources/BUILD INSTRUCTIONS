@@ -1,0 +1,10 @@
+	Linux : 
+    Place this folder in your GBDK installation directory. Please use 
+the latest GBDK version (2.96). Modify the first line of build.sh 
+following your GBDK installation directory.
+
+	Windows : 
+    Place this folder in your GBDK installation directory and run build.bat.
+However you will need to build GBDK 2.96 from the sources because there is no Windows 
+build for this version.
+	

@@ -1,0 +1,20 @@
+{
+    "developer": "calc84maniac",
+    "files": [
+        {
+            "default": true,
+            "filename": "SteinsGate 8-Bit v0.40.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "screen1.png",
+        "screen2.png",
+        "screen3.png"
+    ],
+    "slug": "steinsgate-8-bit-v0-40",
+    "title": "SteinsGate 8-bit v0.40",
+    "typetag": "game"
+}
