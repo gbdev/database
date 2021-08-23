@@ -132,18 +132,21 @@ def scrape():
     ## ZIP FILE ##
     ##############
     # download the zipped file containing all roms
+    logger.write("[INFO]", " Downloading the all-in-one zip file in temp folder...")
     gb_gambit_roms_url = "http://www.gambitstudios.com/Products/GBFree/freegb.zip"
     r = requests.get(gb_gambit_roms_url, allow_redirects=True, timeout=None, verify=False)
     if r.status_code != 200:
         logger.write("[ERR]:", str(r.status_code) + ": " + gb_gambit_roms_url)
-        return 1
+        exit(1)
+    open(tmp_zip_path + "tmp.zip", 'wb').write(r.content)
 
     # unzip file
-    open(tmp_zip_path + "tmp.zip", 'wb').write(r.content)
+    logger.write("[INFO]", " Unzipping file in the unzippedfolder...")
     with zipfile.ZipFile(tmp_zip_path + "tmp.zip" ,"r") as zip_ref:
         zip_ref.extractall(tmp_zip_path + "unzippedfolder")
 
     # remove the tmp.zip
+    logger.write("[INFO]", " Removing tmp.zip...")
     os.remove(tmp_zip_path + "tmp.zip")
     
     # now GB files are all in py_common/tmp/unzippedfolder 
@@ -153,6 +156,7 @@ def scrape():
     #############
     # we need to parse from 2 to 21
     for i in range(2, 21):
+        logger.write("[INFO]", " Parsing game... " + str(i))
         screenshots = []
         
         # defining common things
@@ -177,27 +181,36 @@ def scrape():
         # this object will be used to build the file hierarchy
         prod = Production(title, slug, developer, "GB", typetag, screenshots, [], devWebsite=devWebsite)
         
+        # dealing with TCOS (scraper broken, I cant fix it)
+        if prod.slug == "they-came-from-outer-space":
+            prod.title = "They Came From Outer Space"
+
         # check if it could be added to database or not
         # building files
+        logger.write("[INFO]", " Building files for " + prod.slug + " - " + prod.title)
         ret = custom_build(prod, entrypath)
 
         # make required JSON file
         if ret != 1:
+            logger.write("[INFO]", " Making game.json...")
             ret = utils.makeJSON(prod, entrypath)
 
             # useful to print all added entries (to spot duplicates for example)
-            if utils.DEBUG:
-                added.append(prod.slug)
+            if ret != 1:
+                logger.write("[INFO]", " Done!")
+                if utils.DEBUG:
+                    added.append(prod.slug)
 
 def main():
     scrape()
 
     if utils.DEBUG:
-        [ logger.write("[TITLE]", f) for f in added ]
+        [ logger.write("[TITLE] ", f) for f in added ]
 
     # cleaning the tmp folder
+    logger.write("[INFO]", " Removing unzipped folder!")
     shutil.rmtree(tmp_zip_path + "unzippedfolder")
 
-    logger.write("[INFO]", "Gambit importer ended!")    
+    logger.write("[INFO]", " Gambit importer ended!")    
 
 main()
