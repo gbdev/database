@@ -154,7 +154,10 @@ def build(prod: Production, entrypath: str, desired_extentions: list):
                 
                 # proper renaming and moving the file
                 if path != []:
-                    os.rename(path[0], filepath + prod.slug + "." + extension)
+                    os.rename(path[0], filepath + prod.slug + "." + extension.lower())
+                    filename = []
+                    filename.append(prod.slug + "." + extension.lower())
+                    prod.files = filename
                 else:
                     logger.write("[WARN]",prod.title + " extension is not a " + prod.platform + " file.")
                     shutil.rmtree(entrypath + prod.slug)
