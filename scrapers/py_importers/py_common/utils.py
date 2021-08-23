@@ -11,6 +11,8 @@ import unicodedata
 import contextlib
 import urllib
 from urllib.request import urlopen
+import imghdr
+from PIL import Image
 
 import os
 from os import listdir
@@ -178,9 +180,37 @@ def build(prod: Production, entrypath: str, desired_extentions: list):
         prod.files.append(prod.slug + "." + suffix)
         
         # download the screenshot
-        r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=None)
-        open(filepath + prod.slug + "." + "png", 'wb').write(r.content)
-        prod.screenshots[0] = prod.slug + "." + "png"
+        if prod.screenshots[0] != "None":
+            r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=None)
+            
+            # figuring out what kind of screenshots I am dealing with
+            screen_file_path = filepath + prod.slug + "."
+        
+            # screenshot fileext
+            screen_ext = prod.screenshots[0].split(".")[-1]
+            logger.write("[INFO]", " The screenshot is in " + screen_ext + " format")
+
+            if screen_ext.lower() == "png":
+                screen_file_path += "png"
+            else:
+                screen_file_path += screen_ext
+
+            open(screen_file_path, 'wb').write(r.content)
+            
+            if screen_ext != "png":
+                im = Image.open(screen_file_path).convert("RGB")
+                im.save(filepath + prod.slug + ".png", "png")
+                
+                logger.write("[INFO]", " Screenshot has been converted into a PNG file.")
+                logger.write("[INFO]", " Removing screenshot " + screen_ext + " file...")
+
+                os.remove(screen_file_path)
+
+            open(filepath + prod.slug + "." + "png", 'wb').write(r.content)
+            prod.screenshots[0] = prod.slug + "." + "png"
+        else:
+            prod.screenshots = []
+            logger.write("[INFO]", "Screenshot not present for this production")
     else:
         logger.write("[WARN]", "directory already present. Skipping " + prod.slug + "...")
         return 1
