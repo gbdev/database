@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "jetpak-dx.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "jetpak-dx.png"
+    ],
+    "slug": "jetpak-dx",
+    "title": "Jetpak DX",
+    "typetag": "game"
+}
