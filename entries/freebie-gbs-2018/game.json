@@ -1,0 +1,15 @@
+{
+    "title": "Freebie-GBs-2018",
+    "slug": "freebie-gbs-2018",
+    "platform": "GB",
+    "typetag": "music",
+    "play": {"enable": true},
+    "files": [
+        {
+            "default": true,
+            "filename": "Freebie-GBs-2018.gb",
+            "playable": true
+        }
+    ],
+    "screenshots": []
+}
