@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "horrible-demon-ii.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "horrible-demon-ii.png"
+    ],
+    "slug": "horrible-demon-ii",
+    "title": "Horrible Demon II\u00a0",
+    "typetag": "game"
+}

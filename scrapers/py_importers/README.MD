@@ -5,7 +5,6 @@ Install pre requisites:
 ```bash
 python -m venv env
 source env/bin/activate
->>>>>>> master
 pip install -r requirements.txt
 ```
 
