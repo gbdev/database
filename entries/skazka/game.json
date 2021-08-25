@@ -1,0 +1,18 @@
+{
+    "developer": "thebillington",
+    "files": [
+        {
+            "default": true,
+            "filename": null,
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "skazka.png"
+    ],
+    "slug": "skazka",
+    "title": "skazka",
+    "typetag": "game"
+}

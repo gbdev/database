@@ -1,0 +1,18 @@
+{
+    "developer": "cabbage",
+    "files": [
+        {
+            "default": true,
+            "filename": "the-bouncing-ball.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "the-bouncing-ball.png"
+    ],
+    "slug": "the-bouncing-ball",
+    "title": "The Bouncing Ball",
+    "typetag": "game"
+}

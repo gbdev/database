@@ -1,0 +1,18 @@
+{
+    "developer": "sergeeo",
+    "files": [
+        {
+            "default": true,
+            "filename": "pretty-princess-castle-escape.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "pretty-princess-castle-escape.png"
+    ],
+    "slug": "pretty-princess-castle-escape",
+    "title": "Pretty Princess Castle Escape",
+    "typetag": "game"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "QuangDX",
+    "files": [
+        {
+            "default": true,
+            "filename": "ichi-ni-san.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "ichi-ni-san.png"
+    ],
+    "slug": "ichi-ni-san",
+    "title": "Ichi Ni San",
+    "typetag": "game"
+}

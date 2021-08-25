@@ -1,0 +1,18 @@
+{
+    "developer": "cabbage",
+    "files": [
+        {
+            "default": true,
+            "filename": null,
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "counting-sheep.png"
+    ],
+    "slug": "counting-sheep",
+    "title": "Counting Sheep",
+    "typetag": "game"
+}

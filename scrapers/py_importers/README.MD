@@ -1,6 +1,6 @@
 # py_importers
 
-Install pre-requisites:
+Install pre requisites:
 
 ```bash
 python -m venv env
@@ -15,4 +15,7 @@ python gambit.py
 python pouet.py
 ```
 
-Entries are built into the `py_common/beta/` folder
+Entries are exported into the `py_common/beta/` folder.
+
+Yaronet scraper requires a bit of manual work.
+Check https://github.com/gbdev/database/pull/91 for the manually downloaded entries.

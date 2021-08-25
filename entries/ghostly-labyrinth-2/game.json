@@ -1,0 +1,18 @@
+{
+    "developer": "Jared Chansen",
+    "files": [
+        {
+            "default": true,
+            "filename": "ghostly-labyrinth-2.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "ghostly-labyrinth-2.png"
+    ],
+    "slug": "ghostly-labyrinth-2",
+    "title": "Ghostly Labyrinth 2",
+    "typetag": "game"
+}

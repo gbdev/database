@@ -1,0 +1,18 @@
+{
+    "developer": "Messij",
+    "files": [
+        {
+            "default": true,
+            "filename": "final-tankasy.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "final-tankasy.png"
+    ],
+    "slug": "final-tankasy",
+    "title": "final-tankasy",
+    "typetag": "game"
+}

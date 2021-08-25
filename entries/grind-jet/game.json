@@ -1,0 +1,18 @@
+{
+    "developer": "voxel",
+    "files": [
+        {
+            "default": true,
+            "filename": "grind-jet.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "grind-jet.png"
+    ],
+    "slug": "grind-jet",
+    "title": "Grind Jet",
+    "typetag": "game"
+}

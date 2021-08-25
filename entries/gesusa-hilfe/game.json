@@ -1,0 +1,18 @@
+{
+    "developer": "colorful-courier",
+    "files": [
+        {
+            "default": true,
+            "filename": "gesusa-hilfe.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "gesusa-hilfe.png"
+    ],
+    "slug": "gesusa-hilfe",
+    "title": "Gesusa Hilfe",
+    "typetag": "game"
+}
