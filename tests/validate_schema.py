@@ -1,11 +1,12 @@
 from jsonschema import validate
 import json
+import os, sys
 
 with open("../game-schema-d3.json") as f:
     schema = json.load(f)
 
-with open("../gamesList.json") as f:
-    games_list = json.load(f)
+path = "../entries/"
+games_list = os.listdir(path)
 
 for game in games_list:
     print(f"Validating {game}..")
