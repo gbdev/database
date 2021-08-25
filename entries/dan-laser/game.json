@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "dan-laser.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "dan-laser.png"
+    ],
+    "slug": "dan-laser",
+    "title": "Dan Laser\u00a0",
+    "typetag": "game"
+}

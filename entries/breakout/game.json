@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "breakout.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "breakout.png"
+    ],
+    "slug": "breakout",
+    "title": "Breakout\u00a0",
+    "typetag": "game"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "hungry-are-the-dead.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "hungry-are-the-dead.png"
+    ],
+    "slug": "hungry-are-the-dead",
+    "title": "Hungry Are The Dead",
+    "typetag": "game"
+}

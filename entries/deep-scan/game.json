@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "deep-scan.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "deep-scan.png"
+    ],
+    "slug": "deep-scan",
+    "title": "Deep Scan",
+    "typetag": "game"
+}
