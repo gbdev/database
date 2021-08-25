@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "ant-soldiers.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "ant-soldiers.png"
+    ],
+    "slug": "ant-soldiers",
+    "title": "Ant Soldiers",
+    "typetag": "game"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "mousetrap.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "mousetrap.png"
+    ],
+    "slug": "mousetrap",
+    "title": "Mousetrap",
+    "typetag": "game"
+}

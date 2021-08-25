@@ -1,0 +1,18 @@
+{
+    "developer": "Gambit Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "jetset-willy.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "jetset-willy.png"
+    ],
+    "slug": "jetset-willy",
+    "title": "JetSet Willy",
+    "typetag": "game"
+}
