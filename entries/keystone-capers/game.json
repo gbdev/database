@@ -1,0 +1,18 @@
+{
+    "developer": "haroldo-ok",
+    "files": [
+        {
+            "default": true,
+            "filename": "keystone-capers.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "keystone-capers.png"
+    ],
+    "slug": "keystone-capers",
+    "title": "Keystone Capers",
+    "typetag": "game"
+}

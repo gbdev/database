@@ -1,0 +1,18 @@
+{
+    "developer": "cabbage",
+    "files": [
+        {
+            "default": true,
+            "filename": "where-is-my-cake.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "where-is-my-cake.png"
+    ],
+    "slug": "where-is-my-cake",
+    "title": "Where Is My Cake",
+    "typetag": "game"
+}

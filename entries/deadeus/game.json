@@ -1,0 +1,18 @@
+{
+    "developer": "izma",
+    "files": [
+        {
+            "default": true,
+            "filename": "deadeus.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "deadeus.png"
+    ],
+    "slug": "deadeus",
+    "title": "deadeus",
+    "typetag": "game"
+}

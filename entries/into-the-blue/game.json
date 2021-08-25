@@ -1,0 +1,18 @@
+{
+    "developer": "Jonas Fischback",
+    "files": [
+        {
+            "default": true,
+            "filename": "into-the-blue.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "into-the-blue.png"
+    ],
+    "slug": "into-the-blue",
+    "title": "Into The Blue",
+    "typetag": "game"
+}

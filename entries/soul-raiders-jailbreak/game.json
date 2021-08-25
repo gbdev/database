@@ -1,0 +1,18 @@
+{
+    "developer": "Team KwaKwa",
+    "files": [
+        {
+            "default": true,
+            "filename": "soul-raiders-jailbreak.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "soul-raiders-jailbreak.png"
+    ],
+    "slug": "soul-raiders-jailbreak",
+    "title": "Soul Raiders: Jailbreak",
+    "typetag": "game"
+}

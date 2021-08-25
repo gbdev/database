@@ -1,0 +1,18 @@
+{
+    "developer": "User0x7f",
+    "files": [
+        {
+            "default": true,
+            "filename": null,
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "black-castle.png"
+    ],
+    "slug": "black-castle",
+    "title": "Black Castle",
+    "typetag": "game"
+}

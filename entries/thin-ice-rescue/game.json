@@ -1,0 +1,18 @@
+{
+    "developer": "snorpung",
+    "files": [
+        {
+            "default": true,
+            "filename": "thin-ice-rescue.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "thin-ice-rescue.png"
+    ],
+    "slug": "thin-ice-rescue",
+    "title": "Thin Ice Rescue",
+    "typetag": "game"
+}

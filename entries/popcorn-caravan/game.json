@@ -1,0 +1,18 @@
+{
+    "developer": "cabbage",
+    "files": [
+        {
+            "default": true,
+            "filename": null,
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "popcorn-caravan.png"
+    ],
+    "slug": "popcorn-caravan",
+    "title": "Popcorn Caravan",
+    "typetag": "game"
+}

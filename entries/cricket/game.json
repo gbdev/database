@@ -1,0 +1,18 @@
+{
+    "developer": "james todd",
+    "files": [
+        {
+            "default": true,
+            "filename": null,
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "cricket.png"
+    ],
+    "slug": "cricket",
+    "title": "Cricket",
+    "typetag": "game"
+}

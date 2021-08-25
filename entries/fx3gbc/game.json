@@ -1,0 +1,18 @@
+{
+    "developer": "changev",
+    "files": [
+        {
+            "default": true,
+            "filename": "fx3gbc.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "fx3gbc.png"
+    ],
+    "slug": "fx3gbc",
+    "title": "fx3gbc",
+    "typetag": "game"
+}

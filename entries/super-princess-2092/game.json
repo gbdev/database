@@ -1,0 +1,18 @@
+{
+    "developer": "Zalo",
+    "files": [
+        {
+            "default": true,
+            "filename": "super-princess-2092.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "super-princess-2092.png"
+    ],
+    "slug": "super-princess-2092",
+    "title": "Super Princess' 2092",
+    "typetag": "game"
+}
