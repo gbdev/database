@@ -1,0 +1,18 @@
+{
+    "developer": "justsid",
+    "files": [
+        {
+            "default": true,
+            "filename": "sushi.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "sushi.png"
+    ],
+    "slug": "sushi",
+    "title": "sushi",
+    "typetag": "game"
+}

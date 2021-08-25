@@ -1,0 +1,18 @@
+{
+    "developer": "Bertil Horberg",
+    "files": [
+        {
+            "default": true,
+            "filename": "gunman-clive.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "gunman-clive.png"
+    ],
+    "slug": "gunman-clive",
+    "title": "Gunman Clive",
+    "typetag": "game"
+}

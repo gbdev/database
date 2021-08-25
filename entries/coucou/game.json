@@ -1,0 +1,18 @@
+{
+    "developer": "Piers Bishop",
+    "files": [
+        {
+            "default": true,
+            "filename": "coucou.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "coucou.png"
+    ],
+    "slug": "coucou",
+    "title": "coucou",
+    "typetag": "game"
+}

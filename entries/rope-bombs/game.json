@@ -1,0 +1,18 @@
+{
+    "developer": "Team Lampoil",
+    "files": [
+        {
+            "default": true,
+            "filename": "rope-bombs.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "rope-bombs.png"
+    ],
+    "slug": "rope-bombs",
+    "title": "Rope & Bombs",
+    "typetag": "game"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "changev",
+    "files": [
+        {
+            "default": true,
+            "filename": "draculag.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "draculag.png"
+    ],
+    "slug": "draculag",
+    "title": "draculag",
+    "typetag": "game"
+}

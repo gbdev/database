@@ -1,0 +1,18 @@
+{
+    "developer": "makrill",
+    "files": [
+        {
+            "default": true,
+            "filename": "tower-of-hanoi.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "tower-of-hanoi.png"
+    ],
+    "slug": "tower-of-hanoi",
+    "title": "Tower Of Hanoi",
+    "typetag": "game"
+}

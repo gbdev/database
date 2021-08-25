@@ -1,0 +1,16 @@
+{
+    "developer": "Jared Chansen",
+    "files": [
+        {
+            "default": true,
+            "filename": "up-on-the-housetop.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "up-on-the-housetop",
+    "title": "Up on the housetop",
+    "typetag": "game"
+}
