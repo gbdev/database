@@ -124,14 +124,21 @@ def build(prod: Production, entrypath: str, desired_extentions: list):
         # download the file
         # in case of http
         if prod.url.startswith("http"):
-            r = requests.get(prod.url, allow_redirects=True, timeout=None, verify=False)
-            if r.status_code != 200:
+            try:
+                r = requests.get(prod.url, allow_redirects=True, timeout=None, verify=False)
+                if r.status_code != 200:
+                    logger.write("[ERR]:", str(r.status_code) + ": " + prod.slug + " - " + prod.url)
+
+                    # cleaning in case of error
+                    shutil.rmtree(entrypath + prod.slug)
+                    return 1
+            except ConnectionError as e:
                 logger.write("[ERR]:", str(r.status_code) + ": " + prod.slug + " - " + prod.url)
+                logger.write("[ERR]:", "REASON: " + e)
 
                 # cleaning in case of error
                 shutil.rmtree(entrypath + prod.slug)
                 return 1
-            
             open(filepath + prod.slug + "." + suffix, 'wb').write(r.content)
         else:
             with contextlib.closing(urllib.request.urlopen(prod.url)) as r:
@@ -257,9 +264,7 @@ def makeJSON(prod, entrypath):
             ],
             "platform": prod.platform,
             "repository": prod.repository,
-            "screenshots": [
-                prod.screenshots[0],
-            ],
+            "screenshots": [ screen for screen in prod.screenshots ] if len(prod.screenshots) != 0 else [],
             "slug": prod.slug,
             "title": prod.title,
             "typetag": prod.typetag
