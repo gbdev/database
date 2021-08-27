@@ -1,0 +1,18 @@
+{
+    "developer": "Phantasy",
+    "files": [
+        {
+            "default": true,
+            "filename": "tonka-construction-site-6.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "tonka-construction-site-6.png"
+    ],
+    "slug": "tonka-construction-site-6",
+    "title": "Tonka Construction Site +6",
+    "typetag": "demo"
+}

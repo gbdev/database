@@ -1,0 +1,18 @@
+{
+    "developer": "Jumalauta",
+    "files": [
+        {
+            "default": true,
+            "filename": "man-meets-machine-alternative-party-2009-invitation.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "man-meets-machine-alternative-party-2009-invitation.png"
+    ],
+    "slug": "man-meets-machine-alternative-party-2009-invitation",
+    "title": "Man Meets Machine - Alternative Party 2009 Invitation",
+    "typetag": "demo"
+}

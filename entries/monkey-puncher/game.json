@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "monkey-puncher.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "monkey-puncher.png"
+    ],
+    "slug": "monkey-puncher",
+    "title": "Monkey Puncher",
+    "typetag": "demo"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "Resistance",
+    "files": [
+        {
+            "default": true,
+            "filename": "elevator-action-dx.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "elevator-action-dx.png"
+    ],
+    "slug": "elevator-action-dx",
+    "title": "Elevator Action DX",
+    "typetag": "demo"
+}

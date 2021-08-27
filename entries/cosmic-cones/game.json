@@ -1,0 +1,18 @@
+{
+    "developer": "Zhamul",
+    "files": [
+        {
+            "default": true,
+            "filename": "cosmic-cones.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "cosmic-cones.png"
+    ],
+    "slug": "cosmic-cones",
+    "title": "Cosmic Cones",
+    "typetag": "demo"
+}

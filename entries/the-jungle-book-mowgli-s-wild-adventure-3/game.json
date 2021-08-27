@@ -1,0 +1,18 @@
+{
+    "developer": "Resistance",
+    "files": [
+        {
+            "default": true,
+            "filename": "the-jungle-book-mowgli-s-wild-adventure-3.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "the-jungle-book-mowgli-s-wild-adventure-3.png"
+    ],
+    "slug": "the-jungle-book-mowgli-s-wild-adventure-3",
+    "title": "The Jungle Book: Mowgli's Wild Adventure +3",
+    "typetag": "demo"
+}

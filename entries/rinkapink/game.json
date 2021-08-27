@@ -1,0 +1,18 @@
+{
+    "developer": "Abyss",
+    "files": [
+        {
+            "default": true,
+            "filename": "rinkapink.avi",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "rinkapink.png"
+    ],
+    "slug": "rinkapink",
+    "title": "Rinkapink",
+    "typetag": "demo"
+}

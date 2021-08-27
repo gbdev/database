@@ -1,0 +1,16 @@
+{
+    "developer": "Tesko",
+    "files": [
+        {
+            "default": true,
+            "filename": "shape-gbc.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [],
+    "slug": "shape-gbc",
+    "title": "Shape! (gbc)",
+    "typetag": "demo"
+}
