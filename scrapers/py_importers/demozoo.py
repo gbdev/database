@@ -116,19 +116,18 @@ def scrape(platform):
                         # useful to print all added entries (to spot duplicates for example)
                         if utils.DEBUG:
                             added.append(prod.slug)
-                else:
-                    logger.write("[WARN]", " Can't add this entry, an error has been occurred (no URL available or we dont care about a category).")
             else:
-                logger.write("[WARN]", " Can't add " + slug + ", either in blacklist or already in entries folder!")
-
-                    
+                if slug in blacklist:
+                    logger.write("[WARN]", " " + slug + " in blacklist.")
+                elif slug in globalgameslist:
+                    logger.write("[WARN]", " " + slug + " already in entries folder!")
 
 def scrape_page(slug, url, platform):
     '''
         given a slug and demozoo production url, it returns an object containing everything useful
         to build a file hierarchy
     '''
-    # init variables ( if not, lil' python cries :/ )
+    # init variables
     screenshots = []
     files = []
     typetag = ""
@@ -139,7 +138,7 @@ def scrape_page(slug, url, platform):
     # getting title
     title = str.strip(soup.find('div', {"class": "production_title focus_title"}).findChildren("h2")[0].text)
 
-    logger.write("[INFO]", " Trying to add: " + title + " ...")
+    logger.write("[INFO]", " Adding: " + title + " ...")
 
     # getting developer
     developer = str.strip(soup.find('div', {"class": "production_title focus_title"}).findChildren("h3")[0].findChildren("a")[0].text)
@@ -158,7 +157,10 @@ def scrape_page(slug, url, platform):
         typetag = "game"
     elif "MUSIC" in typetag.upper():
         typetag = "music"
-    elif "TOOL" in typetag.upper():
+    elif "INVITATION" in typetag.upper():
+        typetag = "demo"
+    else:
+        logger.write("[WARN]", " We don't care about this category: " + typetag)
         return -1
     
     # fetching screenshot
@@ -180,13 +182,16 @@ def scrape_page(slug, url, platform):
         url = url.findChildren("a")
     else:
         # it doesn't make any sense to have a prod without DL link
+        logger.write("[ERR]", " No url available for this production ")
         return -1
 
     if len(url) == 0:
+        logger.write("[ERR]", " No url available for this production ")
         return -1
     elif len(url) == 1:
         url = url[0].get("href")
         if "modermodemet.se" in url:
+            logger.write("[ERR]", " modermodemet.se is not available, and no other valid link has been found")
             return -1
     elif len(url) >= 2:
         # because almost always the prod will have the secondary mirror as scene.org or smth like that

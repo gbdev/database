@@ -164,9 +164,9 @@ def build(prod: Production, entrypath: str, desired_extentions: list):
                 # proper renaming and moving the file
                 if path != []:
                     os.rename(path[0], filepath + prod.slug + "." + extension.lower())
-                    filename = []
-                    filename.append(prod.slug + "." + extension.lower())
-                    prod.files = filename
+
+                    # update production object file
+                    prod.files.append(prod.slug + "." + extension.lower())                    
                 else:
                     logger.write("[WARN]",prod.title + " extension is not a " + prod.platform + " file.")
                     shutil.rmtree(entrypath + prod.slug)
@@ -182,10 +182,7 @@ def build(prod: Production, entrypath: str, desired_extentions: list):
         else:
             # it is a proper gb file -> just write the filename in its own structure field
             pass
-        
-        # update production object file
-        prod.files.append(prod.slug + "." + suffix)
-        
+            
         # download the screenshot
         if prod.screenshots[0] != "None":
             r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=None)
