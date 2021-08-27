@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "cannon-fodder.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "cannon-fodder.png"
+    ],
+    "slug": "cannon-fodder",
+    "title": "Cannon Fodder",
+    "typetag": "demo"
+}

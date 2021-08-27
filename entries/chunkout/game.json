@@ -1,0 +1,18 @@
+{
+    "developer": "james todd",
+    "files": [
+        {
+            "default": true,
+            "filename": "chunkout.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "chunkout.png"
+    ],
+    "slug": "chunkout",
+    "title": "Chunkout",
+    "typetag": "game"
+}

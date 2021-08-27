@@ -1,0 +1,18 @@
+{
+    "developer": "Dox",
+    "files": [
+        {
+            "default": true,
+            "filename": "beauty-girls-volume-1.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "beauty-girls-volume-1.png"
+    ],
+    "slug": "beauty-girls-volume-1",
+    "title": "Beauty Girls Volume 1",
+    "typetag": "demo"
+}

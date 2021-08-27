@@ -1,0 +1,18 @@
+{
+    "developer": "Eurasia",
+    "files": [
+        {
+            "default": true,
+            "filename": "r-type-collection-1.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "r-type-collection-1.png"
+    ],
+    "slug": "r-type-collection-1",
+    "title": "R-Type Collection +1",
+    "typetag": "demo"
+}

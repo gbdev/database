@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "grand-theft-auto.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "grand-theft-auto.png"
+    ],
+    "slug": "grand-theft-auto",
+    "title": "Grand Theft Auto",
+    "typetag": "demo"
+}

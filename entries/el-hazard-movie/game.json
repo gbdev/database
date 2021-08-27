@@ -1,0 +1,18 @@
+{
+    "developer": "MegaMan_X",
+    "files": [
+        {
+            "default": true,
+            "filename": "el-hazard-movie.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "el-hazard-movie.png"
+    ],
+    "slug": "el-hazard-movie",
+    "title": "El Hazard Movie",
+    "typetag": "demo"
+}

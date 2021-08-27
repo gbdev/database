@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "lucky-luke-desperado-train-6.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "lucky-luke-desperado-train-6.png"
+    ],
+    "slug": "lucky-luke-desperado-train-6",
+    "title": "Lucky Luke - Desperado Train +6",
+    "typetag": "demo"
+}

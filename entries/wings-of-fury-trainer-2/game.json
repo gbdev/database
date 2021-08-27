@@ -1,0 +1,18 @@
+{
+    "developer": "Utopia",
+    "files": [
+        {
+            "default": true,
+            "filename": "wings-of-fury-trainer-2.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "wings-of-fury-trainer-2.png"
+    ],
+    "slug": "wings-of-fury-trainer-2",
+    "title": "Wings of Fury Trainer +2",
+    "typetag": "demo"
+}

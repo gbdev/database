@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "pocket-bomberman-5.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "pocket-bomberman-5.png"
+    ],
+    "slug": "pocket-bomberman-5",
+    "title": "Pocket Bomberman +5",
+    "typetag": "demo"
+}

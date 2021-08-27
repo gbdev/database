@@ -1,0 +1,18 @@
+{
+    "developer": "Tristar and Red Sector Inc.",
+    "files": [
+        {
+            "default": true,
+            "filename": "bomberman-max-red-4.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "bomberman-max-red-4.png"
+    ],
+    "slug": "bomberman-max-red-4",
+    "title": "Bomberman Max Red +4",
+    "typetag": "demo"
+}

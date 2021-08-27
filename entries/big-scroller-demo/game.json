@@ -1,0 +1,16 @@
+{
+    "developer": "Anders Granlund",
+    "files": [
+        {
+            "default": true,
+            "filename": "big-scroller-demo.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "big-scroller-demo",
+    "title": "Big Scroller Demo",
+    "typetag": "demo"
+}

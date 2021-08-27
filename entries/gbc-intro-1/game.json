@@ -1,0 +1,18 @@
+{
+    "developer": "High Society",
+    "files": [
+        {
+            "default": true,
+            "filename": "gbc-intro-1.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "gbc-intro-1.png"
+    ],
+    "slug": "gbc-intro-1",
+    "title": "GBC Intro #1",
+    "typetag": "demo"
+}
