@@ -1,0 +1,16 @@
+{
+    "developer": "trash80",
+    "files": [
+        {
+            "default": true,
+            "filename": "mgb.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "mgb",
+    "title": "mGB",
+    "typetag": "homebrew"
+}

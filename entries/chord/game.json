@@ -1,0 +1,18 @@
+{
+    "developer": "Humble",
+    "files": [
+        {
+            "default": true,
+            "filename": "chord.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "chord.png"
+    ],
+    "slug": "chord",
+    "title": "Chord",
+    "typetag": "homebrew"
+}

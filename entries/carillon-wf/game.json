@@ -1,0 +1,16 @@
+{
+    "developer": "Aleksi Eeben",
+    "files": [
+        {
+            "default": true,
+            "filename": "carillon-wf.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "carillon-wf",
+    "title": "Carillon WF",
+    "typetag": "homebrew"
+}

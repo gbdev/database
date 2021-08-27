@@ -1,0 +1,16 @@
+{
+    "developer": "Patchwork Games",
+    "files": [
+        {
+            "default": true,
+            "filename": "8-bitty-games-collection.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "8-bitty-games-collection",
+    "title": "8 Bitty Games Collection",
+    "typetag": "homebrew"
+}

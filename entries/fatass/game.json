@@ -1,0 +1,16 @@
+{
+    "developer": "Jeremy Evers",
+    "files": [
+        {
+            "default": true,
+            "filename": "fatass.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "fatass",
+    "title": "Fatass",
+    "typetag": "homebrew"
+}

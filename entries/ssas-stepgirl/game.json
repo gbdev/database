@@ -1,0 +1,16 @@
+{
+    "developer": "S.O",
+    "files": [
+        {
+            "default": true,
+            "filename": "ssas-stepgirl.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "ssas-stepgirl",
+    "title": "ssas stepgirl",
+    "typetag": "homebrew"
+}
