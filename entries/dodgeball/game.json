@@ -1,0 +1,16 @@
+{
+    "developer": "Patchwork Games",
+    "files": [
+        {
+            "default": true,
+            "filename": "dodgeball.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "dodgeball",
+    "title": "Dodgeball",
+    "typetag": "homebrew"
+}

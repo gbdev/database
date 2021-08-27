@@ -1,0 +1,18 @@
+{
+    "developer": "8 Cylinder",
+    "files": [
+        {
+            "default": true,
+            "filename": "pounder.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "pounder.png"
+    ],
+    "slug": "pounder",
+    "title": "Pounder",
+    "typetag": "homebrew"
+}

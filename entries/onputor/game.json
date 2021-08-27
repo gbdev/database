@@ -1,0 +1,18 @@
+{
+    "developer": "romphax",
+    "files": [
+        {
+            "default": true,
+            "filename": "onputor.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "onputor.png"
+    ],
+    "slug": "onputor",
+    "title": "Onputor",
+    "typetag": "homebrew"
+}

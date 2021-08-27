@@ -1,0 +1,16 @@
+{
+    "developer": "Patchwork Games",
+    "files": [
+        {
+            "default": true,
+            "filename": "yarn-ball.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "yarn-ball",
+    "title": "Yarn Ball",
+    "typetag": "homebrew"
+}

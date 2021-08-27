@@ -1,0 +1,16 @@
+{
+    "developer": "Pixel8",
+    "files": [
+        {
+            "default": true,
+            "filename": "music-tech-pro-performer-free-version.gba",
+            "playable": true
+        }
+    ],
+    "platform": "GBA",
+    "repository": "",
+    "screenshots": [],
+    "slug": "music-tech-pro-performer-free-version",
+    "title": "Music Tech Pro Performer Free Version",
+    "typetag": "homebrew"
+}

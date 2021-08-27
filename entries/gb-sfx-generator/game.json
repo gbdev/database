@@ -1,0 +1,18 @@
+{
+    "developer": "Patchwork Games",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-sfx-generator.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "gb-sfx-generator.png"
+    ],
+    "slug": "gb-sfx-generator",
+    "title": "GB SFX Generator",
+    "typetag": "homebrew"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "8 Cylinder",
+    "files": [
+        {
+            "default": true,
+            "filename": "ucbn.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "ucbn.png"
+    ],
+    "slug": "ucbn",
+    "title": "UCBN",
+    "typetag": "homebrew"
+}

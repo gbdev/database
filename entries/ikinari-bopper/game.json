@@ -1,0 +1,16 @@
+{
+    "developer": "Unknown",
+    "files": [
+        {
+            "default": true,
+            "filename": "ikinari-bopper.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "ikinari-bopper",
+    "title": "Ikinari Bopper",
+    "typetag": "homebrew"
+}

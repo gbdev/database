@@ -1,0 +1,16 @@
+{
+    "developer": "Pixel8",
+    "files": [
+        {
+            "default": true,
+            "filename": "drum-tech-free-version.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "drum-tech-free-version",
+    "title": "Drum Tech Free Version",
+    "typetag": "homebrew"
+}

@@ -1,0 +1,16 @@
+{
+    "developer": "Patchwork Games",
+    "files": [
+        {
+            "default": true,
+            "filename": "orb-catcher.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "orb-catcher",
+    "title": "Orb Catcher",
+    "typetag": "homebrew"
+}

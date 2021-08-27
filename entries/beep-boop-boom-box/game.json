@@ -1,0 +1,16 @@
+{
+    "developer": "Patchwork Games",
+    "files": [
+        {
+            "default": true,
+            "filename": "beep-boop-boom-box.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "beep-boop-boom-box",
+    "title": "Beep Boop Boom Box",
+    "typetag": "homebrew"
+}

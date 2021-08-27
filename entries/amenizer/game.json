@@ -1,0 +1,16 @@
+{
+    "developer": "nitro2k01",
+    "files": [
+        {
+            "default": true,
+            "filename": "amenizer.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "amenizer",
+    "title": "Amenizer",
+    "typetag": "homebrew"
+}

@@ -1,0 +1,16 @@
+{
+    "developer": "nitro2k01",
+    "files": [
+        {
+            "default": true,
+            "filename": "rez.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "rez",
+    "title": "Rez",
+    "typetag": "homebrew"
+}

@@ -1,0 +1,16 @@
+{
+    "developer": "Oliver Wittchow",
+    "files": [
+        {
+            "default": true,
+            "filename": "nanosynth.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "nanosynth",
+    "title": "nanosynth",
+    "typetag": "homebrew"
+}
