@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "vip.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "vip.png"
+    ],
+    "slug": "vip",
+    "title": "VIP",
+    "typetag": "demo"
+}

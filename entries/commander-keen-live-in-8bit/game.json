@@ -1,0 +1,18 @@
+{
+    "developer": "Eurasia",
+    "files": [
+        {
+            "default": true,
+            "filename": "commander-keen-live-in-8bit.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "commander-keen-live-in-8bit.png"
+    ],
+    "slug": "commander-keen-live-in-8bit",
+    "title": "Commander Keen / Live In 8bit",
+    "typetag": "demo"
+}

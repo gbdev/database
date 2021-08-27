@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "bounced-5.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "bounced-5.png"
+    ],
+    "slug": "bounced-5",
+    "title": "Bounced +5",
+    "typetag": "demo"
+}

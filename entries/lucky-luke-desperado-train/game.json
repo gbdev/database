@@ -1,0 +1,18 @@
+{
+    "developer": "Paradox",
+    "files": [
+        {
+            "default": true,
+            "filename": "lucky-luke-desperado-train.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "lucky-luke-desperado-train.png"
+    ],
+    "slug": "lucky-luke-desperado-train",
+    "title": "Lucky Luke - Desperado Train",
+    "typetag": "demo"
+}

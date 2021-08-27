@@ -1,0 +1,18 @@
+{
+    "developer": "One Man Band",
+    "files": [
+        {
+            "default": true,
+            "filename": "175-sprite-parallax-starfield.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "175-sprite-parallax-starfield.png"
+    ],
+    "slug": "175-sprite-parallax-starfield",
+    "title": "175-sprite Parallax Starfield",
+    "typetag": "demo"
+}

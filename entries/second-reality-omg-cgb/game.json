@@ -1,0 +1,18 @@
+{
+    "developer": "Mills",
+    "files": [
+        {
+            "default": true,
+            "filename": "second-reality-omg-cgb.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "second-reality-omg-cgb.png"
+    ],
+    "slug": "second-reality-omg-cgb",
+    "title": "Second Reality OMG CGB",
+    "typetag": "demo"
+}

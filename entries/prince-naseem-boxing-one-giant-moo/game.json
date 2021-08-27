@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "prince-naseem-boxing-one-giant-moo.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "prince-naseem-boxing-one-giant-moo.png"
+    ],
+    "slug": "prince-naseem-boxing-one-giant-moo",
+    "title": "Prince Naseem Boxing / One Giant Moo",
+    "typetag": "demo"
+}

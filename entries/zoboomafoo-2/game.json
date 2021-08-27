@@ -1,0 +1,18 @@
+{
+    "developer": "Quartex",
+    "files": [
+        {
+            "default": true,
+            "filename": "zoboomafoo-2.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "zoboomafoo-2.png"
+    ],
+    "slug": "zoboomafoo-2",
+    "title": "Zoboomafoo +2",
+    "typetag": "demo"
+}

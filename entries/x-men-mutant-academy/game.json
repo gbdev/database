@@ -1,0 +1,18 @@
+{
+    "developer": "OldSkool",
+    "files": [
+        {
+            "default": true,
+            "filename": "x-men-mutant-academy.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "x-men-mutant-academy.png"
+    ],
+    "slug": "x-men-mutant-academy",
+    "title": "X-Men Mutant Academy",
+    "typetag": "demo"
+}

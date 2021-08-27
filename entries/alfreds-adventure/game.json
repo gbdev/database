@@ -1,0 +1,18 @@
+{
+    "developer": "Dual Crew Shining",
+    "files": [
+        {
+            "default": true,
+            "filename": "alfreds-adventure.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "alfreds-adventure.png"
+    ],
+    "slug": "alfreds-adventure",
+    "title": "Alfreds Adventure",
+    "typetag": "demo"
+}

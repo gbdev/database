@@ -1,0 +1,18 @@
+{
+    "developer": "Resistance",
+    "files": [
+        {
+            "default": true,
+            "filename": "donald-duck-m5-3.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "donald-duck-m5-3.png"
+    ],
+    "slug": "donald-duck-m5-3",
+    "title": "Donald Duck M5 +3",
+    "typetag": "demo"
+}

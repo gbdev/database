@@ -1,0 +1,18 @@
+{
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "papyrus-3.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "papyrus-3.png"
+    ],
+    "slug": "papyrus-3",
+    "title": "Papyrus +3",
+    "typetag": "demo"
+}

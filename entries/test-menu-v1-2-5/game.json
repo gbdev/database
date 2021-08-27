@@ -1,0 +1,18 @@
+{
+    "developer": "Resistance",
+    "files": [
+        {
+            "default": true,
+            "filename": "test-menu-v1-2-5.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "test-menu-v1-2-5.png"
+    ],
+    "slug": "test-menu-v1-2-5",
+    "title": "Test Menu V1.2 +5",
+    "typetag": "demo"
+}

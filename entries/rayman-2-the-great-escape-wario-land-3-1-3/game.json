@@ -1,0 +1,18 @@
+{
+    "developer": "Venom",
+    "files": [
+        {
+            "default": true,
+            "filename": "rayman-2-the-great-escape-wario-land-3-1-3.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "rayman-2-the-great-escape-wario-land-3-1-3.png"
+    ],
+    "slug": "rayman-2-the-great-escape-wario-land-3-1-3",
+    "title": "Rayman 2 - The Great Escape / Wario Land 3 1/3",
+    "typetag": "demo"
+}

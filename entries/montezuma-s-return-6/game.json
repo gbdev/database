@@ -1,0 +1,18 @@
+{
+    "developer": "Zizero",
+    "files": [
+        {
+            "default": true,
+            "filename": "montezuma-s-return-6.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "montezuma-s-return-6.png"
+    ],
+    "slug": "montezuma-s-return-6",
+    "title": "Montezuma's Return +6",
+    "typetag": "demo"
+}
