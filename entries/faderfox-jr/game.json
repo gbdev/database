@@ -1,0 +1,18 @@
+{
+    "developer": "8 Cylinder",
+    "files": [
+        {
+            "default": true,
+            "filename": "faderfox-jr.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "faderfox-jr.png"
+    ],
+    "slug": "faderfox-jr",
+    "title": "Faderfox Jr.",
+    "typetag": "homebrew"
+}

@@ -1,0 +1,18 @@
+{
+    "developer": "Plasma Works",
+    "files": [
+        {
+            "default": true,
+            "filename": "game-boy-sound-manipulator.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "game-boy-sound-manipulator.png"
+    ],
+    "slug": "game-boy-sound-manipulator",
+    "title": "Game Boy Sound Manipulator",
+    "typetag": "homebrew"
+}

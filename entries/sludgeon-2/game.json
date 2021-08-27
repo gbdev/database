@@ -1,0 +1,18 @@
+{
+    "developer": "8 Cylinder",
+    "files": [
+        {
+            "default": true,
+            "filename": "sludgeon-2.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "sludgeon-2.png"
+    ],
+    "slug": "sludgeon-2",
+    "title": "Sludgeon 2",
+    "typetag": "homebrew"
+}

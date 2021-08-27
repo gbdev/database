@@ -1,0 +1,16 @@
+{
+    "developer": "Pixel8",
+    "files": [
+        {
+            "default": true,
+            "filename": "death-ray-free-version.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "death-ray-free-version",
+    "title": "Death Ray Free Version",
+    "typetag": "homebrew"
+}

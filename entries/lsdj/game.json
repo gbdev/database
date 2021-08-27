@@ -1,0 +1,18 @@
+{
+    "developer": "Johan Kotlinski",
+    "files": [
+        {
+            "default": true,
+            "filename": "lsdj.zip",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "lsdj.png"
+    ],
+    "slug": "lsdj",
+    "title": "LSDJ",
+    "typetag": "homebrew"
+}

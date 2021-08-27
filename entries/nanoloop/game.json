@@ -1,0 +1,16 @@
+{
+    "developer": "Oliver Wittchow",
+    "files": [
+        {
+            "default": true,
+            "filename": "nanoloop.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "nanoloop",
+    "title": "Nanoloop",
+    "typetag": "homebrew"
+}

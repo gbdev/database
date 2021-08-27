@@ -1,0 +1,16 @@
+{
+    "developer": "Pixel8",
+    "files": [
+        {
+            "default": true,
+            "filename": "music-tech-v2-free-version.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "music-tech-v2-free-version",
+    "title": "Music Tech V2 Free Version",
+    "typetag": "homebrew"
+}

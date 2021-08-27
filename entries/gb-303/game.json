@@ -1,0 +1,18 @@
+{
+    "developer": "furrtek",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-303.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "gb-303.png"
+    ],
+    "slug": "gb-303",
+    "title": "GB 303",
+    "typetag": "homebrew"
+}

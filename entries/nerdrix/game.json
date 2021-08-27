@@ -1,0 +1,16 @@
+{
+    "developer": "Chip Oukoku",
+    "files": [
+        {
+            "default": true,
+            "filename": "nerdrix.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "nerdrix",
+    "title": "Nerdrix",
+    "typetag": "homebrew"
+}

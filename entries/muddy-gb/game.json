@@ -1,0 +1,16 @@
+{
+    "developer": "S.O",
+    "files": [
+        {
+            "default": true,
+            "filename": "muddy-gb.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "muddy-gb",
+    "title": "Muddy GB",
+    "typetag": "homebrew"
+}
