@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "distortion.png"
+    ],
     "slug": "distortion",
     "title": "Distortion",
     "typetag": "demo"

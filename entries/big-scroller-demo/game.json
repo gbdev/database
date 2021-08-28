@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "big-scroller-demo.png"
+    ],
     "slug": "big-scroller-demo",
     "title": "Big Scroller Demo",
     "typetag": "demo"

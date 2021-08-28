@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "hikaru.png"
+    ],
     "slug": "hikaru",
     "title": "Hikaru",
     "typetag": "demo"

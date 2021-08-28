@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "the-gameboy-demo-collection.png"
+    ],
     "slug": "the-gameboy-demo-collection",
     "title": "The Gameboy Demo Collection",
     "typetag": "demo"

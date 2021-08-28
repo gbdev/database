@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "carillon-wf.png"
+    ],
     "slug": "carillon-wf",
     "title": "Carillon WF",
     "typetag": "homebrew"

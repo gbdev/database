@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "meganime.png"
+    ],
     "slug": "meganime",
     "title": "MegAnime",
     "typetag": "demo"

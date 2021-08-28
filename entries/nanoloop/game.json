@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "nanoloop.png"
+    ],
     "slug": "nanoloop",
     "title": "Nanoloop",
     "typetag": "homebrew"

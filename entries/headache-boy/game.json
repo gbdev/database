@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "headache-boy.png"
+    ],
     "slug": "headache-boy",
     "title": "Headache Boy",
     "typetag": "homebrew"

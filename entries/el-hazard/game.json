@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "el-hazard.png"
+    ],
     "slug": "el-hazard",
     "title": "El Hazard",
     "typetag": "demo"

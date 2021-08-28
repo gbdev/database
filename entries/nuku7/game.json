@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "nuku7.png"
+    ],
     "slug": "nuku7",
     "title": "Nuku7",
     "typetag": "demo"

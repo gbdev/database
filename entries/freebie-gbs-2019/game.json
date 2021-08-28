@@ -1,9 +1,4 @@
 {
-    "title": "Freebie-GBs-2019",
-    "slug": "freebie-gbs-2019",
-    "platform": "GB",
-    "typetag": "music",
-    "play": {"enable": true},
     "files": [
         {
             "default": true,
@@ -11,5 +6,14 @@
             "playable": true
         }
     ],
-    "screenshots": []
+    "platform": "GB",
+    "play": {
+        "enable": true
+    },
+    "screenshots": [
+        "freebie-gbs-2019.png"
+    ],
+    "slug": "freebie-gbs-2019",
+    "title": "Freebie-GBs-2019",
+    "typetag": "music"
 }

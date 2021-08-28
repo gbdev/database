@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "ikinari-bopper.png"
+    ],
     "slug": "ikinari-bopper",
     "title": "Ikinari Bopper",
     "typetag": "homebrew"

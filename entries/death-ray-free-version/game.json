@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "death-ray-free-version.png"
+    ],
     "slug": "death-ray-free-version",
     "title": "Death Ray Free Version",
     "typetag": "homebrew"
