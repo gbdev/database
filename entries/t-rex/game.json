@@ -1,0 +1,16 @@
+{
+    "developer": "Alejandro Delgado",
+    "files": [
+        {
+            "default": true,
+            "filename": "t-rex.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "t-rex",
+    "title": "T-Rex",
+    "typetag": "game"
+}

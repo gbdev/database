@@ -1,0 +1,18 @@
+{
+    "developer": "Imanolea",
+    "files": [
+        {
+            "default": true,
+            "filename": "akaru-hime-the-red-princess.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "akaru-hime-the-red-princess.png"
+    ],
+    "slug": "akaru-hime-the-red-princess",
+    "title": "Akaru Hime The Red Princess",
+    "typetag": "game"
+}

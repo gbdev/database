@@ -1,0 +1,18 @@
+{
+    "developer": "Sebastian Mihai",
+    "files": [
+        {
+            "default": true,
+            "filename": "burly-bear.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "burly-bear.png"
+    ],
+    "slug": "burly-bear",
+    "title": "Burly Bear",
+    "typetag": "game"
+}
