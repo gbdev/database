@@ -1,0 +1,18 @@
+{
+    "developer": "Donald Hays",
+    "files": [
+        {
+            "default": true,
+            "filename": "bubble-factory.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "bubble-factory.png"
+    ],
+    "slug": "bubble-factory",
+    "title": "Bubble Factory",
+    "typetag": "game"
+}
