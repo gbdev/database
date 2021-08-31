@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "up-on-the-housetop.png"
+    ],
     "slug": "up-on-the-housetop",
     "title": "Up on the housetop",
     "typetag": "game"

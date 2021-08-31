@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "blarble.png"
+    ],
     "slug": "blarble",
     "title": "Blarble",
     "typetag": "homebrew"

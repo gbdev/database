@@ -9,7 +9,9 @@
     ],
     "platform": "GBC",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "shape-gbc.png"
+    ],
     "slug": "shape-gbc",
     "title": "Shape! (gbc)",
     "typetag": "demo"

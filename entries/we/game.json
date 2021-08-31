@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "we.png"
+    ],
     "slug": "we",
     "title": "We",
     "typetag": "demo"

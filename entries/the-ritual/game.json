@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "the-ritual.png"
+    ],
     "slug": "the-ritual",
     "title": "The Ritual",
     "typetag": "homebrew"

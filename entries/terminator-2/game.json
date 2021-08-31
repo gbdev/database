@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "terminator-2.png"
+    ],
     "slug": "terminator-2",
     "title": "Terminator 2",
     "typetag": "demo"

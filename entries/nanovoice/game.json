@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "nanovoice.png"
+    ],
     "slug": "nanovoice",
     "title": "nanovoice",
     "typetag": "homebrew"

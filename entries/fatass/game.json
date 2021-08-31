@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "fatass.png"
+    ],
     "slug": "fatass",
     "title": "Fatass",
     "typetag": "homebrew"
