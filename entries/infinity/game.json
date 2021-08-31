@@ -1,0 +1,16 @@
+{
+    "developer": "Affinix",
+    "files": [
+        {
+            "default": true,
+            "filename": "infinity.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "infinity",
+    "title": "Infinity",
+    "typetag": "game"
+}

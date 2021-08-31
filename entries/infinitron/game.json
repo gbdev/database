@@ -1,0 +1,18 @@
+{
+    "developer": "Refresh Games",
+    "files": [
+        {
+            "default": true,
+            "filename": "infinitron.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "infinitron.png"
+    ],
+    "slug": "infinitron",
+    "title": "Infinitron",
+    "typetag": "game"
+}

@@ -1,0 +1,16 @@
+{
+    "developer": "hayley",
+    "files": [
+        {
+            "default": true,
+            "filename": "helicopter.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [],
+    "slug": "helicopter",
+    "title": "Helicopter",
+    "typetag": "game"
+}

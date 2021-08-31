@@ -1,0 +1,18 @@
+{
+    "developer": "Sebastian Mihai",
+    "files": [
+        {
+            "default": true,
+            "filename": "burly.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "burly.png"
+    ],
+    "slug": "burly",
+    "title": "Burly",
+    "typetag": "game"
+}
