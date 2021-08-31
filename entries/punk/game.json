@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "punk.png"
+    ],
     "slug": "punk",
     "title": "Punk",
     "typetag": "demo"

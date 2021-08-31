@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "yarn-ball.png"
+    ],
     "slug": "yarn-ball",
     "title": "Yarn Ball",
     "typetag": "homebrew"

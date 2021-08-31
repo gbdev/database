@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "rez.png"
+    ],
     "slug": "rez",
     "title": "Rez",
     "typetag": "homebrew"

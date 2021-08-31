@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "drum-tech-free-version.png"
+    ],
     "slug": "drum-tech-free-version",
     "title": "Drum Tech Free Version",
     "typetag": "homebrew"

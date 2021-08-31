@@ -1,9 +1,4 @@
 {
-    "title": "demo3d",
-    "slug": "demo3d",
-    "platform": "GB",
-    "typetag": "demo",
-    "play": {"enable": true},
     "files": [
         {
             "default": true,
@@ -15,5 +10,15 @@
             },
             "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "play": {
+        "enable": true
+    },
+    "screenshots": [
+        "demo3d.png"
+    ],
+    "slug": "demo3d",
+    "title": "demo3d",
+    "typetag": "demo"
 }

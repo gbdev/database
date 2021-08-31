@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "music-tech-v1-free-version.png"
+    ],
     "slug": "music-tech-v1-free-version",
     "title": "Music Tech V1 Free Version",
     "typetag": "homebrew"

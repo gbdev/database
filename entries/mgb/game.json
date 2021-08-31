@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "mgb.png"
+    ],
     "slug": "mgb",
     "title": "mGB",
     "typetag": "homebrew"

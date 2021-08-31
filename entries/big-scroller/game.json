@@ -23,7 +23,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "big-scroller.png"
+    ],
     "slug": "big-scroller",
     "title": "Big Scroller",
     "typetag": "demo"

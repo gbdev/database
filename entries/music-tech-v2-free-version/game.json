@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "music-tech-v2-free-version.png"
+    ],
     "slug": "music-tech-v2-free-version",
     "title": "Music Tech V2 Free Version",
     "typetag": "homebrew"

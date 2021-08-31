@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "orb-catcher.png"
+    ],
     "slug": "orb-catcher",
     "title": "Orb Catcher",
     "typetag": "homebrew"

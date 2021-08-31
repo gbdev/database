@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "super-connard.png"
+    ],
     "slug": "super-connard",
     "title": "Super Connard",
     "typetag": "game"
