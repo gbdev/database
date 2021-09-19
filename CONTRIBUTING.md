@@ -133,3 +133,14 @@ database/
 
 You're welcome to **edit**, **correct** or **improve** existing entries.
 After you're finished and you're sure everything is valid (screenshot and rom names must be identical to the file names you added in the folder) you can commit your changes and propose a Pull Request.
+
+### Remove a file from history
+
+In case a copyrighted file gets uploaded and maintainers wish to clean up history from it:
+
+```sh
+git clone --mirror https://github.com/gbdev/database
+java -jar bfg-1.14.0.jar --delete-files <FILE_NAME_TO_REMOVE> database.git
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+git push --force
+```
