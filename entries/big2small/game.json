@@ -1,0 +1,31 @@
+{
+    "date": "2021-10-22",
+    "developer": "mdsteele",
+    "files": [
+        {
+            "default": true,
+            "filename": "big2small.gb",
+            "playable": true
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "platform": "GB",
+    "play": {
+        "enable": true
+    },
+    "repository": "https://github.com/mdsteele/big2small",
+    "screenshots": [
+        "screenshot1.png",
+        "screenshot2.png",
+        "screenshot3.png",
+        "screenshot4.png"
+    ],
+    "slug": "big2small",
+    "tags": [
+        "Open Source",
+        "Puzzle"
+    ],
+    "title": "Big2Small",
+    "typetag": "game",
+    "website": "https://mdsteele.games/big2small/"
+}
