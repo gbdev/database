@@ -1,0 +1,27 @@
+{
+    "title": "<corrib75>",
+    "slug": "corrib75",
+    "developer": "gearfo",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://gearfo.itch.io/corrib75",
+    "date": 1633053600,
+    "screenshots": [
+        "hF1TSm.png",
+        "kN+9MK.png",
+        "9Ntb4r.png",
+        "WERJke.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "corrib75.gb"
+        }
+    ],
+    "repository": "https://github.com/gearoidfox/corrib75",
+    "license": "GPL-3.0"
+}

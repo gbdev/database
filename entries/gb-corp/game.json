@@ -1,0 +1,28 @@
+{
+    "title": "GB Corp.",
+    "slug": "gb-corp",
+    "developer": "Dr. Ludos",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://drludos.itch.io/gb-corp",
+    "date": 1633053600,
+    "screenshots": [
+        "RlyOn7.gif",
+        "Q_4GuS.png",
+        "_L0KJh.png",
+        "cSsMp2.png",
+        "pI1Fe0.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "gbcorp.gb"
+        }
+    ],
+    "repository": "https://github.com/drludos/GBcorp",
+    "license": "MIT"
+}

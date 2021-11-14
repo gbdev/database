@@ -1,0 +1,29 @@
+{
+    "title": "El Dueloroso",
+    "slug": "el-dueloroso",
+    "developer": "Adri\u00e1n JG",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://adrianjg.itch.io/el-dueloroso",
+    "date": 1633053600,
+    "screenshots": [
+        "b_JIo3.png",
+        "ADqjE1.png",
+        "bBaSkR.png",
+        "SA1+e2.png",
+        "QhNucE.png",
+        "HwOa05.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "ElDueloroso.gb"
+        }
+    ],
+    "repository": "https://github.com/ajgalan/el-dueloroso",
+    "license": "GPL-3.0"
+}

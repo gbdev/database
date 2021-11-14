@@ -1,0 +1,28 @@
+{
+    "title": "Rhythm Land",
+    "slug": "rhythm-land",
+    "developer": "martendo",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://martendo.itch.io/rhythm-land",
+    "date": 1633053600,
+    "screenshots": [
+        "sZaXhM.png",
+        "Ub7VBf.png",
+        "7DYliy.png",
+        "kSRoWW.png",
+        "2wHSR1.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "rhythm-land.gb"
+        }
+    ],
+    "repository": "https://github.com/sinusoid-studios/rhythm-land",
+    "license": ""
+}

@@ -1,0 +1,27 @@
+{
+    "title": "Porklike GB",
+    "slug": "porklike-gb",
+    "developer": "binji",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://binji.itch.io/porklikegb",
+    "date": 1633053600,
+    "screenshots": [
+        "1oZHTl.gif",
+        "Np31XD.gif",
+        "Px_bEh.png",
+        "dgt2ME.gif"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "porklike.gb"
+        }
+    ],
+    "repository": "https://github.com/binji/porklike.gb",
+    "license": "MIT"
+}

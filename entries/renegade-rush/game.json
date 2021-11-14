@@ -1,0 +1,28 @@
+{
+    "title": "Renegade Rush",
+    "slug": "renegade-rush",
+    "developer": "quinnp",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://quinnp.itch.io/renegade-rush",
+    "date": 1633053600,
+    "screenshots": [
+        ".bmp",
+        "1.bmp",
+        "nnLM3+.png",
+        "o6puoY.png",
+        "iS2_Dv.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "RenegadeRush.gb"
+        }
+    ],
+    "repository": "https://github.com/QuinnPainter/Renegade-Rush",
+    "license": "MIT"
+}

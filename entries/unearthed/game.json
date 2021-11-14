@@ -1,0 +1,25 @@
+{
+    "title": "Unearthed",
+    "slug": "unearthed",
+    "developer": "BenJelter",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://benjelter.itch.io/unearthed",
+    "date": 1633053600,
+    "screenshots": [
+        "un.png",
+        "SuBZ1s.png",
+        "9qOyzS.png",
+        "LBHhzz.gif",
+        "8+tNqm.gif"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "Unearthed Zero.gb"
+        }
+    ]
+}

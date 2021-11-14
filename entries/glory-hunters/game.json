@@ -1,0 +1,26 @@
+{
+    "title": "Glory Hunters",
+    "slug": "glory-hunters",
+    "developer": "2think design studio",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://2think.itch.io/glory-hunters",
+    "date": 1633053600,
+    "screenshots": [
+        "GLhHB9.png",
+        "Xv8Vb8.png",
+        "uXQmbI.png",
+        "ojMdix.png",
+        "ufSAfR.png",
+        "HB3+pd.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "Glory Hunters Chapter 1 ver.0.1.gb"
+        }
+    ]
+}

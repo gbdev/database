@@ -1,0 +1,29 @@
+{
+    "title": "Dawn Will Come",
+    "slug": "dawn-will-come",
+    "developer": "eishiya",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://eishiya.itch.io/dawn-will-come",
+    "date": 1633053600,
+    "screenshots": [
+        "JOo2Kj.png",
+        "Zj4fsM.png",
+        "Zr7YbC.png",
+        "_F4nad.png",
+        "lkbPv1.png",
+        "utunq1.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "DawnWillCome.gb"
+        }
+    ],
+    "repository": "https://github.com/eishiya/DawnWillCome",
+    "license": "MIT / CC-BY-4.0 (Assets)"
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Core Machina",
+    "slug": "core-machina",
+    "developer": "Pearacidic",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://pearacidic.itch.io/core-machina",
+    "date": 1633053600,
+    "screenshots": [
+        "Phk4DK.png",
+        "zLmtje.png",
+        "WO22B4.gif",
+        "7+d2Ja.gif"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "Core Machina v1.2c DEMO.gb"
+        }
+    ]
+}

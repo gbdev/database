@@ -1,0 +1,21 @@
+{
+    "title": "Zilogized",
+    "slug": "zilogized",
+    "developer": "Kabcorp",
+    "typetag": "music",
+    "tags": [
+        "gbcompo21",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://kabcorp.itch.io/zilogized",
+    "date": 1633053600,
+    "screenshots": [
+        "gp_8Tw.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "Kabcorp - Zilogized.gb"
+        }
+    ]
+}

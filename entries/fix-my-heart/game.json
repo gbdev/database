@@ -1,0 +1,25 @@
+{
+    "title": "Fix My Heart",
+    "slug": "fix-my-heart",
+    "developer": "Filipe Bianchin",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://filipe-bianchin.itch.io/fix-my-heart",
+    "date": 1633053600,
+    "screenshots": [
+        "Amz7W9.png",
+        "TzRQOc.png",
+        "U_GTuz.png",
+        "VAa9AB.png",
+        "eJiV+W.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "Fix My Heart.gb"
+        }
+    ]
+}

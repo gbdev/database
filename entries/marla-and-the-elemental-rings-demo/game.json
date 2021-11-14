@@ -1,0 +1,28 @@
+{
+    "title": "Marla and the Elemental Rings DEMO",
+    "slug": "marla-and-the-elemental-rings-demo",
+    "developer": "Geek_Joystick",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://geek-joystick.itch.io/marla-and-the-elemental-rings",
+    "date": 1633053600,
+    "screenshots": [
+        "mar.png",
+        "JTLdiK.png",
+        "BEoaej.png",
+        "7MyAPt.png",
+        "ydKvvp.png",
+        "I98UbM.png",
+        "_YkNbY.png",
+        "PUep4f.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "Marla_and_the_Elemental_Rings.gbc"
+        }
+    ]
+}

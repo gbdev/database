@@ -1,0 +1,28 @@
+{
+    "title": "Rebound",
+    "slug": "rebound",
+    "developer": "DevEd",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://deved.itch.io/rebound",
+    "date": 1633053600,
+    "screenshots": [
+        "reb.png",
+        "hjjY3s.png",
+        "mev1Pw.png",
+        "FZSTQ4.png",
+        "DScOgK.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "Rebound.gbc"
+        }
+    ],
+    "repository": "https://github.com/DevEd2/ReboundGB/",
+    "license": "MIT"
+}

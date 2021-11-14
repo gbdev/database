@@ -1,0 +1,23 @@
+{
+    "title": "HELLO WORLD",
+    "slug": "hello-world",
+    "developer": "S_TN",
+    "typetag": "music",
+    "tags": [
+        "gbcompo21",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://s-tn.itch.io/hello-world",
+    "date": 1633053600,
+    "screenshots": [
+        "jIQqW8.jpg",
+        "Ww75HJ.png",
+        "D6GDJL.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "S_TN - Hello world.gb"
+        }
+    ]
+}

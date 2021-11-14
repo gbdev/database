@@ -1,0 +1,26 @@
+{
+    "title": "Shock Lobster",
+    "slug": "shock-lobster",
+    "developer": "tbsp",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://tbsp.itch.io/shock-lobster",
+    "date": 1633053600,
+    "screenshots": [
+        "sh.png",
+        "Ubg+0m.png",
+        "k5Mb8Z.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "shocklobster.gb"
+        }
+    ],
+    "repository": "https://github.com/tbsp/shock-lobster",
+    "license": "ZLib"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Dango Dash",
+    "slug": "dango-dash",
+    "developer": "Rebusmind",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://rebusmind.itch.io/dangodash",
+    "date": 1633053600,
+    "screenshots": [
+        "+oCTM7.gif",
+        "XfKWk+.png",
+        "iihPhG.png",
+        "gScGs5.png",
+        "u+E4tf.png"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "Dango Dash_v01.gb"
+        }
+    ]
+}

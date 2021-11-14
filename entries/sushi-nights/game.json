@@ -1,0 +1,26 @@
+{
+    "title": "Sushi Nights",
+    "slug": "sushi-nights",
+    "developer": "Zalo",
+    "typetag": "game",
+    "tags": [
+        "gbcompo21",
+        "Open Source",
+        "gbcompo21-shortlist"
+    ],
+    "website": "https://zalo.itch.io/sushi-nights",
+    "date": 1633053600,
+    "screenshots": [
+        "su.png",
+        "CVI9vW.png",
+        "bGNAbw.gif"
+    ],
+    "files": [
+        {
+            "playable": "true",
+            "filename": "SushiNights.gb"
+        }
+    ],
+    "repository": "https://github.com/Zal0/SushiNights",
+    "license": "MIT"
+}
