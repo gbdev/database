@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://eishiya.itch.io/dawn-will-come",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "JOo2Kj.png",
         "Zj4fsM.png",
@@ -20,7 +20,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "DawnWillCome.gb"
         }
     ],

@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://drludos.itch.io/gb-corp",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "RlyOn7.gif",
         "Q_4GuS.png",
@@ -19,7 +19,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "gbcorp.gb"
         }
     ],

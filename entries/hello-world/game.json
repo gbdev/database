@@ -8,7 +8,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://s-tn.itch.io/hello-world",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "jIQqW8.jpg",
         "Ww75HJ.png",
@@ -16,7 +16,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "S_TN - Hello world.gb"
         }
     ]

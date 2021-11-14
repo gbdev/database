@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://quinnp.itch.io/renegade-rush",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         ".bmp",
         "1.bmp",
@@ -19,7 +19,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "RenegadeRush.gb"
         }
     ],

@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://adrianjg.itch.io/el-dueloroso",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "b_JIo3.png",
         "ADqjE1.png",
@@ -20,7 +20,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "ElDueloroso.gb"
         }
     ],

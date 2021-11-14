@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://binji.itch.io/porklikegb",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "1oZHTl.gif",
         "Np31XD.gif",
@@ -18,7 +18,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "porklike.gb"
         }
     ],

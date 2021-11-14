@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://zalo.itch.io/sushi-nights",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "su.png",
         "CVI9vW.png",
@@ -17,7 +17,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "SushiNights.gb"
         }
     ],

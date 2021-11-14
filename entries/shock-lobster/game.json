@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://tbsp.itch.io/shock-lobster",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "sh.png",
         "Ubg+0m.png",
@@ -17,7 +17,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "shocklobster.gb"
         }
     ],

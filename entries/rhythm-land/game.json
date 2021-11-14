@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://martendo.itch.io/rhythm-land",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "sZaXhM.png",
         "Ub7VBf.png",
@@ -19,7 +19,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "rhythm-land.gb"
         }
     ],

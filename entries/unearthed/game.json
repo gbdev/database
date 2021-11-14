@@ -8,7 +8,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://benjelter.itch.io/unearthed",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "un.png",
         "SuBZ1s.png",
@@ -18,7 +18,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "Unearthed Zero.gb"
         }
     ]

@@ -7,7 +7,7 @@ from shutil import copyfile
 levenshtein = Levenshtein()
 
 #  Friday 1 October 2021 02:00:00 to unix datestamp epoch
-date = 1633053600
+date = "1633053600"
 
 os.mkdir("exported")
 
@@ -98,7 +98,7 @@ with open("gbcompo21.csv", newline="") as csvfile:
                     # Look for GB and GBC roms
                     if file[-3:].lower() == "gbc" or file[-3:].lower() == ".gb":
                         copyfile(f"{gamedir}/{file}", f"{ex_gamedir}/{file}")
-                        fileobj = {"playable": "true", "filename": file}
+                        fileobj = {"playable": True, "filename": file}
                         gameObj["files"].append(fileobj)
                     # Look for screenshots (pics and GIFs)
                     if (

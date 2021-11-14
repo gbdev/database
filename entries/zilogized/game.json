@@ -8,13 +8,13 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://kabcorp.itch.io/zilogized",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "gp_8Tw.png"
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "Kabcorp - Zilogized.gb"
         }
     ]

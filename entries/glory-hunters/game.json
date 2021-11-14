@@ -8,7 +8,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://2think.itch.io/glory-hunters",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "GLhHB9.png",
         "Xv8Vb8.png",
@@ -19,7 +19,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "Glory Hunters Chapter 1 ver.0.1.gb"
         }
     ]

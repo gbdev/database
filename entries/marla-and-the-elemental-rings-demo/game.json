@@ -8,7 +8,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://geek-joystick.itch.io/marla-and-the-elemental-rings",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "mar.png",
         "JTLdiK.png",
@@ -21,7 +21,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "Marla_and_the_Elemental_Rings.gbc"
         }
     ]

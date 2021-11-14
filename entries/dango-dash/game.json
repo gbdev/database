@@ -8,7 +8,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://rebusmind.itch.io/dangodash",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "+oCTM7.gif",
         "XfKWk+.png",
@@ -18,7 +18,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "Dango Dash_v01.gb"
         }
     ]

@@ -9,7 +9,7 @@
         "gbcompo21-shortlist"
     ],
     "website": "https://deved.itch.io/rebound",
-    "date": 1633053600,
+    "date": "1633053600",
     "screenshots": [
         "reb.png",
         "hjjY3s.png",
@@ -19,7 +19,7 @@
     ],
     "files": [
         {
-            "playable": "true",
+            "playable": true,
             "filename": "Rebound.gbc"
         }
     ],
