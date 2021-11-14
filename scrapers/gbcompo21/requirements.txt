@@ -1,0 +1,3 @@
+python-slugify==5.0.2
+strsimpy==0.2.1
+text-unidecode==1.3
