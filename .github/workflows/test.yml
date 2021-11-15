@@ -1,4 +1,4 @@
-name: Run tests
+name: Schema compliance
 
 on:
   [pull_request, push]
