@@ -2,7 +2,7 @@
 
 JSON and Assets database of all the game and homebrew entries on [Homebrew Hub](https://hh.gbdev.io). Propose here additions, improvements and fixes.
 
-![](https://img.shields.io/badge/dynamic/json.svg?label=database&colorB=green&suffix=%20total%20entries&query=results&uri=https://hh3.gbdev.io/api/all)
+![](https://img.shields.io/badge/dynamic/json.svg?label=database&colorB=green&suffix=%20total%20entries&query=results&uri=https://hh3.gbdev.io/api/all) [![Schema compliance](https://github.com/gbdev/database/actions/workflows/test.yml/badge.svg)](https://github.com/gbdev/database/actions/workflows/test.yml)
 
 ## Contribute
 
