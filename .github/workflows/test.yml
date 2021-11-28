@@ -1,4 +1,4 @@
-name: Schema compliance
+name: Validate manifests
 
 on:
   [pull_request, push]
@@ -28,3 +28,4 @@ jobs:
       run: |
         cd repo/tests
         python3 validate_schema.py
+        python3 check_files.py
