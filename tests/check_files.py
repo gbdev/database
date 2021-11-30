@@ -9,4 +9,4 @@ for game in games_list:
         game = json.load(f)
     for file in game["files"]:
         if file["filename"] not in os.listdir(f"{path}/{game['slug']}"):
-            raise Exception(f'error {file["filename"]} found in manifest but not on disk')
+            raise Exception(f'{file["filename"]} found in manifest but not on disk (entry {game["slug"]})')
