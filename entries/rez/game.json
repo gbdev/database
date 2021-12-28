@@ -3,15 +3,6 @@
     "developer": "nitro2k01",
     "files": [
         {
-            "description": "release",
-            "filename": "Rez_(11-12-2012)_(Gameboy).zip",
-            "hash": {
-                "md5": "b0ed710743df3bdf60cd8b55c15531985f2b64b7",
-                "sha1": "b0ed710743df3bdf60cd8b55c15531985f2b64b7",
-                "sha256": "eb91d276f098c5a3aa39a527de2f455466b4d7cf201342cb189e01c7371a1548"
-            }
-        },
-        {
             "default": true,
             "filename": "rez.gb",
             "hash": {
@@ -20,6 +11,15 @@
                 "sha256": "926762fc9f2fd9551553a263a3fef81da0a111e8499501d1fea21a32d61724b9"
             },
             "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "Rez_(11-12-2012)_(Gameboy).zip",
+            "hash": {
+                "md5": "b0ed710743df3bdf60cd8b55c15531985f2b64b7",
+                "sha1": "b0ed710743df3bdf60cd8b55c15531985f2b64b7",
+                "sha256": "eb91d276f098c5a3aa39a527de2f455466b4d7cf201342cb189e01c7371a1548"
+            }
         }
     ],
     "platform": "GB",
@@ -27,7 +27,7 @@
     "screenshots": [
         "20130105_rez_(11-12-2012)_(gb_application).png"
     ],
-    "slug": "Rez",
+    "slug": "rez",
     "title": "Rez",
     "typetag": "game"
 }
