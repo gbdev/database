@@ -11,4 +11,4 @@ urllib3==1.26.6
 webencodings==0.5.1
 wget==3.2
 webptools==0.0.5
-pillow==8.3.2
+pillow==9.0.0
