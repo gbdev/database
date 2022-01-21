@@ -1,0 +1,23 @@
+{
+    "developer": "Christian Reinbacher",
+    "files": [
+        {
+            "default": true,
+            "filename": "bannerprint.gb",
+            "playable": true
+        }
+    ],
+    "license": "CC-BY-NC-4.0",
+    "platform": "GB",
+    "repository": "https://github.com/reini1305/gb_bannerprinter",
+    "screenshots": [
+        "screenshot.png"
+    ],
+    "slug": "bannerprinter",
+    "tags": [
+        "Open Source",
+        "Printer"
+    ],
+    "title": "Bannerprinter",
+    "typetag": "homebrew"
+}
