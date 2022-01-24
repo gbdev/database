@@ -59,6 +59,18 @@
             "format": "date",
             "description": "The date the entry was first released"
         },
+        "features": {
+            "type": "array",
+            "description": "A list of the addional supported features",
+            "items": {
+                "type": "string",
+                "enum": [
+                    "gbprinter",
+                    "gbcamera",
+                    "sgb"
+                ]
+            }
+        },        
         "tags": {
             "type": "array",
             "description": "A list of the categories representing the entry",
@@ -73,9 +85,7 @@
                     "Platform",
                     "gbajam21",
                     "gbcompo21",
-                    "gbcompo21-shortlist",
-                    "gbprinter"
-                ]
+                    "gbcompo21-shortlist"                ]
             }
         },
         "alias": {
