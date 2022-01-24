@@ -19,7 +19,13 @@
                 "sha1": "a84dda7f436aa803af692f3c764137185f03a71e",
                 "sha256": "b74ad58ef5946616a753b126e0c9112b5ea73a42754fa345c5c2f4cc910ef1e7"
             },
-            "playable": true
+            "playable": true,
+            "version": "2"
+        },
+        {
+            "filename": "burly_older.gb",
+            "playable": true,
+            "version": "1"
         }
     ],
     "platform": "GBC",
