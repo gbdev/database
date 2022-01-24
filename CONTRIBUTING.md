@@ -47,6 +47,7 @@ In the folder we just created, create a file called `game.json`. Here's a basic 
     "repository": "https://github.com/Sanqui/2048-gb",
     "screenshots": [
         "1.png",
+        "2.png"
     ],
     "slug": "2048gb",
     "tags": [
