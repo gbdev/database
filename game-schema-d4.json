@@ -197,6 +197,10 @@
                         "release"
                     ]
                 },
+                "version": {
+                    "type": "string"
+                    "description": "Specify game version this file refers to. More files can be grouped under the same version"
+                }
                 "playable":
                 {
                     "type": "boolean",
