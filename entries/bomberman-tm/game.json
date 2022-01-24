@@ -1,0 +1,23 @@
+{
+    "date": "2002-11-04",
+    "developer": "T.M",
+    "files": [
+        {
+            "description": "release",
+            "filename": "bomberman.zip"
+        },
+        {
+            "default": true,
+            "filename": "Bom.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Bom-0.png",
+        "Bom-1.png"
+    ],
+    "slug": "bomberman-tm",
+    "title": "BOMBERMAN",
+    "typetag": "game"
+}
