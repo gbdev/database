@@ -6,8 +6,9 @@
     "type": "object",
     "properties": {
         "slug": {
-            "description": "A unique string identifier for a game",
-            "type": "string"
+            "description": "A unique string identifier for a game. Letters, numbers, the 'en' dash and the dot are the only allowed characters.",
+            "type": "string",
+            "pattern": "^[A-Za-z0-9]+(?:-[A-Za-z0-9.]+)*$"
         },
         "developer": {
             "type": "string",
