@@ -4,37 +4,46 @@
     "title": "Game manifest",
     "description": "Describes a software entry in the Homebrew Hub database, mentioning metadata and related assets (such as ROM files).",
     "type": "object",
-    "properties": {
-        "slug": {
+    "properties":
+    {
+        "slug":
+        {
             "description": "A unique string identifier for a game. Letters, numbers, the 'en' dash and the dot are the only allowed characters.",
             "type": "string",
             "pattern": "^[A-Za-z0-9]+(?:-[A-Za-z0-9.]+)*$"
         },
-        "developer": {
+        "developer":
+        {
             "type": "string",
             "description": "A name, username or nickname representing the developer(s)"
         },
-        "description": {
+        "description":
+        {
             "type": "string",
             "description": "A brief, plain text description about the entry"
         },
-        "title": {
+        "title":
+        {
             "type": "string",
             "description": "Full name of the game"
         },
-        "platform": {
+        "platform":
+        {
             "type": "string",
             "description": "Target console",
-            "enum": [
+            "enum":
+            [
                 "GB",
                 "GBC",
                 "GBA"
             ]
         },
-        "typetag": {
+        "typetag":
+        {
             "type": "string",
             "description": "Type of the software",
-            "enum": [
+            "enum":
+            [
                 "game",
                 "tool",
                 "demo",
@@ -42,41 +51,51 @@
                 "music"
             ]
         },
-        "gameLicense": {
+        "gameLicense":
+        {
             "description": "License under which the software is released",
             "$ref": "#/definitions/license"
         },
-        "assetsLicense": {
+        "assetsLicense":
+        {
             "description": "License under which the game assets are released",
             "$ref": "#/definitions/license"
         },
-        "video": {
+        "video":
+        {
             "description": "URL of a gameplay or trailer video",
             "type": "string"
         },
-        "date": {
+        "date":
+        {
             "type": "string",
             "format": "date",
             "description": "The date the entry was first released"
         },
-        "features": {
+        "features":
+        {
             "type": "array",
             "description": "A list of the addional supported features",
-            "items": {
+            "items":
+            {
                 "type": "string",
-                "enum": [
+                "enum":
+                [
                     "gbprinter",
                     "gbcamera",
                     "sgb"
                 ]
             }
-        },        
-        "tags": {
+        },
+        "tags":
+        {
             "type": "array",
             "description": "A list of the categories representing the entry",
-            "items": {
+            "items":
+            {
                 "type": "string",
-                "enum": [
+                "enum":
+                [
                     "RPG",
                     "Open Source",
                     "Adventure",
@@ -85,107 +104,167 @@
                     "Platform",
                     "gbajam21",
                     "gbcompo21",
-                    "gbcompo21-shortlist"                ]
+                    "gbcompo21-shortlist"
+                ]
             }
         },
-        "alias": {
+        "alias":
+        {
             "description": "A list of other names with which the entry can be referred to",
             "type": "array",
-            "items": {
+            "items":
+            {
                 "type": "string"
             }
         },
-        "repository": {
+        "repository":
+        {
             "type": "string",
             "description": "Repository or URL where the source can be found",
             "format": "uri"
         },
-        "website": {
+        "website":
+        {
             "type": "string",
             "format": "uri",
             "description": "Game website or page"
         },
-        "wip": {
+        "wip":
+        {
             "type": "boolean",
             "description": "Flag a game as work-in-progress (not yet completely stable/bugfree)"
         },
-        "play": {
+        "play":
+        {
             "type": "object",
-            "properties": {
-                "enable": {
+            "properties":
+            {
+                "enable":
+                {
                     "type": "boolean",
                     "description": "Allow or not the game to be played directly on the website"
                 }
             }
         },
-        "nsfw": {
+        "nsfw":
+        {
             "type": "boolean",
             "description": "The game contains NSFW or (potentially) controversial content"
         },
-        "screenshots": {
+        "screenshots":
+        {
             "type": "array",
-            "items": {
+            "items":
+            {
                 "type": "string"
             }
         },
-        "files": {
+        "files":
+        {
             "type": "array",
-            "items": {
+            "items":
+            {
                 "$ref": "#/definitions/file"
             }
         }
     },
-    "required": [
+    "required":
+    [
         "slug"
     ],
-    "definitions": {
-        "file": {
+    "definitions":
+    {
+        "file":
+        {
             "type": "object",
-            "properties": {
-                "filename": {
+            "properties":
+            {
+                "filename":
+                {
                     "type": "string"
                 },
-                "description": {
+                "description":
+                {
                     "type": "string"
                 },
-                "type": {
+                "type":
+                {
                     "type": "string",
-                    "enum": [
+                    "enum":
+                    [
                         "rom",
                         "manual",
                         "release"
                     ]
                 },
-                "playable": {
+                "playable":
+                {
                     "type": "boolean",
                     "description": "Describes if the file is a GB/GBC ROM"
                 },
-                "hash": {
+                "hash":
+                {
                     "type": "object",
-                    "properties": {
-                        "md5": {
+                    "properties":
+                    {
+                        "md5":
+                        {
                             "type": "string"
                         },
-                        "sha1": {
+                        "sha1":
+                        {
                             "type": "string"
                         },
-                        "sha256": {
+                        "sha256":
+                        {
                             "type": "string"
                         }
                     }
                 },
-                "default": {
+                "default":
+                {
                     "type": "boolean",
                     "description": "Describes if the file is the default ROM to play"
+                },
+                "baserom":
+                {
+                    "type": "object",
+                    "description": "Base ROM required for the patch to be applied"
+                    "properties":
+                    {
+                        "filename":
+                        {
+                            "type": "string"
+                        },
+                        "md5":
+                        {
+                            "type": "string"
+                        },
+                        "sha1":
+                        {
+                            "type": "string"
+                        },
+                        "sha256":
+                        {
+                            "type": "string"
+                        },
+                        "crc32":
+                        {
+                            "type": "string"
+                        }
+                    }
                 }
             },
-            "required": [
+            "required":
+            [
                 "filename"
             ]
         },
-        "license": {
+        "license":
+        {
             "type": "string",
-            "enum": [
+            "enum":
+            [
                 "0BSD",
                 "AAL",
                 "Abstyles",
