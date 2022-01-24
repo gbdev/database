@@ -26,7 +26,7 @@ def getFileHash(filename, alg, chunksize=131072):
 def lookForRom(files):
     for f in range(0, len(files)):
         ext = files[f]['filename'].split('.')[-1]
-        if ext.lower() in ['gb', 'gbc', 'cgb', 'gba', 'agb']:
+        if ext.lower() in ['gb', 'gbc', 'cgb', 'gba', 'agb', 'sgb']:
             return files[f]['filename']
 
     return -1
