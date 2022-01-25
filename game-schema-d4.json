@@ -4,6 +4,7 @@
     "title": "Game manifest",
     "description": "Describes a software entry in the Homebrew Hub database, mentioning metadata and related assets (such as ROM files).",
     "type": "object",
+    "additionalProperties": false,
     "properties":
     {
         "slug":
@@ -14,8 +15,20 @@
         },
         "developer":
         {
-            "type": "string",
-            "description": "A name, username or nickname representing the developer(s)"
+            "description": "A name, username or nickname representing the developer(s)",
+            "anyof":
+            [
+                {
+                    "type": "array",
+                    "items":
+                    {
+                        "type": "string"
+                    }
+                },
+                {
+                    "type": "string"
+                }
+            ]
         },
         "description":
         {
@@ -197,10 +210,11 @@
                         "release"
                     ]
                 },
-                "version": {
-                    "type": "string"
+                "version":
+                {
+                    "type": "string",
                     "description": "Specify game version this file refers to. More files can be grouped under the same version"
-                }
+                },
                 "playable":
                 {
                     "type": "boolean",
@@ -233,7 +247,7 @@
                 "baserom":
                 {
                     "type": "object",
-                    "description": "Base ROM required for the patch to be applied"
+                    "description": "Base ROM required for the patch to be applied",
                     "properties":
                     {
                         "filename":
