@@ -1,0 +1,22 @@
+{
+    "date": "1998-08-13",
+    "developer": "Eiji Kako",
+    "files": [
+        {
+            "description": "release",
+            "filename": "fruitsfield.lzh"
+        },
+        {
+            "default": true,
+            "filename": "FRUIT.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "FRUIT-0.png"
+    ],
+    "slug": "fruits-field",
+    "title": "Fruits Field",
+    "typetag": "game"
+}

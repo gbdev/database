@@ -1,0 +1,22 @@
+{
+    "date": "2002-07-13",
+    "developer": "T.M",
+    "files": [
+        {
+            "description": "release",
+            "filename": "rasterscroll.lzh"
+        },
+        {
+            "default": true,
+            "filename": "raster.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "raster-0.png"
+    ],
+    "slug": "raster-scroll-sample",
+    "title": "Raster Scroll Sample",
+    "typetag": "demo"
+}

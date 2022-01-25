@@ -1,0 +1,21 @@
+{
+    "date": "2001-11-21",
+    "files": [
+        {
+            "description": "release",
+            "filename": "mariowalk.lzh"
+        },
+        {
+            "default": true,
+            "filename": "walk.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "walk-0.png"
+    ],
+    "slug": "mario-walk",
+    "title": "Mario Walk",
+    "typetag": "demo"
+}
