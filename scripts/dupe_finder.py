@@ -31,8 +31,7 @@ def look_for_rom(files):
     return -1
 
 
-d = dict()      # a dictionary has been created since dictionaries are really useful to detect unique things.
-
+d = dict()
 for folder in os.listdir('../entries'):
     with open('../entries/'+folder+'/game.json') as f:
         data = json.load(f)
