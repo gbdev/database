@@ -1,0 +1,27 @@
+{
+    "developer": "godai / Gniazdo Światów",
+    "files": [
+        {
+            "default": true,
+            "filename": "Europa rescue.gbc",
+            "playable": true
+        }
+    ],
+    "license": "CC-BY-SA 4.0",
+    "platform": "GBC",
+    "repository": "https://github.com/godai78/europa",
+    "screenshots": [
+        "spaceship.jpg",
+		"controls.jpg"
+    ],
+    "slug": "Europa-rescue",
+    "tags": [
+        "Simulation",
+        "Point-and-click"
+    ],
+    "title": "LEuropa rescue!",
+    "typetag": "game",
+	"description": "Repair a defunct space station. Single-handedly.",
+	"devWebsite": "https://www.gniazdoswiatow.net",
+	"onlineplay": "true"
+}
