@@ -3,7 +3,7 @@
     "files": [
         {
             "default": true,
-            "filename": "Europa rescue.gbc",
+            "filename": "Europa Rescue.gbc",
             "playable": true
         }
     ],
@@ -19,7 +19,7 @@
         "Adventure",
         "Puzzle"
     ],
-    "title": "LEuropa rescue!",
+    "title": "Europa rescue!",
     "typetag": "game",
 	"description": "Repair a defunct space station. Single-handedly.",
 	"devWebsite": "https://www.gniazdoswiatow.net",
