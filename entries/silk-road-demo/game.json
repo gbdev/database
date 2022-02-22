@@ -1,0 +1,20 @@
+{
+    "developer": "SPRITE",
+    "files": [
+        {
+            "default": true,
+            "filename": "silk.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "silk-3.png",
+        "silk-0.png",
+        "silk-1.png",
+        "silk-2.png"
+    ],
+    "slug": "silk-road-demo",
+    "title": "Silk Road (demo)",
+    "typetag": "demo"
+}

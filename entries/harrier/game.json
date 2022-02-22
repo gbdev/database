@@ -1,0 +1,17 @@
+{
+    "date": "2002-11-05",
+    "files": [
+        {
+            "default": true,
+            "filename": "harrier.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "harrier-0.png"
+    ],
+    "slug": "harrier",
+    "title": "Harrier",
+    "typetag": "demo"
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2001-05-16",
+    "files": [
+        {
+            "description": "release",
+            "filename": "gbraycast.zip"
+        },
+        {
+            "default": true,
+            "filename": "RAYCAST.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "RAYCAST-0.png"
+    ],
+    "slug": "gb-raycast",
+    "title": "GB Raycast",
+    "typetag": "demo"
+}
