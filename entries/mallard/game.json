@@ -1,0 +1,15 @@
+{
+    "developer": "Snorpung, Nordloef",
+    "platform": "GB",
+    "screenshots": [
+        "gEHIJy.gif", "FAhorO.gif", "lS90Fg.gif"
+    ],
+    "slug": "mallard",
+    "tags": [],
+    "title": "Sam Mallard – The Case of the Missing Swan",
+    "typetag": "game",
+    "rom": "mallard.gb",
+    "files":[
+      { "filename": "mallard.gb"}],
+    "website": "https://snorpung.itch.io/sam-mallard-gb"
+} 
