@@ -9,7 +9,12 @@
     "title": "dangan GB",
     "typetag": "game",
     "rom": "dangan.gb",
-    "files":[
-      { "filename": "dangan.gb"}],
+    "files": [
+        {
+            "default": true,
+            "filename": "dangan.gb",
+            "playable": true
+        }
+    ],
     "website": "https://snorpung.itch.io/dangan-gb"
 }
