@@ -290,12 +290,18 @@ def makeJSON(prod, entrypath):
                 }
             ],
             "platform": prod.platform,
-            "repository": prod.repository,
             "screenshots": [screen for screen in prod.screenshots] if len(prod.screenshots) != 0 else [],
             "slug": prod.slug,
             "title": prod.title,
-            "typetag": prod.typetag
         }
+
+        # adding optional fields
+        if len(prod.typetag) != 0:
+            jsondata['typetag'] = prod.typetag
+        
+        if prod.repository != "":
+            jsondata['repository'] = prod.repository
+            
 
         updateJSON(jsondata, entrypath + prod.slug + "/game.json")
     else:
