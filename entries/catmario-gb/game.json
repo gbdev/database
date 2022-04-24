@@ -1,0 +1,35 @@
+{
+    "developer": "Lazy_V",
+    "files": [
+        {
+            "default": true,
+            "filename": "catmario-gb.gbc",
+            "playable": true
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://github.com/zzxzzk115/CatMarioGB",
+    "screenshots": [
+        "title.png",
+        "lives.png",
+        "level1_1.png",
+        "death.png"
+    ],
+    "slug": "catmario-gb",
+    "tags": [
+        "Open Source",
+        "Game",
+        "Homebrew",
+        "Platformer",
+        "CatMario",
+        "GB Studio"
+    ],
+    "title": "CatMario-GB",
+    "typetag": "demo",
+    "description": "GB version of CatMario.",
+    "gameWebsite": "https://lazy-v.itch.io/catmario-gb",
+    "devWebsite": "https://github.com/zzxzzk115",
+    "onlineplay": true,
+    "wip": true
+}
