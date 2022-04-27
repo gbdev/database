@@ -1,0 +1,15 @@
+{
+    "description": "",
+    "developer": "Wabsta",
+    "files": [
+        {
+            "default": true,
+            "filename": "nyancat.gb",
+            "playable": true
+        }
+    ],
+    "platform": "gb",
+    "screenshots": [],
+    "slug": "nyancat",
+    "title": "NyanCat"
+}
