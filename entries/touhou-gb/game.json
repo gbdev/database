@@ -1,0 +1,15 @@
+{
+    "description": "Homebrew clone of the Touhou bullet hell games.",
+    "developer": "gnmmarechal",
+    "files": [
+        {
+            "default": true,
+            "filename": "touhou-gb.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "touhou-gb",
+    "title": "Touhou GB"
+}

@@ -1,0 +1,15 @@
+{
+    "description": "Tic Tac Toe, on the gb!",
+    "developer": "MPQC",
+    "files": [
+        {
+            "default": true,
+            "filename": "tic-tac-toe.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "tic-tac-toe_1",
+    "title": "Tic Tac Toe"
+}

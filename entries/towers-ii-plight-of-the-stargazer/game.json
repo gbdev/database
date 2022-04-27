@@ -1,0 +1,15 @@
+{
+    "description": "Towers II: Plight of the Stargazer. Unreleased GBC version of JV Games' dungeon crawler from about 2000 made available by the developer in 2020. Appears to work in hardware. Second download includes some pictures, design documents and more besides.",
+    "developer": "FAST6191",
+    "files": [
+        {
+            "default": true,
+            "filename": "towers-ii-plight-of-the-stargazer.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "towers-ii-plight-of-the-stargazer",
+    "title": "Towers II: Plight of the Stargazer"
+}

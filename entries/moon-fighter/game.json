@@ -1,0 +1,15 @@
+{
+    "description": "A fast paced shoot'em'up.",
+    "developer": "MPQC",
+    "files": [
+        {
+            "default": true,
+            "filename": "moon-fighter.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "moon-fighter",
+    "title": "Moon Fighter"
+}
