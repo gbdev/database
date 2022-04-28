@@ -1,31 +1,41 @@
 name: Validate manifests
 
-on:
-  [pull_request, push]
+on: [pull_request, push]
 
 jobs:
   run-tests:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout gbdev/database
-      uses: actions/checkout@v2
-      with:
-        repository: gbdev/database
-        path: folder/repo
+      - name: Checkout gbdev/database
+        uses: actions/checkout@v2
+        with:
+          repository: gbdev/database
+          path: folder/repo
 
-    - name: Set up Python 3.5
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.6
+      - name: Set up Python 3.5
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.6
 
-    - name: Install Python dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r folder/repo/tests/requirements.txt
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r folder/repo/tests/requirements.txt
 
-    - name: Validate entries against the schema
-      working-directory: folder/
-      run: |
-        cd repo/tests
-        python3 validate_schema.py
-        python3 check_files.py
+      - name: Validate manifests against the schema
+        working-directory: folder/
+        run: |
+          cd repo/tests
+          python3 validate_schema.py
+
+      - name: Check referenced files
+        working-directory: folder/
+        run: |
+          cd repo/tests
+          python3 check_files.py
+
+      - name: Look for duplicates
+        working-directory: folder/
+        run: |
+          cd repo/scripts
+          python3 dupe_finder.py
