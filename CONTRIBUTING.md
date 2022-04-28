@@ -18,15 +18,15 @@ Decide a "slug" for the game you are adding. It's like an username: short, no sp
 
 ### 2. Create the game folder and add the related files 
 
-Add the decided game slug at the end of `gamesList.json` file and create, in the `entries` directory, a folder with the slug as name.
+Create, in the `entries` directory, a folder with the slug as name.
 
-> E.g. `gamesList.json` will now contain `"super-roto-land-1` as element, and we created a folder named `super-roto-land-1` in `entries/`
+> E.g. we created a folder named `super-roto-land-1` in `entries/`
 
 In the created folder, put:
 
 - The game ROM (.gb or .gbc);
 - The screenshots (PNG, JPG and BMP are supported). At least 1 screenshot is required;
-- Possibily, a license file (`license.txt` or `license.md`), describing the terms under which the game/assets are released, this is generally not necessary if you specify the license name.
+- Possibly, a license file (`license.txt` or `license.md`), describing the terms under which the game/assets are released, this is generally not necessary if you specify the license name.
 
 ### 3. Add the `game.json` file 
 
@@ -109,7 +109,6 @@ The final folder structure will look like this:
 
 ```
 database/
-├── gamesList.json
 ├── entries/
 |   ├── my-new-game/
 |   │   ├── my-game.gb
