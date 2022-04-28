@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>scene.org file archive :: tendonin__rebels.7z</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="https://files.scene.org/style.css?1621424264" media="screen" />
+  <link rel="shortcut icon" href="https://files.scene.org/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0;" />
+
+  <link rel="search" type="application/opensearchdescription+xml" href="https://files.scene.org/opensearch.xml" title="scene.org file search" />
+  <link rel="alternate" href="https://files.scene.org/rss/latest-parties/" type="application/rss+xml" title="scene.org file archive: latest parties">
+        
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+  
+  <!--[if lt IE 9]><script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script><![endif]-->
+  <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+</head>
+<body class="view">
+
+<div id="container">
+  <header>
+    <h1><a href="https://files.scene.org/">scene.org File Archive</a></h1>
+    <nav id="topnav">
+      <ul>
+        <li><a href="https://files.scene.org/browse/">Browse</a></li>
+<!--        <li><a href="https://files.scene.org/mirrors/">Mirrors</a></li>-->
+        <li><a href="https://files.scene.org/faq/">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="sidebar">
+  
+    <div id="search">
+      <form action="https://files.scene.org/search/" method="GET">
+        <label>File search:</label>
+        <input type="text" name="q" value="">
+        <input type="submit" value="Go!">
+      </form>
+    </div>
+    <nav id="sidenav">
+      <ul>
+        <li><a href="https://files.scene.org/browse/parties/">Parties</a></li>
+        <li><a href="https://files.scene.org/browse/parties/2022/">Parties in 2022</a></li>
+      </ul>
+    </nav>
+  </section>
+
+  <section id="content">
+<h2>File download</h2>
+<section id='fileinfo' data-fileid='126226214'>
+<h3 class='archive'><span><a href='https://files.scene.org/browse/'>&lt;root&gt;</a>&shy;/&shy;<a href='https://files.scene.org/browse/parties/'>parties</a>&shy;/&shy;<a href='https://files.scene.org/browse/parties/2022/'>2022</a>&shy;/&shy;<a href='https://files.scene.org/browse/parties/2022/revision22/'>revision22</a>&shy;/&shy;<a href='https://files.scene.org/browse/parties/2022/revision22/oldskool-demo/'>oldskool-demo</a>/tendonin__rebels.7z</span></h3>
+<div>
+<dl>
+  <dt>File size:</dt>
+  <dd>85 521 bytes (83.52K)</dd>
+  <dt>File date:</dt>
+  <dd>2022-04-17 09:30:17</dd>
+  <dt>Download count:</dt>
+  <dd>all-time: 40
+  <noscript>If you turn JS on, you get a nice chart here too!</noscript>
+  <div id="downloadChart"></div>
+  <script type="text/javascript" src="//www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    function drawChart() 
+    {
+      // Create and populate the data table.
+      var data = new google.visualization.DataTable();
+      data.addColumn('date', 'Date');
+      data.addColumn('number', 'Download count');
+      data.addRow([new Date("2022-03-29"), 0]);
+      data.addRow([new Date("2022-03-30"), 0]);
+      data.addRow([new Date("2022-03-31"), 0]);
+      data.addRow([new Date("2022-04-01"), 0]);
+      data.addRow([new Date("2022-04-02"), 0]);
+      data.addRow([new Date("2022-04-03"), 0]);
+      data.addRow([new Date("2022-04-04"), 0]);
+      data.addRow([new Date("2022-04-05"), 0]);
+      data.addRow([new Date("2022-04-06"), 0]);
+      data.addRow([new Date("2022-04-07"), 0]);
+      data.addRow([new Date("2022-04-08"), 0]);
+      data.addRow([new Date("2022-04-09"), 0]);
+      data.addRow([new Date("2022-04-10"), 0]);
+      data.addRow([new Date("2022-04-11"), 0]);
+      data.addRow([new Date("2022-04-12"), 0]);
+      data.addRow([new Date("2022-04-13"), 0]);
+      data.addRow([new Date("2022-04-14"), 0]);
+      data.addRow([new Date("2022-04-15"), 0]);
+      data.addRow([new Date("2022-04-16"), 0]);
+      data.addRow([new Date("2022-04-17"), 11]);
+      data.addRow([new Date("2022-04-18"), 8]);
+      data.addRow([new Date("2022-04-19"), 7]);
+      data.addRow([new Date("2022-04-20"), 3]);
+      data.addRow([new Date("2022-04-21"), 1]);
+      data.addRow([new Date("2022-04-22"), 1]);
+      data.addRow([new Date("2022-04-23"), 2]);
+      data.addRow([new Date("2022-04-24"), 3]);
+      data.addRow([new Date("2022-04-25"), 1]);
+      data.addRow([new Date("2022-04-26"), 0]);
+      data.addRow([new Date("2022-04-27"), 0]);
+      data.addRow([new Date("2022-04-28"), 3]);
+      
+      // Create and draw the visualization.
+      new google.visualization.LineChart(document.getElementById('downloadChart')).
+        draw(data, {
+          width: 250,
+          height: 125,
+          curveType: "function",
+          backgroundColor: "transparent",
+          vAxis: { textPosition: 'in', minValue: 0, viewWindow: { min: 0 }, format: 'short' },
+          hAxis: { textPosition: 'none', viewWindowMode: 'maximized' },
+          legend: { position: 'none' },
+          chartArea: { top: 40, left: 0, width:"100%", height:"100%" },
+          title: 'Downloads in the last 30 days',
+          series: { 0: { color:'#1a5678' } }
+        });
+    }
+    google.charts.load('current', {packages: ['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+  </script>  
+  
+  </dd>
+</dl>
+<div id='download'>
+<h4>Download:</h4>
+<ul id='mirrors'>
+  <li id='mainDownload'><a href='https://files.scene.org/get/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>Automatic</a> (recommended)</li>
+  <li><a href='https://files.scene.org/get:nl-ftp/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>ftp.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:nl-http/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>archive.scene.org (http)</a></li>
+  <li><a href='https://files.scene.org/get:nl-https/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>archive.scene.org (https)</a></li>
+  <li><a href='https://files.scene.org/get:no-ftp/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>ftp.no.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:no-http/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>http.no.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:us-http/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>http.us.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:pl-ftp/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>ftp.pl.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:pl-http/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>http.pl.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:hu-ftp/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>ftp.hu.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:hu-http/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>http.hu.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:hu-https/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>http.hu.scene.org (https)</a></li>
+  <li><a href='https://files.scene.org/get:jp-http/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>http.jp.scene.org</a></li>
+  <li><a href='https://files.scene.org/get:jp-https/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>http.jp.scene.org (https)</a></li>
+  <li><a href='https://files.scene.org/get:se-http/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>mirror.scenesat.com</a></li>
+  <li><a href='https://files.scene.org/get:se2-http/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>sceneorg.retropc.se (http)</a></li>
+  <li><a href='https://files.scene.org/get:se2-ftp/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>sceneorg.retropc.se (ftp)</a></li>
+  <li><a href='https://files.scene.org/get:de-ftp/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>mirror.netcologne.de (ftp)</a></li>
+  <li><a href='https://files.scene.org/get:de-https/parties/2022/revision22/oldskool-demo/tendonin__rebels.7z'>mirror.netcologne.de (https)</a></li>
+</ul>
+</div>
+</div>
+</section>
+  </section>
+
+</div>
+
+<footer>
+Copyright &copy; The International Scene Organization ry. All rights reserved.
+<br/>
+Contact: <a href="mailto:ftp@scene.org">ftp@scene.org</a> or <a href='http://twitter.com/sceneorg'>@sceneorg</a> 
+</footer>
+
+</body>
+</html>

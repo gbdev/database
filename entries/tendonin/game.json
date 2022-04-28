@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "Rebels",
+    "files": [
+        {
+            "default": true,
+            "filename": "tendonin.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "tendonin.png"
+    ],
+    "slug": "tendonin",
+    "title": "Tendonin",
+    "typetag": "demo"
+}
