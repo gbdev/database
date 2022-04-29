@@ -1,0 +1,23 @@
+{
+    "title": "Temple of Velcro, Sticky Hooves in the",
+    "slug": "temple-of-velcro-sticky-hooves-in-the",
+    "platform": "GB",
+    "typetag": "game",
+    "description": "By 2-bit bros",
+    "screenshots": [
+        "templeofvelcro.png",
+        "templeofvelcro-2.png",
+        "templeofvelcro-3.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "templeofvelcro.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "templeofvelcro.gb"
+        }
+    ]
+}

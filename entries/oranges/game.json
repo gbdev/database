@@ -1,0 +1,23 @@
+{
+    "title": "Oranges",
+    "slug": "oranges",
+    "developer": "Chris Read",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "oranges.png",
+        "oranges-2.png",
+        "oranges-3.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "oranges52.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "oranges52.gb"
+        }
+    ]
+}

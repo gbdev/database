@@ -1,0 +1,21 @@
+{
+    "title": "Super Catacomb",
+    "slug": "super-catacomb",
+    "developer": "Trangram Games",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "catacomb.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "catacomb.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "catacomb.gb"
+        }
+    ]
+}

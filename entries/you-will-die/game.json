@@ -1,0 +1,21 @@
+{
+    "title": "You Will Die",
+    "slug": "you-will-die",
+    "developer": "Refresh Games",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "onehour.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "onehour.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "onehour.gb"
+        }
+    ]
+}

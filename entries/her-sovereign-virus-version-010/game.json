@@ -1,0 +1,21 @@
+{
+    "title": "Her Sovereign Virus (Version 0.1.0)",
+    "slug": "her-sovereign-virus-version-010",
+    "developer": "Upho",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "sovereignvirus.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "hersovereignvirus.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "hersovereignvirus.gb"
+        }
+    ]
+}

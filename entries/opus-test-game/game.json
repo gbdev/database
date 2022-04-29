@@ -1,0 +1,16 @@
+{
+    "title": "Opus Test Game",
+    "slug": "opus-test-game",
+    "developer": "Opus Games",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "placeholder.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "opustest.zip"
+        }
+    ]
+}

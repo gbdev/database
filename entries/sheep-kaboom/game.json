@@ -1,0 +1,23 @@
+{
+    "title": "Sheep Kaboom",
+    "slug": "sheep-kaboom",
+    "platform": "GB",
+    "typetag": "game",
+    "description": "By Light Games",
+    "screenshots": [
+        "sheep-kaboom.png",
+        "sheep-kaboom-2.png",
+        "sheep-kaboom3.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "sheep-kaboom.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "sheep-kaboom.gb"
+        }
+    ]
+}

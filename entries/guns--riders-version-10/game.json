@@ -1,0 +1,21 @@
+{
+    "title": "Guns & Riders (Version 1.0)",
+    "slug": "guns--riders-version-10",
+    "developer": "J. M. Clement",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "gunsriders.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "gunsriders.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "gunsriders.gb"
+        }
+    ]
+}

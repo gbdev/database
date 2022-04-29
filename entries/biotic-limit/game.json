@@ -1,0 +1,22 @@
+{
+    "title": "Biotic Limit",
+    "slug": "biotic-limit",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "description": "By Ryan Carson",
+    "screenshots": [
+        "bioticlimit.png",
+        "bioticlimit-2.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "bioticlimit.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "bioticlimit-1.gb"
+        }
+    ]
+}

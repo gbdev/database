@@ -1,0 +1,21 @@
+{
+    "title": "Serpedelic (Version 1.1.0)",
+    "slug": "serpedelic-version-110",
+    "developer": "DeltaGardner",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "placeholder.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "serpedelic.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "serpedelic.gb"
+        }
+    ]
+}

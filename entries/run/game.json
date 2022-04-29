@@ -1,0 +1,23 @@
+{
+    "title": "Run!!",
+    "slug": "run",
+    "developer": "Monetai",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "run.png",
+        "run-2.png",
+        "run-3.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "run.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "run.gb"
+        }
+    ]
+}

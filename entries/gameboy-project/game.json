@@ -1,0 +1,21 @@
+{
+    "title": "Gameboy Project",
+    "slug": "gameboy-project",
+    "developer": "Marc Rawer",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "steffen.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "steffen.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "steffen.gb"
+        }
+    ]
+}

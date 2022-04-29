@@ -1,0 +1,21 @@
+{
+    "title": "Hyper Cat",
+    "slug": "hyper-cat",
+    "developer": "Andrew G. Crowell",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "hypercat.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "hypercat.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "hypercat.gb"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "StopWatch Version 1",
+    "slug": "stopwatch-version-1",
+    "developer": "Chris Antonellis",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "stopwatch.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "stopwatch-v1.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "stopwatch-v1.gb"
+        }
+    ]
+}

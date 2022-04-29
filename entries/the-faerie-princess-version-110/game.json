@@ -1,0 +1,21 @@
+{
+    "title": "The Faerie Princess (Version 1.1.0)",
+    "slug": "the-faerie-princess-version-110",
+    "developer": "Videlais",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "placeholder.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "thefaerieprincess.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "the-faerie-princess.gb"
+        }
+    ]
+}
