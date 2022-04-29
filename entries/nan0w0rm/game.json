@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "aeb",
+    "files": [
+        {
+            "default": true,
+            "filename": "nan0w0rm.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "nan0w0rm.png"
+    ],
+    "slug": "nan0w0rm",
+    "title": "NAN0W0RM",
+    "typetag": "demo"
+}

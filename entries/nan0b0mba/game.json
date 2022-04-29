@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "aeb",
+    "files": [
+        {
+            "default": true,
+            "filename": "nan0b0mba.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "nan0b0mba.png"
+    ],
+    "slug": "nan0b0mba",
+    "title": "NAN0B0MBA",
+    "typetag": "demo"
+}

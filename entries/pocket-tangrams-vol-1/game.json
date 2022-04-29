@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "Fizzer",
+    "files": [
+        {
+            "default": true,
+            "filename": "pocket-tangrams-vol-1.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "pocket-tangrams-vol-1.png"
+    ],
+    "slug": "pocket-tangrams-vol-1",
+    "title": "Pocket Tangrams Vol. 1",
+    "typetag": "demo"
+}
