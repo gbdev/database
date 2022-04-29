@@ -1,0 +1,22 @@
+{
+    "date": "1997-11-29",
+    "developer": "Jeff Frohwein",
+    "files": [
+        {
+            "description": "release",
+            "filename": "gbtictac.zip"
+        },
+        {
+            "default": true,
+            "filename": "Clk.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Clk-0.png"
+    ],
+    "slug": "gbclock-v1.0",
+    "title": "GBClock V1.0",
+    "typetag": "demo"
+}

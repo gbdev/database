@@ -1,22 +1,22 @@
 {
-    "date": "1996-11-10",
-    "developer": "Norman Nithman",
+    "date": "1997-10-23",
+    "developer": "Genetic Fantasia",
     "files": [
         {
             "description": "release",
-            "filename": "clock.zip"
+            "filename": "mmania.zip"
         },
         {
             "default": true,
-            "filename": "GBTICTAC.GB",
+            "filename": "SHIP.GB",
             "playable": true
         }
     ],
     "platform": "GB",
     "screenshots": [
-        "GBTICTAC-0.png"
+        "SHIP-0.png"
     ],
-    "slug": "tic-tac-toe_1",
-    "title": "GB Tic-Tac-Toe",
+    "slug": "megamania",
+    "title": "Megamania",
     "typetag": "game"
 }

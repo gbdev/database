@@ -1,0 +1,22 @@
+{
+    "date": "1999-08-12",
+    "developer": "Julio Lemos",
+    "files": [
+        {
+            "description": "release",
+            "filename": "vcaldan990812.zip"
+        },
+        {
+            "default": true,
+            "filename": "VCALDAN.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "VCALDAN-0.png"
+    ],
+    "slug": "vcaldan",
+    "title": "VCaldan",
+    "typetag": "demo"
+}

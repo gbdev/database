@@ -5,6 +5,14 @@
             "default": true,
             "filename": "jetpak-dx.cgb",
             "playable": true
+        },
+        {
+            "description": "release (Bung competition)",
+            "filename": "jetpak-dx-bung.zip"
+        },
+        {
+            "description": "release",
+            "filename": "jpdx0705.zip"
         }
     ],
     "platform": "GBC",

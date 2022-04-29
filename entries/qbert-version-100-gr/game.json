@@ -1,0 +1,23 @@
+{
+    "date": "2003-04-30",
+    "developer": "Paul Chinn/GreekRoms",
+    "files": [
+        {
+            "description": "release",
+            "filename": "qbrgr100.zip"
+        },
+        {
+            "default": true,
+            "filename": "qbertgr.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "qbert-0.png",
+        "qbert-3.png"
+    ],
+    "slug": "qbert-version-100-gr",
+    "title": "Q*bert (Version 1.00) (Greek)",
+    "typetag": "game"
+}
