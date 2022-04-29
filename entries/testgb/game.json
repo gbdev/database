@@ -4,11 +4,6 @@
         {
             "description": "release",
             "filename": "testgb.zip"
-        },
-        {
-            "default": true,
-            "filename": "Clk.gb",
-            "playable": true
         }
     ],
     "platform": "GB",
