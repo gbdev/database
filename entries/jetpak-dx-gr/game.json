@@ -1,0 +1,24 @@
+{
+    "date": "2003-03-01",
+    "developer": "Gambit Studios/GreekRoms",
+    "files": [
+        {
+            "description": "release",
+            "filename": "jetgr100.zip"
+        },
+        {
+            "default": true,
+            "filename": "jetpakdx-gr.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "",
+    "screenshots": [
+        "jetpakdx-gr-0.png",
+        "jetpakdx-gr-1.png"
+    ],
+    "slug": "jetpak-dx-gr",
+    "title": "Jetpak DX (Greek)",
+    "typetag": "game"
+}

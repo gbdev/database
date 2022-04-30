@@ -1,0 +1,15 @@
+{
+    "date": "1996-06-13",
+    "files": [
+        {
+            "description": "release",
+            "filename": "testgb.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Clk-0.png"
+    ],
+    "slug": "testgb",
+    "title": "GB Runtime Test ROMs (1996)"
+}
