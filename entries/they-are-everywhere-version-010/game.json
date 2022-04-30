@@ -4,9 +4,7 @@
     "developer": "Refresh Games",
     "platform": "GB",
     "typetag": "homebrew",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "files": [
         {
             "description": "release",

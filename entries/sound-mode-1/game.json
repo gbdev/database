@@ -3,9 +3,7 @@
     "slug": "sound-mode-1",
     "platform": "GB",
     "typetag": "homebrew",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "files": [
         {
             "description": "release",

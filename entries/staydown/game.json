@@ -3,9 +3,7 @@
     "slug": "staydown",
     "platform": "GB",
     "typetag": "homebrew",
-    "screenshots": [
-        "placeholder.png"
-    ],
+    "screenshots": [],
     "files": [
         {
             "description": "release",

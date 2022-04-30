@@ -140,7 +140,6 @@ async function parseRow(row, suffix) {
     // Check if screenshots is empty
     if (meta.screenshots.length === 0) {
         log.warn('No screenshots found for: ' + meta.slug + ', adding placeholder.png');
-        meta.screenshots = ['placeholder.png'];
     }
 
     return meta;
