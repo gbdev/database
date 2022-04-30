@@ -1,0 +1,21 @@
+{
+    "title": "Ping Pong Diplomacy (Version 1.0)",
+    "slug": "ping-pong-diplomacy-version-10",
+    "developer": "Ryoga",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "pingpongdiplomacy.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "pingpongdiplomacy-gb-rom-v1.rar"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "PingPongDiplomacy-gb-rom-v-1.0.gb"
+        }
+    ]
+}

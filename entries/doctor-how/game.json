@@ -1,0 +1,22 @@
+{
+    "title": "Doctor How",
+    "slug": "doctor-how",
+    "developer": "ProGM & Flame",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "doctorhow.png",
+        "doctorhow-2.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "doctorhow.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "doctorhow.gb"
+        }
+    ]
+}

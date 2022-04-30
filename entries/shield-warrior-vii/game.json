@@ -1,0 +1,22 @@
+{
+    "title": "Shield Warrior VII",
+    "slug": "shield-warrior-vii",
+    "platform": "GB",
+    "typetag": "game",
+    "description": "By Refresh Games",
+    "screenshots": [
+        "shieldwarriorvii.png",
+        "shieldwarriorvii-2.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "shieldwarriorvii.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "ld36.gb"
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-const existingGames = require('../../gamesList.json');
+const fs = require('fs');
 const jsdom = require('jsdom');
 const log = require('./log');
 const { JSDOM } = jsdom;
@@ -8,7 +8,7 @@ const { JSDOM } = jsdom;
  * @param {string} url - The url to gather the game meta from (really only supports nesworld).
  * @returns {Object[]} An array of game meta objects.
  */
-exports.gather = (url) => {
+exports.gather = (url, suffix) => {
     const rowsAsync = [];
     log.title('Loading DOM and gathering Meta from: ' + url);
     return JSDOM.fromURL(url)
@@ -17,10 +17,17 @@ exports.gather = (url) => {
             document.querySelectorAll('.CONTENT-DATA > table tbody > tr')
                 .forEach((row) => {
                     if (row.childElementCount > 1) {
-                        rowsAsync.push(parseRow(row));
+                        rowsAsync.push(parseRow(row, suffix));
                     }
                 });
-            return Promise.all(rowsAsync);
+            return Promise.all(rowsAsync)
+                .then((rows) => {
+                    let filteredRows = rows.filter(r => !r.exists && (r.rom != null && r.rom.length > 0));
+                    filteredRows.forEach((row) => {
+                        delete row.exists;
+                    });
+                    return filteredRows;
+                });
         });
 }
 
@@ -31,7 +38,7 @@ exports.gather = (url) => {
  * @param {HTMLElement} row - The game DOM row from nesworld.
  * @returns {Object} A game meta object.
  */
-async function parseRow(row) {
+async function parseRow(row, suffix) {
     const meta = {
         title: '',
         slug: '',
@@ -40,6 +47,7 @@ async function parseRow(row) {
         typetag: 'homebrew',
         description: '',
         screenshots: [],
+        exists: false,
         rom: '',
     };
 
@@ -55,7 +63,8 @@ async function parseRow(row) {
         });
 
         // Rom Link
-        meta.rom = row.querySelector('td:nth-child(2) center > a').getAttribute('href');
+	const romLink = row.querySelector('td:nth-child(2) center > a');
+        meta.rom = romLink != null ? romLink.getAttribute('href') : '';
 
         let textNodesCount = 0;
         const contentNodes = row.querySelector('td:nth-child(3)').childNodes;
@@ -97,7 +106,8 @@ async function parseRow(row) {
         }
     } else if (columns === 4) {
         // Rom Link
-        meta.rom = row.querySelector('td:nth-child(2) a').getAttribute('href');
+	const romLink = row.querySelector('td:nth-child(2) a');
+        meta.rom = romLink != null ? romLink.getAttribute('href') : '';
 
         // Title
         meta.title = row.querySelector('td:nth-child(3)').textContent.trim();
@@ -116,9 +126,10 @@ async function parseRow(row) {
     // Slug
     if (meta.title) {
         meta.slug = meta.title.toLowerCase().replace(/[\s\/]/g, '-').replace(/[^\w\-]/g, '');
-        if (existingGames.includes(meta.slug)) {
-            log.info('Game with slug already exists: ' + meta.slug + ', generating a new unique slug: ' + meta.slug + '-nswld');
-            meta.slug = meta.slug + '-nswld';
+        if (fs.existsSync('../../entries/' + meta.slug)) {
+            log.info('Game with slug already exists: ' + meta.slug);
+            meta.exists = true;
+            meta.slug = meta.slug + '-' + suffix;
         }
     }
 
@@ -129,7 +140,6 @@ async function parseRow(row) {
     // Check if screenshots is empty
     if (meta.screenshots.length === 0) {
         log.warn('No screenshots found for: ' + meta.slug + ', adding placeholder.png');
-        meta.screenshots = ['placeholder.png'];
     }
 
     return meta;

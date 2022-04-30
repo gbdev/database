@@ -1,0 +1,21 @@
+{
+    "title": "Unseen",
+    "slug": "unseen",
+    "developer": "Refresh Games",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "onehourtwo.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "onehourtwo.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "onehourtwo.gb"
+        }
+    ]
+}

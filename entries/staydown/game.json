@@ -1,0 +1,18 @@
+{
+    "title": "Staydown",
+    "slug": "staydown",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [],
+    "files": [
+        {
+            "description": "release",
+            "filename": "staydown.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "staydown.gb"
+        }
+    ]
+}

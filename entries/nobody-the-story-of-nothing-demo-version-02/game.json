@@ -1,0 +1,21 @@
+{
+    "title": "Nobody: The Story of Nothing (Demo Version 0.2)",
+    "slug": "nobody-the-story-of-nothing-demo-version-02",
+    "developer": "Lyth",
+    "platform": "GB",
+    "typetag": "demo",
+    "screenshots": [
+        "storyofnothingdemo.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "nobody-the_story_of_nothing_demo_v0_2.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "nobodydemo.gb"
+        }
+    ]
+}

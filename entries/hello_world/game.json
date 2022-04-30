@@ -1,0 +1,21 @@
+{
+    "title": "Hello_World!",
+    "slug": "hello_world",
+    "developer": "Tronimal",
+    "platform": "GB",
+    "typetag": "music",
+    "screenshots": [
+        "tronimal.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "tronimal-hello_world.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "hello_world-download-version.gb"
+        }
+    ]
+}

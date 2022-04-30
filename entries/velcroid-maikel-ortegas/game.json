@@ -1,0 +1,22 @@
+{
+    "title": "Velcroid, Maikel Ortega's",
+    "slug": "velcroid-maikel-ortegas",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "description": "By Maikel Ortega",
+    "screenshots": [
+        "velcroid.png",
+        "velcroid-2.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "velcroid-bitbitjam4version.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "velcroid-bitbitjam4version.gb"
+        }
+    ]
+}

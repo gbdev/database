@@ -1,0 +1,21 @@
+{
+    "title": "Flappy Bird",
+    "slug": "flappy-bird",
+    "developer": "Toca Lucas",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "flappybird.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "flappybird.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "flappybird.gb"
+        }
+    ]
+}

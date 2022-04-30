@@ -1,0 +1,18 @@
+{
+    "title": "Stroker",
+    "slug": "stroker",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [],
+    "files": [
+        {
+            "description": "release",
+            "filename": "stroker.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "stroker.gb"
+        }
+    ]
+}

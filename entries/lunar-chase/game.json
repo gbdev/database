@@ -1,0 +1,20 @@
+{
+    "title": "Lunar Chase",
+    "slug": "lunar-chase",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [
+        "lunarchase.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "x_(tech_demo_1).zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "x-tech-demo-1.gb"
+        }
+    ]
+}

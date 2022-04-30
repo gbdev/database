@@ -35,14 +35,10 @@ async function handleGameMeta(game) {
     fs.mkdirSync(gamePath);
 
     // Download Screenshots
-    if (game.screenshots.length === 1 && game.screenshots[0] === 'placeholder.png') {
-        fs.copyFileSync(path.resolve(__dirname, 'placeholder.png'), path.resolve(gamePath, 'placeholder.png'));
-    } else {
-        for (let i = 0; i < game.screenshots.length; i++) {
-            const screenshotFilename = cleanPath(game.screenshots[i]);
-            await download(url + game.screenshots[i], path.resolve(gamePath, screenshotFilename));
-            game.screenshots[i] = screenshotFilename;
-        }
+    for (let i = 0; i < game.screenshots.length; i++) {
+        const screenshotFilename = cleanPath(game.screenshots[i]);
+        await download(url + game.screenshots[i], path.resolve(gamePath, screenshotFilename));
+        game.screenshots[i] = screenshotFilename;
     }
 
     // Download ROM zip and extract

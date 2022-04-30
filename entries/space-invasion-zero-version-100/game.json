@@ -1,0 +1,21 @@
+{
+    "title": "Space Invasion Zero (Version 1.0.0)",
+    "slug": "space-invasion-zero-version-100",
+    "developer": "Refresh Games",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "spaceinvasionzero.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "spaceinvasionzero.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "warmup.gb"
+        }
+    ]
+}

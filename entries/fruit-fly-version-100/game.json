@@ -1,0 +1,19 @@
+{
+    "title": "Fruit Fly (Version 1.0.0)",
+    "slug": "fruit-fly-version-100",
+    "developer": "DeltaGardner",
+    "platform": "GB",
+    "typetag": "homebrew",
+    "screenshots": [],
+    "files": [
+        {
+            "description": "release",
+            "filename": "fruitfly.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "fruitfly.gb"
+        }
+    ]
+}

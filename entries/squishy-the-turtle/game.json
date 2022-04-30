@@ -1,0 +1,21 @@
+{
+    "title": "Squishy the Turtle",
+    "slug": "squishy-the-turtle",
+    "developer": "Cppchriscpp",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "squishy.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "squishy.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "ludum-dare.gb"
+        }
+    ]
+}

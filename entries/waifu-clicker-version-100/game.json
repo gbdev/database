@@ -1,0 +1,21 @@
+{
+    "title": "Waifu Clicker (Version 1.0.0)",
+    "slug": "waifu-clicker-version-100",
+    "developer": "Refresh Games",
+    "platform": "GB",
+    "typetag": "game",
+    "screenshots": [
+        "waifu.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "waifu.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "waifu.gb"
+        }
+    ]
+}

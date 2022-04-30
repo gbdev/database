@@ -1,0 +1,22 @@
+{
+    "title": "Novascape",
+    "slug": "novascape",
+    "developer": "Refresh Games",
+    "platform": "GB",
+    "typetag": "game",
+    "description": "Novascape pits you deep inside the planet Novatron armed with your rather fuel hungry jetpack and trusty sidearm at your disposal. Can you escape the planet alive? Or will you fall foul to the planets denizens?",
+    "screenshots": [
+        "novascape.png"
+    ],
+    "files": [
+        {
+            "description": "release",
+            "filename": "novascap.zip"
+        },
+        {
+            "default": true,
+            "playable": true,
+            "filename": "novascap.gb"
+        }
+    ]
+}
