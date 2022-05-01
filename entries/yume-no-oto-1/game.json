@@ -1,0 +1,19 @@
+{
+    "date": "2011",
+    "developer": "weep",
+    "files": [
+        {
+            "default": true,
+            "filename": "yume-no-oto-1.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "yume-no-oto-1-0.png",
+        "yume-no-oto-1-1.png"
+    ],
+    "slug": "yume-no-oto-1",
+    "title": "Yume no Oto 1",
+    "typetag": "game"
+}

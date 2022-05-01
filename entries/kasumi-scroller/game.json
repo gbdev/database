@@ -1,0 +1,21 @@
+{
+    "date": "1995-10-29",
+    "files": [
+        {
+            "default": true,
+            "filename": "Kasumi_Scroller.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "kasumi_scroller.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Kasumi_Scroller-0.png"
+    ],
+    "slug": "kasumi-scroller",
+    "title": "Kasumi Scroller",
+    "typetag": "demo"
+}

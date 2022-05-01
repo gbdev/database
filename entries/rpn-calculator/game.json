@@ -1,0 +1,25 @@
+{
+    "date": "1997-08-04",
+    "files": [
+        {
+            "default": true,
+            "filename": "RPN_Calculator.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "rpn_calculator.zip"
+        },
+        {
+            "description": "source",
+            "filename": "rpn_calculator_src.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "RPN_Calculator-0.png"
+    ],
+    "slug": "rpn-calculator",
+    "title": "RPN Calculator",
+    "typetag": "homebrew"
+}

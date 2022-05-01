@@ -1,0 +1,20 @@
+{
+    "date": "1999-07-03",
+    "developer": "",
+    "files": [
+        {
+            "description": "release",
+            "filename": "blem!.zip"
+        },
+        {
+            "default": true,
+            "filename": "BLEM! (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "blem",
+    "title": "Blem!",
+    "typetag": "homebrew"
+}

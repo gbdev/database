@@ -1,0 +1,25 @@
+{
+    "date": "1998-09-17",
+    "files": [
+        {
+            "default": true,
+            "filename": "Gabe_Edit.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gabe_edit.zip"
+        },
+        {
+            "description": "source",
+            "filename": "gabe_edit_src.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Gabe_Edit-0.png"
+    ],
+    "slug": "gabe_edit",
+    "title": "Gabe Edit v0.1",
+    "typetag": "homebrew"
+}

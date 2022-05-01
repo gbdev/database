@@ -1,0 +1,21 @@
+{
+  "slug": "checkercube",
+  "title": "CheckerCube",
+  "type": "demo",
+  "platform": "GB",
+  "files": [
+    {
+      "default": true,
+      "filename": "CheckerCube.gb",
+      "playable": true
+    },
+    {
+      "description": "release",
+      "filename": "CheckerCube.gb"
+    }
+  ],
+  "screenshots": [
+    "CheckerCube-0.png"
+  ],
+  "date": "1998-02-28"
+}

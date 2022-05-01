@@ -1,0 +1,21 @@
+{
+    "date": "2022-05-01",
+    "files": [
+        {
+            "default": true,
+            "filename": "Rei_3D_Demo.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "rei_3d_demo.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Rei_3D_Demo-0.png"
+    ],
+    "slug": "rei-3d-demo",
+    "title": "Rei 3D Demo",
+    "typetag": "homebrew"
+}

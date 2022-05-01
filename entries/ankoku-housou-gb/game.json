@@ -1,0 +1,19 @@
+{
+    "date": "2011",
+    "developer": "weep",
+    "files": [
+        {
+            "default": true,
+            "filename": "ankoku-housou.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "ankoku-housou-0.png",
+        "ankoku-housou-1.png"
+    ],
+    "slug": "ankoku-housou-gb",
+    "title": "Ankoku Housou GB",
+    "typetag": "game"
+}

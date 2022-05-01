@@ -1,0 +1,22 @@
+{
+    "date": "1998-03-29",
+    "developer": "Michael Ross",
+    "files": [
+        {
+            "default": true,
+            "filename": "Dog_Demo.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "dog_demo.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Dog_Demo-0.png"
+    ],
+    "slug": "dog-demo",
+    "title": "Dog Demo",
+    "typetag": "homebrew"
+}

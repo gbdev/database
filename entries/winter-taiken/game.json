@@ -1,0 +1,23 @@
+{
+    "date": "1999-11-28",
+    "developer": "Parawo",
+    "files": [
+        {
+            "default": true,
+            "filename": "taiken.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "winter_taiken.lzh"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "taiken-0.png",
+        "taiken-1.png"
+    ],
+    "slug": "winter-taiken",
+    "title": "Winter Taiken (trial)",
+    "typetag": "game"
+}

@@ -1,0 +1,26 @@
+{
+    "date": "2022-05-01",
+    "files": [
+        {
+            "default": true,
+            "filename": "BlackyBirdCol.gb",
+            "playable": true
+        },
+        {
+            "description": "source",
+            "filename": "BlackyBirdColSrc.zip"
+        },
+        {
+            "description": "release",
+            "filename": "BlackyBirdCol.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "BlackyBirdCol-0.png"
+    ],
+    "slug": "BlackyBird",
+    "title": "Blacky Bird",
+    "typetag": "game",
+    "website": "https://gb-dev.blogspot.com/"
+}

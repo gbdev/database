@@ -1,0 +1,23 @@
+{
+    "date": "2013-01-12",
+    "developer": "weep",
+    "files": [
+        {
+            "default": true,
+            "filename": "miku_miku_walking00.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "mmw00.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "miku_miku_walking00-0.png"
+    ],
+    "slug": "miku-miku-walking",
+    "title": "Miku Miku Walking ver.00",
+    "typetag": "demo",
+    "website": "http://multip.net/view/nJOiPD3JTY"
+}

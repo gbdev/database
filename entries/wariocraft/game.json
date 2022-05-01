@@ -1,0 +1,26 @@
+{
+    "date": "1999-01-22",
+    "developer": "Harry Mulder",
+    "files": [
+        {
+            "default": true,
+            "filename": "WarioCraft.gbc",
+            "playable": true
+        },
+        {
+            "description": "source",
+            "filename": "wariocraft_src.zip"
+        },
+        {
+            "description": "release",
+            "filename": "wariocraft.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "WarioCraft-0.png"
+    ],
+    "slug": "wariocraft",
+    "title": "WarioCraft",
+    "typetag": "demo"
+}

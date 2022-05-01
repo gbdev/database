@@ -1,0 +1,26 @@
+{
+    "date": "1997-11-01",
+    "developer": "Harry Mulder",
+    "files": [
+        {
+            "default": true,
+            "filename": "Wario_Walking.gb",
+            "playable": true
+        },
+        {
+            "description": "source",
+            "filename": "wario_walking_src.zip"
+        },
+        {
+            "description": "release",
+            "filename": "wario_walking.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Wario_Walking-0.png"
+    ],
+    "slug": "wario-walking",
+    "title": "Wario Walking",
+    "typetag": "demo"
+}

@@ -1,5 +1,5 @@
 {
-    "date": "1999-01-01",
+    "date": "1997-09-20",
     "developer": "Harry Mulder",
     "files": [
         {
@@ -10,6 +10,10 @@
                 "sha1": "898cb427951ba3e7917d75a1727d701f20347538",
                 "sha256": "4853d7b64a0698789ca4a91a9e5a90fb37ce543ce71338c3841088767193845d"
             }
+        },
+        {
+            "description": "source",
+            "filename": "zoomar_src.zip"
         },
         {
             "default": true,

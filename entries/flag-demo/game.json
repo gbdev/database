@@ -1,0 +1,21 @@
+{
+    "date": "1998-04-04",
+    "files": [
+        {
+            "description": "release",
+            "filename": "flag_demo.zip"
+        },
+        {
+            "default": true,
+            "filename": "Flag_Demo.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Flag_Demo-0.png"
+    ],
+    "slug": "flag-demo",
+    "title": "Flag Demo",
+    "typetag": "demo"
+}
