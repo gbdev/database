@@ -1,0 +1,26 @@
+{
+    "date": "1996-05-31",
+    "developer": "Jeff Frohwein, Jens Christian Restemeier",
+    "files": [
+        {
+            "default": true,
+            "filename": "HeroZero_Fractal_Demo.gb",
+            "playable": true
+        },
+        {
+            "description": "source",
+            "filename": "herozero_fractal_demo_src.zip"
+        },
+        {
+            "description": "release",
+            "filename": "herozero_fractal_demo.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "HeroZero_Fractal_Demo-0.png"
+    ],
+    "slug": "herozero-fractal-demo",
+    "title": "HeroZero Fractal Demo",
+    "typetag": "demo"
+}

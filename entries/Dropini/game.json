@@ -4,21 +4,27 @@
     "files": [
         {
             "description": "release",
-            "filename": "Dropini__(Gameboy).zip",
-            "hash": {
-                "md5": "59f91fe2c0329f756a2ee1f416da78896c6d90f9",
-                "sha1": "59f91fe2c0329f756a2ee1f416da78896c6d90f9",
-                "sha256": "3ba639dfcd1720e0724fa6d549081e19e77053a64bc7f767fd575361d6b97ac9"
-            }
+            "filename": "dropv1.5.zip"
+        },
+        {
+            "description": "release (v1.3)",
+            "filename": "dropv1.3.zip"
+        },
+        {
+            "description": "release (v1.2)",
+            "filename": "dropv1.2.zip"
+        },
+        {
+            "description": "release (v1.1)",
+            "filename": "dropv1.1.zip"
+        },
+        {
+            "description": "release (v1.0)",
+            "filename": "dropv1.0.zip"
         },
         {
             "default": true,
             "filename": "Dropini.gbc",
-            "hash": {
-                "md5": "19c8266fb03a4016fce49bab33fca381",
-                "sha1": "7ab6097e199328a31af2b27cbbcf6f36f0917fec",
-                "sha256": "38de0aa7947e9054a98660a2180805ae8834622204a975b3247ebb8a6235ec65"
-            },
             "playable": true
         }
     ],

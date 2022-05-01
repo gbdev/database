@@ -1,0 +1,21 @@
+{
+    "date": "1998-08-08",
+    "files": [
+        {
+            "description": "release",
+            "filename": "dirty_pair_flash_picture.zip"
+        },
+        {
+            "default": true,
+            "filename": "Dirty_Pair_Flash_Picture.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Dirty_Pair_Flash_Picture-0.png"
+    ],
+    "slug": "dirty-pair-flash-picture",
+    "title": "Dirty Pair Flash Picture",
+    "typetag": "homebrew"
+}

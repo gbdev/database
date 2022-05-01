@@ -1,0 +1,26 @@
+{
+    "date": "1998-12-30",
+    "developer": "BouKiChi",
+    "files": [
+        {
+            "description": "release",
+            "filename": "fader_demo.zip"
+        },
+        {
+            "description": "source",
+            "filename": "fader_demo_src.zip"
+        },
+        {
+            "default": true,
+            "filename": "Fader_Demo.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Fader_Demo-0.png"
+    ],
+    "slug": "fader-demo",
+    "title": "Fader Demo",
+    "typetag": "demo"
+}

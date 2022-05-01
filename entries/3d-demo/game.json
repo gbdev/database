@@ -1,0 +1,22 @@
+{
+    "date": "1998-02-28",
+    "developer": "PJ",
+    "files": [
+        {
+            "description": "release",
+            "filename": "3d_demo.zip"
+        },
+        {
+            "default": true,
+            "filename": "3D_Demo.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "3D_Demo-0.png"
+    ],
+    "slug": "3d-demo",
+    "title": "3D Demo",
+    "typetag": "demo"
+}

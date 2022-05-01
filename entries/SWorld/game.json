@@ -4,12 +4,7 @@
     "files": [
         {
             "description": "release",
-            "filename": "SWorld__(Gameboy).zip",
-            "hash": {
-                "md5": "2d77a2db29501d364f119f9405d29a9eab9124c1",
-                "sha1": "2d77a2db29501d364f119f9405d29a9eab9124c1",
-                "sha256": "5ac88308a0c63b1d27b0736098456731a72e0eaaaeb7fe0ccb0156bce9c37c93"
-            }
+            "filename": "SWorld__(Gameboy).zip"
         },
         {
             "default": true,

@@ -1,0 +1,22 @@
+{
+    "date": "1997-11-26",
+    "developer": "Anders Granlund",
+    "files": [
+        {
+            "default": true,
+            "filename": "Dungeon_Escape.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "dungeon_escape.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Dungeon_Escape-0.png"
+    ],
+    "slug": "dungeon-escape",
+    "title": "Dungeon Escape",
+    "typetag": "homebrew"
+}

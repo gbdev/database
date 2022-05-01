@@ -1,0 +1,22 @@
+{
+    "date": "1998-02-02",
+    "developer": "Nick Kochakian",
+    "files": [
+        {
+            "default": true,
+            "filename": "Joypad_Test.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "joypad_test.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Joypad_Test-0.png"
+    ],
+    "slug": "joypad-test",
+    "title": "JOYTST.GB ver .1",
+    "typetag": "homebrew"
+}
