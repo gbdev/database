@@ -1,0 +1,23 @@
+{
+    "date": "1997-11-25",
+    "developer": "Grayfox unLTD.",
+    "files": [
+        {
+            "default": true,
+            "filename": "GBMG04B1.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "samp04b1.lzh"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "GBMG04B1-0.png"
+    ],
+    "slug": "grayfox-gbdk-window-sample",
+    "title": "GBDK Window Sample",
+    "typetag": "homebrew",
+    "website": "http://home.interlink.or.jp/~grayfox"
+}

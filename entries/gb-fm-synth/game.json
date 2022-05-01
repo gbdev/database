@@ -1,0 +1,23 @@
+{
+    "date": "2009-04-09",
+    "developer": "Bookworm",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb_fm.gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gb_fm.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "gb_fm-0.png"
+    ],
+    "slug": "gb-fm-synth",
+    "title": "FM Synthesis",
+    "typetag": "homebrew",
+    "website": "http://mydocuments.g2.xrea.com/html/gb/fm.html"
+}

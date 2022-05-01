@@ -1,0 +1,22 @@
+{
+    "date": "1997-10-26",
+    "developer": "Jeff Frohwein",
+    "files": [
+        {
+            "default": true,
+            "filename": "SI.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "si.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "SI-0.png"
+    ],
+    "slug": "space-invaders-programming-demo",
+    "title": "Space Invaders-style Programming Demo",
+    "typetag": "demo"
+}

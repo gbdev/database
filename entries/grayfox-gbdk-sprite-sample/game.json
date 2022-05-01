@@ -1,0 +1,23 @@
+{
+    "date": "1997-12-13",
+    "developer": "Grayfox unLTD.",
+    "files": [
+        {
+            "default": true,
+            "filename": "SAMP05B1.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "samp05b1.lzh"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "SAMP05B1-0.png"
+    ],
+    "slug": "grayfox-gbdk-sprite-sample",
+    "title": "GBDK Sprite Sample",
+    "typetag": "homebrew",
+    "website": "http://home.interlink.or.jp/~grayfox"
+}
