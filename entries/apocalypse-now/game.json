@@ -1,0 +1,22 @@
+{
+    "date": "1998-05-13",
+    "developer": "Matthew Johnson",
+    "files": [
+        {
+            "default": true,
+            "filename": "APOCNOW.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "apocnow.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "APOCNOW-0.png"
+    ],
+    "slug": "apocalypse-now",
+    "title": "Apocalypse Now",
+    "typetag": "homebrew"
+}

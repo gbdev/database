@@ -1,0 +1,21 @@
+{
+    "date": "2005-10-15",
+    "developer": "Bookworm",
+    "files": [
+        {
+            "default": true,
+            "filename": "FNum.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "fnum_gb.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [],
+    "slug": "benchmark",
+    "title": "Benchmark for Gameboy",
+    "typetag": "homebrew",
+    "website": "http://mydocuments.g2.xrea.com/html/gb/number.html"
+}

@@ -1,0 +1,22 @@
+{
+    "date": "1999-08-29",
+    "developer": "MJCulross",
+    "files": [
+        {
+            "default": true,
+            "filename": "Soundx.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "soundx13.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Soundx-0.png"
+    ],
+    "slug": "gbsoundxperimenter",
+    "title": "GBSoundXperimenter v1.3",
+    "typetag": "homebrew"
+}

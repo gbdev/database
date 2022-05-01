@@ -1,0 +1,23 @@
+{
+    "date": "1997-10-05",
+    "developer": "Grayfox unLTD.",
+    "files": [
+        {
+            "default": true,
+            "filename": "SAMP03B1.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "samp03b1.lzh"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "SAMP03B1-0.png"
+    ],
+    "slug": "grayfox-gbdk-scroll-sample",
+    "title": "GBDK Scroll Sample",
+    "typetag": "homebrew",
+    "website": "http://home.interlink.or.jp/~grayfox"
+}
