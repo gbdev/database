@@ -13,7 +13,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "GHX_Ex_sample-0.png"
+    ],
     "slug": "ghx-demos",
     "title": "GHX Demos",
     "typetag": "demo"

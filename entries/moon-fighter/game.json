@@ -4,12 +4,19 @@
     "files": [
         {
             "default": true,
-            "filename": "moon-fighter.gb",
+            "filename": "moon.gbc",
             "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "moon-fighter.zip"
         }
     ],
-    "platform": "GB",
-    "screenshots": [],
+    "platform": "GBC",
+    "screenshots": [
+        "moon-0.png",
+        "moon-1.png"
+    ],
     "slug": "moon-fighter",
     "title": "Moon Fighter"
 }
