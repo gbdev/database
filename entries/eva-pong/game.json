@@ -1,0 +1,18 @@
+{
+    "date": "1999-03-26",
+    "developer": "jedediah",
+    "files": [
+        {
+            "default": true,
+            "filename": "EVA Pong (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "EVA Pong (PD).png"
+    ],
+    "slug": "eva-pong",
+    "title": "EVA Pong",
+    "typetag": "game"
+}

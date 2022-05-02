@@ -1,0 +1,18 @@
+{
+    "date": "2000-11-26",
+    "developer": "Charles Doty",
+    "files": [
+        {
+            "default": true,
+            "filename": "Chaos89 by Charles Doty (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Chaos89 by Charles Doty (PD) [C].png"
+    ],
+    "slug": "chaos89",
+    "title": "Chaos89",
+    "typetag": "demo"
+}

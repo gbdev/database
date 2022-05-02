@@ -12,6 +12,18 @@
             }
         },
         {
+            "description": "release (alt)",
+            "filename": "rogue_orange_v1.11_alt.zip"
+        },
+        {
+            "description": "release (v1.1)",
+            "filename": "rogue_orange_v1.1.zip"
+        },
+        {
+            "description": "release (v1.0)",
+            "filename": "rogue_orange_v1.0.zip"
+        },
+        {
             "default": true,
             "filename": "RougeOrange.cgb",
             "hash": {
@@ -27,7 +39,7 @@
     "screenshots": [
         "20110402_rouge_orange.png"
     ],
-    "slug": "Rouge-Orange-v1.11",
-    "title": "Rouge Orange v1.11",
+    "slug": "rogue-orange",
+    "title": "Rogue Orange",
     "typetag": "game"
 }

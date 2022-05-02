@@ -1,0 +1,17 @@
+{
+    "date": "2001-10-12",
+    "files": [
+        {
+            "default": true,
+            "filename": "Quizz (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Quizz (PD) [C].png"
+    ],
+    "slug": "ett-quiz",
+    "title": "Escola T\u00e9cnica Tupy Quiz",
+    "typetag": "game"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2000-04-30",
+    "developer": "Southern Dreams",
+    "files": [
+        {
+            "default": true,
+            "filename": "Southern Dreams - Slideshow (Lik-Sang) (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Southern Dreams - Slideshow (Lik-Sang) (PD) [C].png"
+    ],
+    "slug": "southern-dreams-slideshow",
+    "title": "Southern Dreams Slideshow",
+    "typetag": "demo"
+}

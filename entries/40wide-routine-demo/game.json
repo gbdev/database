@@ -1,0 +1,18 @@
+{
+    "date": "2000-06-17",
+    "developer": "sgstair",
+    "files": [
+        {
+            "default": true,
+            "filename": "40x18 Wide Demo V1.1 (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "40x18 Wide Demo V1.1 (PD) [C].png"
+    ],
+    "slug": "40wide-routine-demo",
+    "title": "40Wide Routine Demo",
+    "typetag": "demo"
+}

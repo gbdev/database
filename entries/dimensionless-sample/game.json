@@ -1,0 +1,18 @@
+{
+    "date": "2000-01-06",
+    "developer": "Jerry Crash",
+    "files": [
+        {
+            "default": true,
+            "filename": "Dimensionless Sample (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Dimensionless Sample (PD) [C].png"
+    ],
+    "slug": "dimensionless-sample",
+    "title": "Dimensionless Sample",
+    "typetag": "homebrew"
+}
