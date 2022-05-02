@@ -1,0 +1,17 @@
+{
+    "date": "2000-08-17",
+    "files": [
+        {
+            "default": true,
+            "filename": "Rotating Face Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Rotating Face Demo (PD) [C].png"
+    ],
+    "slug": "rotating-face-demo",
+    "title": "Rotating Face Demo",
+    "typetag": "demo"
+}

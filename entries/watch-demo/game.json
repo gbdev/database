@@ -1,0 +1,17 @@
+{
+    "date": "2001-12-21",
+    "files": [
+        {
+            "default": true,
+            "filename": "Watch Demo for GBC (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Watch Demo for GBC (PD) [C].png"
+    ],
+    "slug": "watch-demo",
+    "title": "Watch Demo",
+    "typetag": "demo"
+}

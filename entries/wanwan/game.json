@@ -1,0 +1,18 @@
+{
+    "date": "2000-02-03",
+    "developer": "Akino Hitoshi",
+    "files": [
+        {
+            "default": true,
+            "filename": "WanWan (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "WanWan (PD).png"
+    ],
+    "slug": "wanwan",
+    "title": "WanWan",
+    "typetag": "game"
+}

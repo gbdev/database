@@ -1,0 +1,17 @@
+{
+    "date": "1999-03-07",
+    "files": [
+        {
+            "default": true,
+            "filename": "Tam Bitmap Demo (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Tam Bitmap Demo (PD).png"
+    ],
+    "slug": "tam-bitmap-demo",
+    "title": "Tam Bitmap Demo",
+    "typetag": "demo"
+}

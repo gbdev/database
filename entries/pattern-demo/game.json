@@ -1,0 +1,17 @@
+{
+    "date": "1999-09-11",
+    "files": [
+        {
+            "default": true,
+            "filename": "Pattern Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Pattern Demo (PD) [C].png"
+    ],
+    "slug": "pattern-demo",
+    "title": "Pattern Demo",
+    "typetag": "demo"
+}

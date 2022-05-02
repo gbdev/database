@@ -1,0 +1,18 @@
+{
+    "date": "2000-01-01",
+    "developer": "Nario",
+    "files": [
+        {
+            "default": true,
+            "filename": "BBS Demo (Quang2000) (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "BBS Demo (Quang2000) (PD).png"
+    ],
+    "slug": "nario-bbs-demo",
+    "title": "BBS Demo",
+    "typetag": "demo"
+}

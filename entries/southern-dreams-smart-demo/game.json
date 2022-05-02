@@ -1,0 +1,18 @@
+{
+    "date": "2000-08-27",
+    "developer": "Southern Dreams",
+    "files": [
+        {
+            "default": true,
+            "filename": "Southern Dreams - SMART Demo (Quang2000) (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Southern Dreams - SMART Demo (Quang2000) (PD) [C].png"
+    ],
+    "slug": "southern-dreams-smart-demo",
+    "title": "Southern Dreams Smart Demo",
+    "typetag": "demo"
+}

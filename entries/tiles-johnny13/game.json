@@ -1,0 +1,17 @@
+{
+    "date": "2001-03-05",
+    "files": [
+        {
+            "default": true,
+            "filename": "Tiles by Johnny13 (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Tiles by Johnny13 (PD) [C].png"
+    ],
+    "slug": "tiles-johnny13",
+    "title": "Tiles by Johnny13",
+    "typetag": "homebrew"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "1998-12-13",
+    "developer": "PurpleFish",
+    "files": [
+        {
+            "default": true,
+            "filename": "Sierpinski Gasket (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Sierpinski Gasket (PD).png"
+    ],
+    "slug": "sierpinski-gasket",
+    "title": "Sierpinski Gasket",
+    "typetag": "demo"
+}

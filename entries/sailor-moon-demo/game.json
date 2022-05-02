@@ -1,0 +1,17 @@
+{
+    "date": "1999-10-27",
+    "files": [
+        {
+            "default": true,
+            "filename": "Sailor Moon Demo (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Sailor Moon Demo (PD).png"
+    ],
+    "slug": "sailor-moon-demo",
+    "title": "Sailor Moon Demo",
+    "typetag": "demo"
+}

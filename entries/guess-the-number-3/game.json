@@ -1,0 +1,18 @@
+{
+    "date": "2000-01-08",
+    "developer": "BigRedPimp",
+    "files": [
+        {
+            "default": true,
+            "filename": "Guess The Number 3 (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Guess The Number 3 (PD) [C].png"
+    ],
+    "slug": "guess-the-number-3",
+    "title": "Guess The Number 3",
+    "typetag": "game"
+}

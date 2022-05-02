@@ -1,0 +1,18 @@
+{
+    "date": "1999-02-23",
+    "developer": "SaB0t4g3",
+    "files": [
+        {
+            "default": true,
+            "filename": "Sabotage Color Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Sabotage Color Demo (PD) [C].png"
+    ],
+    "slug": "sabotage-color-demo",
+    "title": "SaB0t4g3 Color Demo",
+    "typetag": "demo"
+}

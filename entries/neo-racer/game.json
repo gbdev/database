@@ -1,0 +1,18 @@
+{
+    "date": "2000-08-28",
+    "developer": "DCS",
+    "files": [
+        {
+            "default": true,
+            "filename": "Neo-Racer (Quang2000) (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Neo-Racer (Quang2000) (PD) [C].png"
+    ],
+    "slug": "neo-racer",
+    "title": "Neo-Racer",
+    "typetag": "game"
+}

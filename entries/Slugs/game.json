@@ -1,24 +1,19 @@
 {
+    "date": "2000-10-21",
     "description": "",
     "developer": "Will Cotton",
     "files": [
         {
             "description": "release",
-            "filename": "Slugs__(Gameboy).zip",
-            "hash": {
-                "md5": "440ea314973f6403866e59b33037ecac9d55c2e1",
-                "sha1": "440ea314973f6403866e59b33037ecac9d55c2e1",
-                "sha256": "80b4233c163de8f6c2436ed5c073218e1ebac6507b96d171e69cc6c3c2c08c63"
-            }
+            "filename": "slugs.zip"
+        },
+        {
+            "description": "release (may 2000)",
+            "filename": "slugs_old.zip"
         },
         {
             "default": true,
             "filename": "Slugs.cgb",
-            "hash": {
-                "md5": "6f1de732baf6be96a863d5dcd85c462f",
-                "sha1": "49f4f17e5ea1ba49811088fb78a53feee4a87d2a",
-                "sha256": "b0fbaa524a4b86864070fb23e84a1be81eb96c66031051a14b38c5fbb3ecb0f1"
-            },
             "playable": true
         }
     ],

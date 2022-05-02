@@ -1,0 +1,18 @@
+{
+    "date": "2000-11-11",
+    "developer": "Jose Moreno",
+    "files": [
+        {
+            "default": true,
+            "filename": "Robot War (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Robot War (PD).png"
+    ],
+    "slug": "robot-war",
+    "title": "Robot War",
+    "typetag": "game"
+}

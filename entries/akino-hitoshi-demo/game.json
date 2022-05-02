@@ -1,0 +1,18 @@
+{
+    "date": "1999-05-10",
+    "developer": "Akino Hitoshi",
+    "files": [
+        {
+            "default": true,
+            "filename": "Akino Hitoshi Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Akino Hitoshi Demo (PD) [C].png"
+    ],
+    "slug": "akino-hitoshi-demo",
+    "title": "Akino Hitoshi Demo",
+    "typetag": "demo"
+}

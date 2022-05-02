@@ -1,0 +1,18 @@
+{
+    "date": "2000-07-27",
+    "developer": "Theory",
+    "files": [
+        {
+            "default": true,
+            "filename": "Smooth Colour Fading Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Smooth Colour Fading Demo (PD) [C].png"
+    ],
+    "slug": "smooth-colour-fading-demo",
+    "title": "Smooth Colour Fading Demo",
+    "typetag": "demo"
+}

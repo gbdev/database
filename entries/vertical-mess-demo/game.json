@@ -1,0 +1,17 @@
+{
+    "date": "1999-01-26",
+    "files": [
+        {
+            "default": true,
+            "filename": "Vertical Mess Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Vertical Mess Demo (PD) [C].png"
+    ],
+    "slug": "vertical-mess-demo",
+    "title": "Vertical Mess Demo",
+    "typetag": "demo"
+}
