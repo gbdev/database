@@ -23,9 +23,7 @@
         }
     ],
     "platform": "GBC",
-    "screenshots": [
-        "FREEART Intro V2.png"
-    ],
+    "screenshots": [],
     "slug": "intro-v2",
     "title": "Intro v2",
     "typetag": "demo"

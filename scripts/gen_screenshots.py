@@ -1,4 +1,4 @@
-# Script requires ImageMagick installed.
+# Script requires ImageMagick and Python Pillow installed.
 # sameboy_tester can be in PATH or provided as the first argument
 # (build with "make tester" in SameBoy source code)
 
@@ -7,10 +7,67 @@ import json
 import os
 import os.path
 from pathlib import Path
+from PIL import Image
 import shutil
 import subprocess
 import sys
 import tempfile
+import traceback
+
+sameboy_tester_name = "sameboy_tester"
+if len(sys.argv) > 1:
+	sameboy_tester_name = sys.argv[1]
+
+def image_all_solid_color(im):
+	first_pixel = im.getpixel((0, 0))
+	for iy in range(0, im.height):
+		for ix in range(0, im.width):
+			if im.getpixel((ix, iy)) != first_pixel:
+				return False
+	return True
+
+def is_screenshot_png_valid(filename):
+	try:
+		with Image.open(str(filename)) as im:
+			if (im.width < 1) or (im.height < 1):
+				return False
+			if image_all_solid_color(im):
+				return False
+			return True
+	except:
+		return False
+
+screenshot_generators = {}
+
+def generate_screenshot_sameboy(input_file, output_file):
+	tester_out_path = input_file.with_suffix(".tga")
+	subprocess.call([sameboy_tester_name, "--tga", str(input_file)])
+
+	if tester_out_path.exists():
+		subprocess.call(["convert", tester_out_path.name, "-alpha", "off", str(output_file)])
+		if output_file.exists():
+			if not is_screenshot_png_valid(output_file):
+				os.remove(str(tester_out_path))
+				os.remove(str(output_file))
+
+				subprocess.call([sameboy_tester_name, "--start", "--tga", str(input_file)])
+
+				if tester_out_path.exists():
+					subprocess.call(["convert", tester_out_path.name, "-alpha", "off", str(output_file)])
+					if output_file.exists():
+						if not is_screenshot_png_valid(output_file):
+							os.remove(str(output_file))
+							return False
+						else:
+							return True
+			else:
+				return True
+
+	return False
+
+screenshot_generators[".gb"] = generate_screenshot_sameboy
+screenshot_generators[".gbc"] = generate_screenshot_sameboy
+screenshot_generators[".cgb"] = generate_screenshot_sameboy
 
 def locate_rom(data):
 	if "rom" in data:
@@ -30,9 +87,6 @@ def clear_dir(dir):
 
 allowed_suffixes = [".gb", ".gbc", ".cgb"]
 entry_path = Path('../entries').absolute()
-sameboy_tester_name = "sameboy_tester"
-if len(sys.argv) > 1:
-	sameboy_tester_name = sys.argv[1]
 
 still_missing = []
 
@@ -66,33 +120,32 @@ with tempfile.TemporaryDirectory(prefix="gb-screenshot-") as tmp_dir_obj:
 			print("ROM not found, cannot generate screenshot!")
 			still_missing.append(data["slug"])
 			continue
-		if not (Path(rom_filename).suffix in allowed_suffixes):
-			print("Incompatible ROM suffix: %s" % Path(rom_filename).suffix)
-			still_missing.append("%s: %s" % (data["slug"], Path(rom_filename).suffix))
+		rom_suffix = Path(rom_filename).suffix.lower()
+		if not (rom_suffix in screenshot_generators):
+			print("Error generating screenshot - incompatible type - %s" % rom_suffix)
+			still_missing.append("%s: Incompatible type - %s" % (data["slug"], rom_suffix))
 			continue
 		print("Generating screenshot...")
 		
 		clear_dir(tmp_dir)
 		shutil.copyfile(rom_filename, tmp_dir / rom_filename)
 		os.chdir(tmp_dir)
-		subprocess.call([sameboy_tester_name, "--tga", rom_filename])
 
-		bmp_path = Path(rom_filename).with_suffix(".tga")
 		png_path = game_path / (Path(rom_filename).with_suffix(".png").name)
-		if bmp_path.exists():
-			subprocess.call(["convert", bmp_path.name, "-alpha", "off", str(png_path)])
-			if png_path.exists():
+		try:
+			if screenshot_generators[rom_suffix](Path(rom_filename), png_path) and png_path.exists():
 				os.chdir(game_path)
 				data["screenshots"].append(png_path.name)
 				with open('game.json', 'w') as f:
 					json.dump(data, f, indent=4, sort_keys=True)
 			else:
-				print("Error converting screenshot to PNG!")
-				still_missing.append(data["slug"])
+				print("Error converting screenshot to PNG - invalid results")
+				still_missing.append("%s: Invalid results" % data["slug"])
 				continue
-		else:
-			print("Error generating screenshot!")
-			still_missing.append(data["slug"])
+		except Exception:
+			print("Error converting screenshot to PNG - Python exception:")
+			traceback.print_exc()
+			still_missing.append("%s: Python exception/script error" % data["slug"])
 			continue
 	clear_dir(tmp_dir)
 
