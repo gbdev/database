@@ -4,12 +4,18 @@
     "files": [
         {
             "default": true,
-            "filename": "nyancat.gb",
+            "filename": "nyan.gb",
             "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "nyancat.zip"
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "nyan.png"
+    ],
     "slug": "nyancat",
     "title": "NyanCat"
 }
