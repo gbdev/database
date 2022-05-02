@@ -1,10 +1,5 @@
 {
-    "title": "ImpossiPong!",
-    "slug": "impossipong",
     "developer": "Nicklausw",
-    "platform": "GB",
-    "typetag": "game",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -12,8 +7,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "pong.gb"
+            "filename": "pong.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "pong.png"
+    ],
+    "slug": "impossipong",
+    "title": "ImpossiPong!",
+    "typetag": "game"
 }

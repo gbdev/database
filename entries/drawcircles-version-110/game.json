@@ -1,10 +1,5 @@
 {
-    "title": "DrawCircles (Version 1.1.0)",
-    "slug": "drawcircles-version-110",
     "developer": "DeltaGardner",
-    "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -12,8 +7,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "drawcircles.gb"
+            "filename": "drawcircles.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "drawcircles.png"
+    ],
+    "slug": "drawcircles-version-110",
+    "title": "DrawCircles (Version 1.1.0)",
+    "typetag": "homebrew"
 }

@@ -1,10 +1,5 @@
 {
-    "title": "Downstream (Version 1.0.0)",
-    "slug": "downstream-version-100",
     "developer": "DeltaGardner",
-    "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -12,8 +7,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "downstream.gb"
+            "filename": "downstream.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "downstream.png"
+    ],
+    "slug": "downstream-version-100",
+    "title": "Downstream (Version 1.0.0)",
+    "typetag": "homebrew"
 }

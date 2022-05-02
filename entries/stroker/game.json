@@ -1,9 +1,4 @@
 {
-    "title": "Stroker",
-    "slug": "stroker",
-    "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -11,8 +6,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "stroker.gb"
+            "filename": "stroker.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "stroker.png"
+    ],
+    "slug": "stroker",
+    "title": "Stroker",
+    "typetag": "homebrew"
 }
