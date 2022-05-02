@@ -1,9 +1,4 @@
 {
-    "title": "Sound Mode #1",
-    "slug": "sound-mode-1",
-    "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -11,8 +6,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "sound.gb"
+            "filename": "sound.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "sound.png"
+    ],
+    "slug": "sound-mode-1",
+    "title": "Sound Mode #1",
+    "typetag": "homebrew"
 }

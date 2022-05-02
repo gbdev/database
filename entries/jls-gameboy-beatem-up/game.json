@@ -1,10 +1,5 @@
 {
-    "title": "JL's gameboy beat'em up",
-    "slug": "jls-gameboy-beatem-up",
     "developer": "Jonas Lund",
-    "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -12,8 +7,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "game.gb"
+            "filename": "game.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "game.png"
+    ],
+    "slug": "jls-gameboy-beatem-up",
+    "title": "JL's gameboy beat'em up",
+    "typetag": "homebrew"
 }

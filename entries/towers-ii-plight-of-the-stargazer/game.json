@@ -9,7 +9,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "towers-ii-plight-of-the-stargazer.png"
+    ],
     "slug": "towers-ii-plight-of-the-stargazer",
     "title": "Towers II: Plight of the Stargazer"
 }

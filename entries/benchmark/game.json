@@ -13,7 +13,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "FNum.png"
+    ],
     "slug": "benchmark",
     "title": "Benchmark for Gameboy",
     "typetag": "homebrew",

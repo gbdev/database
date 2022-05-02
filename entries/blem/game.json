@@ -13,7 +13,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "BLEM! (PD).png"
+    ],
     "slug": "blem",
     "title": "Blem!",
     "typetag": "homebrew"

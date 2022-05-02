@@ -1,9 +1,4 @@
 {
-    "title": "Staydown",
-    "slug": "staydown",
-    "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -11,8 +6,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "staydown.gb"
+            "filename": "staydown.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "staydown.png"
+    ],
+    "slug": "staydown",
+    "title": "Staydown",
+    "typetag": "homebrew"
 }

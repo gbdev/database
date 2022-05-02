@@ -1,10 +1,5 @@
 {
-    "title": "They Are Everywhere (Version 0.1.0)",
-    "slug": "they-are-everywhere-version-010",
     "developer": "Refresh Games",
-    "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -12,8 +7,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "tae-multibank.gb"
+            "filename": "tae-multibank.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "tae-multibank.png"
+    ],
+    "slug": "they-are-everywhere-version-010",
+    "title": "They Are Everywhere (Version 0.1.0)",
+    "typetag": "homebrew"
 }

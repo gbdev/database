@@ -9,7 +9,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "nyancat.png"
+    ],
     "slug": "nyancat",
     "title": "NyanCat"
 }

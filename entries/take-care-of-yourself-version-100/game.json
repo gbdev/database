@@ -1,10 +1,5 @@
 {
-    "title": "Take Care Of Yourself (Version 1.0.0)",
-    "slug": "take-care-of-yourself-version-100",
     "developer": "DeltaGardner",
-    "platform": "GB",
-    "typetag": "homebrew",
-    "screenshots": [],
     "files": [
         {
             "description": "release",
@@ -12,8 +7,15 @@
         },
         {
             "default": true,
-            "playable": true,
-            "filename": "tcoy.gb"
+            "filename": "tcoy.gb",
+            "playable": true
         }
-    ]
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "tcoy.png"
+    ],
+    "slug": "take-care-of-yourself-version-100",
+    "title": "Take Care Of Yourself (Version 1.0.0)",
+    "typetag": "homebrew"
 }

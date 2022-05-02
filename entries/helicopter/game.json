@@ -9,7 +9,9 @@
     ],
     "platform": "GB",
     "repository": "",
-    "screenshots": [],
+    "screenshots": [
+        "helicopter.png"
+    ],
     "slug": "helicopter",
     "title": "Helicopter",
     "typetag": "game"

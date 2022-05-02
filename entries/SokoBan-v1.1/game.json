@@ -15,7 +15,9 @@
     ],
     "platform": "GB",
     "rom": "sokoban.gb",
-    "screenshots": [],
+    "screenshots": [
+        "20110402_sokoban.png"
+    ],
     "slug": "SokoBan-v1.1",
     "title": "SokoBan v1.1",
     "typetag": "game"

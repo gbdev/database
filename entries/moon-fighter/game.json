@@ -9,7 +9,9 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [],
+    "screenshots": [
+        "moon-fighter.png"
+    ],
     "slug": "moon-fighter",
     "title": "Moon Fighter"
 }
