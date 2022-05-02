@@ -1,0 +1,18 @@
+{
+    "date": "2000-02-01",
+    "developer": "Andy Kavanagh",
+    "files": [
+        {
+            "default": true,
+            "filename": "GB ALS V1.0f (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "GB ALS V1.0f (PD).png"
+    ],
+    "slug": "gb-als",
+    "title": "GB ALS v1.0f",
+    "typetag": "game"
+}

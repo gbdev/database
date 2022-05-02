@@ -1,0 +1,18 @@
+{
+    "date": "2000-05-30",
+    "developer": "One Man Band",
+    "files": [
+        {
+            "default": true,
+            "filename": "Right! (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Right! (PD) [C].png"
+    ],
+    "slug": "right",
+    "title": "Right!",
+    "typetag": "game"
+}

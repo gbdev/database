@@ -1,0 +1,17 @@
+{
+    "developer": "FreeArt",
+    "files": [
+        {
+            "default": true,
+            "filename": "KOLOBOK ZOOM 1 (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "KOLOBOK ZOOM 1 (PD) [C].png"
+    ],
+    "slug": "kolobok-zoom-1",
+    "title": "KOLOBOK ZOOM 1",
+    "typetag": "game"
+}

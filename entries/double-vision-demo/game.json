@@ -1,0 +1,17 @@
+{
+    "date": "1999-01-27",
+    "files": [
+        {
+            "default": true,
+            "filename": "Double Vision Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Double Vision Demo (PD) [C].png"
+    ],
+    "slug": "double-vision-demo",
+    "title": "Double Vision Demo",
+    "typetag": "demo"
+}

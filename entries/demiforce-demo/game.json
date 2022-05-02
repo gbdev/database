@@ -1,0 +1,17 @@
+{
+    "date": "2000-05-30",
+    "files": [
+        {
+            "default": true,
+            "filename": "Demiforce Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Demiforce Demo (PD) [C].png"
+    ],
+    "slug": "demiforce-demo",
+    "title": "Demiforce Demo",
+    "typetag": "demo"
+}

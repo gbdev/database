@@ -1,0 +1,17 @@
+{
+    "date": "1999-09-29",
+    "files": [
+        {
+            "default": true,
+            "filename": "Graal V1.1 Adventure Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Graal V1.1 Adventure Demo (PD) [C].png"
+    ],
+    "slug": "graal-v1.1-adventure-demo",
+    "title": "Graal v1.1 Adventure Demo",
+    "typetag": "homebrew"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "2000-05-20",
+    "developer": "Jonathan Waugh",
+    "files": [
+        {
+            "default": true,
+            "filename": "Font Demo (Jonathan Waugh) (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Font Demo (Jonathan Waugh) (PD) [C].png"
+    ],
+    "slug": "font-demo-waugh",
+    "title": "Font Demo",
+    "typetag": "demo"
+}

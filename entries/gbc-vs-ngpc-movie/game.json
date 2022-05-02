@@ -1,0 +1,17 @@
+{
+    "date": "1999-11-24",
+    "files": [
+        {
+            "default": true,
+            "filename": "GBC vs NGPC Movie (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "GBC vs NGPC Movie (PD) [C].png"
+    ],
+    "slug": "gbc-vs-ngpc-movie",
+    "title": "GBC vs NGPC Movie",
+    "typetag": "homebrew"
+}

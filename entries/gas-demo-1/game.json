@@ -1,0 +1,18 @@
+{
+    "date": "1999-10-20",
+    "developer": "Peran, Revilon",
+    "files": [
+        {
+            "default": true,
+            "filename": "GAS Demo 1 (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "GAS Demo 1 (PD) [C].png"
+    ],
+    "slug": "gas-demo-1",
+    "title": "GAS Demo 1",
+    "typetag": "music"
+}

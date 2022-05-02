@@ -1,0 +1,22 @@
+{
+    "date": "1999-09-09",
+    "developer": "DarkFader",
+    "files": [
+        {
+            "default": true,
+            "filename": "MacGB Demo by DarkFader (PD) [C].gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "darkfader-demos.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "MacGB Demo by DarkFader (PD) [C].png"
+    ],
+    "slug": "darkfader-demos",
+    "title": "DarkFader Demo Collection",
+    "typetag": "demo"
+}

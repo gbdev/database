@@ -1,0 +1,18 @@
+{
+    "date": "2000-11-26",
+    "developer": "FreeArt",
+    "files": [
+        {
+            "default": true,
+            "filename": "KOLOBOK ZOOM 2 (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "KOLOBOK ZOOM 2 (PD) [C].png"
+    ],
+    "slug": "kolobok-zoom-2",
+    "title": "KOLOBOK ZOOM 2",
+    "typetag": "game"
+}

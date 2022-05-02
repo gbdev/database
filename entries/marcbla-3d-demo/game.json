@@ -1,0 +1,18 @@
+{
+    "date": "2001-01-12",
+    "developer": "Arcadiy Gobuzov",
+    "files": [
+        {
+            "default": true,
+            "filename": "Marcbla 3D Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Marcbla 3D Demo (PD) [C].png"
+    ],
+    "slug": "marcbla-3d-demo",
+    "title": "Marcbla 3D Demo",
+    "typetag": "game"
+}

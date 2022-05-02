@@ -1,0 +1,25 @@
+{
+    "date": "2000-05-01",
+    "files": [
+        {
+            "default": true,
+            "filename": "RoboTech - Exit Planet Dust with Music (Lik-Sang) (PD) [C].gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "robotech_epd.zip"
+        },
+        {
+            "description": "release (alt)",
+            "filename": "robotech_epd_alt.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "robotech_epd.png"
+    ],
+    "slug": "robotech-exit-planet-dust",
+    "title": "RoboTech - Exit Planet Dust",
+    "typetag": "game"
+}

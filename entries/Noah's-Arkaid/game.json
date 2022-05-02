@@ -12,6 +12,10 @@
             }
         },
         {
+            "description": "release (32k)",
+            "filename": "arkaid_32k.zip"
+        },
+        {
             "default": true,
             "filename": "Arkaid.cgb",
             "hash": {

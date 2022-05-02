@@ -1,0 +1,18 @@
+{
+    "date": "2000-11-18",
+    "developer": "Braindead",
+    "files": [
+        {
+            "default": true,
+            "filename": "HighNoon (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "HighNoon (PD) [C].png"
+    ],
+    "slug": "highnoon",
+    "title": "HighNoon",
+    "typetag": "game"
+}

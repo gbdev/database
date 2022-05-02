@@ -1,0 +1,17 @@
+{
+    "date": "2005-05-05",
+    "files": [
+        {
+            "default": true,
+            "filename": "Digico Move (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Digico Move (PD) [C].png"
+    ],
+    "slug": "digico-move",
+    "title": "Dejiko Move",
+    "typetag": "homebrew"
+}
