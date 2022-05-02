@@ -1,18 +1,33 @@
 {
+    "description": "",
     "developer": "Gambit Studios",
     "files": [
         {
+            "description": "release",
+            "filename": "Maze_v1.02_(Gameboy).zip",
+            "hash": {
+                "md5": "b15cc0aa51806ae35cad7f2d47e1e9589efcbae4",
+                "sha1": "b15cc0aa51806ae35cad7f2d47e1e9589efcbae4",
+                "sha256": "7ff94526b28365bc919416939221a266b646ba4e8150be6d23a121adb1afeae1"
+            }
+        },
+        {
             "default": true,
-            "filename": "maze.cgb",
+            "filename": "Maze.cgb",
+            "hash": {
+                "md5": "9716daeb17b4cda7c90fe9d590c11fc3",
+                "sha1": "73111f8f2ff99c33ccfbf62a9d98497b6715adac",
+                "sha256": "38c3dfa00aeddbb6055d880d86649af3214faf8d3fb248cb00288d3e65076412"
+            },
             "playable": true
         }
     ],
     "platform": "GBC",
-    "repository": "",
+    "rom": "Maze.cgb",
     "screenshots": [
-        "maze.png"
+        "20110402_maze.png"
     ],
     "slug": "maze",
-    "title": "Maze",
+    "title": "Maze v1.02",
     "typetag": "game"
 }

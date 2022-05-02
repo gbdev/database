@@ -1,0 +1,33 @@
+{
+    "description": "Cook (SimBurgerKing) is a very simple game. Press the button that is represented by the icon onscreen.",
+    "developer": "Joshua Wise",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Cook__SimBurgerKing___(Gameboy).zip",
+            "hash": {
+                "md5": "5c6c4e862819f87e4562da8548b43c08dc75950a",
+                "sha1": "5c6c4e862819f87e4562da8548b43c08dc75950a",
+                "sha256": "5945e361413dc16769b3465c8823d22e7836adeedf33aa097e8e8066e36da01e"
+            }
+        },
+        {
+            "default": true,
+            "filename": "cook.gbc",
+            "hash": {
+                "md5": "6ff5930784d56f1da97d7c5c5c4106b7",
+                "sha1": "ccfdd242593ebcc5d78d5ac6eb1d4fab096d58ba",
+                "sha256": "45ce000230b1f980358ccb3b694673834be03ad322604e33a5ee57bf78079d75"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "cook.gbc",
+    "screenshots": [
+        "20110402_cook_(simburgerking).png"
+    ],
+    "slug": "cook-(simburgerking)",
+    "title": "Cook (SimBurgerKing)",
+    "typetag": "game"
+}

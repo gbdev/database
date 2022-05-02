@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Same_Or_Not__(Gameboy).zip",
+            "hash": {
+                "md5": "abc4a9e0d1ab3e7f2441a744c9fd2641065e70cc",
+                "sha1": "abc4a9e0d1ab3e7f2441a744c9fd2641065e70cc",
+                "sha256": "a7d862c60ac416819472d6855ad3cbd12cba5f7cd74b5d7596c1f0005e71d2a2"
+            }
+        },
+        {
+            "default": true,
+            "filename": "SameOrNot.cgb",
+            "hash": {
+                "md5": "1f46b6251a0fd44236ee3311c150a7ac",
+                "sha1": "3ee2a7a84d20b078412deea3b89159664245d5ec",
+                "sha256": "a18cfe465807a1f54e51fee4779ae787cc38db958bb973edd7250ed9b2c52805"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "SameOrNot.cgb",
+    "screenshots": [
+        "20110402_same_or_not.gif"
+    ],
+    "slug": "same-or-not",
+    "title": "Same Or Not",
+    "typetag": "game"
+}

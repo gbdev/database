@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "John Ward, Lee Bonner",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Scramble_GB_v1.0_(Gameboy).zip",
+            "hash": {
+                "md5": "45767ead8f048d9a710923c9bc13703d696effb9",
+                "sha1": "45767ead8f048d9a710923c9bc13703d696effb9",
+                "sha256": "58747d6fe7259d5be0523ff5f0c4013167a72e93d60b545281a1798dfbe97998"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Scramble.cgb",
+            "hash": {
+                "md5": "0d7cd6c77763256d99396c48f7d4eb0a",
+                "sha1": "1d58afb92fc49239f6ec3748f7b910f048fe89c4",
+                "sha256": "c50b17e61994b58dd7019c183e33b7541decda2827442a7e2f0478bf32c7d587"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Scramble.cgb",
+    "screenshots": [
+        "20110402_scramble_gb.png"
+    ],
+    "slug": "scramble-gb-v1.0",
+    "title": "Scramble GB v1.0",
+    "typetag": "game"
+}

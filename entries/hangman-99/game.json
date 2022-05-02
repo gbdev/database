@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Thomas Vee",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Hangman_99__(Gameboy).zip",
+            "hash": {
+                "md5": "eb401f3e58abe33a41d0d86b2abbb4de4969dca7",
+                "sha1": "eb401f3e58abe33a41d0d86b2abbb4de4969dca7",
+                "sha256": "041c16111ab83cd080a2c4f6e8c2506f5fe454f8cea5c982199b5319d25c104f"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Hangman_02.gb",
+            "hash": {
+                "md5": "016bfd30867372438898610f2261c9bd",
+                "sha1": "440e8264314a912bd5b7f4ab3c0d640adb845367",
+                "sha256": "f227bd0b4610d7cb275b607c9436122fa7f23577952a3dcc96de37ce77a7cd35"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Hangman_02.gb",
+    "screenshots": [
+        "20110402_hangman_99.png"
+    ],
+    "slug": "hangman-99",
+    "title": "Hangman 99",
+    "typetag": "game"
+}

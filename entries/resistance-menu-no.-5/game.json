@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Resistance",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Resistance_Menu_No__5__(Gameboy).ZIP",
+            "hash": {
+                "md5": "e2d4166fcde201d01b5261b6f13a7ffda0022cf3",
+                "sha1": "e2d4166fcde201d01b5261b6f13a7ffda0022cf3",
+                "sha256": "524ebb1d6dace07a98d2ea97db1fcfc45d58f20960bfd344b881f2e5324b3dd4"
+            }
+        },
+        {
+            "default": true,
+            "filename": "rse-t_05.gbc",
+            "hash": {
+                "md5": "24da27d8ab633238eed0985bb6b3ce94",
+                "sha1": "78713cf9a26cf8aad430968a91dc723bf0d2fbd7",
+                "sha256": "ddc01787668558bdb716c5fba0975757bd810a3b63bbaae72c249444597eec62"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "rse-t_05.gbc",
+    "screenshots": [
+        "20110402_resistance_menu_no._5.gif"
+    ],
+    "slug": "resistance-menu-no.-5",
+    "title": "Resistance Menu No. 5",
+    "typetag": "demo"
+}

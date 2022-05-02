@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "developer": "Bug Skull Games",
+    "files": [
+        {
+            "description": "release",
+            "filename": "SWorld__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Sworld.cgb",
+            "hash": {
+                "md5": "179a13a207f3ca4fa3e95e861c77120b",
+                "sha1": "187470eb0a1bd2f57c161af2751044fd18635183",
+                "sha256": "dac145c8dbc27ca7e84800a29a903e08d405a52f5d33f5e3b58d87b6a66093c2"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Sworld.cgb",
+    "screenshots": [
+        "20110402_sworld.png"
+    ],
+    "slug": "sworld",
+    "title": "SWorld",
+    "typetag": "game"
+}

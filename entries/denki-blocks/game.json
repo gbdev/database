@@ -1,18 +1,32 @@
 {
+    "date": "2001-01-01",
     "developer": "Quartex",
     "files": [
         {
+            "description": "release",
+            "filename": "QTX-I_01.ZIP",
+            "hash": {
+                "md5": "24e9ad65bfeed4c72eaec87e0a03929410847b4d",
+                "sha1": "24e9ad65bfeed4c72eaec87e0a03929410847b4d",
+                "sha256": "d526169b22f7721630b831d7175d4a8fb76520b82121eaadd636f5c28e6a2a13"
+            }
+        },
+        {
             "default": true,
-            "filename": "denki-blocks.gbc",
+            "filename": "qtx-i_01.gbc",
+            "hash": {
+                "md5": "4a7e7aa5b2e5b99cf89737c6abd4af3a",
+                "sha1": "14e479ad87ea5955c6cb7d24fde3c9ebff958690",
+                "sha256": "cbfa86e37f1cf4114eeb5d7409e5d57e532948a0e9f3bf0057fe97203624c9ac"
+            },
             "playable": true
         }
     ],
     "platform": "GBC",
-    "repository": "",
     "screenshots": [
-        "denki-blocks.png"
+        "188.png"
     ],
     "slug": "denki-blocks",
-    "title": "Denki Blocks",
+    "title": "Denki Blocks Cracktro",
     "typetag": "demo"
 }

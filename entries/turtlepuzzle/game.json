@@ -1,0 +1,19 @@
+{
+    "developer": "UraKn0x",
+    "files": [
+        {
+            "default": true,
+            "filename": "turtle.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "",
+    "screenshots": [
+        "screen1.png",
+        "screen2.png"
+    ],
+    "slug": "turtlepuzzle",
+    "title": "TurtlePuzzle",
+    "typetag": "game"
+}

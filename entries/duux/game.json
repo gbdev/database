@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Duux__(Gameboy).zip",
+            "hash": {
+                "md5": "0ae62e543ab2dc06e22aaf5c655ec9c84369a0db",
+                "sha1": "0ae62e543ab2dc06e22aaf5c655ec9c84369a0db",
+                "sha256": "77bae11d4568c63182447ff1d07459e443ff47b772d3a441f741a5d6fbf87b1b"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Duux.cgb",
+            "hash": {
+                "md5": "63946a481f4d555f0ec1bb049e31c301",
+                "sha1": "8226992c1fd96bc8133f077074dd00d5cf76a6a9",
+                "sha256": "19945aabdd685ed6aaff0c3f9e6c8c27a9a7dd50b687dc9ec7abcc9d27fb7a45"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Duux.cgb",
+    "screenshots": [
+        "20110402_duux.png"
+    ],
+    "slug": "duux",
+    "title": "Duux",
+    "typetag": "game"
+}

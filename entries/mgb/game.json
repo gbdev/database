@@ -1,18 +1,32 @@
 {
-    "developer": "trash80",
+    "date": "2016-08-30",
+    "developer": "Trash80",
     "files": [
+        {
+            "description": "release",
+            "filename": "mgb_v133.zip",
+            "hash": {
+                "md5": "2a7607c73d49c0f89ae1deca839df2c0",
+                "sha1": "832c3df808d0eea07eb6c718bce119562eb4a7e5",
+                "sha256": "1c172edbebd61ffe467fcf0e74a1d5501c7c1c565d8f050d5165d143b100155e"
+            }
+        },
         {
             "default": true,
             "filename": "mgb.gb",
+            "hash": {
+                "md5": "457c212fe19e7552060dad8715868170",
+                "sha1": "0998bcf0046a07d779e62083003666d1942f98e9",
+                "sha256": "f1404637569a01481e3569bbb12fb55eb18bb426da9390611bc9f7bdc6d0563a"
+            },
             "playable": true
         }
     ],
     "platform": "GB",
-    "repository": "",
     "screenshots": [
-        "mgb.png"
+        "screenshot.png"
     ],
     "slug": "mgb",
-    "title": "mGB",
-    "typetag": "homebrew"
+    "title": "mGB (Version 1.3.3)",
+    "typetag": "game"
 }

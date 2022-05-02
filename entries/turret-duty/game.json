@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Jon Wingrove",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Turret_Duty__(Gameboy).zip",
+            "hash": {
+                "md5": "c80394b28dea377fc930ffa115955f3a36ec9e83",
+                "sha1": "c80394b28dea377fc930ffa115955f3a36ec9e83",
+                "sha256": "f0e9938e4865c2fd5e38dabd99caafe3903c5793c1429b421cfa62a6b50b031d"
+            }
+        },
+        {
+            "default": true,
+            "filename": "TurretDuty.cgb",
+            "hash": {
+                "md5": "2a95006aa7ddf7a9882dd57879b29e36",
+                "sha1": "ed768cb35153879f2ea8e8dbd9cd8dd5e9904a0b",
+                "sha256": "ab1645ce39df7b0b4cfbe2d11eddafd012af7249768cf6c50a1bd0b367e93412"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "TurretDuty.cgb",
+    "screenshots": [
+        "20110402_turret_duty.png"
+    ],
+    "slug": "turret-duty",
+    "title": "Turret Duty",
+    "typetag": "game"
+}

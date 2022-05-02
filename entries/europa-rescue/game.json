@@ -1,0 +1,27 @@
+{
+    "developer": "godai / Gniazdo \u015awiat\u00f3w",
+    "files": [
+        {
+            "default": true,
+            "filename": "Europa Rescue.gbc",
+            "playable": true
+        }
+    ],
+    "license": "CC-BY-SA 4.0",
+    "platform": "GBC",
+    "repository": "https://github.com/godai78/europa",
+    "screenshots": [
+        "spaceship.jpg",
+        "controls.jpg"
+    ],
+    "slug": "europa-rescue",
+    "tags": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "title": "Europa rescue!",
+    "typetag": "game",
+    "description": "Repair a defunct space station. Single-handedly.",
+    "devWebsite": "https://www.gniazdoswiatow.net",
+    "onlineplay": "true"
+}

@@ -1,0 +1,33 @@
+{
+    "description": "This game is very popular in eastern Europe and especially Russia.",
+    "developer": "cosmigo",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Color_Lines__(Gameboy).zip",
+            "hash": {
+                "md5": "987d494ab628259dd76232eb19ca191e0170d074",
+                "sha1": "987d494ab628259dd76232eb19ca191e0170d074",
+                "sha256": "a8076a095ec4c9a9afcbc27027193a392e94c447c82b26c0736c1e60f5e57af5"
+            }
+        },
+        {
+            "default": true,
+            "filename": "ColorLines.cgb",
+            "hash": {
+                "md5": "ee702d21a5483a9de3afa8361d4fde9a",
+                "sha1": "9fe83a67a657651887baa4ed49348e23fec76ce4",
+                "sha256": "ee39e569a9fc3873133cc8dbbf84eb273b6c5b5500e2e8d2e74ec09a7b1aed87"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "ColorLines.cgb",
+    "screenshots": [
+        "20110402_color_lines.png"
+    ],
+    "slug": "color-lines",
+    "title": "Color Lines",
+    "typetag": "game"
+}

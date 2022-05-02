@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "UnKnown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "MG-888__(Gameboy).zip",
+            "hash": {
+                "md5": "b2406543e9bb68b627d2b23f283b441b1c59016b",
+                "sha1": "b2406543e9bb68b627d2b23f283b441b1c59016b",
+                "sha256": "b5959f8f9cb362946268616181b389891bbbcf29ea366d00b079ff693304762c"
+            }
+        },
+        {
+            "default": true,
+            "filename": "MG-888.cgb",
+            "hash": {
+                "md5": "5379f0d15e97c061ac38d53110d15a66",
+                "sha1": "d15676f2d9e7204685c9a8c87dd4b4999dd717f5",
+                "sha256": "864dcdafe63c9c1d3278b3a20e7bdd952ad2002e98e8d09cfc7f6d7a1b79cb14"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "MG-888.cgb",
+    "screenshots": [
+        "20110402_mg-888.png"
+    ],
+    "slug": "mg-888",
+    "title": "MG-888",
+    "typetag": "game"
+}

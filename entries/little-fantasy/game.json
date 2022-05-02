@@ -1,0 +1,34 @@
+{
+    "date": "2000-08-20",
+    "description": "",
+    "developer": "Tomas Rychnovsky",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Little_Fantasy__(Gameboy).zip",
+            "hash": {
+                "md5": "18247ef608764c74048d60b792f3030a9935203c",
+                "sha1": "18247ef608764c74048d60b792f3030a9935203c",
+                "sha256": "64af24a6fee8f40c4734ea47fe8249f41f2814dee8ffd39c3270b922f5ecefc2"
+            }
+        },
+        {
+            "default": true,
+            "filename": "LittleFantasy.cgb",
+            "hash": {
+                "md5": "49920828b8455d7c75ae1d918801c0a0",
+                "sha1": "0f73f0b6dd21bfbd810da8425d72c65f4e848ba2",
+                "sha256": "b20894fb160b490b75b07374545e832d0cd03eba464f318d5cd297f006848553"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "LittleFantasy.cgb",
+    "screenshots": [
+        "20110402_little_fantasy.png"
+    ],
+    "slug": "little-fantasy",
+    "title": "Little Fantasy",
+    "typetag": "game"
+}

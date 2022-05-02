@@ -1,18 +1,23 @@
 {
-    "developer": "Infected Bytes",
+    "title": "Sticky Hooves in the Temple of Velcro",
+    "slug": "sticky-hooves-in-the-temple-of-vel-cro",
+    "platform": "GB",
+    "typetag": "game",
+    "description": "By 2-bit bros",
+    "screenshots": [
+        "templeofvelcro.png",
+        "templeofvelcro-2.png",
+        "templeofvelcro-3.png"
+    ],
     "files": [
         {
+            "description": "release",
+            "filename": "templeofvelcro.zip"
+        },
+        {
             "default": true,
-            "filename": "sticky-hooves-in-the-temple-of-vel-cro.gb",
-            "playable": true
+            "playable": true,
+            "filename": "templeofvelcro.gb"
         }
-    ],
-    "platform": "GB",
-    "repository": "",
-    "screenshots": [
-        "sticky-hooves-in-the-temple-of-vel-cro.png"
-    ],
-    "slug": "sticky-hooves-in-the-temple-of-vel-cro",
-    "title": "Sticky Hooves In The Temple Of Vel-Cro",
-    "typetag": "game"
+    ]
 }

@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Boxing__(Gameboy).zip",
+            "hash": {
+                "md5": "c5c34299d6b6c90d87b03bd48d09c66616f01a49",
+                "sha1": "c5c34299d6b6c90d87b03bd48d09c66616f01a49",
+                "sha256": "4b1f9dff1f2f4ed1c47e296dafd711a6c12cc321e5cd2d4809145bb69eedb07e"
+            }
+        },
+        {
+            "default": true,
+            "filename": "BOXING.GB",
+            "hash": {
+                "md5": "90090704a42582f031dd4aa69335f109",
+                "sha1": "29cfcc5dd878b03943413b6e64c6fb4ca020c7d3",
+                "sha256": "ae88fb1be6b75d874b6dd9975cf6a1c903388e7f88454327932ff250a1004ba8"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "BOXING.GB",
+    "screenshots": [
+        "20110402_boxing.png"
+    ],
+    "slug": "boxing",
+    "title": "Boxing",
+    "typetag": "game"
+}

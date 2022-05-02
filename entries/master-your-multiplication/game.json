@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Master_Your_Multiplication__(Gameboy).zip",
+            "hash": {
+                "md5": "8755fbcb16cc5f2dbf516b653f8a167192eba27b",
+                "sha1": "8755fbcb16cc5f2dbf516b653f8a167192eba27b",
+                "sha256": "71158f2a9487374146b9b47106789f02e996cb98f4780f8ca139da2775e45e67"
+            }
+        },
+        {
+            "default": true,
+            "filename": "MasterYourMultiplication.gb",
+            "hash": {
+                "md5": "c9cb6f727d653c8a845a4eb8aa43d369",
+                "sha1": "0f1e5fe0ac3970ede39e4de2876e54b2b6be9c55",
+                "sha256": "f49eb26bcb0dbc7d3e42bc799f73a9d438a5d23dc06f624027cdffd196c16e26"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "MasterYourMultiplication.gb",
+    "screenshots": [
+        "20110402_master_your_multiplication.png"
+    ],
+    "slug": "master-your-multiplication",
+    "title": "Master Your Multiplication",
+    "typetag": "game"
+}

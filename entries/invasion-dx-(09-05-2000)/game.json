@@ -1,0 +1,33 @@
+{
+    "description": "A little shooter game for the Gameboy Color by Richard van der Brugge.",
+    "developer": "Richard van der Brugge",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Invasion_DX_(09-05-2000)_(Gameboy).zip",
+            "hash": {
+                "md5": "a54633a65fa45e9f5c682b36251050fbe62e7845",
+                "sha1": "a54633a65fa45e9f5c682b36251050fbe62e7845",
+                "sha256": "d134730f19a2b731d2227295e8434db7ba43ef95537de5894c415a290aae0049"
+            }
+        },
+        {
+            "default": true,
+            "filename": "invasion.gb",
+            "hash": {
+                "md5": "4aa3af0c8928fe2c6ba4fefb0d02dc90",
+                "sha1": "0c46cd66bb331e11abf316c1fb447778cd75e711",
+                "sha256": "2bf2cabc034d14dfefeb2b57ca365466c6aab414ef5fb675c573b43d47619bd5"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "invasion.gb",
+    "screenshots": [
+        "20110402_invasion_dx.JPG"
+    ],
+    "slug": "invasion-dx-(09-05-2000)",
+    "title": "Invasion DX (09-05-2000)",
+    "typetag": "game"
+}

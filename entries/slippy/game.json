@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Mattias Wadman",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Slippy__(Gameboy).zip",
+            "hash": {
+                "md5": "712b8d18b64f96790e51340b6acdf42c261765d5",
+                "sha1": "712b8d18b64f96790e51340b6acdf42c261765d5",
+                "sha256": "74bcd9529505a7b9f7e8e8ee5c2075ef5a9ecda6351362d545d7d36338d77d73"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Slippy.gb",
+            "hash": {
+                "md5": "3aa7a248709d527a9ff9c1a17c1560ce",
+                "sha1": "ea3ce20394f5cbe2e33a2a3e0fcbc101e8d55ad0",
+                "sha256": "bfbd5631bf4dd0a539d52c597a95b321d31c8064a6052fc78bf947d445320c15"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Slippy.gb",
+    "screenshots": [
+        "20110402_slippy.png"
+    ],
+    "slug": "slippy",
+    "title": "Slippy",
+    "typetag": "game"
+}

@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Richard Town",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Bomber__(Gameboy).zip",
+            "hash": {
+                "md5": "79a2bd5b2e583b1e4fe0044e1438cef5342dc723",
+                "sha1": "79a2bd5b2e583b1e4fe0044e1438cef5342dc723",
+                "sha256": "4e3382f016ec57154d79a677c6b2e31df39399c9e6659e6cc3ccd11e0e13e0eb"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Bomber.gbc",
+            "hash": {
+                "md5": "de0f6ef48993b86b60c66b1575cec8f9",
+                "sha1": "3c6b1b3fe78cb46fa6c13614af68e1277f08248f",
+                "sha256": "1614fecc3ccf5b96a4981ee27c1662b99af6104a7208db6b0438c6123b954955"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Bomber.gbc",
+    "screenshots": [
+        "20110402_bomber.gif"
+    ],
+    "slug": "bomber",
+    "title": "Bomber",
+    "typetag": "game"
+}

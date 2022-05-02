@@ -1,0 +1,33 @@
+{
+    "description": "Math Drill 20 is an addition/subtraction trainer for children. It uses the numbers 0 \u2013 20 as the maximum result and the maximum for any value in the equation.",
+    "developer": "Susan Cramer, Norm Cramer",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Math_Drill_20__(Gameboy).zip",
+            "hash": {
+                "md5": "b1a34f203cbe79312c3988332f55bc75ac522441",
+                "sha1": "b1a34f203cbe79312c3988332f55bc75ac522441",
+                "sha256": "c5b98bafcf96331bcd86ff3c71918873bb481348e1431a376118f8bff159b414"
+            }
+        },
+        {
+            "default": true,
+            "filename": "MathDrill20.gb",
+            "hash": {
+                "md5": "8e620cdb65418cd9436be1fbeaf88422",
+                "sha1": "3f36307d531abad362b3993e002e7698819ec4cf",
+                "sha256": "73169fa70330792f55a4ff48b3dab2b8cc9775bb4f4c8cf2e974f7abad265dfb"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "MathDrill20.gb",
+    "screenshots": [
+        "20110402_math_drill_20.png"
+    ],
+    "slug": "math-drill-20",
+    "title": "Math Drill 20",
+    "typetag": "game"
+}

@@ -1,14 +1,14 @@
 {
-    "date": "2000-10-31",
-    "developer": "Berserker Industries",
+    "description": "Hungry are the Dead is a turn-based game. This means that you have a number of moves per turn and then the enemies have a number of moves per turn. This cycle continues until you complete all tasks, are attacked by an enemy, or decide to stop playing.",
+    "developer": "Molasses, Sutter",
     "files": [
         {
             "description": "release",
-            "filename": "hatd.zip",
+            "filename": "Hungry_Are_The_Dead_(31-10-2000)_(Gameboy).zip",
             "hash": {
-                "md5": "ea83d3020d9493aac0ec77d94c197b50",
-                "sha1": "57be3ac049af60eb2f357fafaad712ec1b2abfcd",
-                "sha256": "e2cf3f67ac5f34488b2d3a5a402b69bcbb1862476c713293f6c0bfa5ac4944d3"
+                "md5": "6d5b1b562808f04ee32555537c1d15e3cebe4791",
+                "sha1": "6d5b1b562808f04ee32555537c1d15e3cebe4791",
+                "sha256": "9c9ef01235b26a22f08a910ea2e810031913d106e3d9d83047d7e3449f91564c"
             }
         },
         {
@@ -23,8 +23,9 @@
         }
     ],
     "platform": "GBC",
+    "rom": "hungrydm3.gbc",
     "screenshots": [
-        "hatd.png"
+        "20110402_hungry_are_the_dead.png"
     ],
     "slug": "hungry-are-the-dead-demo-3",
     "title": "Hungry are the Dead (Demo 3)",

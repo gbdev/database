@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Paul Taylor",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Jet_Set_Willy__(Gameboy).zip",
+            "hash": {
+                "md5": "15989c89ad54613c2701c8084278e0c34b85e9f8",
+                "sha1": "15989c89ad54613c2701c8084278e0c34b85e9f8",
+                "sha256": "368f7fb70c2c6815fb6adb6ee068693283cdb4d1fd9460144e5642514d2eab4c"
+            }
+        },
+        {
+            "default": true,
+            "filename": "JetsetWilly.cgb",
+            "hash": {
+                "md5": "c4258d9d2cb6d802d8ffdc209c33391c",
+                "sha1": "0a6ef737409e83def7497cf9606bdcd2c9539e9e",
+                "sha256": "004d8a61893d3b98493ed8c563da284fb9dab4fe263188fd4e93c259610afb49"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "JetsetWilly.cgb",
+    "screenshots": [
+        "20110402_jet_set_willy.png"
+    ],
+    "slug": "jet-set-willy",
+    "title": "Jet Set Willy",
+    "typetag": "game"
+}

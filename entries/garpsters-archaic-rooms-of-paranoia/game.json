@@ -1,0 +1,22 @@
+{
+    "description": "You are Denrah, rightful ruler of Henradia.  You must make your way thru the Castle of your Evil Brother Garpster, who has proclaimed himself Grand Poobah of Henradia.",
+    "developer": "TS_Garp",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Garpsters_Archaic_Rooms_of_Paranoia__(Gameboy).gb",
+            "hash": {
+                "md5": "01c13864e8d22831b0fa156584ef89f5fd66dd55",
+                "sha1": "01c13864e8d22831b0fa156584ef89f5fd66dd55",
+                "sha256": "d5c14fc6b897a6bfc52278ef4cf4c6af4cd4c9eb62b6b86dd7a66a008444dc23"
+            }
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "20110402_garpsters_archaic_rooms_of_paranoia.png"
+    ],
+    "slug": "garpsters-archaic-rooms-of-paranoia",
+    "title": "Garpsters Archaic Rooms of Paranoia",
+    "typetag": "game"
+}

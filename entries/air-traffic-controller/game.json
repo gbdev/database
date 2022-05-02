@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Graham Pickard",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Air_Traffic_Controller__(Gameboy).zip",
+            "hash": {
+                "md5": "193f5ba5dbdc6d649d18f7d5a6325b875669a66c",
+                "sha1": "193f5ba5dbdc6d649d18f7d5a6325b875669a66c",
+                "sha256": "a1d5b00b10efa5564e43cd4deecabc607eb3ca64c0e67d6eb66455840fc64e3f"
+            }
+        },
+        {
+            "default": true,
+            "filename": "AirTrafficController.cgb",
+            "hash": {
+                "md5": "b552d9a3bc161108abdae6e1a6123df9",
+                "sha1": "ac03ad5940d88507e19f54d7b4b963621176461f",
+                "sha256": "f29a3e883c3d7b297faa891c2bd93cf80363a73526e653329b59f359d8edf214"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "AirTrafficController.cgb",
+    "screenshots": [
+        "20110402_air_traffic_controller.jpg"
+    ],
+    "slug": "air-traffic-controller",
+    "title": "Air Traffic Controller",
+    "typetag": "game"
+}

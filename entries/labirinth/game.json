@@ -1,0 +1,27 @@
+{
+    "developer": "godai / Gniazdo \u015awiat\u00f3w",
+    "files": [
+        {
+            "default": true,
+            "filename": "Labirinth.gbc",
+            "playable": true
+        }
+    ],
+    "license": "CC-BY-SA 4.0",
+    "platform": "GBC",
+    "repository": "https://github.com/godai78/labirinth",
+    "screenshots": [
+        "potatoes.jpg",
+        "town.jpg"
+    ],
+    "slug": "labirinth",
+    "tags": [
+        "Adventure",
+        "RPG"
+    ],
+    "title": "Labirinth",
+    "typetag": "game",
+    "description": "Lost in a strange world, proceed by helping the poeple you meet on your way",
+    "devWebsite": "https://www.gniazdoswiatow.net",
+    "onlineplay": "true"
+}

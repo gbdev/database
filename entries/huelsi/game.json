@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Roland G. Huelsmann",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Huelsi__(Gameboy).zip",
+            "hash": {
+                "md5": "215f28e12c014185b1edcbee5d1351beb4c68b7f",
+                "sha1": "215f28e12c014185b1edcbee5d1351beb4c68b7f",
+                "sha256": "66bd7aaa32a74d728778c925f01d5fa8963fc2fc366d39a571ee55e884ff5b1e"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Huelsi.cgb",
+            "hash": {
+                "md5": "155f1cfbceaad41e901f1d591e8bac86",
+                "sha1": "91be7f509cd23af03e7ee3872b418cbaecd9ccd3",
+                "sha256": "91429aad2e1f9b0ed254daf0acc3a96dad6e6ba288e3722a26dc0afdd626955d"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Huelsi.cgb",
+    "screenshots": [
+        "20110402_huelsi.png"
+    ],
+    "slug": "huelsi",
+    "title": "Huelsi",
+    "typetag": "game"
+}

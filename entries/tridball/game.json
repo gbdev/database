@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Aaron St. John",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Tridball__(Gameboy).zip",
+            "hash": {
+                "md5": "2596baf449716a6b669d71c27804885cd00959c2",
+                "sha1": "2596baf449716a6b669d71c27804885cd00959c2",
+                "sha256": "26b02a1c9ee6dc8508dd4af8d93fd3f9b48e5bf2e7b3cf97f1ebbde561d279ec"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Tridball.gbc",
+            "hash": {
+                "md5": "84a88ed152e06507675d63c72cff813a",
+                "sha1": "1fe6111d115ad27f9bc039443bfc3cc3bd9b4214",
+                "sha256": "0b202064711b53ab376493d650ddb993f1a8d492191fa502465035d964ea1914"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Tridball.gbc",
+    "screenshots": [
+        "20110402_tridball.png"
+    ],
+    "slug": "tridball",
+    "title": "Tridball",
+    "typetag": "game"
+}

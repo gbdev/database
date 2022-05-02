@@ -1,16 +1,31 @@
 {
-    "developer": "Gambit Studios",
+    "description": "Gambit Studios",
+    "developer": "Unknown",
     "files": [
         {
+            "description": "release",
+            "filename": "PuzzleX__(Gameboy).zip",
+            "hash": {
+                "md5": "83c00034e576ad3866b7378c9d1655b487648642",
+                "sha1": "83c00034e576ad3866b7378c9d1655b487648642",
+                "sha256": "bda2d210b743bcb41d55845b4ab5f9e1ac6e6d69cff9bc643a6155f64e7562d3"
+            }
+        },
+        {
             "default": true,
-            "filename": "puzzlex.gb",
+            "filename": "PuzzleX.gb",
+            "hash": {
+                "md5": "1f980d6e0a746e40df77e34acbb330ce",
+                "sha1": "0a2ec959c24ee48f1f5e052a02c6e3ed5f16d7e0",
+                "sha256": "2a02ec40ec88b83f63eea3ad889d5f0d964a883271817b3e6d111c84bc320bea"
+            },
             "playable": true
         }
     ],
     "platform": "GB",
-    "repository": "",
+    "rom": "PuzzleX.gb",
     "screenshots": [
-        "puzzlex.png"
+        "20110402_puzzlex.png"
     ],
     "slug": "puzzlex",
     "title": "PuzzleX",

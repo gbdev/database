@@ -1,16 +1,31 @@
 {
+    "description": "",
     "developer": "Gambit Studios",
     "files": [
         {
+            "description": "release",
+            "filename": "Deep_Scan__(Gameboy).zip",
+            "hash": {
+                "md5": "2a6449537c8e7139bcc23118640566f8d24271e0",
+                "sha1": "2a6449537c8e7139bcc23118640566f8d24271e0",
+                "sha256": "c9862c125ce9380a6240353b32e33abc805f05dd380cfcf7aeaf9eb90586b8b6"
+            }
+        },
+        {
             "default": true,
-            "filename": "deep-scan.cgb",
+            "filename": "DeepScan.cgb",
+            "hash": {
+                "md5": "dcf5bcb16eae777e57b094f876305f39",
+                "sha1": "07ec16d04ed015d81595f2dad62f03c8b8999f07",
+                "sha256": "eda9b4caa0bddf091f4ea78254abbea7c3dcd384fb472752221620cd09f56d6a"
+            },
             "playable": true
         }
     ],
     "platform": "GBC",
-    "repository": "",
+    "rom": "DeepScan.cgb",
     "screenshots": [
-        "deep-scan.png"
+        "20110402_deep_scan.png"
     ],
     "slug": "deep-scan",
     "title": "Deep Scan",

@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "cUrdon",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Lab3D__(Gameboy).zip",
+            "hash": {
+                "md5": "93260c6c4b53d115bd43814ec06871354f4b1cff",
+                "sha1": "93260c6c4b53d115bd43814ec06871354f4b1cff",
+                "sha256": "e7bc5de9c0cd4dc77015730ebb604733c5a5d51c6caf3b102d37d21f4cf284db"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Lab3D.gbc",
+            "hash": {
+                "md5": "c8849013942ef187ea1014e2f369f1ac",
+                "sha1": "38309c7279809609fc42ca8681d8aa94654aa8ba",
+                "sha256": "864fc7883ccae9b6a935636a1c6ad3ac5e20fda9df8a9fc34b2d9a2dd373f858"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Lab3D.gbc",
+    "screenshots": [
+        "20110402_lab3d.png"
+    ],
+    "slug": "lab3d",
+    "title": "Lab3D",
+    "typetag": "game"
+}

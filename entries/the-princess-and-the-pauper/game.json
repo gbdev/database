@@ -1,0 +1,33 @@
+{
+    "description": "The Princess & the Pauper is a comical game about the misadventures of a young poor boy and a stuck up snotty lady.  The game takes place in various episodes and is written in serial.",
+    "developer": "Jason Thompson",
+    "files": [
+        {
+            "description": "release",
+            "filename": "The_Princess___The_Pauper__(Gameboy).zip",
+            "hash": {
+                "md5": "483e98675d04c4d9db9cee65e57dfff28cc12be7",
+                "sha1": "483e98675d04c4d9db9cee65e57dfff28cc12be7",
+                "sha256": "20d0469f36b9002d34b98ca83c75c3b79825294a0df61721023bf20d85b9cba4"
+            }
+        },
+        {
+            "default": true,
+            "filename": "princess.GBC",
+            "hash": {
+                "md5": "7a4b1701bf6cdb02d9c4e194672ece8c",
+                "sha1": "632b52007f1bf67e80a46c86eea9256108be29e8",
+                "sha256": "4bb549d56bd35443a1e4c433bce78b52a12679263b19dae1580fecde5d50634f"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "princess.GBC",
+    "screenshots": [
+        "screenshot.png"
+    ],
+    "slug": "the-princess-and-the-pauper",
+    "title": "The Princess & The Pauper",
+    "typetag": "game"
+}

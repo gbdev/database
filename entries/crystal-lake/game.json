@@ -1,0 +1,36 @@
+{
+    "developer": "VHVS",
+    "files": [
+        {
+            "default": true,
+            "filename": "CrystalLake.gb",
+            "playable": true
+        },
+        {
+            "default": false,
+            "filename": "CrystalLake-PlayersManual.pdf",
+            "playable": false
+        },
+        {
+            "default": false,
+            "filename": "readme.txt",
+            "playable": false
+        }
+    ],
+    "license": "Zlib",
+    "platform": "GB",
+    "screenshots": [
+        "crystallake-1.png",
+        "crystallake-2.png",
+        "crystallake-3.png"
+    ],
+    "slug": "crystal-lake",
+    "tags": [
+        "Action",
+        "Puzzle"
+    ],
+    "title": "Crystal Lake",
+    "typetag": "game",
+    "date": "2020/05/11",
+    "website": "https://www.becomingthebeast.com/vhvs/index.html"
+}

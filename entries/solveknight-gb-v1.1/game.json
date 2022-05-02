@@ -1,0 +1,33 @@
+{
+    "description": "This little program shows all the possible solutions of the game Knight and the game KnightMoves.",
+    "developer": "drHirudo",
+    "files": [
+        {
+            "description": "release",
+            "filename": "SolveKnight_GB_v1.1_(Gameboy).zip",
+            "hash": {
+                "md5": "1564af792e10529ef3333ab28b186ac268cadd1e",
+                "sha1": "1564af792e10529ef3333ab28b186ac268cadd1e",
+                "sha256": "88bd2abcb38567ec434e6b4fb300d6c1dd0d0390d5bd0e01ebe26bdf0e0f0217"
+            }
+        },
+        {
+            "default": true,
+            "filename": "SolveKnightGB.gb",
+            "hash": {
+                "md5": "a187bae9ae1708672409152c00442ac6",
+                "sha1": "57af9cbd90f485072e47bd3e88495244b1c87d39",
+                "sha256": "99530e2d10dc302936973503cf22dd0531fa7620911482625e172b2a95ad918e"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "SolveKnightGB.gb",
+    "screenshots": [
+        "20110402_solveknight_gb.png"
+    ],
+    "slug": "solveknight-gb-v1.1",
+    "title": "SolveKnight GB v1.1",
+    "typetag": "game"
+}

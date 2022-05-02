@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Capman__(Gameboy).zip",
+            "hash": {
+                "md5": "94ad998e0a6904f975c802c36c0786b096ee5e00",
+                "sha1": "94ad998e0a6904f975c802c36c0786b096ee5e00",
+                "sha256": "f51d7fa2370b23ffcad8d118fda94d7d406b83148988365d66aa6a97f3d4b467"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Capman.cgb",
+            "hash": {
+                "md5": "64cc517ed88d9bb267b4c6ff9d78efa7",
+                "sha1": "3279a5dde803cba9637da04d42c20d369687fddc",
+                "sha256": "6ca5cae563943f4e2df5fb703fd03519e53c6169317289b421838b58e3e59d74"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Capman.cgb",
+    "screenshots": [
+        "20110402_capman.gif"
+    ],
+    "slug": "capman",
+    "title": "Capman",
+    "typetag": "game"
+}

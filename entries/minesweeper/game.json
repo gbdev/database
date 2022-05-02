@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Mattias Wadman",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Minesweeper__(Gameboy).zip",
+            "hash": {
+                "md5": "0090a7ec045a6832d1a4db8df7890abf27b1d085",
+                "sha1": "0090a7ec045a6832d1a4db8df7890abf27b1d085",
+                "sha256": "0521abcc5a46a43757a1e518f81c94a63ba3e4e723c8ef66a0663b5e031a20f0"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Minesweeper.gb",
+            "hash": {
+                "md5": "519e514043c3bfec21c9b32aae178c6e",
+                "sha1": "63951cebc1018c1da6e1a86f00e763e2155460ff",
+                "sha256": "5ae1c0cd64952d0636c131930f8a167dcdf434741fb48eae2336d0df4b164241"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Minesweeper.gb",
+    "screenshots": [
+        "20110402_minesweeper.png"
+    ],
+    "slug": "minesweeper",
+    "title": "Minesweeper",
+    "typetag": "game"
+}

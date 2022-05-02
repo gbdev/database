@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Fatality, Freeman, Mast",
+    "files": [
+        {
+            "description": "release",
+            "filename": "MIG_21__(Gameboy).zip",
+            "hash": {
+                "md5": "eef40490b6e1032f506bee1868241ca71b82baac",
+                "sha1": "eef40490b6e1032f506bee1868241ca71b82baac",
+                "sha256": "3f7f04f2d638bd19200d2cb10d10856165cfa582581f3a24d61d201209b52fb1"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Mig21.cgb",
+            "hash": {
+                "md5": "fbe5b0b9b20ed3a0e81100d5ee7f200a",
+                "sha1": "31e75e15460a4eeebc16206921366af82028fb06",
+                "sha256": "b9fdd6155542d93db2dec10eef64c8ccb57581c32b3eb2ac8b90f04016e23d6e"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Mig21.cgb",
+    "screenshots": [
+        "20110402_mig_21.png"
+    ],
+    "slug": "mig-21",
+    "title": "MIG 21",
+    "typetag": "game"
+}
