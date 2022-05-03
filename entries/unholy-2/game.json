@@ -1,0 +1,18 @@
+{
+    "date": "2000-10-29",
+    "developer": "SkyBaby",
+    "files": [
+        {
+            "default": true,
+            "filename": "Unholy 2, The by SkyBaby (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Unholy 2, The by SkyBaby (PD) [C].png"
+    ],
+    "slug": "unholy-2",
+    "title": "The Unholy 2",
+    "typetag": "game"
+}

@@ -1,0 +1,18 @@
+{
+    "date": "1999-11-28",
+    "developer": "Thalamus Interactive",
+    "files": [
+        {
+            "default": true,
+            "filename": "UGB Player Demo by Thalamus Interactive (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "UGB Player Demo by Thalamus Interactive (PD) [C].png"
+    ],
+    "slug": "ugb-player-demo",
+    "title": "UGB Player Demo",
+    "typetag": "music"
+}

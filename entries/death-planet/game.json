@@ -1,0 +1,23 @@
+{
+    "date": "2019-08-01",
+    "developer": "Mackerel Interactive",
+    "files": [
+        {
+            "default": true,
+            "filename": "deathplanet.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "deathplanet.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "deathplanet.png"
+    ],
+    "slug": "death-planet",
+    "title": "Death Planet",
+    "typetag": "game",
+    "website": "https://makrill.itch.io/death-planet"
+}

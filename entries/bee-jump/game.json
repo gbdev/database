@@ -1,0 +1,25 @@
+{
+    "date": "2017-07-30",
+    "developer": "Celestina Software",
+    "files": [
+        {
+            "default": true,
+            "filename": "bee jump music.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "bee jump music.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "162titlescreen.png",
+        "162screenshot1.png",
+        "162screenshot2.png"
+    ],
+    "slug": "bee-jump",
+    "title": "Bee Jump",
+    "typetag": "game",
+    "website": "https://www.romhacking.net/homebrew/162/"
+}

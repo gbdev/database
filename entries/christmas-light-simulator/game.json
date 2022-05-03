@@ -1,0 +1,23 @@
+{
+    "date": "2017-07-30",
+    "developer": "Celestina Software",
+    "files": [
+        {
+            "default": true,
+            "filename": "star.gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "star.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "star.png"
+    ],
+    "slug": "christmas-light-simulator",
+    "title": "Christmas Light Simulator",
+    "typetag": "demo",
+    "website": "https://www.romhacking.net/homebrew/165/"
+}

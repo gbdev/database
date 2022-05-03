@@ -1,0 +1,18 @@
+{
+    "date": "1998-03-30",
+    "developer": "Axis Design",
+    "files": [
+        {
+            "default": true,
+            "filename": "James Bond Demo (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "James Bond Demo (PD).png"
+    ],
+    "slug": "james-bond-demo",
+    "title": "James Bond Demo",
+    "typetag": "demo"
+}

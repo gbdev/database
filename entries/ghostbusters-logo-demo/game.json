@@ -1,0 +1,17 @@
+{
+    "date": "1998-12-06",
+    "files": [
+        {
+            "default": true,
+            "filename": "Ghostbusters Logo Demo (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Ghostbusters Logo Demo (PD).png"
+    ],
+    "slug": "ghostbusters-logo-demo",
+    "title": "Ghostbusters Logo Demo",
+    "typetag": "demo"
+}

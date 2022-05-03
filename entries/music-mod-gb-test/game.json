@@ -1,0 +1,19 @@
+{
+    "date": "2022-03-06",
+    "developer": "Hammer Keyboard Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "Music Mod GameBoy Test (GB).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Music Mod GameBoy Test (GB).png"
+    ],
+    "slug": "music-mod-gb-test",
+    "title": "Music Mod GB Test",
+    "typetag": "homebrew",
+    "website": "https://www.romhacking.net/homebrew/157/"
+}

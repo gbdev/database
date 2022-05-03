@@ -1,0 +1,17 @@
+{
+    "date": "2000-01-09",
+    "files": [
+        {
+            "default": true,
+            "filename": "Scrolling Blue Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Scrolling Blue Demo (PD) [C].png"
+    ],
+    "slug": "scrolling-blue-demo",
+    "title": "Scrolling Blue Demo",
+    "typetag": "demo"
+}

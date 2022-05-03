@@ -1,0 +1,26 @@
+{
+    "date": "2022-03-22",
+    "developer": "Hammer Keyboard Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "Magic Screen (Etch-A-Sketch) (SGB).gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "Magic Screen (Etch-A-Sketch) (SGB).7z"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "MagicScreen-cap00001.png",
+        "MagicScreen-cap00002.png",
+        "MagicScreen-cap00003.png",
+        "MagicScreen-cap00004.png",
+        "MagicScreen-cap00005.png"
+    ],
+    "slug": "magic-screen",
+    "title": "Magic Screen",
+    "typetag": "homebrew"
+}

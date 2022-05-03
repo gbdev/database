@@ -1,0 +1,18 @@
+{
+    "date": "2020-04-12",
+    "developer": "Psychedelic Bear",
+    "files": [
+        {
+            "default": true,
+            "filename": "ROADHOG_FROG.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "ROADHOG_FROG.png"
+    ],
+    "slug": "the-roadhog-frog",
+    "title": "The Roadhog Frog",
+    "typetag": "game"
+}
