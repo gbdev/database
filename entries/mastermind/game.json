@@ -1,0 +1,21 @@
+{
+    "date": "2017-07-30",
+    "developer": "Celestina Software",
+    "files": [
+        {
+            "default": true,
+            "filename": "mastermind plus.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "163titlescreen.png",
+        "163screenshot1.png",
+        "163screenshot2.png"
+    ],
+    "slug": "mastermind",
+    "title": "Mastermind",
+    "typetag": "game",
+    "website": "https://www.romhacking.net/homebrew/163/"
+}

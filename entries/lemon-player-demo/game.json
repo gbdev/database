@@ -1,0 +1,18 @@
+{
+    "date": "2000-01-01",
+    "developer": "Lemon",
+    "files": [
+        {
+            "default": true,
+            "filename": "Lemon Player Demo by Lemon Productions (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Lemon Player Demo by Lemon Productions (PD).png"
+    ],
+    "slug": "lemon-player-demo",
+    "title": "Lemon Player Demo",
+    "typetag": "music"
+}

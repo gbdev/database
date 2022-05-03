@@ -1,0 +1,18 @@
+{
+    "date": "2000-08-16",
+    "developer": "Lemon",
+    "files": [
+        {
+            "default": true,
+            "filename": "Lemon Player 2 Demo by Lemon Productions (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Lemon Player 2 Demo by Lemon Productions (PD) [C].png"
+    ],
+    "slug": "lemon-player-2-demo",
+    "title": "Lemon Player 2 Demo",
+    "typetag": "music"
+}

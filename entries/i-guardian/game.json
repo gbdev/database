@@ -1,0 +1,19 @@
+{
+    "date": "2001-01-24",
+    "developer": "Dreambit",
+    "files": [
+        {
+            "default": true,
+            "filename": "I Guardian (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "I Guardian (PD) [C].png",
+        "I Guardian (PD) [C]-1.png"
+    ],
+    "slug": "i-guardian",
+    "title": "I Guardian",
+    "typetag": "game"
+}

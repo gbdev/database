@@ -1,0 +1,17 @@
+{
+    "date": "1999-10-08",
+    "files": [
+        {
+            "default": true,
+            "filename": "Hybrid GBPlot (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Hybrid GBPlot (PD).png"
+    ],
+    "slug": "hybrid-gbplot",
+    "title": "Hybrid GBPlot",
+    "typetag": "demo"
+}

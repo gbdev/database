@@ -1,0 +1,20 @@
+{
+    "date": "2020-05-17",
+    "developer": "Jo\u00e3o Godinho",
+    "files": [
+        {
+            "default": true,
+            "filename": "ESCAPE_OBLITERIZER_DX.gb",
+            "playable": true
+        }
+    ],
+    "license": "GPL-3.0",
+    "platform": "GBC",
+    "repository": "https://github.com/jcnmsg/escape-obliterizer-gbc",
+    "screenshots": [
+        "ESCAPE_OBLITERIZER_DX.png"
+    ],
+    "slug": "escape-obliterizer-dx",
+    "title": "Escape Obliterizer Deluxe",
+    "typetag": "game"
+}

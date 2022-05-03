@@ -1,0 +1,18 @@
+{
+    "date": "1999-07-17",
+    "developer": "Jeff Frohwein",
+    "files": [
+        {
+            "default": true,
+            "filename": "Gameboy Printer Emulator V1.0 by Jeff Frohwein (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Gameboy Printer Emulator V1.0 by Jeff Frohwein (PD).png"
+    ],
+    "slug": "gb-printer-emulator-v1.0",
+    "title": "GB Printer Emulator v1.0",
+    "typetag": "homebrew"
+}

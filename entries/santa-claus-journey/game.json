@@ -1,0 +1,25 @@
+{
+    "date": "2022-04-23",
+    "developer": "Celestina Software",
+    "files": [
+        {
+            "default": true,
+            "filename": "scjourney music.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "scjourney music.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "164titlescreen.png",
+        "164screenshot1.png",
+        "164screenshot2.png"
+    ],
+    "slug": "santa-claus-journey",
+    "title": "Santa Claus Journey",
+    "typetag": "game",
+    "website": "https://www.romhacking.net/homebrew/164/"
+}
