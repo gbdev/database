@@ -1,0 +1,17 @@
+{
+    "date": "1999-10-29",
+    "files": [
+        {
+            "default": true,
+            "filename": "Luigo Scroller (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Luigo Scroller (PD) [C].png"
+    ],
+    "slug": "luigo-scroller",
+    "title": "Luigo Scroller",
+    "typetag": "demo"
+}

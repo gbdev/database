@@ -1,0 +1,26 @@
+{
+    "date": "2000-08-28",
+    "developer": "Neolith Productions",
+    "files": [
+        {
+            "default": true,
+            "filename": "Star Tex (Quang2000) (PD) [C].gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "star_tex.zip"
+        },
+        {
+            "description": "release (alt)",
+            "filename": "star_tex_alt.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Star Tex (Quang2000) (PD) [C].png"
+    ],
+    "slug": "startex",
+    "title": "StarTex",
+    "typetag": "game"
+}

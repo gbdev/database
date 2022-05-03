@@ -1,0 +1,17 @@
+{
+    "date": "2001-02-16",
+    "files": [
+        {
+            "default": true,
+            "filename": "Wings Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Wings Demo (PD) [C].png"
+    ],
+    "slug": "wings-demo",
+    "title": "Wings (Demo)",
+    "typetag": "demo"
+}

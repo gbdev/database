@@ -1,0 +1,17 @@
+{
+    "date": "2000-03-26",
+    "files": [
+        {
+            "default": true,
+            "filename": "IR-Viewer (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "IR-Viewer (PD) [C].png"
+    ],
+    "slug": "ir-viewer",
+    "title": "IR-Viewer",
+    "typetag": "homebrew"
+}

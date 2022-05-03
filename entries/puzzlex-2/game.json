@@ -1,0 +1,18 @@
+{
+    "date": "2000-07-23",
+    "developer": "Par Johannesson",
+    "files": [
+        {
+            "default": true,
+            "filename": "Puzzlex 2 by Par Johannesson (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Puzzlex 2 by Par Johannesson (PD) [C].png"
+    ],
+    "slug": "puzzlex-2",
+    "title": "Puzzlex 2",
+    "typetag": "game"
+}

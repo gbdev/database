@@ -1,0 +1,18 @@
+{
+    "date": "2000-09-07",
+    "developer": "Ken Kaarvik",
+    "files": [
+        {
+            "default": true,
+            "filename": "Infrared Investigator by Ken Kaarvik (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Infrared Investigator by Ken Kaarvik (PD) [C].png"
+    ],
+    "slug": "infrared-investigator",
+    "title": "Infrared Investigator",
+    "typetag": "homebrew"
+}

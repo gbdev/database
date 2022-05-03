@@ -1,0 +1,18 @@
+{
+    "date": "2001-04-08",
+    "developer": "Ville Helin",
+    "files": [
+        {
+            "default": true,
+            "filename": "Simple Parallax Scroller (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Simple Parallax Scroller (PD).png"
+    ],
+    "slug": "simple-parallax-scroller",
+    "title": "Simple Parallax Scroller",
+    "typetag": "demo"
+}

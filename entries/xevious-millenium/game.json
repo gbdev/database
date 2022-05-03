@@ -1,0 +1,27 @@
+{
+    "date": "2008-10-07",
+    "developer": "Matchang",
+    "files": [
+        {
+            "default": true,
+            "filename": "Xevious Millennium (PD) [C].gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "xevious.zip"
+        },
+        {
+            "description": "release (demo)",
+            "filename": "xevious_demo.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Xevious Millennium (PD) [C]-0.png",
+        "Xevious Millennium (PD) [C]-2.png"
+    ],
+    "slug": "xevious-millenium",
+    "title": "Xevious Millennium",
+    "typetag": "game"
+}

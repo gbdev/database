@@ -1,0 +1,18 @@
+{
+    "date": "1999-06-09",
+    "developer": "E. Allen Soard",
+    "files": [
+        {
+            "default": true,
+            "filename": "OBGBTC (Tile Creator) (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "OBGBTC (Tile Creator) (PD) [C].png"
+    ],
+    "slug": "obgbtc",
+    "title": "On-Board GB Tile Creator v1.1",
+    "typetag": "homebrew"
+}

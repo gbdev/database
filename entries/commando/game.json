@@ -1,0 +1,17 @@
+{
+    "date": "1999-11-29",
+    "files": [
+        {
+            "default": true,
+            "filename": "Commando (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Commando (PD).png"
+    ],
+    "slug": "commando",
+    "title": "Commando",
+    "typetag": "homebrew"
+}

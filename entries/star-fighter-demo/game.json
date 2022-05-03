@@ -1,0 +1,18 @@
+{
+    "date": "2000-05-25",
+    "developer": "Jonathan Waugh",
+    "files": [
+        {
+            "default": true,
+            "filename": "Star Fighter by Jonathan Waugh (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Star Fighter by Jonathan Waugh (PD) [C].png"
+    ],
+    "slug": "star-fighter-demo",
+    "title": "Star Fighter",
+    "typetag": "demo"
+}

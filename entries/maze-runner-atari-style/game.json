@@ -1,0 +1,17 @@
+{
+    "date": "2000-08-03",
+    "files": [
+        {
+            "default": true,
+            "filename": "Maze Runner - Atari-Style Version (Quang2000) (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Maze Runner - Atari-Style Version (Quang2000) (PD) [C].png"
+    ],
+    "slug": "maze-runner-atari-style",
+    "title": "Maze Runner - Atari-Style Version",
+    "typetag": "homebrew"
+}

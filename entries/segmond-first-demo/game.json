@@ -1,0 +1,17 @@
+{
+    "date": "1998-11-30",
+    "files": [
+        {
+            "default": true,
+            "filename": "Segmond First Demo (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Segmond First Demo (PD).png"
+    ],
+    "slug": "segmond-first-demo",
+    "title": "Segmond (First Demo)",
+    "typetag": "demo"
+}

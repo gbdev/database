@@ -1,0 +1,18 @@
+{
+    "date": "2001-08-21",
+    "developer": "Jason W. Thompson",
+    "files": [
+        {
+            "default": true,
+            "filename": "Magic Eye (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Magic Eye (PD) [C].png"
+    ],
+    "slug": "magic-eye",
+    "title": "Magic Eye",
+    "typetag": "demo"
+}

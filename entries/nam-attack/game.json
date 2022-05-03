@@ -1,0 +1,18 @@
+{
+    "date": "1998-11-25",
+    "developer": "Christian Andersson",
+    "files": [
+        {
+            "default": true,
+            "filename": "Nam Attack (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Nam Attack (PD) [C].png"
+    ],
+    "slug": "nam-attack",
+    "title": "Nam Attack",
+    "typetag": "game"
+}

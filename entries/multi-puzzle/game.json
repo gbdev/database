@@ -1,0 +1,18 @@
+{
+    "date": "1999-09-29",
+    "developer": "RD Project",
+    "files": [
+        {
+            "default": true,
+            "filename": "Multi Puzzle (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Multi Puzzle (PD).png"
+    ],
+    "slug": "multi-puzzle",
+    "title": "Multi Puzzle",
+    "typetag": "game"
+}

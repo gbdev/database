@@ -1,0 +1,18 @@
+{
+    "date": "2000-06-26",
+    "developer": "Jim Bagley",
+    "files": [
+        {
+            "default": true,
+            "filename": "Phoenix [Jim Bagley] (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Phoenix [Jim Bagley] (PD) [C].png"
+    ],
+    "slug": "phoenix",
+    "title": "Phoenix",
+    "typetag": "game"
+}

@@ -1,0 +1,17 @@
+{
+    "date": "1999-09-21",
+    "files": [
+        {
+            "default": true,
+            "filename": "Titantic 2000 Demo (PD) [C].gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Titantic 2000 Demo (PD) [C].png"
+    ],
+    "slug": "titanic-2000-demo",
+    "title": "Titanic 2000 (demo)",
+    "typetag": "game"
+}

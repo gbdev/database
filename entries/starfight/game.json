@@ -1,0 +1,17 @@
+{
+    "date": "1999-03-11",
+    "files": [
+        {
+            "default": true,
+            "filename": "Starfight (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Starfight (PD) [C].png"
+    ],
+    "slug": "starfight",
+    "title": "Starfight",
+    "typetag": "game"
+}

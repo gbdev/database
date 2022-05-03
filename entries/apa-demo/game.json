@@ -1,0 +1,17 @@
+{
+    "date": "2000-01-11",
+    "files": [
+        {
+            "default": true,
+            "filename": "APA Demo (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "APA Demo (PD) [C].png"
+    ],
+    "slug": "apa-demo",
+    "title": "APA Demo",
+    "typetag": "demo"
+}

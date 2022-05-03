@@ -1,0 +1,18 @@
+{
+    "date": "2000-08-29",
+    "developer": "Joshua Wise",
+    "files": [
+        {
+            "default": true,
+            "filename": "Joshua Wise's Demo (Quang2000) (PD) [C].gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "Joshua Wise's Demo (Quang2000) (PD) [C].png"
+    ],
+    "slug": "joshua-wise-demo",
+    "title": "Joshua Wise's Demo",
+    "typetag": "demo"
+}

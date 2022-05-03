@@ -1,0 +1,17 @@
+{
+    "date": "2001-12-29",
+    "files": [
+        {
+            "default": true,
+            "filename": "GB Electric Drum (PD).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "GB Electric Drum (PD).png"
+    ],
+    "slug": "gb-electric-drum",
+    "title": "GB Electric Drum",
+    "typetag": "homebrew"
+}
