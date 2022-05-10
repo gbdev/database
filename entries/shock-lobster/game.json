@@ -22,5 +22,6 @@
         }
     ],
     "repository": "https://github.com/tbsp/shock-lobster",
-    "license": "ZLib"
+    "license": "ZLib",
+    "platform": "GB"
 }
