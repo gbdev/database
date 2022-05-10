@@ -10,7 +10,8 @@
     "platform": "GB",
     "repository": "",
     "screenshots": [
-        "lsdj.png"
+        "phrase.png",
+		"wave.png"
     ],
     "slug": "lsdj",
     "title": "LSDJ",
