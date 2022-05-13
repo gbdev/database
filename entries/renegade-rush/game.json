@@ -3,15 +3,16 @@
     "slug": "renegade-rush",
     "developer": "quinnp",
     "typetag": "game",
+	"platform": "GB",
     "tags": [
         "gbcompo21",
         "Open Source",
         "gbcompo21-shortlist"
     ],
     "website": "https://quinnp.itch.io/renegade-rush",
-    "date": "1633053600",
+    "date": "2021-10-01",
     "screenshots": [
-        "1.bmp",
+        "1.png",
         "nnLM3+.png",
         "o6puoY.png",
         "iS2_Dv.png"
