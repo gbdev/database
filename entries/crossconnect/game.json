@@ -1,0 +1,25 @@
+{
+    "title": "CrossConnect",
+    "slug": "crossconnect",
+    "developer": "quinnp",
+    "typetag": "game",
+	"platform": "GB",
+    "tags": [
+        "Puzzle",
+        "Open Source"
+    ],
+    "date": "2022-05-13",
+    "screenshots": [
+        "title.png",
+        "gamecgb.png",
+        "gamedmg.png"
+    ],
+    "files": [
+        {
+            "playable": true,
+            "filename": "CrossConnect.gbc"
+        }
+    ],
+    "repository": "https://github.com/QuinnPainter/CrossConnect",
+    "license": "MIT"
+}
