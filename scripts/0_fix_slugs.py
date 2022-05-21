@@ -28,8 +28,17 @@ entries_list = os.listdir("../entries")
 n = 0
 possible_duplicates = []
 
+mock = True
+
 for entry in entries_list:
-    if "." in entry or "&" in entry or "!" in entry:
+    if (
+        "." in entry
+        or "&" in entry
+        or "!" in entry
+        or "(" in entry
+        or ")" in entry
+        or "'" in entry
+    ):
         n = n + 1
         with open(f"../entries/{entry}/game.json", "r+") as f:
             data = json.load(f)
@@ -47,6 +56,10 @@ for entry in entries_list:
             if "!" in entry:
                 # Remove the !
                 new_slug = data["slug"].replace("!", "")
+            if "(" in entry or ")" in entry:
+                new_slug = data["slug"].replace("(", "").replace(")", "")
+            if "'" in entry:
+                new_slug = data["slug"].replace("'", "")
             # Make everything lowercase
             new_slug = new_slug.lower()
 
@@ -59,11 +72,13 @@ for entry in entries_list:
 
             print(f"Setting new slug: {data['slug']} -> {new_slug}")
             data["slug"] = new_slug  # <--- add `id` value.
-            f.seek(0)  # <--- should reset file position to the beginning.
-            json.dump(data, f, indent=4)
-            f.truncate()  # remove remaining part
+            if not mock:
+                f.seek(0)  # <--- should reset file position to the beginning.
+                json.dump(data, f, indent=4)
+                f.truncate()  # remove remaining part
         print(f"Renaming: ../entries/{entry} -> ../entries/{new_slug}")
-        os.rename(f"../entries/{entry}", f"../entries/{new_slug}")
+        if not mock:
+            os.rename(f"../entries/{entry}", f"../entries/{new_slug}")
 
 print(f"{n} total entries changed")
 print(f"Possible duplicates: {possible_duplicates} ")
