@@ -1,0 +1,24 @@
+{
+    "date": "1997-08-01",
+    "description": "",
+    "developer": "Emil Brink",
+    "files": [
+        {
+            "description": "release",
+            "filename": "sokoban.zip"
+        },
+        {
+            "default": true,
+            "filename": "SokoBan.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "sokoban.gb",
+    "screenshots": [
+        "20110402_sokoban.png"
+    ],
+    "slug": "sokoban-v1-1",
+    "title": "SokoBan v1.1",
+    "typetag": "game"
+}

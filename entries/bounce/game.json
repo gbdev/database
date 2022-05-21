@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Isaac Rounds",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Bounce___(Gameboy).zip",
+            "hash": {
+                "md5": "62c1c16d04c71522d3ddba5102122b80dd87b687",
+                "sha1": "62c1c16d04c71522d3ddba5102122b80dd87b687",
+                "sha256": "752fe4a94cf0c107f265aaec305adbe24da5742a91f72eb954d23e2b7d98e6a1"
+            }
+        },
+        {
+            "default": true,
+            "filename": "Bounce.gb",
+            "hash": {
+                "md5": "d25e22a97b69f10ec55e5af8893d209c",
+                "sha1": "d5300e06a1fcade19da45ee1513be4393a0845af",
+                "sha256": "10dab8731255b7a249cd1646b666aca6f6c00fa8e344592569d47fe7e2505cce"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Bounce.gb",
+    "screenshots": [
+        "20110402_bounce!.png"
+    ],
+    "slug": "bounce",
+    "title": "Bounce!",
+    "typetag": "game"
+}

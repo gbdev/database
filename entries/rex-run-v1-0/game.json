@@ -1,0 +1,20 @@
+{
+    "date": "2019-10-19",
+    "developer": "el_seyf",
+    "files": [
+        {
+            "default": true,
+            "filename": "rex-run-v1.0.gb",
+            "playable": true
+        }
+    ],
+    "license": "GPL-3.0",
+    "platform": "GB",
+    "repository": "https://github.com/elseyf/rex-run-gb",
+    "screenshots": [
+        "rex-run-v1.0.png"
+    ],
+    "slug": "rex-run-v1-0",
+    "title": "Rex Run",
+    "typetag": "game"
+}

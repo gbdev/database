@@ -1,0 +1,33 @@
+{
+    "description": "This is my entry for the PDRoms Coding Competition 2.5. It\u2019s a simple rogue-like game, made according to the rules of the competition (Monochrome, no smooth scrolling, no animation, no overlapping sprites, single sound channel).",
+    "developer": "Haroldo de Oliveira Pinheiro",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Rogue_LCD_v1.0_(Gameboy).zip",
+            "hash": {
+                "md5": "cd62e2cb89328ac90375ae888cb6c7e231353837",
+                "sha1": "cd62e2cb89328ac90375ae888cb6c7e231353837",
+                "sha256": "6de3c3a4d0d32c1b47b09de8a92ee996740c785d5baedccc440b0c78b27ea100"
+            }
+        },
+        {
+            "default": true,
+            "filename": "roguelcd.gb",
+            "hash": {
+                "md5": "0e10745c4a0cf654223dd351062ed9b9",
+                "sha1": "e9f39a15ae097259717bd8dd787b32d6a2e71b60",
+                "sha256": "a2fe9e6cfe54e2833b64fddafb0fb6192879bdb79400f6bac967eef1be4c5da0"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "roguelcd.gb",
+    "screenshots": [
+        "20110402_rogue_lcd.png"
+    ],
+    "slug": "rogue-lcd-v1-0",
+    "title": "Rogue LCD v1.0",
+    "typetag": "game"
+}

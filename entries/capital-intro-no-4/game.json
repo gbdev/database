@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "developer": "Capital",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Capital_Intro_No__4__(Gameboy).ZIP",
+            "hash": {
+                "md5": "91273a3758fa1facf49d8114c9a5e6b58828c1e7",
+                "sha1": "91273a3758fa1facf49d8114c9a5e6b58828c1e7",
+                "sha256": "6871254d8f6ea9180dc6740e3c47301cba2faa7b5bc6a475e80b3324c3b12707"
+            }
+        },
+        {
+            "default": true,
+            "filename": "cpl-i_04.gbc",
+            "hash": {
+                "md5": "56eceef4bc02a255d2ac0175caefbbe1",
+                "sha1": "359e486c2344c520bf6c77830e83a77c61d92053",
+                "sha256": "0745ae2329726e86313432b6fe6f6d055af0ad19aac8daec6b29ab6ee3f582d2"
+            },
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "cpl-i_04.gbc",
+    "screenshots": [
+        "20110402_capital_intro_no._4.gif"
+    ],
+    "slug": "capital-intro-no-4",
+    "title": "Capital Intro No. 4",
+    "typetag": "demo"
+}

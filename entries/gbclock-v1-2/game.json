@@ -1,0 +1,22 @@
+{
+    "date": "1997-12-07",
+    "developer": "Jeff Frohwein",
+    "files": [
+        {
+            "description": "release",
+            "filename": "gbclk12.zip"
+        },
+        {
+            "default": true,
+            "filename": "CLK.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "CLK-0.png"
+    ],
+    "slug": "gbclock-v1-2",
+    "title": "GBClock V1.2",
+    "typetag": "demo"
+}
