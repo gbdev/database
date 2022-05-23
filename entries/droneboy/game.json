@@ -1,0 +1,18 @@
+{
+  "developer": "purefunktion",
+  "files": [
+    {
+      "default": true,
+      "filename": "droneboy.gb",
+      "playable": true
+    }
+  ],
+  "license": "MIT",
+  "platform": "GB",
+  "repository": "https://github.com/purefunktion/Droneboy",
+  "screenshots": ["1.png", "2.png"],
+  "slug": "droneboy",
+  "tags": ["Open Source"],
+  "title": "Droneboy",
+  "typetag": "homebrew"
+}
