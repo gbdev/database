@@ -1,0 +1,18 @@
+{
+  "developer": "bbbbbr",
+  "files": [
+    {
+      "default": true,
+      "filename": "GBWORDYL_0.85_en.gb",
+      "playable": true
+    }
+  ],
+  "license": "GPL-3.0",
+  "platform": "GB",
+  "repository": "https://github.com/bbbbbr/gb-wordle",
+  "screenshots": ["1.png", "2.png"],
+  "slug": "gb-wordyl",
+  "tags": ["Open Source", "Puzzle"],
+  "title": "GB-Wordyl",
+  "typetag": "game"
+}
