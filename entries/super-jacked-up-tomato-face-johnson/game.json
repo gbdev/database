@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "cover.png",
+        "4tS1sK.png",
+        "IKbO2Bg.png",
+        "fh2B0N5.png",
+        "WwhT7g.png",
+        "ok7BNB.png",
+        "ANTCkM.png",
+        "VJoKya.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Super_Jacked_Up_Tomato_Face_Johnson_v2.0.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "GumpyFunction",
+        "Vault Kid"
+    ],
+    "date": "2022-05-29T06:46:00",
+    "website": "https://gumpyfunction.itch.io/super-jacked-up-tomato-face-johnson",
+    "slug": "super-jacked-up-tomato-face-johnson"
+}
