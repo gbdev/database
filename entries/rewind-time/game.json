@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "BBN2BgO.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Rewind_Time_(14_levels).gb",
+            "playable": true
+        }
+    ],
+    "developer": "allalonegamez",
+    "date": "2022-05-29T04:40:00",
+    "website": "https://allalonegamez.itch.io/rewind-time",
+    "slug": "rewind-time"
+}
