@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "cGh6pI.png",
+        "PM8S61.png",
+        "0Da3EN.png",
+        "wk8wwc.png",
+        "o8Vms2.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Decline_JAM_FINAL.gb",
+            "playable": true
+        }
+    ],
+    "developer": "BenJelter",
+    "date": "2022-05-29T03:50:00",
+    "website": "https://benjelter.itch.io/decline",
+    "slug": "decline"
+}
