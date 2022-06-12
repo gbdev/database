@@ -13,8 +13,16 @@
         },
         "developer":
         {
-            "type": "string",
-            "description": "A name, username or nickname representing the developer(s)"
+            "oneOf":
+            [
+                {
+                    "type": "string",
+                    "description": "A name, username or nickname representing the developer(s)"
+                },
+                {
+                    "type": "array"
+                }
+            ]
         },
         "description":
         {
@@ -30,13 +38,25 @@
         {
             "type": "string",
             "description": "Target console",
-            "enum": ["GB", "GBC", "GBA"]
+            "enum":
+            [
+                "GB",
+                "GBC",
+                "GBA"
+            ]
         },
         "typetag":
         {
             "type": "string",
             "description": "Type of the software",
-            "enum": ["game", "homebrew", "demo", "hackrom", "music"]
+            "enum":
+            [
+                "game",
+                "homebrew",
+                "demo",
+                "hackrom",
+                "music"
+            ]
         },
         "gameLicense":
         {
@@ -66,7 +86,20 @@
             "items":
             {
                 "type": "string",
-                "enum": ["RPG", "Open Source", "Adventure", "Action", "Puzzle", "Platform", "gbajam21", "gbcompo21", "gbcompo21-shortlist", "gbprinter", "gb-showdown-22"]
+                "enum":
+                [
+                    "RPG",
+                    "Open Source",
+                    "Adventure",
+                    "Action",
+                    "Puzzle",
+                    "Platform",
+                    "gbajam21",
+                    "gbcompo21",
+                    "gbcompo21-shortlist",
+                    "gbprinter",
+                    "gb-showdown-22"
+                ]
             }
         },
         "alias":
@@ -128,9 +161,11 @@
                 "$ref": "#/definitions/file"
             }
         }
-
     },
-    "required": ["slug"],
+    "required":
+    [
+        "slug"
+    ],
     "definitions":
     {
         "file":
@@ -146,9 +181,15 @@
                 {
                     "type": "string"
                 },
-                "type": {
+                "type":
+                {
                     "type": "string",
-                    "enum": ["rom", "manual", "release"]
+                    "enum":
+                    [
+                        "rom",
+                        "manual",
+                        "release"
+                    ]
                 },
                 "playable":
                 {
@@ -180,12 +221,16 @@
                     "description": "Describes if the file is the default ROM to play"
                 }
             },
-            "required": ["filename"]
+            "required":
+            [
+                "filename"
+            ]
         },
         "license":
         {
             "type": "string",
-            "enum": [
+            "enum":
+            [
                 "0BSD",
                 "AAL",
                 "Abstyles",
@@ -540,7 +585,6 @@
                 "ZPL-2.0",
                 "ZPL-2.1"
             ]
-
         }
     }
 }
