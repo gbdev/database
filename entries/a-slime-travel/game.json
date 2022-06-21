@@ -1,0 +1,23 @@
+{
+    "developer": "Dribble Studios",
+    "files": [
+        {
+            "default": true,
+            "filename": "aslimetravel.gbc",
+            "playable": true
+        }
+    ],
+    "license": "Zlib",
+    "platform": "GBC",
+    "screenshots": [
+        "aslimetravel0.png",
+        "aslimetravel1.bpm",
+        "aslimetravel2.bpm"
+    ],
+    "slug": "a-slime-travel",
+    "tags": [
+        "Platform"
+    ],
+    "title": "A Slime Travel",
+    "typetag": "game"
+}
