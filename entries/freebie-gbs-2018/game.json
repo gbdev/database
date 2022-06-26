@@ -1,4 +1,5 @@
 {
+    "developer": "nitro2k01 (code), nordloef, arpsonix, immortan, graz, Tommy Creep, donotrun withpixels, the other days (songs)",
     "files": [
         {
             "default": true,
@@ -11,7 +12,7 @@
         "enable": true
     },
     "screenshots": [
-        "freebie-gbs-2018.png"
+        "01.png", "freebie-gbs-2018.png"
     ],
     "slug": "freebie-gbs-2018",
     "title": "Freebie-GBs-2018",
