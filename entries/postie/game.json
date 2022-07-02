@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "SuLxOk.gif",
+        "1OGZ2F2.gif",
+        "7yer4m.gif"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/inverted-hat/postie",
+    "gameLicense": "MIT",
+    "tags": [
+        "Platform",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Postie-1.1.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "invertedHat",
+    "date": "2022-06-12T10:16:00",
+    "website": "https://invertedhat.itch.io/postie",
+    "slug": "postie",
+    "title": "Postie"
+}

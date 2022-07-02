@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "JqELDv.png",
+        "Xjao9R.png",
+        "ISnWVV.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "proofofconcept.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Elvies",
+    "date": "2022-06-13T03:45:00",
+    "website": "https://elvies.itch.io/ripir-proof-of-concept",
+    "slug": "ripir-proof-of-concept",
+    "title": "\u00ca\u0080\u00c9\u00aa\u00e1\u00b4\u0098\u00c9\u00aa\u00e1\u00b4\u0099 [proof of concept]"
+}

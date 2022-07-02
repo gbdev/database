@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "3TxJ4L.gif",
+        "zg6cIJ.gif",
+        "62BgFVp.gif",
+        "owmhWk.gif",
+        "WjsVVh.gif",
+        "EpF99o.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Expiration_Date.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "howdy riceball",
+    "date": "2022-06-23T15:09:00",
+    "website": "https://howdyriceball.itch.io/expiration-date",
+    "slug": "expiration-date",
+    "title": "Expiration Date (GBC)"
+}

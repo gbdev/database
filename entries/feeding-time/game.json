@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2FSfwXT.png",
+        "e3YkFg.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Survival",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "feeding-time.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Hohenstaufer",
+    "website": "https://hohenstaufer.itch.io/feeding-time",
+    "slug": "feeding-time",
+    "title": "Feeding Time"
+}
