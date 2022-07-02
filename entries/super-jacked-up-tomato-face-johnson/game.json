@@ -17,7 +17,7 @@
     "files": [
         {
             "default": true,
-            "filename": "Super_Jacked_Up_Tomato_Face_Johnson_v2.0.gb",
+            "filename": "Super_Jacked_Up_Tomato_Face_Johnson_v2.3.gbc",
             "playable": true
         }
     ],
@@ -25,7 +25,7 @@
         "GumpyFunction",
         "Vault Kid"
     ],
-    "date": "2022-05-29T06:46:00",
+    "date": "2022-06-28T22:22:00",
     "website": "https://gumpyfunction.itch.io/super-jacked-up-tomato-face-johnson",
     "slug": "super-jacked-up-tomato-face-johnson"
 }
