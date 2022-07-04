@@ -99,7 +99,12 @@
                     "gbcompo21-shortlist",
                     "gbprinter",
                     "gb-showdown-22",
-                    "Survival"
+                    "Survival",
+                    "Shooter",
+                    "Visual Novel",
+                    "Simulation",
+                    "Educational",
+                    "Rhythm"
                 ]
             }
         },
