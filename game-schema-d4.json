@@ -104,7 +104,13 @@
                     "Visual Novel",
                     "Simulation",
                     "Educational",
-                    "Rhythm"
+                    "Rhythm",
+                    "Card Game",
+                    "Strategy",
+                    "Racing",
+                    "Sports",
+                    "Fighting",
+                    "Interactive Fiction"
                 ]
             }
         },
