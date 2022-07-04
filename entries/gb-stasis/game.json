@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "LzWxDh.png",
+        "IWBIwH.png",
+        "t3COoZ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GBStasis_Demo_(v0_83).gb",
+            "playable": true
+        }
+    ],
+    "developer": "byrontrent",
+    "website": "https://byrontrent.itch.io/gb-stasis",
+    "slug": "gb-stasis",
+    "title": "STASIS [GB DEMO]"
+}

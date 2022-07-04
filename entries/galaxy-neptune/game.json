@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "yauSMX.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "incognitio",
+    "website": "https://incognitio-gameboy.itch.io/galaxy-neptune",
+    "slug": "galaxy-neptune",
+    "title": "Galaxy Neptune"
+}

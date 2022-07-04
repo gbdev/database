@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Av2BQdO.gif",
+        "JDy6Lz.gif",
+        "1cE7iJ.png",
+        "0EXgPJ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Pushingo_GB_(WLS).gb",
+            "playable": true
+        }
+    ],
+    "developer": "Rajcs\u00c3\u00a1nyi L\u00c3\u00a1szl\u00c3\u00b3 (WLS)",
+    "website": "https://lacoste42.itch.io/pushingo",
+    "slug": "pushingo",
+    "title": "Pushingo",
+    "description": "An original release from WLS to Nintendo's Gameboy handheld console."
+}

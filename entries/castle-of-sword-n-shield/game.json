@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "4QCpKv.png",
+        "PZSBiN.png",
+        "Fig2B7y.png",
+        "p7Ox2R.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Card Game",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "main.gb",
+            "playable": true
+        }
+    ],
+    "developer": "its-terra",
+    "website": "https://its-terra.itch.io/castle-of-sword-n-shield",
+    "slug": "castle-of-sword-n-shield",
+    "title": "Castle of Sword & Shield",
+    "description": "Roguelike with turn-based combat"
+}

@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "52FkEdS.gif",
+        "b4GPCd.gif",
+        "TccPdm.png",
+        "X75K1E.png",
+        "uWwIgb.png",
+        "72FJKqT.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "acattag_GBJAM9.gb",
+            "playable": true
+        }
+    ],
+    "developer": "selkie",
+    "website": "https://selkkie.itch.io/acattag",
+    "slug": "acattag",
+    "title": "ACATTAG",
+    "description": "Gene-editing puzzle platformer for the original Game Boy"
+}

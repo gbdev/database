@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "8BUdpA.png",
+        "jNQYHj.png",
+        "SANp7P.png",
+        "eWHyy5.png",
+        "4RTYyT.png",
+        "zF2Benu.png",
+        "NOu7bL.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "001_Train_Bandits.gb",
+            "playable": true
+        }
+    ],
+    "developer": "reinagaoka",
+    "website": "https://reinagaoka.itch.io/train-bandits",
+    "slug": "train-bandits",
+    "title": "Train Bandits",
+    "description": "Protect your train!!!"
+}

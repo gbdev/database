@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "praEhl.png",
+        "qyttq1.png",
+        "xt4Hk3.png",
+        "QwZAPM.png",
+        "4qierC.png",
+        "Mj712T.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Patrician.gbc",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "Mahou Shoujo \u00e2\u0098\u0086 Magical Moestar",
+        "one60hp"
+    ],
+    "website": "https://mahoushoujomagicalmoestar.itch.io/patrician",
+    "slug": "patrician",
+    "title": "Patrician"
+}

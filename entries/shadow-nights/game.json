@@ -1,0 +1,21 @@
+{
+    "screenshots": [
+        "cover.png",
+        "94NgPN.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "EdNedula",
+    "website": "https://cosmicratstudio.itch.io/shadow-nights",
+    "slug": "shadow-nights",
+    "title": "Shadow Nights demo"
+}

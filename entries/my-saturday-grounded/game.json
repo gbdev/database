@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "MQp2CL.png",
+        "9hyQkA.png",
+        "ide2Fpb.png",
+        "AYNCOF.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "satgrnd_v1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "tustin2121",
+    "website": "https://tustin2121.itch.io/my-saturday-grounded",
+    "slug": "my-saturday-grounded",
+    "title": "My Saturday Grounded",
+    "description": "A Short Tale about doing the Wrong Thing"
+}

@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "akd00K.png",
+        "mmgAA2B.png",
+        "lq4GbC.png",
+        "5rN35q.png",
+        "lG1UZU.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Legend_Of_Doge.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Imperium Serbicum",
+    "website": "https://imperium-serbicum.itch.io/legend-of-doge",
+    "slug": "legend-of-doge",
+    "title": "Legend of Doge",
+    "description": "Laky tries to find Doge."
+}

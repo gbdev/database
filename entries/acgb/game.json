@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "hdasAs.png",
+        "jaR7x1.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ACGB_A04.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Villagerjj",
+    "website": "https://villagerjj.itch.io/acgb",
+    "slug": "acgb",
+    "title": "Animal Crossing GB",
+    "description": "This is an attempt to port the gamecube experience to gameboy! Inspired by MortMort"
+}

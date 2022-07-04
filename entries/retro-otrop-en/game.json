@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "prznw2B.png",
+        "S002Io.png",
+        "rgc7q2F.png",
+        "HHK62BK.png",
+        "U8t2FVx.png",
+        "DnHeY1.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Iuri Gui\u00c3\u00a3o",
+    "website": "https://iuriguiao.itch.io/retro-otrop-en",
+    "slug": "retro-otrop-en",
+    "title": "Retro Otrop - English Version"
+}

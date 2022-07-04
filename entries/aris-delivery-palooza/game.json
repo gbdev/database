@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "sUlum2.png",
+        "j31m2Fd.png",
+        "uyEJHK.png",
+        "7LLlu2F.png",
+        "R6dxjL.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "developer": [
+        "oykdon93",
+        "Chagas12"
+    ],
+    "website": "https://oykdon93.itch.io/aris-delivery-palooza",
+    "slug": "aris-delivery-palooza",
+    "title": "Ari's Delivery Palooza",
+    "description": "Ari moved to a new city, and works with delivery, which should be easy, but some twists makes it harder than usual...",
+    "files": [
+        {
+            "default": true,
+            "filename": "Ari_s_delivery_Palooza.gb",
+            "playable": true
+        }
+    ]
+}

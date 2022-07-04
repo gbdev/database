@@ -1,0 +1,21 @@
+{
+    "screenshots": [
+        "cover.png",
+        "HZSF2Z.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DeltaruneBattle.gb",
+            "playable": true
+        }
+    ],
+    "developer": "DoYouEvenFish",
+    "website": "https://doyouevenfish.itch.io/deltarune-combat-demo",
+    "slug": "deltarune-combat-demo",
+    "title": "Deltarune Combat Demo"
+}

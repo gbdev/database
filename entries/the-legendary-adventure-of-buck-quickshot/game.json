@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "o0BhXU.png",
+        "RhXEbz.png",
+        "ZhG2FZo.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TheLegendaryAdventureofBuckQuickshot_V2.gb",
+            "playable": true
+        }
+    ],
+    "developer": "wbutz1",
+    "website": "https://wbutz1.itch.io/the-legendary-adventure-of-buck-quickshot",
+    "slug": "the-legendary-adventure-of-buck-quickshot",
+    "title": "The Legendary Adventure of Buck Quickshot!",
+    "description": "An Adventure game made for gameboy color, for submission to GBCompo2021"
+}

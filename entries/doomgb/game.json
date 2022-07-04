@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "EfLDsU.png",
+        "fG4yF0.png",
+        "JWv2FP1.png",
+        "Zgxm8y.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DOOMGB_a04.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Villagerjj",
+    "website": "https://villagerjj.itch.io/doomgb",
+    "slug": "doomgb",
+    "title": "DOOM for GB",
+    "description": "its doom but on old hardware!!!!"
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "aY8uZL.png",
+        "KAzdYI.png",
+        "JQoGi6.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "deseo_espa\u00f1ol.gb",
+            "playable": true
+        }
+    ],
+    "developer": "sellitos2020",
+    "website": "https://sellitos2020.itch.io/deseo",
+    "slug": "deseo",
+    "title": "DESEO",
+    "description": "A boy guides an old man and a talking dog through a sacred land."
+}

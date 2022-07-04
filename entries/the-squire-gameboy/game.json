@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2FfXDb2B.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "The_Squire.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "freshdeus",
+    "website": "https://freshdeus.itch.io/the-squire-gameboy",
+    "slug": "the-squire-gameboy",
+    "title": "The Squire (Gameboy)",
+    "description": "A young hero must shoot his way to knighthood."
+}

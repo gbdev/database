@@ -1,0 +1,33 @@
+{
+    "screenshots": [
+        "cover.png",
+        "V2XmLk.png",
+        "gg0dQS.png",
+        "OeYhqb.png",
+        "S2pwzm.png",
+        "djVsbZ.png",
+        "lbchBt.png",
+        "NYS9X1.png",
+        "WTTYum.png",
+        "1pkjL3.png",
+        "JGupmx.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/NotImplementedLife/brekstascat",
+    "gameLicense": "MIT",
+    "tags": [
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "brekstascat_1_3.gb",
+            "playable": true
+        }
+    ],
+    "developer": "NotImplementedLife",
+    "website": "https://notimplementedlife.itch.io/brekstascat",
+    "slug": "brekstascat",
+    "title": "Breksta's Cat"
+}

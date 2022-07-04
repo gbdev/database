@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "p6Olpe.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "TheVaxStudio",
+    "website": "https://thevaxstudio.itch.io/max",
+    "slug": "max",
+    "title": "Max"
+}

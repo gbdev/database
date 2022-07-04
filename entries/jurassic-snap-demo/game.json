@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "KXDMaq.gif",
+        "8Aui5k.gif",
+        "t4pG0v.gif",
+        "Op7qPu.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Jurassic_Snap_DEMO_1.1_ESPANOL.gb",
+            "playable": true
+        }
+    ],
+    "developer": "howdy riceball",
+    "website": "https://howdyriceball.itch.io/jurassic-snap-demo",
+    "slug": "jurassic-snap-demo",
+    "title": "Jurassic Snap (Demo)",
+    "description": "Dinosaur photography game for the Gameboy Color."
+}

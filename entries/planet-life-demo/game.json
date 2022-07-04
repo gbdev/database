@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "rTgBWL.png",
+        "IJpznn.png",
+        "7DcUzA.png",
+        "zvpGYz.png",
+        "YHK6qz.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "MastMark_Dev",
+    "website": "https://mastmark-dev.itch.io/planet-life-demo",
+    "slug": "planet-life-demo",
+    "title": "Planet Life for Gameboy(Demo)",
+    "description": "A game with choices and decisions that have actual consequences."
+}

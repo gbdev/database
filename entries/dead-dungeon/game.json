@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ckrt7v.png",
+        "qXXHBQ.png",
+        "I5InBq.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DeadDungeon.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Robert Doman",
+    "website": "https://r-doman.itch.io/dead-dungeon",
+    "slug": "dead-dungeon",
+    "title": "Dead Dungeon",
+    "description": "Play as a skeleton and fight through a dundeon in this retro rogue-superlite."
+}

@@ -1,0 +1,21 @@
+{
+    "screenshots": [
+        "3zcJGp.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ISLANDSTORY.gb",
+            "playable": true
+        }
+    ],
+    "developer": "hcase",
+    "website": "https://hcase.itch.io/island-story",
+    "slug": "island-story",
+    "title": "Island Story"
+}

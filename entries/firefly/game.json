@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Lwmuhc.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "scottamass",
+    "website": "https://scottamass.itch.io/firefly",
+    "slug": "firefly",
+    "title": "Firefly",
+    "description": "catch the rings to stay alight"
+}

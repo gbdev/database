@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "9jO6bK.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Deep_Dungeon_v1.3.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Lazy Dev Games",
+    "website": "https://lazydevs.itch.io/deep-dungeon",
+    "slug": "deep-dungeon",
+    "title": "Deep Dungeon",
+    "description": "A roguelike for the Gameboy, built in GB Studio. GBCOMPO21 Entry."
+}

@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "cover.png",
+        "mlghyR.png",
+        "M5jp4Z.png",
+        "EqRft6.png",
+        "4L5ihb.png",
+        "OCj03W.png",
+        "wh1BMB.png",
+        "p88T2g.png",
+        "1GBiQC.png",
+        "hUFGnj.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Shooter",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "RAYSLINGER-PROTOTYPE-V02-1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Unicore",
+    "website": "https://unicore.itch.io/rayslinger",
+    "slug": "rayslinger",
+    "title": "Rayslinger\u00e2\u0084\u00a2 (GBC)",
+    "description": "Game Boy Color prototype"
+}

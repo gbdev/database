@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "AepUkQ.png",
+        "vyP0yg.png",
+        "M2BwgBj.png",
+        "I5bopX.png",
+        "bwGQKa.png",
+        "WT648B.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbcompo21"
+    ],
+    "developer": "The Flying Cortijo",
+    "website": "https://tfc.itch.io/light-boy-game",
+    "slug": "light-boy-game",
+    "title": "Light Boy Game (Demo)",
+    "description": "A classic platform game with original mechanics that will surprise you!  Help Wigyu bring light to the world!",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

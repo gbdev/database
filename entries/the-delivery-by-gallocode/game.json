@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "s43eja.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "The-Delivery.gb",
+            "playable": true
+        }
+    ],
+    "developer": "GalloCode",
+    "website": "https://gallocode.itch.io/the-delivery-by-gallocode",
+    "slug": "the-delivery-by-gallocode",
+    "title": "The Delivery  by GalloCode",
+    "description": "A game based on a true story"
+}

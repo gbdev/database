@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "XBI3Ye.png",
+        "ZSaxLS.png",
+        "MxL6AD.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "onebitpaint.gb",
+            "playable": true
+        }
+    ],
+    "developer": "dreamlandgames",
+    "website": "https://dreamlandgames.itch.io/one-bit-paint",
+    "slug": "one-bit-paint",
+    "title": "One Bit Paint",
+    "description": "GameBoy's One Bit Paint application for Game Boy Competition 2021"
+}

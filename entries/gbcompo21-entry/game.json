@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "xWiGT2F.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Repugnant Bounty",
+    "website": "https://skittlesfiddles.itch.io/gbcompo21-entry",
+    "slug": "gbcompo21-entry",
+    "title": "GBCOMPO21 Entry",
+    "description": "Its not much but here"
+}

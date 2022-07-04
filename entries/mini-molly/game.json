@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "WvQF8O.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "developer": "therurik",
+    "website": "https://therurik.itch.io/mini-molly",
+    "slug": "mini-molly",
+    "title": "Mini Molly",
+    "description": "Micro scale, macro stakes",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

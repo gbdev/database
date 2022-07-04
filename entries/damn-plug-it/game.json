@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "rSHEq4.png",
+        "7g0J4X.png",
+        "RUsqh4.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DPI.gb",
+            "playable": true
+        }
+    ],
+    "developer": "[TheDarkTiger]",
+    "website": "https://thedarktiger.itch.io/damn-plug-it",
+    "slug": "damn-plug-it",
+    "title": "Damn! Plug it!",
+    "description": "A prototype of what should have been my entry to the GB compo 2021"
+}

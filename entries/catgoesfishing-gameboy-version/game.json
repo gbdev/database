@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "CalToc.png",
+        "DQzvvD.png",
+        "ehWker.png",
+        "mMfjyK.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Strategy",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Thundersparks",
+    "website": "https://thundersparks.itch.io/catgoesfishing-gameboy-version",
+    "slug": "catgoesfishing-gameboy-version",
+    "title": "CatGoesFishing -Gameboy version"
+}

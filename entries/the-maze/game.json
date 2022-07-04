@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "QOGpNK.png",
+        "izOgAp.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "the_maze.gb",
+            "playable": true
+        }
+    ],
+    "developer": "CWB Game Studio",
+    "website": "https://cwbgamestudio.itch.io/the-maze",
+    "slug": "the-maze",
+    "title": "The Maze"
+}

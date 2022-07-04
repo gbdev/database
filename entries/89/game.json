@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "wtPOtV.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "W95_b06.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Villagerjj",
+    "website": "https://villagerjj.itch.io/89",
+    "slug": "89",
+    "title": "Windows 89",
+    "description": "This is a simple operating system for the gameboy."
+}

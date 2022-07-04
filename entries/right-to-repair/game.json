@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "TpjRSH.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "developer": "pagemur4",
+    "website": "https://pagemur4.itch.io/right-to-repair",
+    "slug": "right-to-repair",
+    "title": "Right to Repair",
+    "description": "Reassemble your Gameboy to progress through the game",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

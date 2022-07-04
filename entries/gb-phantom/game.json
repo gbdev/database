@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "gZm7d9.png",
+        "ZBaM5n.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Phantom.gb",
+            "playable": true
+        }
+    ],
+    "developer": "byrontrent",
+    "website": "https://byrontrent.itch.io/gb-phantom",
+    "slug": "gb-phantom",
+    "title": "PHANTOM [GB CONCEPT]"
+}

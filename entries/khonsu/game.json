@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ppbX2Fh.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Khonsu.gb",
+            "playable": true
+        }
+    ],
+    "developer": "redoctorok",
+    "website": "https://redoctorok.itch.io/khonsu",
+    "slug": "khonsu",
+    "title": "Khonsu",
+    "description": "Shoot em up, puzzle game."
+}

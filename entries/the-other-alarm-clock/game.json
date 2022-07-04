@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Oc8zyH.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "the_other_alarm2.gb",
+            "playable": true
+        }
+    ],
+    "developer": "pixjuan",
+    "website": "https://pixjuan.itch.io/the-other-alarm-clock",
+    "slug": "the-other-alarm-clock",
+    "title": "ClockBoy - The Other Alarm Clock",
+    "description": "Turn your Gameboy into an alarm clock"
+}

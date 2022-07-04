@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "HeXcxQ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "developer": "pixelloren",
+    "website": "https://pixelloren.itch.io/hey-you-pikachu-demake",
+    "slug": "hey-you-pikachu-demake",
+    "title": "Hey You! Pikachu Demake",
+    "description": "Be friends with Pikachu!",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

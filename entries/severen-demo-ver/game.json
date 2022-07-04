@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ObIT8d.png",
+        "z7fTVv.png",
+        "SN3yeP.png",
+        "hZpyoy.png",
+        "QmOKNj.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "developer": "-IZMA-",
+    "website": "https://izma.itch.io/severen-demo-ver",
+    "slug": "severen-demo-ver",
+    "title": "Severen - Demo Ver.",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

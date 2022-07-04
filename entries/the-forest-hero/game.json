@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ziG8GK.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "The_Forest_Hero.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Geckoball",
+    "website": "https://geckoball.itch.io/the-forest-hero",
+    "slug": "the-forest-hero",
+    "title": "The Forest Hero",
+    "description": "My first project using GB Studio."
+}

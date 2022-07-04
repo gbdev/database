@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "atbxNq.png",
+        "nOBQcC.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Residential.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Stranger",
+    "website": "https://astrangerontheinternet.itch.io/3rd-person-horror-game",
+    "slug": "3rd-person-horror-game",
+    "title": "3rd person Horror Game",
+    "description": "A 3rd person survival Horror game made for the GBC"
+}

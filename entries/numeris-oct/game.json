@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "X81U8l.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Yprit",
+    "website": "https://yprit.itch.io/numeris-oct",
+    "slug": "numeris-oct",
+    "title": "Numeris OCT",
+    "description": "A GB version of Soviet calculator game"
+}

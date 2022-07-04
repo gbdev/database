@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "WA93FN.png",
+        "WrkEEV.png",
+        "2XBaF9.png",
+        "FTALfD.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "MastMark_Dev",
+    "website": "https://mastmark-dev.itch.io/work-in-progress",
+    "slug": "work-in-progress",
+    "title": "Work In Progress",
+    "description": "A game for the gameboy or (and most likely) a gameboy emulator."
+}

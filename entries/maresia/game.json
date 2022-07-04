@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "D2B5jO6.png",
+        "iIpgn6.png",
+        "hUvQ5b.png",
+        "D19vtr.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Maresia_v1.1_en-ptbr.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Fyichi",
+    "date": "2022-06-30T05:04:00",
+    "website": "https://fyichi.itch.io/maresia",
+    "slug": "maresia",
+    "title": "MARESIA",
+    "description": "GameBoy Seaside Adventure RPG"
+}

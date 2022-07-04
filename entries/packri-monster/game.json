@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Lprh7K.png",
+        "L8i6sv.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Packri_Monster.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Eric Llim\u00c3\u00b3s",
+    "website": "https://popcalent.itch.io/packri-monster",
+    "slug": "packri-monster",
+    "title": "Packri Monster",
+    "description": "Gameboy port of the same name hand held game from the 80s."
+}

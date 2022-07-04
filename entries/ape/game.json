@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "nEy4FO.png",
+        "flalV0.png"
+    ],
+    "typetag": "game",
+    "repository": "https://drive.google.com/drive/folders/1Nyc8BdJ1AIGFJK5jikG6ICUTae3LGsLI?usp=sharing",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "APE_v1_02.gb",
+            "playable": true
+        }
+    ],
+    "developer": "byrontrent",
+    "website": "https://byrontrent.itch.io/ape",
+    "slug": "ape",
+    "title": "APE for GB Studio 2.0.0 Beta 5 [TOOL]"
+}

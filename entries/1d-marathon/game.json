@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "DneWwt.png",
+        "nhJh5a.png",
+        "9jV7PK.png",
+        "p9ICny.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "1D_Marathon.gb",
+            "playable": true
+        }
+    ],
+    "developer": "VL2M STUDIO",
+    "website": "https://vl2m-studio.itch.io/1d-marathon",
+    "slug": "1d-marathon",
+    "title": "1D Marathon",
+    "description": "A pseudo-1D infinite runner game"
+}

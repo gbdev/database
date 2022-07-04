@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "O5lH8M.png",
+        "20Ji9w.png",
+        "ULT68e.png",
+        "R2FUcTr.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/Rafagars/Unstoppable-Knight-GB",
+    "gameLicense": "MIT",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "knight2.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Rafagars",
+    "website": "https://rafagars.itch.io/unstoppable-knight",
+    "slug": "unstoppable-knight",
+    "title": "Unstoppable Knight",
+    "description": "A short and simple Game Boy game"
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "eiFVcL.png",
+        "Xbo2FA1.png",
+        "D6KWBW.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "SpaceCrawler.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Robert Doman",
+    "website": "https://r-doman.itch.io/space-crawler",
+    "slug": "space-crawler",
+    "title": "Space Crawler",
+    "description": "Game Boy space adventure prototype."
+}

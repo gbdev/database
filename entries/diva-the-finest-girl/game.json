@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "q4ddti.png",
+        "RTy8jK.png",
+        "AG0qY2.png",
+        "7x3fNQ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Diva_-_The_Finest_Girl.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Sajjad Khan",
+    "website": "https://sajjad-khan.itch.io/diva-the-finest-girl",
+    "slug": "diva-the-finest-girl",
+    "title": "Diva - The Finest Girl"
+}

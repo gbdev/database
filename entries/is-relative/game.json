@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "fgKYdA.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Is_relative_french.gb",
+            "playable": true
+        }
+    ],
+    "developer": "I_dig_a_hole",
+    "website": "https://i-dig-a-hole.itch.io/is-relative",
+    "slug": "is-relative",
+    "title": "Is_relative",
+    "description": "More than a game, more than an interactive book, a way of life !"
+}

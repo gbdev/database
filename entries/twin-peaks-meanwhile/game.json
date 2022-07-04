@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "P0topl.png",
+        "0lXOKy.png",
+        "EiMjDB.png",
+        "fRyPSt.png",
+        "bJMs3j.png",
+        "q2FyEda.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Twin_Peaks_Meanwhile.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Tory Sciaccca",
+    "website": "https://torysciacca.itch.io/twin-peaks-meanwhile",
+    "slug": "twin-peaks-meanwhile",
+    "title": "Twin Peaks: Meanwhile",
+    "description": "A reimagining of Twin Peaks for the Game Boy"
+}

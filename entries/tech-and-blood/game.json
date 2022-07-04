@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "G0OQnh.jpeg",
+        "KKQzAr.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Roseum Team",
+    "website": "https://roseumteam.itch.io/tech-and-blood",
+    "slug": "tech-and-blood",
+    "title": "Tech and Blood"
+}

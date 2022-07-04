@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "y6Bc2H.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "PEASANTQUEST_Demake_09292021.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Farioto",
+    "website": "https://farioto.itch.io/peasantsquestgbcompo21",
+    "slug": "peasantsquestgbcompo21",
+    "title": "Peasant'sQuest GB Demake (WIP)(GBCOMPO21)",
+    "description": "Peasant'sQuest GB Demake Work In Progress #GBcompo21"
+}

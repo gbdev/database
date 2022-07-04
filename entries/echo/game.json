@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "thtzTR.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "echo_v12a.gb",
+            "playable": true
+        }
+    ],
+    "developer": "byrontrent",
+    "website": "https://byrontrent.itch.io/echo",
+    "slug": "echo",
+    "title": "ECHO [GBC DEMO]"
+}

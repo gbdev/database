@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "82LIiW.png",
+        "Cti4h2B.png",
+        "mVZ1Hj.png",
+        "H2NMJx.png",
+        "cWVVbr.png",
+        "LSVEy7.png",
+        "vDmFvb.png",
+        "XDAbTT.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Adulting_Soundtrack.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Eric Wilder",
+    "website": "https://eric-c-wilder.itch.io/adulting",
+    "slug": "adulting",
+    "title": "Adulting!",
+    "description": "Press the B button to cuss."
+}

@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.jpeg",
+        "odXK2BF.jpeg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "queen.gb",
+            "playable": true
+        }
+    ],
+    "developer": "kanzwataru",
+    "website": "https://kanzwataru.itch.io/queens-rising",
+    "slug": "queens-rising",
+    "title": "Queen's Rising Demo",
+    "description": "A pre-release playable demo for Queen's Rising"
+}

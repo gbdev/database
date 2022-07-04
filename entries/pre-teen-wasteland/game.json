@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "mwvoaR.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Pre-Teen_Wasteland_v1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "sloopygoop",
+    "website": "https://sloopygoop.itch.io/pre-teen-wasteland",
+    "slug": "pre-teen-wasteland",
+    "title": "Pre-Teen Wasteland",
+    "description": "A music album for the Game Boy."
+}

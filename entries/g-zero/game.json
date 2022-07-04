@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "u9WWpi.jpg",
+        "jOaTqj.png",
+        "QzHJg7.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Racing",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "G-ZERO_V2_6_0.gb",
+            "playable": true
+        }
+    ],
+    "developer": "User0x7f",
+    "website": "https://user0x7f.itch.io/g-zero",
+    "slug": "g-zero",
+    "title": "G-ZERO GB",
+    "description": "A racing game for the Gameboy"
+}

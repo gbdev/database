@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "GZRy2FB.png",
+        "Wr2BuoJ.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/NotImplementedLife/Trabant",
+    "gameLicense": "GPL-3.0-only",
+    "tags": [
+        "Simulation",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Trabant_1_3.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "NotImplementedLife",
+    "website": "https://notimplementedlife.itch.io/trabant",
+    "slug": "trabant",
+    "title": "Trabant"
+}

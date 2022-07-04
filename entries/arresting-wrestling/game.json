@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "uFxv9w.png",
+        "6F6UYG.png",
+        "aXo2B4W.gif",
+        "AQhx2FQ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "developer": "ArrestingWrestling",
+    "website": "https://arrestingwrestling.itch.io/arresting-wrestling",
+    "slug": "arresting-wrestling",
+    "title": "Arresting Wrestling Demo!",
+    "description": "Wrestling murder mystery!",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

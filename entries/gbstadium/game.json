@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "TLUTtk.jpg",
+        "iQXAZt.png",
+        "0j3v9W.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/ELV13Stm/GBStadium-Public-Project.git",
+    "tags": [
+        "Fighting",
+        "Platform",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GBStadium_0.2.1_Arcade.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Elvies",
+    "website": "https://elvies.itch.io/gbstadium",
+    "slug": "gbstadium",
+    "title": "GB Stadium",
+    "description": "GB Studio's platformer-fighter collab."
+}

@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "QNneN0.png",
+        "2BYtHp0.png",
+        "ZxDySv.png",
+        "hutWLV.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "MHGB_Demo_V1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "ivan",
+    "website": "https://ivannevenn.itch.io/mhgb",
+    "slug": "mhgb",
+    "title": "MHGB",
+    "description": "Monster Hunter (Freedom Unite?) on the Nintendo Game Boy. A pet project made with GB Studio."
+}

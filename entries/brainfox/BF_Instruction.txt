@@ -1,0 +1,101 @@
+BrainFox Programming
+
+
+DESCRIPTION
+BrainFox (BF) is a "dialect" of BrainFuck language that is designed to be run on Game Boy and a native translator of it.
+Unlike the original BrainFuck that doesn't have any program length limitation and had 30,000 one-byte memory cells, this version allows to input and run program that consists of no more than 7200 operators and operates with up to 5000 one-byte memory cells.
+The BF program is cycled; it automatically returns to the start from the end. You can only stop it manually.
+
+SYNTAX
+Syntax is the same that the original BrainFuck has. There is only 8 operators (commands); in BF version you can't leave comments (except for the space). Here are these commands:
+> goto next cell;
+< goto previous cell;
++ increase the value in the current cell by 1;
+- decrease the value in the current cell by 1;
+. output the value of the current cell*;
+, intput the value in the current cell**;
+[ if value of the current cell = 0 then jump forward to the command after the matching ']'
+] if value of the current cell != 0 then jump backward to the matching '['
+
+* - output is performed in 'console' according to ASCII table.
+** - input is performed with A, B, SELECT and arrow keys; any key responds for some bit.
+Besides, BF has a space comment (the program consists of spaces by default). You can use space for program markup. The space doesn't interpret though it takes one byte in program memory.
+
+
+WORKING WITH INTERPRETER
+The BF interpreter consists of 3 parts and allows 3 mods:
+0. Start screen;
+1. Code editor;
+2. Interpreter;
+Below you can read a review of every of them.
+
+0. START SCREEN
+Start screen displays the main information about interpretator (title, version and it's qualities, who is author etc.) and is displayed on screen when Game Boy with BF cartridge is switched on.
+
+1. CODE EDITOR
+Code editor is designed for input, viewing and editing the BF code. It consists of 3 parts:
+a) the 18x10 input window with cursor;
+b) the D-pad help;
+c) cursor counter (helps to control the position of it).
+The program saves and loads automatically.
+
+Editing the program:
+a) to input and edit use D-pad with A (look at the D-pad help on the screen). Press B to erase the operator. Press START+SELECT to erase the entire program (DO IT WHEN YOU LOADING BF THE 1ST TIME!);
+b) to move cursor use D-pad + SELECT;
+c) to run program press START;
+
+2. INTERPRETER
+Interpreter works as it is written in "Syntax". To go to editor press START.
+
+
+
+
+
+
+APPLICATION
+
+
+1. SYMBOL TABLE
+BF uses standart ASCII table, but 7F is delta (triangle). It is not recommended to use hex80 and next symbols.
+
+2. JOYPAD TABLE
+Any key responds for one bit. There is 8 keys, so the state of joypad can be written in 1 byte.
+0 	right
+1 	left
+2	up
+3	down
+4	a
+5	b
+6	select
+7	start*
+* - as the START key is reserved for interpreter stop, you can't use it to input.
+
+3. SOME PROGRAMS AND USEFUL CODE PATTERNS
+To make it easier to read programs, numbers in round brackets are used to indicate how many times you must enter the operator, written in front of them.
+For example,
+++++++++++
+is the same, as
++(10)
+
+PATTERNS
+[-] or [+]	zeroing the current cell.
+
+PROGRAMS
+
+1) Displays all valid characters in ascending order of their ASCII codes
+.[+.]
+
+2) Joypad test
+,+(32).
+
+3) Hello World (complex variant)
++(10)[>+(7)>+(10)>+++>+<<<<-]
+>++.>+.+(7)..+++.>++.
+<<+(15).>.+++.-(6).-(8).>+.>.
+Important! After printing Hello World the program will work incorrectly because there is no zeroing of memory cells and "cursor" position.
+
+4. VERSION HISTORY
+1.0 - alpha. 32K cartridge, no saving; code length = 5 KB, 500 memory cells;
+1.1 - alpha with saving; 32K ROM + 8K RAM cartridge; code length = 5 KB, 500 memory cells;
+1.2 - beta with code saving; 32K ROM + 8K RAM cartridge; code length = 7200 KB, 5000 memory cells;
+1.3 - release version (looks better than previous :3 )

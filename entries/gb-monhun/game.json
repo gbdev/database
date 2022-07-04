@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "V75Muk.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GBMonHunMUSIC.gb",
+            "playable": true
+        }
+    ],
+    "developer": "timisrllybored",
+    "website": "https://timisrllybored.itch.io/gb-monhun",
+    "slug": "gb-monhun",
+    "title": "GB Monster Hunter Music Cart",
+    "description": "Monster Hunter for the gameboy?"
+}

@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "0cldgh.png",
+        "zKJJWd.jpg",
+        "TiEUnB.jpg",
+        "URePMJ.jpg",
+        "5wxCED.png",
+        "n6rqrf.png",
+        "FBvzoA.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "YOCHIMIELWEB.gb",
+            "playable": true
+        }
+    ],
+    "developer": "jdcarling",
+    "website": "https://jdcarling.itch.io/yochi-miel-the-crenalator-trials",
+    "slug": "yochi-miel-the-crenalator-trials",
+    "title": "Yochi & Miel: The Crenalator Trials",
+    "description": "Recapture the Cornerstone, Stop the Crenalator, Save the Architecture"
+}

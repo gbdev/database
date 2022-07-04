@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Q4KyWq.jpg",
+        "sISNZ6.jpg",
+        "zUDNAC.jpg",
+        "FCEWEG.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "developer": "GameBuoyGames - Michael Towns",
+    "website": "https://game-buoy-games.itch.io/scarymazegame",
+    "slug": "scarymazegame",
+    "title": "Classic Internet Scary Maze Game: Game Boy Edition",
+    "description": "The All Time Legendary Internet Classic...But On Game Boy. For Some Reason.",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

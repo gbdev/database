@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "K75V5L.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Apocalypse.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Graywyck",
+    "website": "https://graywyck.itch.io/apocalypse",
+    "slug": "apocalypse",
+    "title": "Apocalypse (Music Cartridge)",
+    "description": "A simple music cartridge for the Game Boy Competition"
+}

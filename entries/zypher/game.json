@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "HHMF82.png",
+        "Ixfs7J.png",
+        "2F2gKsP.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/PixelPhobicGames/Zypher",
+    "tags": [
+        "Shooter",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Zypher.gb",
+            "playable": true
+        }
+    ],
+    "developer": "PixelPhobicGames",
+    "website": "https://pixelphobicgames.itch.io/zypher",
+    "slug": "zypher",
+    "title": "Zypher",
+    "description": "a Gameboy Homebrew Side Shooter"
+}

@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "pnMdyE.png",
+        "fpJojo.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "K32_Super_Rocket_(World)_(Rev4)_(GBCompatible).gbc",
+            "playable": true
+        }
+    ],
+    "developer": "jona32u4 hm",
+    "website": "https://jona32u4.itch.io/k32superrocket",
+    "slug": "k32superrocket",
+    "title": "K32 Super Rocket",
+    "description": "A 2d sidescrolling space shooter for gameboy written in assembly. Only 32kb! :D"
+}

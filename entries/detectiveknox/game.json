@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2ywkxI.png",
+        "L6fqrh.png",
+        "BDoXLk.png",
+        "yghe2BQ.png",
+        "V94ixK.png",
+        "foFaY2B.png",
+        "eI9nwC.png",
+        "IZP1u2B.png",
+        "9heWXw.png",
+        "oBN9zq.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "detective_knox_in_-_the_doppelg\u00e4nger_-_Demo.gb",
+            "playable": true
+        }
+    ],
+    "developer": "pcavalcanti",
+    "website": "https://pcavalcanti.itch.io/detectiveknox",
+    "slug": "detectiveknox",
+    "title": "Detective Knox In: The Doppelg\u00c3\u00a4nger (Demo)",
+    "description": "A detective story created for the Game Boy Competition 2021"
+}

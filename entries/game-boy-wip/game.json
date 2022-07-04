@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "M9HYHc.png",
+        "4uUvDB.png",
+        "2BLoI9d.png",
+        "naebuT.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "platinumdev",
+    "website": "https://platinumdev.itch.io/game-boy-wip",
+    "slug": "game-boy-wip",
+    "title": "Game Boy W.I.P",
+    "description": "A game about a guy who discovers the secrets of his mysterious world."
+}

@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "jlFvSu.png",
+        "i0xSyq.gif",
+        "LEKku5.png",
+        "XimSvF.png",
+        "RkCfaY.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "tunnel.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Mindbleach",
+    "website": "https://mindbleach.itch.io/stunner",
+    "slug": "stunner",
+    "title": "STUNNER",
+    "description": "Legally distinct from STUN Runner by Atari Games"
+}

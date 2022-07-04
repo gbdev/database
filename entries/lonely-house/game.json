@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "xnAjil.png",
+        "moPqJW.png",
+        "FeBXtS.png",
+        "uGUQug.png",
+        "n2BjdLM.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "Survival",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Lonely_House.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Curious Fox",
+    "website": "https://curious-fox-games.itch.io/lonely-house",
+    "slug": "lonely-house",
+    "title": "Lonely House",
+    "description": "Some strange people are trying to take your property, drive them out."
+}

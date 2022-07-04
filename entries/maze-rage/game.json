@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "92BG78v.png",
+        "UNlyTC.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "maze_game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "irishgreencitrus",
+    "website": "https://irishgreencitrus.itch.io/maze-rage",
+    "slug": "maze-rage",
+    "title": "Maze Rage GB",
+    "description": "A maze generation demo/game on Gameboy with GBDK2020"
+}

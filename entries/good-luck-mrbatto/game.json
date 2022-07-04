@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "KMY5rJ.jpg",
+        "mhJqPM.jpg",
+        "0shNgt.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GLMrBatto-v0-3.gb",
+            "playable": true
+        }
+    ],
+    "developer": "TYAB",
+    "website": "https://tyab.itch.io/good-luck-mrbatto",
+    "slug": "good-luck-mrbatto",
+    "title": "Good Luck Mr. Batto!",
+    "description": "A wacky adventure awaits!"
+}

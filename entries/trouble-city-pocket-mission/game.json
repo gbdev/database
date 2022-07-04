@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "j1PXpa.gif",
+        "zkZBPf.gif",
+        "edRHVM.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TroubleCity_1.10.21.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Sky Pirate Studios",
+    "website": "https://skypiratestudios.itch.io/trouble-city-pocket-mission",
+    "slug": "trouble-city-pocket-mission",
+    "title": "Trouble City Pocket Mission",
+    "description": "for GameBoy Color"
+}

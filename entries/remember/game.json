@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "A8q9Zk.jpg",
+        "nteGjV.jpg",
+        "eR5IXw.jpg",
+        "FjTkZR.jpg",
+        "Dot2BFR.jpg",
+        "FLJwv2B.jpg",
+        "6tCaFj.jpg",
+        "W0RV1h.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "remember_v0.9.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Aironium",
+    "website": "https://aironium.itch.io/remember",
+    "slug": "remember",
+    "title": "Remember",
+    "description": "An entry for GB Compo 21"
+}

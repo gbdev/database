@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "BurAba.png",
+        "7qz8gr.png",
+        "7oD2BnO.png",
+        "7VdmqW.png",
+        "cGLDcB.png",
+        "gYcI2D.png",
+        "q4Bhd3.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Card Game",
+        "RPG",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Ningami.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Bownly",
+    "website": "https://bownly.itch.io/ningami",
+    "slug": "ningami",
+    "title": "Ningami",
+    "description": "Ninja + Origami deck building RPG"
+}

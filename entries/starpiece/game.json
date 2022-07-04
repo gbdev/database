@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "9bc22BE.png",
+        "1qtELz.png",
+        "ydV0aI.png",
+        "rcdHzG.png",
+        "6AXfhU.png",
+        "Ffr9oj.png",
+        "dZGVC6.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "StarPiece.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "BuddyBoyBueno",
+    "website": "https://buddyboybueno.itch.io/starpiece",
+    "slug": "starpiece",
+    "title": "StarPiece",
+    "description": "Short action platformer made in GB Studio"
+}

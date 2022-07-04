@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "HW3I9O.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Spiral_-_Matt_J_Hart_(GB_ROM).gb",
+            "playable": true
+        }
+    ],
+    "developer": "Matt J Hart",
+    "website": "https://mattjhart.itch.io/spiral-game-boy-music-rom",
+    "slug": "spiral-game-boy-music-rom",
+    "title": "Spiral - Game Boy Music ROM",
+    "description": "An original composition in the form of a Game Boy ROM"
+}

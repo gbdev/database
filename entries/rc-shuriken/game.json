@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Y2xROT.png",
+        "5htakC.png",
+        "Kxk015.png",
+        "spFPgf.png",
+        "PA2BbVY.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "RC-Shuriken.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Health Potion Studios",
+    "website": "https://healthpotionstudios.itch.io/rc-shuriken",
+    "slug": "rc-shuriken",
+    "title": "Remote Control Shuriken - GBCompo21"
+}

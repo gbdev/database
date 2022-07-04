@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "jvwNnn.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "The_Great_Strategy_(2005).gb",
+            "playable": true
+        }
+    ],
+    "developer": "jbshelton",
+    "website": "https://jbshelton.itch.io/badliz-the-great-strategy-roblox-theme-2006",
+    "slug": "badliz-the-great-strategy-roblox-theme-2006",
+    "title": "(GB PCM Demo) Badliz: The Great Strategy- Roblox Theme 2006",
+    "description": "An audio demo of my soon to be released GBAudioPlayerV3, targeting the original DMG Gameboy."
+}

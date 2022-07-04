@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "u4PDVo.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Survival",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "ElectricMadnessYT",
+    "website": "https://electricmadnessyt.itch.io/gbiskindasus",
+    "slug": "gbiskindasus",
+    "title": "Among Us for Gameboy",
+    "description": "Among Us, the game you know, the game you like, now available for Gameboy"
+}

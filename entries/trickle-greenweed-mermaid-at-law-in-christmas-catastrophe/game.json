@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "p8GSZ9.png",
+        "NFFp4Y.png",
+        "HBG2BP2B.png",
+        "PlV3DN.png",
+        "yv8jXR.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction",
+        "Adventure",
+        "Visual Novel",
+        "gbcompo21"
+    ],
+    "developer": "reverendmalerik",
+    "website": "https://reverendmalerik.itch.io/trickle-greenweed-mermaid-at-law-in-christmas-catastrophe",
+    "slug": "trickle-greenweed-mermaid-at-law-in-christmas-catastrophe",
+    "title": "Trickle Greenweed Mermaid at Law in Christmas Catastrophe",
+    "description": "An Ace Attorney style digital novel for the gameboy made in gbstudio",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

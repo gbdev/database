@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "lODJLi.gif",
+        "XQmvOv.gif",
+        "g2F312Bf.gif",
+        "V76nHE.gif"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/inverted-hat/duskyDungeon",
+    "gameLicense": "MIT",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DuskyDungeon-0.1.0.gb",
+            "playable": true
+        }
+    ],
+    "developer": "invertedHat",
+    "website": "https://invertedhat.itch.io/dusky-dungeon",
+    "slug": "dusky-dungeon",
+    "title": "Dusky Dungeon",
+    "description": "Dusky Dungeon is a simple Dungeon Crawler for the Game Boy (Color)"
+}

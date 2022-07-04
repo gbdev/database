@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "3UQvK0.png",
+        "RoXOHF.png",
+        "QHQyJ7.png",
+        "zdNXmi.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "developer": "Matt Carr",
+    "website": "https://wanderinghobo.itch.io/sunset-hellgate",
+    "slug": "sunset-hellgate",
+    "title": "Sunset Hellgate",
+    "description": "GB ROM: fight monsters and big bosses!",
+    "files": [
+        {
+            "default": true,
+            "filename": "SunsetHellgate.gb",
+            "playable": true
+        }
+    ]
+}

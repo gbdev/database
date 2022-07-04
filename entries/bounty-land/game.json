@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2FExA1G.gif",
+        "Tk2FD9H.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "RPG",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Bounty_Land1.4.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Bad_Dad",
+    "website": "https://phil-bad-dad-games.itch.io/bounty-land",
+    "slug": "bounty-land",
+    "title": "Bounty Land",
+    "description": "RPG Shoot em up"
+}

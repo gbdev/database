@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Y1IqiS.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Fighting",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "SunsDojo_v3.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Golden PSP",
+    "website": "https://goldenpsp.itch.io/suns-dojo",
+    "slug": "suns-dojo",
+    "title": "Sun's Dojo",
+    "description": "A Retro 8-bit Platform Brawler for the Original Game Boy"
+}

@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "zx0FWC.png",
+        "JHaeiT.png",
+        "dkA1Hw.png",
+        "Cs3btA.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "soully",
+    "website": "https://soully.itch.io/dogs-muck-island",
+    "slug": "dogs-muck-island",
+    "title": "Dog's Muck Island",
+    "description": "A gameboy fetch-quest-em-up"
+}

@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "a2FuH3m.png",
+        "Svnn1L.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "developer": "Game portal....",
+    "website": "https://zartan917.itch.io/1844-pinball-demo-gameboy-color",
+    "slug": "1844-pinball-demo-gameboy-color",
+    "title": "1844 PINBALL DEMO GAMEBOY COLOR",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

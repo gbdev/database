@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "0L5uGp.png",
+        "VkCHj7.png",
+        "oy2BV9c.png",
+        "AJUCDY.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gbcompo21"
+    ],
+    "developer": "CreativaGS",
+    "website": "https://creativags.itch.io/a-bride",
+    "slug": "a-bride",
+    "title": "A bride for the prince",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

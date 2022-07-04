@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "kcl2BZh.png",
+        "h2sKX9.png",
+        "yaYIIN.png",
+        "Fthtde.png",
+        "iOyuoJ.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "INTERBLOCKED.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Maithonis",
+    "website": "https://maithonis.itch.io/interblocked",
+    "slug": "interblocked",
+    "title": "INTERBLOCKED [Game Boy]",
+    "description": "Unblock Puzzle Game for the Original Game Boy"
+}

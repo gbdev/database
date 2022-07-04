@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "4eWJOO.png",
+        "rKAfPC.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/bjorn-nah/square_fall",
+    "tags": [
+        "Puzzle",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "square_fall_v01.gb",
+            "playable": true
+        }
+    ],
+    "developer": "bjorn_nah",
+    "website": "https://bjorn-nah.itch.io/square-fall",
+    "slug": "square-fall",
+    "title": "Square fall",
+    "description": "Puzzle game for gameboy"
+}

@@ -1,0 +1,58 @@
+NUMERIS OCT
+
+
+GOALS
+The goal of the game is to score as much as possible before the game over. The game is potentially endless (just like Tetris). To gain points, you need to make a rectangle from all (six) columns of equal heights of 5 (+100), 6 (+200) or 7 (+500) blocks.
+
+HOW TO MAKE A RECTANGLE
+Blocks of a certain value (from 1 to 4) fall from above. If such a block falls on an empty spot ("glass bottom"), then a column with a height equal to the value of the fallen block grows at this place. If the block falls on a column, then its height increases by this value. If the height of the column becomes equal to OCT10 (i.e. 8 in decimal system) or more, then one block of the column is transferred to the higher digit (to the left; i.e., the height of the column on the left increases by 1), and the height of this column decreases by 8. Thus, addition occurs according to the rules of arithmetic.
+If this value is exceeded at the leftmost column (i.e., the most senior digit), then the game is over. This is the only condition for losing.
+
+When the rectangle is made, the height of each of its columns is reduced by an random amount. Thus, the game can go on forever.
+
+EXAMPLES
+
+A) ADDITION
+   
+   [2]              
+                    
+                 [ ]
+        ===>     [ ]
+   [ ]           [ ]
+   [ ]           [ ]
+[ ][ ]        [ ][ ]
+ 1  3          1  5
+
+
+
+Á) ADDITION WITH DIGIT TRANSFER
+
+   [4]
+                 [X]
+                 [X]
+                 [X]
+                 [X]
+   [ ]           [X]
+   [ ]  ===>     [X]  ===>  
+   [ ]           [X]
+   [ ]           [X]        [ ]
+[ ][ ]        [ ][ ]        [ ][ ]
+ 1  5          1 (9)         2  1
+
+
+
+OTHER MOMENTS
+The value of the next block is displayed in the upper right corner of the screen. After gaining a certain number of points, the speed of the game increases.
+
+
+CONTROL
+Left and Right 	- to move blocks;
+A		- to move block down;
+Start		- pause; starting a new game;
+
+
+GAME HISTORY
+NUMERIS (decimal version) in its nowadays form was created by Yprit in 2019 for ZX Spectrum on pure Sinclar Basic and twice reissued on Oberon. The octal version was created in 2021 in C for the GameBoy, taking into account the capabilities of this platform.
+However, this game is not entirely mine. It was based on the versions of the Tetris game for the Soviet programmable microcalculators MK-61 and MK-52: "Tetris" (D. Morgunov), "Tetris" (A. Mikholap) and "Block Out" (S. Andrianov). These calculators didn't have a graphical interface, which was the reason for writing such a puzzle instead of real Tetris version. In fact, I just combined what I thought was the most successful in these three versions, and created graphics for it.
+
+I express my gratitude to all the authors of amazing and unbelievable programs for Soviet calculators.

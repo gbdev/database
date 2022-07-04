@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "5Qc0Xf.png",
+        "ILJ0At.png",
+        "4Jg37V.png",
+        "B0b2FuE.png",
+        "JWt1fq.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "GB_Character_Sheet.gb",
+            "playable": true
+        }
+    ],
+    "developer": "crraiig",
+    "website": "https://crraiig.itch.io/game-boy-dnd-character-sheet",
+    "slug": "game-boy-dnd-character-sheet",
+    "title": "Game Boy D&D Character Sheet",
+    "description": "Create your D&D character sheet on Game Boy"
+}

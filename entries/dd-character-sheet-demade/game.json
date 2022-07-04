@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "YUsxLe.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/trumanhess27/GB_Character_Sheet",
+    "gameLicense": "MIT",
+    "tags": [
+        "RPG",
+        "gbcompo21"
+    ],
+    "developer": "Psy",
+    "website": "https://trupsy.itch.io/dd-character-sheet-demade",
+    "slug": "dd-character-sheet-demade",
+    "title": "D&D Character Sheet DEMADE",
+    "description": "A character sheet generator for the table-top RPG D&D 5E",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

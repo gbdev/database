@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "d0CyWk.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Sports",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "AwesomeKalin",
+    "website": "https://awesomekalin.itch.io/gb-footy",
+    "slug": "gb-footy",
+    "title": "GB Footy",
+    "description": "Football game for the Game Boy"
+}

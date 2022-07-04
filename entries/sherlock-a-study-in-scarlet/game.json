@@ -1,0 +1,33 @@
+{
+    "screenshots": [
+        "cover.png",
+        "RoNNLe.png",
+        "SBTNli.png",
+        "2B43K2Ba.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "Interactive Fiction",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Sherlock_-_A_Study_in_Scarlet.gb",
+            "playable": true
+        }
+    ],
+    "developer": "lankgod",
+    "website": "https://lankgod.itch.io/sherlock-a-study-in-scarlet",
+    "slug": "sherlock-a-study-in-scarlet",
+    "title": "Sherlock: A Study in Scarlet",
+    "description": "A Gameboy adaptation of the first Sherlock Holmes story.",
+    "files": [
+        {
+            "default": true,
+            "filename": "Sherlock_-_A_Study_in_Scarlet.gb",
+            "playable": true
+        }
+    ]
+}

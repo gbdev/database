@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "P6yCMO.png",
+        "r0aX7R.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Racing",
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DinoRacers_V01.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "BBoth",
+    "website": "https://bboth.itch.io/dino-racers",
+    "slug": "dino-racers",
+    "title": "Dino Racers",
+    "description": "Help Dino Tony Become the Fastest T-Rex in Town!"
+}

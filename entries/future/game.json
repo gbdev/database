@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Iczlon.png",
+        "QHHStr.png",
+        "SymKiP.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "Platform",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Samson239",
+    "website": "https://samson239.itch.io/future",
+    "slug": "future",
+    "title": "Future",
+    "description": "Side scrolling platformer that takes place in a dystopian future"
+}

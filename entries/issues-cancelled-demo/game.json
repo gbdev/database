@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "2Bx63cA.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbcompo21"
+    ],
+    "developer": "Game portal....",
+    "website": "https://zartan917.itch.io/issues-cancelled-demo",
+    "slug": "issues-cancelled-demo",
+    "title": "Issues Cancelled (DEMO)",
+    "description": "Manga Comic Game!",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

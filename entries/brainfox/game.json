@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "d0mf3c.png",
+        "gH31RK.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "brainfox.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Yprit",
+    "website": "https://yprit.itch.io/brainfox",
+    "slug": "brainfox",
+    "title": "BrainFox",
+    "description": "A Game Boy native BrainF*ck translator"
+}

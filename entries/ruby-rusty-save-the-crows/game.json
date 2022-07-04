@@ -1,0 +1,36 @@
+{
+    "screenshots": [
+        "cover.png",
+        "0eL8it.png",
+        "5L2Fb2BW.png",
+        "gMEWlt.png",
+        "rKOk0Q.png",
+        "2BSopWb.png",
+        "croqNw.png",
+        "hEewN9.png",
+        "TzLwv5.png",
+        "5lYGL6.png",
+        "eIfpuk.png",
+        "azlUWg.png",
+        "2FKc9pu.png",
+        "wjU8rK.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Adventure",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Ruby_&_Rusty_Demo.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Max Oakland",
+    "website": "https://maxoakland.itch.io/ruby-rusty-save-the-crows",
+    "slug": "ruby-rusty-save-the-crows",
+    "title": "Ruby & Rusty Save the Crows",
+    "description": "\u00f0\u009f\u008e\u00b5  One is a Tomato, the other is a Beet. Together, they're heroes \u00f0\u009f\u008e\u00b5"
+}

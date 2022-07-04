@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "JVXuZ0.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/NiliusJulius/Alien-Invasion",
+    "gameLicense": "GPL-3.0-only",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Alien-Invasion.gb",
+            "playable": true
+        }
+    ],
+    "developer": "FerrantePescara",
+    "website": "https://ferrantepescara.itch.io/alien-invasion",
+    "slug": "alien-invasion",
+    "title": "Alien Invasion",
+    "description": "Save the earth from an Alien Invasion in this Game Boy game."
+}

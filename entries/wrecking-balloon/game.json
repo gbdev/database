@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "aQlloc.png",
+        "YpRNpB.png",
+        "n4FYjm.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "WRECKINGBALLOON.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Neighto",
+    "website": "https://neighto.itch.io/wrecking-balloon",
+    "slug": "wrecking-balloon",
+    "title": "Wrecking Balloon",
+    "description": "Cactus tied to a balloon action. Pop or be popped!"
+}

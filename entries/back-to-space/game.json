@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ASjp4H.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "backtospace.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Tronimal",
+    "website": "https://tronimal.itch.io/back-to-space",
+    "slug": "back-to-space",
+    "title": "Back To Space",
+    "description": "Game Boy music cartridge"
+}

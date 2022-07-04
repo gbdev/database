@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "qdinDt.png",
+        "8DP5O3.png",
+        "BSxoee.png",
+        "WlW2FBo.png",
+        "DQAn9C.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "AHMD_V1.0.gb",
+            "playable": true
+        }
+    ],
+    "developer": "mr.papshmir",
+    "website": "https://mrpapshmir.itch.io/all-humans-must-die",
+    "slug": "all-humans-must-die",
+    "title": "All Humans Must Die!",
+    "description": "Try to kill as many humans as possible...in 60 seconds!"
+}

@@ -1,0 +1,21 @@
+{
+    "screenshots": [
+        "cover.png",
+        "NyhAYz.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "SubterraneanExhibit",
+    "website": "https://subterraneanexhibit.itch.io/hero-guide-your-heart-concept-demo",
+    "slug": "hero-guide-your-heart-concept-demo",
+    "title": "Hero: Guide Your Heart (Concept Demo)"
+}

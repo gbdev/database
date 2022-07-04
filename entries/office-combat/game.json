@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "7MlA82B.png",
+        "K7i2FDF.png",
+        "RKLIii.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Fighting",
+        "Action",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "OfficeCombat.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Robert Doman",
+    "website": "https://r-doman.itch.io/office-combat",
+    "slug": "office-combat",
+    "title": "Office Combat",
+    "description": "Fight your coworkers to leave on time!"
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "7F7GZe.png",
+        "jYHP6a.png",
+        "0tdqC2F.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "grasshopper_1-4.gb",
+            "playable": true
+        }
+    ],
+    "developer": "BunnyMnemonic",
+    "website": "https://bunnymnemonic.itch.io/tiny-grasshopper-goes-away",
+    "slug": "tiny-grasshopper-goes-away",
+    "title": "Tiny Grasshopper Goes Away",
+    "description": "The adventure of a tiny grasshopper with a short but thoughtful story"
+}

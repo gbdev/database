@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "MDxlhP.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gbcompo21"
+    ],
+    "developer": "tononyto",
+    "website": "https://tononyto.itch.io/ctc",
+    "slug": "ctc",
+    "title": "Chase The Chest Z",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "jDopE5.jpg",
+        "q4c7Gr.jpg",
+        "OTlDA5.jpg",
+        "8OL66p.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "JamBoy.gb",
+            "playable": true
+        }
+    ],
+    "developer": "ERIC_MACK",
+    "website": "https://eric-mack.itch.io/jamboy",
+    "slug": "jamboy",
+    "title": "JamBoy",
+    "description": "Build your interest in Games!"
+}
