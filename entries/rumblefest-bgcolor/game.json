@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "b2xVly.png",
+        "CNaPkT.png",
+        "HurT6D.png",
+        "srh06Q.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gb-showdown-22"
+    ],
+    "developer": "Meeka Arcade",
+    "website": "https://meeka-arcade.itch.io/rumblefest-bgcolor",
+    "slug": "rumblefest-bgcolor",
+    "title": "RumbleFest Pro Wrestling GBColor",
+    "description": "Hand Held Arcade Wrestling",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

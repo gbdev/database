@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "i5OawW.gif",
+        "7PhMDl.gif",
+        "M5ld85.gif",
+        "j1OCWh.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "I_Look_Around_0.1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "ahmadmanga",
+    "website": "https://ahmadmanga.itch.io/i-look-around",
+    "slug": "i-look-around",
+    "title": "I Look Around",
+    "description": "Attached to ground. Attached to people. Always Observing. Life as a Tree."
+}

@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "4Qw3Af.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "Platform",
+        "gb-showdown-22"
+    ],
+    "developer": "Cordelia Goode",
+    "website": "https://cordelia-goode.itch.io/the-clock-maze",
+    "slug": "the-clock-maze",
+    "title": "The Clock Maze",
+    "description": "Help your friend to find a detail in the maze",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

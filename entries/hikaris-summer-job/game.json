@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "9aGNwD.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Hikaris_Summer_Job.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Repugnant Bounty",
+    "website": "https://skittlesfiddles.itch.io/hikaris-summer-job",
+    "slug": "hikaris-summer-job",
+    "title": "Hikari's Summer Job",
+    "description": "For the Game Boy Showdown 2022"
+}

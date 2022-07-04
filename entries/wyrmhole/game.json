@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "3CzsYl.png",
+        "QM4jhv.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/QuinnPainter/Wyrmhole",
+    "gameLicense": "MIT",
+    "tags": [
+        "Shooter",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Wyrmhole.gb",
+            "playable": true
+        }
+    ],
+    "developer": "quinnp",
+    "date": "2022-06-12T10:00:00",
+    "website": "https://quinnp.itch.io/wyrmhole",
+    "slug": "wyrmhole",
+    "title": "WYRMHOLE",
+    "description": "A fast-paced tunnel shooter for Game Boy"
+}

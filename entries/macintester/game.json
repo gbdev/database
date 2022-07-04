@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ipHpZj.png",
+        "kzl8vE.png",
+        "bAhOy5.png",
+        "2Ba1Td2F.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Educational",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Sloopygoop_Welcome_to_Macintest.gb",
+            "playable": true
+        }
+    ],
+    "developer": "sloopygoop",
+    "website": "https://sloopygoop.itch.io/macintester",
+    "slug": "macintester",
+    "title": "Welcome to Macintester",
+    "description": "A classic Macintosh experience inside a Game Boy rom. Best experience is on Game Boy Color/Advance!"
+}

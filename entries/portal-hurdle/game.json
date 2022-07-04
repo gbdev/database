@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "dG5uOe.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "juzek",
+        "yinawang"
+    ],
+    "website": "https://juzek.itch.io/portal-hurdle",
+    "slug": "portal-hurdle",
+    "title": "Portal Hurdle"
+}

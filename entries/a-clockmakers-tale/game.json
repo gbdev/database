@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "7Fmc1A.png",
+        "quiQYx.png",
+        "bnkbCl.png",
+        "qHbdoi.png",
+        "bRAWAe.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "A_Clockmakers_Tale.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Robert Doman",
+    "website": "https://r-doman.itch.io/a-clockmakers-tale",
+    "slug": "a-clockmakers-tale",
+    "title": "A Clockmaker's Tale",
+    "description": "A short Game Boy story game about fixing clock towers."
+}

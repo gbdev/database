@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Sn0BXf.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Shooter",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Lebuh",
+    "website": "https://lebuh.itch.io/clunkypd",
+    "slug": "clunkypd",
+    "title": "Clunky and the Parallel Dimension",
+    "description": "Can you save the world in time?"
+}

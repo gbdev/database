@@ -1,0 +1,21 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ew2BXeq.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "midnight_intruder.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Electrosaurus",
+    "website": "https://electrosaurus.itch.io/midnight-intruder",
+    "slug": "midnight-intruder",
+    "title": "Midnight Intruder"
+}

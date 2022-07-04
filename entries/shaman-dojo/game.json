@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "U37y58.png",
+        "udpnYQ.jpeg",
+        "8NKfPr.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "Adventure",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Shaman_Dojo.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Spicyfuse",
+    "date": "2022-06-26T22:39:00",
+    "website": "https://spicyfuse.itch.io/shaman-dojo",
+    "slug": "shaman-dojo",
+    "title": "Shaman Dojo - Catch 'em spirits! (DEMO)",
+    "description": "Catch em all spirit monsters!"
+}

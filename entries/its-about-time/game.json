@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "y0qmKu.png",
+        "vyYcXt.png",
+        "56f3FM.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "AruniTao",
+    "website": "https://arunitao.itch.io/its-about-time",
+    "slug": "its-about-time",
+    "title": "It's About Time",
+    "description": "Storytelling gameboy game"
+}

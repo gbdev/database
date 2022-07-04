@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "322FanJ.png",
+        "iLsF94.png",
+        "jrsgwS.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "lookc",
+    "date": "2022-06-25T20:42:00",
+    "website": "https://lookc.itch.io/stone-box",
+    "slug": "stone-box",
+    "title": "Stone box",
+    "description": "A short game made in 3 hours."
+}

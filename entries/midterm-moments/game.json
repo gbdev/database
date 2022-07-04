@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "WRdxZ7.png",
+        "TkvrWf.png",
+        "Fyu9E4.png",
+        "URCTpl.png",
+        "tNOVkz.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "MidtermMoments.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Toadstoolpicnic",
+    "date": "2022-06-15T22:28:00",
+    "website": "https://toadstoolpicnic.itch.io/midterm-moments",
+    "slug": "midterm-moments",
+    "title": "Midterm Moments",
+    "description": "A Visual Novel about studying (or not) your way."
+}

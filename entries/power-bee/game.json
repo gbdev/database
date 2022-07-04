@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ctuCtp.png",
+        "vVjvMa.png",
+        "svvpLK.png",
+        "4hVjhE.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "power_bee_beta.gb",
+            "playable": true
+        }
+    ],
+    "developer": "torte00",
+    "website": "https://torte00.itch.io/power-bee",
+    "slug": "power-bee",
+    "title": "Power Bee (GB Demo / beta)",
+    "description": "A shoot \u00e2\u0080\u0099em up demo / minigame (GB-Rom)"
+}

@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Wgsjm6.png",
+        "WJUyD2.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "Survival",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "longboi.gb",
+            "playable": true
+        }
+    ],
+    "developer": "julss",
+    "date": "2022-06-18T19:36:00",
+    "website": "https://julss.itch.io/long-boi",
+    "slug": "long-boi",
+    "title": "LONG BOI",
+    "description": "Your time is running out, eat as many time pills as you can without dying. Watch out for spiders and obstacles."
+}

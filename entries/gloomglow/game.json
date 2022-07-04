@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "cover.png",
+        "6KzZZ3.png",
+        "IPJ3zc.png",
+        "ThsDIK.png",
+        "J9rJ9A.png",
+        "2VO92u.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "Platform",
+        "gb-showdown-22"
+    ],
+    "developer": [
+        "Retro Blasted Games",
+        "SavestateCorrupted"
+    ],
+    "date": "2022-06-13T19:27:00",
+    "website": "https://retroblasted.itch.io/gloomglow",
+    "slug": "gloomglow",
+    "title": "Gloomglow: Prologue",
+    "description": "Short Castlevania-inspired Gameboy action-platformer prologue story",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Tpe7Vj.png",
+        "ZGfne7.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "monsteregg_demo_v0.1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "sellitos2020",
+    "website": "https://sellitos2020.itch.io/monster-egg-demo",
+    "slug": "monster-egg-demo",
+    "title": "Monster Egg",
+    "description": "You're locked in a lab, forced to take care of a strange egg that will hatch soon."
+}

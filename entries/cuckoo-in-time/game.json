@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "eVptJV.png",
+        "8LOL5U.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gb-showdown-22"
+    ],
+    "developer": "MBaran",
+    "website": "https://mbaran.itch.io/cuckoo-in-time",
+    "slug": "cuckoo-in-time",
+    "title": "Cuckoo in Time",
+    "description": "GamJam GameBoy ShowDown",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

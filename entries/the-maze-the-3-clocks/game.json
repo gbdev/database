@@ -1,0 +1,21 @@
+{
+    "screenshots": [
+        "cover.png",
+        "zKX2Ft5.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "The_Maze_&_The_3_clocks.gb",
+            "playable": true
+        }
+    ],
+    "developer": "argentgold",
+    "website": "https://argentgold.itch.io/the-maze-the-3-clocks",
+    "slug": "the-maze-the-3-clocks",
+    "title": "The Maze & The 3 clocks"
+}

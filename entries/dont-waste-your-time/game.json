@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2FGs8f4.png",
+        "D67OfK.png",
+        "xSDB2F4.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Dont_Waste_Your_Time.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "Zirk",
+        "Verdant_Jack",
+        "AlexandreCoulon"
+    ],
+    "website": "https://zirk.itch.io/dont-waste-your-time",
+    "slug": "dont-waste-your-time",
+    "title": "Don't Waste Your Time",
+    "description": "A small adventure game for GameBoy"
+}

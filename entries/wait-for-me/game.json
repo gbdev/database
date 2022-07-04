@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ceBzm4.jpg",
+        "KOelOv.jpg",
+        "otdSsw.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "wfm.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Scleratile",
+    "website": "https://scleratile.itch.io/wait-for-me",
+    "slug": "wait-for-me",
+    "title": "Wait For Me",
+    "description": "you play a farmer trying to flee the country with his bedridden wife"
+}

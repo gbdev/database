@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "W2FR2BmJ.png",
+        "HUGcvN.png",
+        "cRRgQu.png",
+        "MwSoXk.png",
+        "2BCVeXF.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Wessie",
+    "date": "2022-06-05T06:11:00",
+    "website": "https://cronjewesselgmailcom.itch.io/time-detective",
+    "slug": "time-detective",
+    "title": "Time Detective",
+    "description": "Travel between past and present to uncover the truth."
+}

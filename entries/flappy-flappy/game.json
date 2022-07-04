@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Ry5SAn.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "flappy_flappy.gb",
+            "playable": true
+        }
+    ],
+    "developer": "birdyboy2",
+    "website": "https://birdyboy2.itch.io/flappy-flappy",
+    "slug": "flappy-flappy",
+    "title": "Flappy flappy",
+    "description": "My first game"
+}

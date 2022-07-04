@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ygXTmw.png",
+        "Jf0PI2.png",
+        "NPk1YH.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gb-showdown-22"
+    ],
+    "developer": "Aidan Mitchell",
+    "website": "https://aidan-mitchell.itch.io/the-garden-of-thyme",
+    "slug": "the-garden-of-thyme",
+    "title": "The Garden of Thyme",
+    "description": "Timmy go hop",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}

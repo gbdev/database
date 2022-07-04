@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "gSKyfq.jpg",
+        "POs5n9.jpg",
+        "6QkzKT.jpg",
+        "h6b9cq.jpg",
+        "WDl3rX.jpg",
+        "WdZzzA.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Rhythm",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TicTacEarth2805JamVersion.gb",
+            "playable": true
+        }
+    ],
+    "developer": "JH10",
+    "website": "https://jh10.itch.io/tic-tac-earth",
+    "slug": "tic-tac-earth",
+    "title": "Tic Tac Earth",
+    "description": "rhythm game accessible to visually impaired people on game boy"
+}

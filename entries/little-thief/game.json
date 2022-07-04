@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "n32FD2B.gif",
+        "LcgZ73.gif",
+        "vZ62BGd.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "LittleTheifRomReseve.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Marvin Mofeed",
+    "website": "https://marvin-mofeed.itch.io/little-thief",
+    "slug": "little-thief",
+    "title": "Little Thief",
+    "description": "Mini Thief simulator game for Nintendo Game Boy!"
+}

@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "yJUJqg.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Survival",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "clockclicker.gb",
+            "playable": true
+        }
+    ],
+    "developer": "gwo",
+    "website": "https://gwo.itch.io/clockclicker",
+    "slug": "clockclicker",
+    "title": "Clockclicker",
+    "description": "Well, it's a Clockclicker. Click the Clock to raise your Score!"
+}

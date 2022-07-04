@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2Bv460k.png",
+        "lUWRZR.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Rhythm",
+        "gb-showdown-22"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Song_Bird_v1.0.gb",
+            "playable": true
+        }
+    ],
+    "developer": "ERIC_MACK",
+    "website": "https://eric-mack.itch.io/song-bird",
+    "slug": "song-bird",
+    "title": "Song Bird",
+    "description": "Learn and play new melodies from the birds of the forest on the GameBoy Color"
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ScwhOH.png",
+        "ZYzLjR.png",
+        "2BUuSfM.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "gb-showdown-22"
+    ],
+    "developer": "Leonid",
+    "website": "https://leonidry.itch.io/time-travel-story",
+    "slug": "time-travel-story",
+    "title": "Time travel story",
+    "description": "You have to play as a man who ventured into time travel...",
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ]
+}
