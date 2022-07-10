@@ -1,0 +1,19 @@
+{
+    "date": "2021-11-25",
+    "developer": "Chris Read",
+    "files": [
+        {
+            "default": true,
+            "filename": "stp29.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "stp26.png"
+    ],
+    "slug": "save-the-puppies",
+    "title": "Save The Puppies!",
+    "typetag": "game",
+    "website": "http://www.atari2600land.com/gameboy/savethepuppies.html"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2017-10-07",
+    "developer": "Mills",
+    "files": [
+        {
+            "default": true,
+            "filename": "Rick2.gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "Rick2.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "Rick2.png"
+    ],
+    "slug": "rick2",
+    "title": "Rick Dangerous 2",
+    "typetag": "game",
+    "website": "https://gbdev.gg8.se/forums/viewtopic.php?id=384"
+}

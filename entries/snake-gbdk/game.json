@@ -1,0 +1,19 @@
+{
+    "date": "2018-11-03",
+    "developer": "26F",
+    "files": [
+        {
+            "default": true,
+            "filename": "snake.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "snake.png"
+    ],
+    "slug": "snake-gbdk",
+    "title": "Snake GBDK",
+    "typetag": "game",
+    "website": "https://github.com/26F/Snake-GBDK-"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2021-02-02",
+    "developer": "Chris Read",
+    "files": [
+        {
+            "default": true,
+            "filename": "flies22.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "flies_2021_02_02_version2.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "flies22.png"
+    ],
+    "slug": "flies",
+    "title": "Flies",
+    "typetag": "game",
+    "website": "https://gbdev.gg8.se/forums/viewtopic.php?id=739"
+}

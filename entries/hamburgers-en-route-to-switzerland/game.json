@@ -1,0 +1,24 @@
+{
+    "date": "2022-01-13",
+    "developer": "Chris Read",
+    "files": [
+        {
+            "default": true,
+            "filename": "hamburger32.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "hamburger_release_candidate_2.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "burgerslevel4.png",
+        "burgerslevel3.png"
+    ],
+    "slug": "hamburgers-en-route-to-switzerland",
+    "title": "Hamburgers En Route To Switzerland",
+    "typetag": "game",
+    "website": "http://atari2600land.com/gameboy/hamburgers.html"
+}

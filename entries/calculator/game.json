@@ -1,0 +1,19 @@
+{
+    "date": "2017-05-28",
+    "developer": "jobalisk",
+    "files": [
+        {
+            "default": true,
+            "filename": "calc.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "calc.png"
+    ],
+    "slug": "calculator",
+    "title": "Calculator",
+    "typetag": "homebrew",
+    "website": "http://www.eternitywarestudios.xyz/download.html"
+}

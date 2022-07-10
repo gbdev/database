@@ -1,0 +1,19 @@
+{
+    "date": "2021-04-19",
+    "developer": "sttng",
+    "files": [
+        {
+            "default": true,
+            "filename": "wobble.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "wobble.png"
+    ],
+    "slug": "wobble-sttng",
+    "title": "Wobble",
+    "typetag": "demo",
+    "website": "https://github.com/sttng/gb-stuff/tree/main/wobble"
+}

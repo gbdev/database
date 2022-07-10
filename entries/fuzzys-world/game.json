@@ -1,0 +1,23 @@
+{
+    "date": "2017-10-07",
+    "developer": "Mills",
+    "files": [
+        {
+            "default": true,
+            "filename": "FWORLD.gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "FWORLD.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "FWORLD.png"
+    ],
+    "slug": "fuzzys-world",
+    "title": "Fuzzy's World",
+    "typetag": "game",
+    "website": "https://gbdev.gg8.se/forums/viewtopic.php?id=384"
+}

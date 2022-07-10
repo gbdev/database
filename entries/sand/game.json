@@ -1,0 +1,19 @@
+{
+    "date": "2018-05-06",
+    "developer": "jobalisk",
+    "files": [
+        {
+            "default": true,
+            "filename": "sand.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "sand.png"
+    ],
+    "slug": "sand",
+    "title": "SAND - Survive A Neverending Desert",
+    "typetag": "game",
+    "website": "http://www.eternitywarestudios.xyz/download.html"
+}
