@@ -1,0 +1,23 @@
+{
+    "date": "2018-11-11",
+    "developer": "tepples",
+    "files": [
+        {
+            "default": true,
+            "filename": "tellinglys.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "tellinglys-0.01.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "tellinglys.png"
+    ],
+    "slug": "telling-lys",
+    "title": "Telling LYs?",
+    "typetag": "demo",
+    "website": "https://forums.nesdev.org/viewtopic.php?t=18026"
+}

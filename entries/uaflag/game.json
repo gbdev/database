@@ -1,0 +1,23 @@
+{
+    "date": "2022-02-28",
+    "developer": "tepples",
+    "files": [
+        {
+            "default": true,
+            "filename": "uaflag.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "uaflag.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "uaflag.png"
+    ],
+    "slug": "uaflag",
+    "title": "uaflag",
+    "typetag": "demo",
+    "website": "https://forums.nesdev.org/viewtopic.php?t=23726"
+}
