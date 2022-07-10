@@ -1,0 +1,19 @@
+{
+    "date": "2022-07-10",
+    "developer": "Shamurgh",
+    "files": [
+        {
+            "default": true,
+            "filename": "SaintSeiya.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "SaintSeiya.png"
+    ],
+    "slug": "saint-seiya",
+    "title": "Saint Seiya",
+    "typetag": "game",
+    "website": "https://gbdev.gg8.se/forums/viewtopic.php?id=719"
+}

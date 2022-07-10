@@ -1,23 +1,25 @@
 {
-    "screenshots": [],
-    "typetag": "game",
-    "tags": [
-        "RPG",
-        "gb-showdown-22"
-    ],
+    "description": "Game Boy Showdown 2022 Submission",
     "developer": [
         "feephoenixx",
         "emsolaris"
     ],
-    "website": "https://feephoenixx.itch.io/soupis",
-    "slug": "soupis",
-    "title": "Soupis",
-    "description": "Game Boy Showdown 2022 Submission",
     "files": [
         {
             "default": true,
             "filename": "game.gb",
             "playable": true
         }
-    ]
+    ],
+    "screenshots": [
+        "game.png"
+    ],
+    "slug": "soupis",
+    "tags": [
+        "RPG",
+        "gb-showdown-22"
+    ],
+    "title": "Soupis",
+    "typetag": "game",
+    "website": "https://feephoenixx.itch.io/soupis"
 }

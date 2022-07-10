@@ -1,0 +1,19 @@
+{
+    "date": "2021-03-02",
+    "developer": "adamsmasher",
+    "files": [
+        {
+            "default": true,
+            "filename": "bustfree.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "109725777-813be980-7b66-11eb-8c4e-1d3cc05fb26f.png"
+    ],
+    "slug": "bustfree",
+    "title": "Bustfree!",
+    "typetag": "game",
+    "website": "https://github.com/adamsmasher/bustfree"
+}

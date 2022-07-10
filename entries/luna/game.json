@@ -1,0 +1,23 @@
+{
+    "date": "2017-09-18",
+    "developer": "Mills",
+    "files": [
+        {
+            "default": true,
+            "filename": "MOON.gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "MOON.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "MOON.png"
+    ],
+    "slug": "luna",
+    "title": "Luna",
+    "typetag": "game",
+    "website": "https://gbdev.gg8.se/forums/viewtopic.php?id=384"
+}

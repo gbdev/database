@@ -1,0 +1,19 @@
+{
+    "date": "2019-04-29",
+    "developer": "Chris Read",
+    "files": [
+        {
+            "default": true,
+            "filename": "banana7.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "banana7.png"
+    ],
+    "slug": "going-bananas",
+    "title": "Going Bananas",
+    "typetag": "game",
+    "website": "https://gbdev.gg8.se/forums/viewtopic.php?id=606"
+}

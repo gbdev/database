@@ -1,0 +1,19 @@
+{
+    "date": "2018-03-30",
+    "developer": "jobalisk",
+    "files": [
+        {
+            "default": true,
+            "filename": "turkeytalk.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "turkeytalk.png"
+    ],
+    "slug": "turkey-talk",
+    "title": "Turkey Talk",
+    "typetag": "game",
+    "website": "http://www.eternitywarestudios.xyz/download.html"
+}

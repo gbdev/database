@@ -1,0 +1,23 @@
+{
+    "date": "2020-01-26",
+    "developer": "FranMatsusaka",
+    "files": [
+        {
+            "default": true,
+            "filename": "WingWarriors.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "wing_warriors.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "WingWarriors.png"
+    ],
+    "slug": "wing-warriors",
+    "title": "Wing Warriors",
+    "typetag": "game",
+    "website": "https://gbdev.gg8.se/forums/viewtopic.php?id=682"
+}

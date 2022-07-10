@@ -1,0 +1,19 @@
+{
+    "date": "2021-04-25",
+    "developer": "sttng",
+    "files": [
+        {
+            "default": true,
+            "filename": "shitty25D01.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "shitty25D01.png"
+    ],
+    "slug": "shitty25d",
+    "title": "Shitty 2.5D",
+    "typetag": "demo",
+    "website": "https://github.com/sttng/gb-stuff/tree/main/shitty-25D"
+}

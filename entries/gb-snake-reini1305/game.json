@@ -1,0 +1,19 @@
+{
+    "date": "2022-05-22",
+    "developer": "Christian Reinbacher",
+    "files": [
+        {
+            "default": true,
+            "filename": "snake.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "title.png"
+    ],
+    "slug": "gb-snake-reini1305",
+    "title": "Snake",
+    "typetag": "game",
+    "website": "https://github.com/reini1305/gb_snake"
+}

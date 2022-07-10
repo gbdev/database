@@ -1,0 +1,19 @@
+{
+    "date": "2021-11-20",
+    "developer": "Max Gerckens",
+    "files": [
+        {
+            "default": true,
+            "filename": "hitori.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "hitori.png"
+    ],
+    "slug": "hitorigb",
+    "title": "HitoriGB",
+    "typetag": "game",
+    "website": "https://github.com/MGerckens/HitoriGB"
+}

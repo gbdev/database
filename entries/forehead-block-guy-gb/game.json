@@ -1,0 +1,19 @@
+{
+    "date": "2019-02-08",
+    "developer": "NovaSquirrel",
+    "files": [
+        {
+            "default": true,
+            "filename": "fhbg.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "fhbg.png"
+    ],
+    "slug": "forehead-block-guy-gb",
+    "title": "Forehead Block Guy GB",
+    "typetag": "game",
+    "website": "https://github.com/NovaSquirrel/GameBoyFHBG"
+}
