@@ -1,0 +1,31 @@
+{
+    "date": "2018-05-12",
+    "developer": "tepples",
+    "files": [
+        {
+            "default": true,
+            "filename": "hello.gb",
+            "playable": true
+        },
+        {
+            "description": "release (v0.03 - latest)",
+            "filename": "hello-0.03.zip"
+        },
+        {
+            "description": "release (v0.02)",
+            "filename": "hello-0.02.zip"
+        },
+        {
+            "description": "release (v0.01)",
+            "filename": "hello-0.01.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "hello.png"
+    ],
+    "slug": "hello-tepples",
+    "title": "My first attempt",
+    "typetag": "demo",
+    "website": "https://forums.nesdev.org/viewtopic.php?t=17174"
+}

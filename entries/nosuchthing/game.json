@@ -1,0 +1,23 @@
+{
+    "date": "2020-11-04",
+    "developer": "tepples",
+    "files": [
+        {
+            "default": true,
+            "filename": "nosuchthing.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "nosuchthing-0.01.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "nosuchthing.png"
+    ],
+    "slug": "nosuchthing",
+    "title": "No Such Thing as Nintendo",
+    "typetag": "demo",
+    "website": "https://forums.nesdev.org/viewtopic.php?t=21162"
+}

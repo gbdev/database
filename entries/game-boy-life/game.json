@@ -1,0 +1,19 @@
+{
+    "date": "2018-07-08",
+    "developer": "NovaSquirrel",
+    "files": [
+        {
+            "default": true,
+            "filename": "life.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "life.png"
+    ],
+    "slug": "game-boy-life",
+    "title": "Fast Conway's Life",
+    "typetag": "demo",
+    "website": "https://github.com/NovaSquirrel/GameBoyLife"
+}
