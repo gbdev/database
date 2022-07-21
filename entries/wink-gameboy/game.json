@@ -1,0 +1,41 @@
+{
+    "screenshots": [
+        "cover.png",
+        "N2FO2Fvw.png",
+        "qg2k1O.png",
+        "YH2rFg.png",
+        "LyI22FV.png",
+        "6sqOLg.png",
+        "iLmsaR.png",
+        "O3Vdgz.png",
+        "2FNiW2Fz.png",
+        "IDFB6x.png",
+        "V1LHYP.png",
+        "wjtZgd.png",
+        "uLgzLP.png",
+        "vuJ6Oq.png",
+        "PAKbC2.png",
+        "njUBHk.png",
+        "nrMO9l.png",
+        "dw2BAhQ.png",
+        "dguebs.png",
+        "n2BM2FfP.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Wink_&_the_Broken_Robot_Beta_5.7.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Max Oakland",
+    "website": "https://maxoakland.itch.io/wink-gameboy",
+    "slug": "wink-gameboy",
+    "title": "Wink GameBoy - Beta 5.7",
+    "description": "Wink\u00e2\u0080\u0099s smallest adventure yet! \u00e2\u0080\u0094 Made with GB Studio"
+}
