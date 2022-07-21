@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Na42us.png",
+        "LC8eE1.png",
+        "vBL2FDY.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "PINEAPPLE_KID_DEMO.gb",
+            "playable": true
+        }
+    ],
+    "developer": "HZ83",
+    "website": "https://hz83.itch.io/pineapplekid",
+    "slug": "pineapplekid",
+    "title": "Pineapple Kid - The Puzzle Adventure (DEMO)",
+    "description": "Pineapple Kid Gameboy"
+}

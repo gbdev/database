@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "6uP4N2.png",
+        "yP2APj.png",
+        "UIVMOo.png",
+        "fKPe3E.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "Adventure",
+        "Platform",
+        "Visual Novel"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Super_Imposter_Bros.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Lumpy",
+    "website": "https://lumpytouch.itch.io/super-impostor-bros",
+    "slug": "super-impostor-bros",
+    "title": "SUPER IMPOSTOR BROS.",
+    "description": "A free Among Us fangame made for the GameBoy Color."
+}

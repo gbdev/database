@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "vivTlM.png",
+        "9Wl3c6.png",
+        "0fghku.png",
+        "kWPYY6.png",
+        "gjn9S0.png",
+        "X9ARrA.png",
+        "TADDxR.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Traumatarium_GB.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Horatiu.nyc",
+    "website": "https://horatiunyc.itch.io/traumatarium",
+    "slug": "traumatarium",
+    "title": "Traumatarium",
+    "description": "A randomly generated Game Boy dungeon crawler"
+}

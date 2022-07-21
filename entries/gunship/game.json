@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "tgqKD3.png",
+        "3mynZB.png",
+        "TLAxuf.png",
+        "942FX8p.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "User0x7f",
+    "website": "https://user0x7f.itch.io/gunship",
+    "slug": "gunship",
+    "title": "Gunship GB",
+    "description": "A shooter for the Gameboy"
+}

@@ -1,0 +1,34 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "wW7527.gif",
+        "rEe4ud.png",
+        "AGOuXn.png",
+        "LsFt0X.png",
+        "ilPCdH.png",
+        "w4XM5u.png",
+        "P151ES.png",
+        "dMM9uA.png",
+        "IyXcjv.png",
+        "Dc2BES0.png",
+        "ixgFtX.png",
+        "clLF6E.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Machine_DEMO_v1_1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "BenJelter",
+    "website": "https://benjelter.itch.io/the-machine",
+    "slug": "the-machine",
+    "title": "The Machine",
+    "description": "A micro-society by Ben Jelter"
+}

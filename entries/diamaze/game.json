@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "qv02FtM.png",
+        "lhEtg0.gif",
+        "ItbTqR.png",
+        "4qDrL5.png",
+        "Awyng4.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "diamaze.gb",
+            "playable": true
+        }
+    ],
+    "developer": "fb1",
+    "website": "https://fb1.itch.io/diamaze",
+    "slug": "diamaze",
+    "title": "DiaMaze (GB)",
+    "description": "A fully-featured platforming game for Gameboy."
+}

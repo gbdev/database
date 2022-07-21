@@ -1,0 +1,22 @@
+{
+    "screenshots": [
+        "cover.png",
+        "MBjMnS.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Platform"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Cavern_MVM9.gb",
+            "playable": true
+        }
+    ],
+    "developer": "The Great Gallus",
+    "website": "https://thegreatgallus.itch.io/cavern-mvm-9",
+    "slug": "cavern-mvm-9",
+    "title": "Cavern (MVM 9)"
+}

@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "6cBF9h.jpg",
+        "RwGMV6.png",
+        "2MIklC.png",
+        "rYLQm5.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "User0x7f",
+    "website": "https://user0x7f.itch.io/genesis",
+    "slug": "genesis",
+    "title": "Genesis GB",
+    "description": "A shoot em up for the Gameboy"
+}

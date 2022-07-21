@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "cover.png",
+        "5sNC46.png",
+        "epk707.png",
+        "7ljDin.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Kadabura",
+    "website": "https://kadabura.itch.io/soul-void",
+    "slug": "soul-void",
+    "title": "Soul Void"
+}
