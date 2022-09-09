@@ -1,0 +1,24 @@
+{
+    "date": "2022-08-21",
+    "developer": "John Thyer, asie",
+    "files": [
+        {
+            "default": true,
+            "filename": "atwt_v1.1.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "atwt_v1.1.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "f5anHT.png",
+        "XbEtra.png"
+    ],
+    "slug": "atop-the-witchs-tower-gb",
+    "title": "Atop The Witch's Tower GB",
+    "typetag": "game",
+    "website": "https://asie.itch.io/atop-the-witchs-tower-gb"
+}

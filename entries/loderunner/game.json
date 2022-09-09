@@ -1,0 +1,28 @@
+{
+    "date": "2010-08-02",
+    "developer": "Dr. Thomas Tensi",
+    "files": [
+        {
+            "default": true,
+            "filename": "loderunner-en.gbc",
+            "playable": true
+        },
+        {
+            "description": "German version",
+            "filename": "loderunner-de.gbc",
+            "playable": true
+        },
+        {
+            "description": "Source code",
+            "filename": "loderunner-src.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "loderunner-en.png"
+    ],
+    "slug": "loderunner",
+    "title": "Loderunner",
+    "typetag": "game",
+    "website": "https://www.tensi.eu/thomas/programming/gameboy/loderunner.html"
+}
