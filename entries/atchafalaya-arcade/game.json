@@ -1,0 +1,19 @@
+{
+    "developer": "Tambalaya",
+    "files": [
+        {
+            "filename": "atchafalaya.gb",
+            "playable": true
+        }
+    ],
+    "gameWebsite": "https://tambalaya.itch.io/atchafalaya-arcade",
+    "platform": "GB",
+    "screenshots": [
+        "screen1.png",
+        "screen2.png",
+        "screen3.png"
+    ],
+    "slug": "atchafalaya-arcade",
+    "title": "Atchafalaya Arcade",
+    "typetag": "homebrew"
+}
