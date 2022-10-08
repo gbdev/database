@@ -1,5 +1,6 @@
 {
     "developer": "Tambalaya",
+    "description": "A short Game Boy game that is also a collection of musical instruments",
     "files": [
         {
             "filename": "atchafalaya.gb",
