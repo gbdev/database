@@ -1,6 +1,6 @@
 {
     "developer": "Tambalaya",
-    "description": "A short Game Boy game that is also a collection of musical instruments",
+    "description": "A short Game Boy game that is also a collection of musical instruments. ATCHAFALAYA ARCADE is a homebrew audiovisual performance game for the Game Boy handheld console. Inspired by fond memories of the Louisiana wetlands, Atchafalaya Arcade allows you to improvise chaotic chiptune music on a series of newly designed Game Boy instruments while creating images of abstract bayou pixelscapes.",
     "files": [
         {
             "filename": "atchafalaya.gb",
