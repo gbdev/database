@@ -8,6 +8,9 @@
         }
     ],
     "platform": "GBC",
+    "screenshots": [
+        "mario.png"
+    ],
     "slug": "mario-bros-demo-02",
     "title": "Mario Bros Demo 0.2",
     "typetag": "demo"

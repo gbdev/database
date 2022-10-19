@@ -13,6 +13,9 @@
         }
     ],
     "platform": "GB",
+    "screenshots": [
+        "GBB108.png"
+    ],
     "slug": "gb-basic-108",
     "title": "GB Basic 1.08",
     "typetag": "homebrew"

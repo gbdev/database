@@ -13,6 +13,9 @@
         }
     ],
     "platform": "GB",
+    "screenshots": [
+        "GBAPA2.png"
+    ],
     "slug": "gbapa2",
     "title": "GBAPA2",
     "typetag": "demo"
