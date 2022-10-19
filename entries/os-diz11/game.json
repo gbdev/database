@@ -1,0 +1,20 @@
+{
+    "date": "2016-07-25",
+    "developer": "HeroZero/Oldskool",
+    "files": [
+        {
+            "description": "release",
+            "filename": "os-diz11.zip"
+        },
+        {
+            "default": true,
+            "filename": "test.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "test.gb",
+    "slug": "os-diz11",
+    "title": "DiZ GameBoy Disassembler Demo",
+    "typetag": "demo"
+}

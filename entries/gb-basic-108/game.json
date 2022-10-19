@@ -1,0 +1,19 @@
+{
+    "date": "1997-01-05",
+    "developer": "Jeff Frohwein",
+    "files": [
+        {
+            "default": true,
+            "filename": "GBB108.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbb108.zip"
+        }
+    ],
+    "platform": "GB",
+    "slug": "gb-basic-108",
+    "title": "GB Basic 1.08",
+    "typetag": "homebrew"
+}
