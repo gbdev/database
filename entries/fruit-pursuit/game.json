@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "pcqE2FW.png",
+        "VLDMgP.png",
+        "pNnsNM.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Fruit_Pursuit_Beta_20221020.gb",
+            "playable": true
+        }
+    ],
+    "developer": "tbsp",
+    "date": "2022-10-20T21:52:00",
+    "website": "https://tbsp.itch.io/fruit-pursuit",
+    "slug": "fruit-pursuit",
+    "title": "Fruit Pursuit",
+    "description": "Match fruit to reach the finish!"
+}
