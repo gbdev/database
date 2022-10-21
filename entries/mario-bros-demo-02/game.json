@@ -1,0 +1,17 @@
+{
+    "date": "2022-08-24",
+    "files": [
+        {
+            "default": true,
+            "filename": "mario.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "mario.png"
+    ],
+    "slug": "mario-bros-demo-02",
+    "title": "Mario Bros Demo 0.2",
+    "typetag": "demo"
+}

@@ -12,6 +12,14 @@
             }
         },
         {
+            "description": "release (v1.1)",
+            "filename": "mazezam1.1.zip"
+        },
+        {
+            "description": "release (v1.0)",
+            "filename": "mazezam1.0.zip"
+        },
+        {
             "default": true,
             "filename": "MazezaM.gb",
             "hash": {
@@ -27,7 +35,7 @@
     "screenshots": [
         "20110402_mazezam.png"
     ],
-    "slug": "mazezam-v1-2",
-    "title": "MazezaM v1.2",
+    "slug": "mazezam",
+    "title": "MazezaM",
     "typetag": "game"
 }

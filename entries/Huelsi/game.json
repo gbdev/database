@@ -12,6 +12,10 @@
             }
         },
         {
+            "description": "release (old)",
+            "filename": "huelsi_old.zip"
+        },
+        {
             "default": true,
             "filename": "Huelsi.cgb",
             "hash": {

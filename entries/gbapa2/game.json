@@ -1,0 +1,22 @@
+{
+    "date": "2022-10-19",
+    "developer": "Jeff Frohwein, Jens Christian Restemeier",
+    "files": [
+        {
+            "default": true,
+            "filename": "GBAPA2.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbapa2.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "GBAPA2.png"
+    ],
+    "slug": "gbapa2",
+    "title": "GBAPA2",
+    "typetag": "demo"
+}
