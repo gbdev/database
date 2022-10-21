@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "DQ0Ogs.png",
+        "A8EuAW.png",
+        "Vz4xiJ.gif",
+        "IqXl34.png",
+        "x9xU77.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "gbcompo21"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "bakery_v1.0.3.gb",
+            "playable": true
+        }
+    ],
+    "developer": "leafthief",
+    "website": "https://leafthief.itch.io/cookies-bakery",
+    "slug": "cookies-bakery",
+    "title": "Cookie's Bakery",
+    "description": "Bake cookies and celebrate the holidays!"
+}
