@@ -12,23 +12,23 @@ jobs:
           repository: gbdev/database
           path: folder/repo
 
-      - name: Set up Python 3.5
+      - name: Set up Python 3.11
         uses: actions/setup-python@v1
         with:
-          python-version: 3.11.0
+          python-version: 3.11.1
 
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r folder/repo/tests/requirements.txt
 
-      - name: Validate manifests against the schema
+      - name: Validate manifests against the JSON schema
         working-directory: folder/
         run: |
           cd repo/tests
           python3 validate_schema.py
 
-      - name: Check referenced files
+      - name: Check if referenced files in the manifests exist
         working-directory: folder/
         run: |
           cd repo/tests
