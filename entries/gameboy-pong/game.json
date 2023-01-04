@@ -1,0 +1,18 @@
+{
+    "date": "1997-02-10",
+    "developer": "Peter Gordon",
+    "files": [
+        {
+            "default": true,
+            "filename": "gbpong.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "gbpong.png"
+    ],
+    "slug": "gameboy-pong",
+    "title": "Gameboy Pong",
+    "typetag": "game"
+}
