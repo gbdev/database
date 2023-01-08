@@ -29,5 +29,7 @@
     ],
     "slug": "adjustris",
     "title": "adjustris",
-    "typetag": "game"
+    "typetag": "game",
+    "repository": "https://github.com/tbsp/Adjustris",
+    "tags": [ "Open Source" ]
 }
