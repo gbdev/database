@@ -3,7 +3,7 @@
     "slug": "flappy-bird",
     "developer": "Toca Lucas",
     "platform": "GB",
-    "typetag": "homebrew",
+    "typetag": "game",
     "screenshots": [
         "flappybird.png"
     ],
