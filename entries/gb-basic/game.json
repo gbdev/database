@@ -10,13 +10,17 @@
         {
             "description": "release",
             "filename": "gbb108.zip"
+        },
+        {
+            "description": "release (1.06)",
+            "filename": "GBB106.ZIP"
         }
     ],
     "platform": "GB",
     "screenshots": [
         "GBB108.png"
     ],
-    "slug": "gb-basic-108",
-    "title": "GB Basic 1.08",
+    "slug": "gb-basic",
+    "title": "GB Basic",
     "typetag": "homebrew"
 }
