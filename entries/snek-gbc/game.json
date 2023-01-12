@@ -20,6 +20,6 @@
         "Open Source"
     ],
     "title": "Snek!",
-    "typetag": "game"
+    "typetag": "game",
     "description": "a (slightly unfinished) snake clone for your (super) game boy (color/advance)"
 }
