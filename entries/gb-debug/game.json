@@ -1,0 +1,22 @@
+{
+    "date": "1995-10-27",
+    "developer": "Jeff Frohwein",
+    "files": [
+        {
+            "default": true,
+            "filename": "GBD.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "GBD13.ZIP"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "GBD.png"
+    ],
+    "slug": "gb-debug",
+    "title": "GB Debug",
+    "typetag": "homebrew"
+}
