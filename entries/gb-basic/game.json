@@ -1,14 +1,18 @@
 {
-    "date": "1997-01-05",
+    "date": "2001-02-17",
     "developer": "Jeff Frohwein",
     "files": [
         {
             "default": true,
-            "filename": "GBB108.GB",
+            "filename": "GBBASIC.GB",
             "playable": true
         },
         {
-            "description": "release",
+            "description": "release (2.10)",
+            "filename": "gbb210.zip"
+        },
+        {
+            "description": "release (1.08)",
             "filename": "gbb108.zip"
         },
         {

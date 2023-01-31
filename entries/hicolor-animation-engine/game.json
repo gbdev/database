@@ -1,0 +1,22 @@
+{
+    "date": "1999-09-16",
+    "developer": "Jeff Frohwein",
+    "files": [
+        {
+            "default": true,
+            "filename": "GFX.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "hicanm.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "GFX.png"
+    ],
+    "slug": "hicolor-animation-engine",
+    "title": "Hicolor Animation Engine",
+    "typetag": "demo"
+}

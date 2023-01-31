@@ -1,0 +1,22 @@
+{
+    "date": "1997-11-27",
+    "developer": "Jeff Frohwein",
+    "files": [
+        {
+            "default": true,
+            "filename": "PI.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "pi.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "pi-0.png"
+    ],
+    "slug": "talking-gb",
+    "title": "Talking GB - Pi to 20 decimal places in English",
+    "typetag": "demo"
+}

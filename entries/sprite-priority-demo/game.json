@@ -1,0 +1,22 @@
+{
+    "date": "1997-05-05",
+    "developer": "Pascal Felber",
+    "files": [
+        {
+            "default": true,
+            "filename": "SPRITE.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "sprite.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "SPRITE.png"
+    ],
+    "slug": "sprite-priority-demo",
+    "title": "Sprite Priority Demo",
+    "typetag": "homebrew"
+}
