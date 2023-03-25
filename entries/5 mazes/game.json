@@ -1,0 +1,26 @@
+{
+    "developer": "godai / Gniazdo Światów",
+    "files": [
+        {
+            "default": true,
+            "filename": "5 mazes.gb",
+            "playable": true
+        }
+    ],
+    "license": "CC-BY-SA 4.0",
+    "platform": "GB",
+    "repository": "https://github.com/godai78/5-Mazes",
+    "screenshots": [
+        "5_mazes.jpg",
+		"5_mazes_cover.png"
+    ],
+    "slug": "5-mazes",
+    "tags": [
+        "Puzzle"
+    ],
+    "title": "5 mazes",
+    "typetag": "game",
+	"description": "Help Alice get through mazes, each one larger and more difficult!",
+	"devWebsite": "https://www.gniazdoswiatow.net",
+	"onlineplay": "true"
+}
