@@ -1,0 +1,26 @@
+{
+    "developer": "godai / Gniazdo Światów",
+    "files": [
+        {
+            "default": true,
+            "filename": "5 mazes Master levels.gb",
+            "playable": true
+        }
+    ],
+    "license": "CC-BY-SA 4.0",
+    "platform": "GB",
+    "repository": "https://github.com/godai78/5-mazes-Master-levels",
+    "screenshots": [
+        "5_mazes_master_levels.jpg",
+		"5_mazes_master_levels_cover.png"
+    ],
+    "slug": "5-mazes-master-levels",
+    "tags": [
+        "Puzzle"
+    ],
+    "title": "5 mazes: Master levels",
+    "typetag": "game",
+	"description": "Help Alice get the ultimate set of largest mazes!",
+	"devWebsite": "https://www.gniazdoswiatow.net",
+	"onlineplay": "true"
+}
