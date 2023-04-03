@@ -7,8 +7,9 @@
             "playable": true
         }
     ],
+    "gameWebsite": "https://donaldhays.com/projects/bubble-factory/",
     "platform": "GB",
-    "repository": "",
+    "repository": "https://github.com/DonaldHays/bubblefactory",
     "screenshots": [
         "bubble-factory.png"
     ],
