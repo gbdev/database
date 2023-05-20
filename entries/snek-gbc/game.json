@@ -1,25 +1,26 @@
 {
-    "developer": "zlago",
-    "files": [
-        {
-            "default": true,
-            "filename": "pong.gb",
-            "playable": true
-        }
-    ],
-    "platform": "GB",
-    "repository": "https://github.com/zlago/snek-gbc",
-    "screenshots": [
-        "scrn-c.png",
-        "scrn-d.png",
-        "scrn-s.png",
-        "title-s.png"
-    ],
-    "slug": "snek-gbc",
-    "tags": [
-        "Open Source"
-    ],
-    "title": "Snek!",
-    "typetag": "game",
-    "description": "a (slightly unfinished) snake clone for your (super) game boy (color/advance)"
+	"developer": "zlago",
+	"files": [
+		{
+			"default": true,
+			"filename": "pong.gb",
+			"playable": true
+		}
+	],
+	"platform": "GB",
+	"repository": "https://github.com/zlago/snek-gbc",
+	"screenshots": [
+		"gif.gif",
+		"scrn-c.png",
+		"scrn-d.png",
+		"scrn-s.png",
+		"title-s.png"
+	],
+	"slug": "snek-gbc",
+	"tags": [
+		"Open Source"
+	],
+	"title": "Snek!",
+	"typetag": "game",
+	"description": "a (slightly unfinished) snake clone for your (super) game boy (color/advance)"
 }
