@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "uJTT7Z.png",
+        "9bDZ4Q.png",
+        "Rpr5Ku.png",
+        "DmWGj4.png",
+        "aJHpQx.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "The_Pact_(Only_For_GBC).gb",
+            "playable": true
+        }
+    ],
+    "developer": "allalonegamez",
+    "date": "2023-05-20T18:39:00",
+    "website": "https://allalonegamez.itch.io/the-pact",
+    "slug": "the-pact",
+    "title": "The Pact",
+    "platform": "GB",
+    "description": "Control a pair of characters who hate each other."
+}

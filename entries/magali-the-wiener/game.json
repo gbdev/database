@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Z8sCR3.png",
+        "GcJr2FI.png",
+        "qlBUP2F.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "magali-the-wiener.gb",
+            "playable": true
+        }
+    ],
+    "developer": "lab_bueno",
+    "date": "2023-05-20T20:05:00",
+    "website": "https://lab-bueno.itch.io/magali-the-wiener",
+    "slug": "magali-the-wiener",
+    "title": "Magali The Wiener",
+    "platform": "GB",
+    "description": "A game about friendship between a guy and a winier dog"
+}

@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "b2F9o7d.png",
+        "TNYpRd.png",
+        "FKI6Si.gif",
+        "q22FjIR.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "FriendlyCurse-1.2.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Disturbiografia",
+    "date": "2023-05-20T07:11:00",
+    "website": "https://joymachs.itch.io/friendly-curse",
+    "slug": "friendly-curse",
+    "title": "Friendly Curse",
+    "platform": "GB",
+    "description": "There is only one thing we can do when we can't make new friends!"
+}

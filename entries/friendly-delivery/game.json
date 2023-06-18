@@ -1,0 +1,25 @@
+{
+  "screenshots": [
+    "cover.png",
+    "Y9PKq3.png",
+    "Qzh7fT.png",
+    "2FNCaNM.png",
+    "2FW5Ve5.png"
+  ],
+  "typetag": "game",
+  "tags": ["Interactive Fiction", "event:gbshowdown23"],
+  "developer": ["alex (she/her)", "Joan Zahra Dark (they/them)"],
+  "date": "2023-05-20T21:52:00",
+  "website": "https://lowstakesdev.itch.io/friendly-delivery",
+  "slug": "friendly-delivery",
+  "title": "Friendly Delivery",
+  "platform": "GB",
+  "description": "It's Pubby's first day in a new town, time to make some deliveries and make some friends!",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

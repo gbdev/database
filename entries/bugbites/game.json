@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "86Fu8L.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Bug_Bites!.gb",
+            "playable": true
+        }
+    ],
+    "developer": "MOL",
+    "date": "2023-05-20T21:39:00",
+    "website": "https://dunktasty.itch.io/bugbites",
+    "slug": "bugbites",
+    "title": "Bug Bites",
+    "platform": "GB",
+    "description": "A game that might bug you a little..."
+}

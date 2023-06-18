@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "HUKeI2.png",
+        "iEf0b5.png",
+        "Ok7Ssl.png",
+        "6IhPXD.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Mooncaller",
+    "date": "2023-05-20T19:12:00",
+    "website": "https://mooncaller.itch.io/a-walk-in-the-woods",
+    "slug": "a-walk-in-the-woods",
+    "title": "A Walk in the Woods [GB Showdown '23]",
+    "platform": "GB",
+    "description": "A camping trip with friends for the Gameboy Color"
+}

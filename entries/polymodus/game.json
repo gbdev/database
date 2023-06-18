@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "6YJLVH.png",
+        "MH0bfT.png",
+        "xik7Vp.png",
+        "IMNyd2B.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Polymodus_V1.0.gb",
+            "playable": true
+        }
+    ],
+    "developer": "incognitio",
+    "date": "2023-05-20T03:27:00",
+    "website": "https://incognitiouwu.itch.io/polymodus",
+    "slug": "polymodus",
+    "title": "Polymodus",
+    "platform": "GB",
+    "description": "\"It's better than fortnite\" - My 12 year old brother"
+}

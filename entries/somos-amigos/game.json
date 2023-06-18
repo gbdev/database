@@ -1,0 +1,19 @@
+{
+  "screenshots": ["cover.png", "XdokY1.png"],
+  "typetag": "game",
+  "tags": ["event:gbshowdown23"],
+  "developer": "El_Papu1111",
+  "last_updated": "2023-05-30T00:22:00",
+  "website": "https://el-papu1111.itch.io/somos-amigos",
+  "slug": "somos-amigos",
+  "title": "Somos Amigos",
+  "platform": "GB",
+  "description": "Jam Game",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

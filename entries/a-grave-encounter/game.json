@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "BTUB2o.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "AGraveEncounter1.3.gb",
+            "playable": true
+        }
+    ],
+    "developer": "fireflanger",
+    "date": "2023-05-20T18:30:00",
+    "website": "https://fireflanger.itch.io/a-grave-encounter",
+    "slug": "a-grave-encounter",
+    "title": "A Grave Encounter",
+    "platform": "GB",
+    "description": "Save your town from the impending threats. And make some friends along the way!"
+}

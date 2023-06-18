@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "QbA8P2F.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Action",
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "What_Friends_Are_For_V1.0.gb",
+            "playable": true
+        }
+    ],
+    "developer": "shin",
+    "date": "2023-05-20T05:47:00",
+    "website": "https://shin.itch.io/what-friends-are-for",
+    "slug": "what-friends-are-for",
+    "title": "What Friends Are For",
+    "platform": "GB",
+    "description": "Game Boy puzzle platformer where you befriend your enemies to save the day!"
+}

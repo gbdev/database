@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "FEMv8M.png",
+        "d20o2Bw.png",
+        "nv1i0m.png",
+        "zQ2FQcZ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Michlwild",
+    "date": "2023-05-20T09:59:00",
+    "website": "https://michlwild.itch.io/robot-x-slime",
+    "slug": "robot-x-slime",
+    "title": "Robot X Slime",
+    "platform": "GB",
+    "description": "My GameJam Project"
+}

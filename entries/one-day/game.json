@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "cover.png",
+        "mW5gAn.jpg",
+        "g3hunC.jpg",
+        "2FzAUbu.jpg",
+        "P9WaEE.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "vrkitten",
+        "Ryuko5432100"
+    ],
+    "date": "2023-05-20T21:59:00",
+    "website": "https://vrkitten.itch.io/one-day",
+    "slug": "one-day",
+    "title": "One Day",
+    "platform": "GB",
+    "description": "a short, feel-good story"
+}

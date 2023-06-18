@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "FbQS5D.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Rhythm",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "output.gb",
+            "playable": true
+        }
+    ],
+    "developer": "danilolc",
+    "date": "2023-05-20T21:58:00",
+    "website": "https://danilolc.itch.io/friend-ship",
+    "slug": "friend-ship",
+    "title": "Friend Ship",
+    "platform": "GB",
+    "description": "A small and incomplete Rhythm Game submition to the Game Boy Showdown 2023."
+}

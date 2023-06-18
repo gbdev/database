@@ -1,0 +1,20 @@
+{
+    "screenshots": [],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Friend.gb",
+            "playable": true
+        }
+    ],
+    "developer": "GB Studio Central",
+    "website": "https://gb-studio-central.itch.io/freind",
+    "slug": "freind",
+    "title": "Friend?",
+    "platform": "GB",
+    "description": "Friend?"
+}

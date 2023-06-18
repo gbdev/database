@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "BvkRzX.jpg",
+        "I2Frm3y.jpg",
+        "74yo3w.jpg",
+        "kIuhGq.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Unholy_Friend.gb",
+            "playable": true
+        }
+    ],
+    "developer": "tcsouza",
+    "date": "2023-05-19T18:30:00",
+    "website": "https://tcsouza.itch.io/unholy-friend",
+    "slug": "unholy-friend",
+    "title": "Unholy Friend",
+    "platform": "GB",
+    "description": "Platform GameBoy Homebrew"
+}

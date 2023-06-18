@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "43NnYg.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Caretaker_(v.1.0.2).gb",
+            "playable": true
+        }
+    ],
+    "developer": "LostTokens",
+    "date": "2023-05-20T02:27:00",
+    "website": "https://losttokens.itch.io/caretaker",
+    "slug": "caretaker",
+    "title": "Caretaker",
+    "platform": "GB",
+    "description": "Become the caretaker of a small town, listening to their worries before they drift away..."
+}

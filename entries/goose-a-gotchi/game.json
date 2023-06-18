@@ -1,0 +1,34 @@
+{
+    "screenshots": [
+        "cover.png",
+        "sNtCYe.png",
+        "BJbE2M.png",
+        "eaooM9.png",
+        "PMgizq.png",
+        "W7MZs9.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "Kotzwinkle",
+        "GottderFrucht",
+        "Swyka",
+        "BoxonaCat"
+    ],
+    "date": "2023-05-20T21:42:00",
+    "website": "https://kxaxcy.itch.io/goose-a-gotchi",
+    "slug": "goose-a-gotchi",
+    "title": "Goose-A-Gotchi",
+    "platform": "GB",
+    "description": "Goose raising simulator"
+}

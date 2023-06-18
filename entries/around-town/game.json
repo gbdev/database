@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "QoytGR.png",
+        "2E6Lj2.png",
+        "U9OK66.png",
+        "vChmao.png",
+        "Xe7iDK.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "AroundTown.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Toadstoolpicnic",
+    "date": "2023-05-20T16:20:00",
+    "website": "https://toadstoolpicnic.itch.io/around-town",
+    "slug": "around-town",
+    "title": "Around Town",
+    "platform": "GB",
+    "description": "Help Dart the Frog earn money to upgrade his bike!"
+}

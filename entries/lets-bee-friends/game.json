@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "G6rRpo.gif",
+        "zBFRz6.gif",
+        "xLxgCy.gif",
+        "pPOUVf.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Lets_Bee_Friends.gb",
+            "playable": true
+        }
+    ],
+    "developer": "howdy riceball",
+    "date": "2023-05-20T12:56:00",
+    "website": "https://howdyriceball.itch.io/lets-bee-friends",
+    "slug": "lets-bee-friends",
+    "title": "Let's Bee Friends",
+    "platform": "GB",
+    "description": "Bee-Comb Best Friends with the Townsfolk"
+}

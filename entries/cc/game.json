@@ -1,0 +1,27 @@
+{
+  "screenshots": [
+    "cover.png",
+    "fcZS5E.png",
+    "A0DyAq.png",
+    "Zatdlq.png",
+    "PDlmsj.png",
+    "rMZ0Jm.png",
+    "JRQy0v.png",
+    "Zn5NW8.png"
+  ],
+  "typetag": "game",
+  "tags": ["event:gbshowdown23"],
+  "developer": "magicite",
+  "date": "2023-05-20T18:40:00",
+  "website": "https://magicite.itch.io/cc",
+  "slug": "cc",
+  "title": "Calling Cloud",
+  "platform": "GB",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

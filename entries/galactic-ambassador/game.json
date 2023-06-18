@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "GPOHTi.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "galactic_ambassador.gb",
+            "playable": true
+        }
+    ],
+    "developer": "uso5",
+    "date": "2023-05-20T17:14:00",
+    "website": "https://uso5.itch.io/galactic-ambassador",
+    "slug": "galactic-ambassador",
+    "title": "Galactic Ambassador",
+    "platform": "GB",
+    "description": "Aliens think all humans are evil. Prove them wrong!"
+}

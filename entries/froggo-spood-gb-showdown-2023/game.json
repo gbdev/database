@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "W2BHFo3.png",
+        "evykW6.png",
+        "DPff8e.png",
+        "K7iHs2F.png",
+        "7lMCMP.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "F&S_jam_version.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Grave Reaper Cushions",
+    "date": "2023-05-19T21:03:00",
+    "website": "https://grave-reaper-cushions.itch.io/froggo-spood-gb-showdown-2023",
+    "slug": "froggo-spood-gb-showdown-2023",
+    "title": "Froggo and Spood [Game Boy Showdown 2023]",
+    "platform": "GB"
+}

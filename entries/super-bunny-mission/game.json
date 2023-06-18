@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "vwk5nu.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "SuperBunnyMission.gb",
+            "playable": true
+        }
+    ],
+    "developer": "S\u00c5\u008ddoDev",
+    "date": "2023-05-20T19:57:00",
+    "website": "https://sododev.itch.io/super-bunny-mission",
+    "slug": "super-bunny-mission",
+    "title": "Super Bunny Mission",
+    "platform": "GB",
+    "description": "Get to the end and have a friendly conversation with the boss!"
+}

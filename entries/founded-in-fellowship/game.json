@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "w1FOoV.png",
+        "3anaYx.png",
+        "lcXF90.png",
+        "KCs9NJ.png",
+        "8ypayi.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "FoundedinFellowship_1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "ElectroParlor Games",
+    "date": "2023-05-20T21:28:00",
+    "website": "https://electroparlorgames.itch.io/founded-in-fellowship",
+    "slug": "founded-in-fellowship",
+    "title": "Founded in Fellowship",
+    "platform": "GB",
+    "description": "The Friendly Witch Town Management Sim!"
+}

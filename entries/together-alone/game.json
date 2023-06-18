@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "cover.png",
+        "lotMxO.gif",
+        "vBE62FD.gif",
+        "2BXtmvE.gif",
+        "k6Rijk.png",
+        "UpEtH2B.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TogetherAlone.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "-\u00e3\u0080\u0090 \u00ca\u008e \u00c9\u009f \u00c9\u009f n \u00ca\u008d ~ o \u00c9\u0094 \u00e1\u00b4\u0089 u \u00e3\u0080\u0091-",
+        "Miyulake"
+    ],
+    "date": "2023-05-20T18:29:00",
+    "website": "https://sjorsmaster.itch.io/together-alone",
+    "slug": "together-alone",
+    "title": "Together Alone",
+    "platform": "GB",
+    "description": "A puzzle platformer for the original game-boy"
+}

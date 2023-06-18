@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "zye24X.png",
+        "vPqa2FP.png",
+        "LNam3r.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "lytd.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "gearfo",
+    "date": "2023-05-20T20:05:00",
+    "website": "https://gearfo.itch.io/love-you-to-death",
+    "slug": "love-you-to-death",
+    "title": "Love You To Death",
+    "platform": "GB"
+}

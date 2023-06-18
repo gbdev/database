@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Kx2SDv.png",
+        "9stq6q.png",
+        "TBaUxt.png",
+        "tJ1zzV.png",
+        "aZx2Ry.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "2friendly.gb",
+            "playable": true
+        }
+    ],
+    "developer": "isacben",
+    "date": "2023-05-20T20:17:00",
+    "website": "https://isacben.itch.io/2friendly",
+    "slug": "2friendly",
+    "title": "2 Friendly",
+    "platform": "GB",
+    "description": "Two cats. One of them is too friendly."
+}

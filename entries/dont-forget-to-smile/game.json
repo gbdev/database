@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "SiHwI5.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Simulation",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Dont_Forget_To_Smile_1.1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "DionOfSpice",
+    "date": "2023-05-20T05:45:00",
+    "website": "https://dionofspice.itch.io/dont-forget-to-smile",
+    "slug": "dont-forget-to-smile",
+    "title": "Don't Forget To Smile",
+    "platform": "GB",
+    "description": "A short narrative experience about working in an ice cream shop."
+}

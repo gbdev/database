@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "WKighO.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "A_WALK_IN_SNOW.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Diego Garc\u00c3\u00ada",
+    "date": "2023-05-20T20:22:00",
+    "website": "https://divgv.itch.io/a-walk-in-snow",
+    "slug": "a-walk-in-snow",
+    "title": "A walk in snow",
+    "platform": "GB",
+    "description": "A short first person game about finding soldiers in the snow."
+}

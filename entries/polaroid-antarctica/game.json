@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "LAWkAf.png",
+        "BZB0N2F.png",
+        "QQUUe6.png",
+        "bECg9n.png",
+        "Q5MR3F.png",
+        "uTJmYX.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "PolaroidAntarctica.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Robert Doman",
+    "date": "2023-05-19T20:35:00",
+    "website": "https://r-doman.itch.io/polaroid-antarctica",
+    "slug": "polaroid-antarctica",
+    "title": "Polaroid: Antarctica",
+    "platform": "GB"
+}

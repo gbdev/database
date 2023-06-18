@@ -1,0 +1,19 @@
+{
+  "screenshots": ["cover.png", "DFHv3a.gif", "IAJixF.gif", "jz3nbM.png"],
+  "typetag": "game",
+  "tags": ["Puzzle", "event:gbshowdown23"],
+  "developer": "László Rajcsányi (WLS)",
+  "last_updated": "2023-05-27T22:14:00",
+  "website": "https://lacoste42.itch.io/musical-notes",
+  "slug": "musical-notes",
+  "title": "Musical Notes",
+  "platform": "GB",
+  "description": "An original release from WLS to Nintendo's Gameboy handheld console.",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

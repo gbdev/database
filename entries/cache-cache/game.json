@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "o0EAKx.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "cachecahe.gb",
+            "playable": true
+        }
+    ],
+    "developer": "farfadet46",
+    "last_updated": "2023-06-02T17:57:00",
+    "website": "https://farfadet46.itch.io/cache-cache",
+    "slug": "cache-cache",
+    "title": "Cache Cache",
+    "platform": "GB",
+    "description": "my game for the game boy showdown 2023"
+}

@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "oFzmV2.jpg",
+        "6GCeyY.jpg",
+        "Wfkw1q.jpg",
+        "SN6fLX.jpg",
+        "WDwgCf.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "bone_finder.gb",
+            "playable": true
+        }
+    ],
+    "developer": "DJARKY",
+    "last_updated": "2023-05-28T07:22:00",
+    "website": "https://djarky.itch.io/bone-finder",
+    "slug": "bone-finder",
+    "title": "bone finder",
+    "platform": "GB"
+}

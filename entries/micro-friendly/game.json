@@ -1,0 +1,18 @@
+{
+  "screenshots": ["cover.png", "XGwB1E.png"],
+  "typetag": "game",
+  "tags": ["Adventure", "event:gbshowdown23"],
+  "developer": "MYTH'S",
+  "website": "https://myths-ai.itch.io/micro-friendly",
+  "slug": "micro-friendly",
+  "title": "Micro Friendly",
+  "platform": "GB",
+  "description": "Game Made in 2 Days",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

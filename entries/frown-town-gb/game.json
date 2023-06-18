@@ -1,0 +1,25 @@
+{
+  "screenshots": [
+    "cover.png",
+    "gC9tj2B.png",
+    "EQ2BtX0.png",
+    "GsVR7r.png",
+    "9HI5Ta.png",
+    "d52epK.png"
+  ],
+  "typetag": "game",
+  "tags": ["event:gbshowdown23"],
+  "developer": "Stark",
+  "date": "2023-05-20T19:57:00",
+  "website": "https://starksnow.itch.io/frown-town-gb",
+  "slug": "frown-town-gb",
+  "title": "Frown Town GB",
+  "platform": "GB",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "4KbNFE.png",
+        "8XO50V.png",
+        "ZIn1zu.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Retro_Quiz_Tower_JAM_1.2.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "Rubenretro",
+        "Ainon"
+    ],
+    "date": "2023-05-20T20:28:00",
+    "website": "https://rubenretro.itch.io/rqtjam",
+    "slug": "rqtjam",
+    "title": "Retro Quiz Tower (JAM Edition)",
+    "platform": "GB",
+    "description": "Think you know everything about Retro Culture?   Prove it by completing  the RETRO QUIZ TOWER TRIAL"
+}

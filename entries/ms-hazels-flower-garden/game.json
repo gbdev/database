@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Vx0d1q.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Ms_Hazels_Flower_Garden.gb",
+            "playable": true
+        }
+    ],
+    "developer": "JacobMotlMedia",
+    "date": "2023-05-20T21:51:00",
+    "website": "https://jacobmotlmedia.itch.io/ms-hazels-flower-garden",
+    "slug": "ms-hazels-flower-garden",
+    "title": "Ms. Hazel's Flower Garden",
+    "platform": "GB",
+    "description": "Help Ms. Hazel water her flowers."
+}

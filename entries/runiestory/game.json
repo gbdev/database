@@ -1,0 +1,33 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "Xjo6LG.gif",
+        "DDUmIf.gif",
+        "67V8aM.gif",
+        "CfyiwH.jpeg",
+        "F8i0kr.jpeg",
+        "GpAjn1.jpeg",
+        "JeIbtS.jpeg",
+        "nCvAo5.jpeg",
+        "2B2FKAYY.jpeg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "RunieStory.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Spicyfuse",
+    "date": "2023-05-20T10:24:00",
+    "website": "https://spicyfuse.itch.io/runiestory",
+    "slug": "runiestory",
+    "title": "RunieStory - Gameboy color / Analogue Pocket",
+    "platform": "GB",
+    "description": "Action rpg about making friends with a fantasy town"
+}

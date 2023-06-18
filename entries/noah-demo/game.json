@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "K6L1GA.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Noah_1_5_2_by_Sloopygoop.gb",
+            "playable": true
+        }
+    ],
+    "developer": "sloopygoop",
+    "date": "2023-05-20T21:26:00",
+    "website": "https://sloopygoop.itch.io/noah-demo",
+    "slug": "noah-demo",
+    "title": "Noah 1.5",
+    "platform": "GB",
+    "description": "A visual novel for Game Boy with six different endings!"
+}

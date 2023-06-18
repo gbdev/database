@@ -1,0 +1,19 @@
+{
+  "screenshots": ["cover.png", "TLJpBf.png", "1crHES.png", "uhYZh1.png"],
+  "typetag": "game",
+  "tags": ["Simulation", "Adventure", "event:gbshowdown23"],
+  "developer": "BanDana",
+  "date": "2023-05-20T18:22:00",
+  "website": "https://bandana-d.itch.io/the-fetch-quest",
+  "slug": "the-fetch-quest",
+  "title": "The Fetch Quest",
+  "platform": "GB",
+  "description": "A short Game Boy Game for the Game Boy Showdown 2023",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

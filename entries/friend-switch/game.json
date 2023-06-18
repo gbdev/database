@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "cover.png",
+        "U4v7dK.png",
+        "jQTEYe.jpg",
+        "cKXKjh.png",
+        "DxNv22.png",
+        "TX0wH8.png",
+        "GGNrsY.png",
+        "T4xGoY.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "friendswitch.gb",
+            "playable": true
+        }
+    ],
+    "developer": "kicdogames",
+    "date": "2023-05-20T21:52:00",
+    "website": "https://kicdogames.itch.io/friend-switch",
+    "slug": "friend-switch",
+    "title": "Friend Switch",
+    "platform": "GB",
+    "description": "Game Boy Showdown 2023 submission"
+}

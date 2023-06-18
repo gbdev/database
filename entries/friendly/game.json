@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "b2Ffkjn.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "unfriendly_forest_final_v4.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "SillySadieLady",
+        "IridiaLux"
+    ],
+    "date": "2023-05-20T07:02:00",
+    "website": "https://sillysadielady.itch.io/friendly",
+    "slug": "friendly",
+    "title": "Cinnamon & Bean In The Unfriendly Forest",
+    "platform": "GB",
+    "description": "Help two bunny buddies get through a forest full of rude animals in this Gameboy game made for GBShowdown '23."
+}

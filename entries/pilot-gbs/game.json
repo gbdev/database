@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "NIhcsC.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Wish Volo",
+    "date": "2023-05-20T20:54:00",
+    "website": "https://wish-volo.itch.io/pilot-gbs",
+    "slug": "pilot-gbs",
+    "title": "pilot - game boy showdown jam",
+    "platform": "GB",
+    "description": "Everyone likes flowers, and Pilot likes to give them out."
+}

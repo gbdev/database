@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "6viSw1.png",
+        "Xo0lby.png",
+        "xoEPFF.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "concertgrove1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "GamechangerMods",
+    "date": "2023-05-20T20:42:00",
+    "website": "https://gamechangermods.itch.io/concert-grove",
+    "slug": "concert-grove",
+    "title": "Concert Grove",
+    "platform": "GB",
+    "description": "A short adventure game. Gather the parts of a song to sing the whole piece and break the curse."
+}

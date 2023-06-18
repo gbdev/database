@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "LZLlBD.png",
+        "mYd9Sc.png",
+        "dgs7FE.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "BoboPlushie_V0_8.gb",
+            "playable": true
+        }
+    ],
+    "developer": "QuentinM",
+    "date": "2023-05-20T16:38:00",
+    "website": "https://quentinm.itch.io/boboplushie",
+    "slug": "boboplushie",
+    "title": "BOBO&PLUSHIE",
+    "platform": "GB",
+    "description": "The journey of Bobo and his plushie to find a new home."
+}

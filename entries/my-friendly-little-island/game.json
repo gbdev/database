@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "DdhOKU.png",
+        "SCOLnh.png",
+        "40jSBN.png",
+        "w7nGna.png",
+        "m2QP2FQ.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "My-Friendly-Little-Island.gb",
+            "playable": true
+        }
+    ],
+    "developer": "playinstinct",
+    "date": "2023-05-20T10:19:00",
+    "website": "https://playinstinct.itch.io/my-friendly-little-island",
+    "slug": "my-friendly-little-island",
+    "title": "My Friendly Little Island",
+    "platform": "GB",
+    "description": "A cute adventure platformer about friendship and personal growth"
+}

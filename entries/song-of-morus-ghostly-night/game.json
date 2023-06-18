@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "0Q7HlD.png",
+        "OwaVEz.png",
+        "Jrm12Fi.png",
+        "zknGs8.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "SunnyChowTheGuy",
+        "1kmountains"
+    ],
+    "date": "2023-05-20T17:41:00",
+    "website": "https://sunnychowtheguy.itch.io/song-of-morus-ghostly-night",
+    "slug": "song-of-morus-ghostly-night",
+    "title": "Song of Morus: Ghostly Night",
+    "platform": "GB"
+}

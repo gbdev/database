@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.gif",
+        "Nj33ij.gif",
+        "2FqR1sQ.gif",
+        "pB2QRK.gif",
+        "882p95.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Survival",
+        "Interactive Fiction",
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Days_Without_-_Elvies_[More_Endings].gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Elvies",
+    "last_updated": "2023-05-29T12:20:00",
+    "website": "https://elvies.itch.io/days-without",
+    "slug": "days-without",
+    "title": "Days Without",
+    "platform": "GB",
+    "description": "A short narrative about a lonely man in the apocalypse."
+}

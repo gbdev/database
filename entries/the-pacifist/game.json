@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Gb2qRd.png",
+        "sRTPWb.png",
+        "GFKVfB.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ThePacifist_GBSD-2023.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Rico Harbor",
+    "date": "2023-05-20T09:29:00",
+    "website": "https://rico-harbor.itch.io/the-pacifist",
+    "slug": "the-pacifist",
+    "title": "The Pacifist",
+    "platform": "GB",
+    "description": "Save the hostages, without violence."
+}

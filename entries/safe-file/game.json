@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "81FQwk.png",
+        "IPVSbP.png",
+        "m8U1IJ.png",
+        "12BzU2FD.png",
+        "sG2FMD9.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "Action",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "SafeFile.gb",
+            "playable": true
+        }
+    ],
+    "developer": "WinglessPenny64",
+    "date": "2023-05-20T19:42:00",
+    "website": "https://winglesspenny64.itch.io/safe-file",
+    "slug": "safe-file",
+    "title": "Safe File",
+    "platform": "GB",
+    "description": "Save .files friends from viruses"
+}

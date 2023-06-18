@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "QSTU7R.png",
+        "gRzqBC.png",
+        "jEFAF6.png",
+        "oPOiyX.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "VideoGameStoryTime",
+    "date": "2023-05-20T21:54:00",
+    "website": "https://videogamestorytime.itch.io/friendly-fire",
+    "slug": "friendly-fire",
+    "title": "Friendly Fire",
+    "platform": "GB",
+    "description": "A Game About Friends and Fire"
+}

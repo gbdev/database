@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "cover.png",
+        "lacDso.png",
+        "4o7f4S.png",
+        "zd80iB.png",
+        "YYoNGu.png",
+        "KlSpRJ.png",
+        "xQHtP2.png",
+        "5wbbiV.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "You_are_my_New_friend.gb",
+            "playable": true
+        }
+    ],
+    "developer": ":>",
+    "date": "2023-05-20T20:45:00",
+    "website": "https://projectsrya.itch.io/you-are-my-new-friend",
+    "slug": "you-are-my-new-friend",
+    "title": "You are my New friend",
+    "platform": "GB",
+    "description": "The exciting story of Sir ant."
+}

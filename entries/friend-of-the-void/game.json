@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "cover.png",
+        "6YuVLF.png",
+        "VZQzt2B.png",
+        "YkEWPp.png",
+        "kLobpx.png",
+        "4Kc05n.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Visual Novel",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "FriendoftheVoid.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "Sleepless Seven",
+        "Horatiu.nyc"
+    ],
+    "date": "2023-05-20T18:53:00",
+    "website": "https://sleepless-seven.itch.io/friend-of-the-void",
+    "slug": "friend-of-the-void",
+    "title": "Friend of the Void",
+    "platform": "GB",
+    "description": "Befriend eldritch horrors to bring your Bestie back from the Void!"
+}

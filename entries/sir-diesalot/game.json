@@ -1,0 +1,25 @@
+{
+  "screenshots": [
+    "cover.png",
+    "dZXedB.png",
+    "4hVG1x.png",
+    "lo8Rjm.png",
+    "HqAiH7.png"
+  ],
+  "typetag": "game",
+  "tags": ["Adventure", "event:gbshowdown23"],
+  "developer": "Nemuristar",
+  "date": "2023-05-20T07:08:00",
+  "website": "https://nemuristar.itch.io/sir-diesalot",
+  "slug": "sir-diesalot",
+  "title": "Sir Diesalot",
+  "platform": "GB",
+  "description": "Defeat the great evil!",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

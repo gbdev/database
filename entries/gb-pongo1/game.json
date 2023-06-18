@@ -1,0 +1,19 @@
+{
+  "screenshots": ["cover.png", "fFJ2FYM.png", "Ffx5xQ.png", "8fk5dH.png"],
+  "typetag": "game",
+  "tags": ["Adventure", "event:gbshowdown23"],
+  "developer": "CreativaGS",
+  "date": "2023-05-19T23:04:00",
+  "website": "https://creativags.itch.io/gb-pongo1",
+  "slug": "gb-pongo1",
+  "title": "GB_PongoFriends",
+  "platform": "GB",
+  "description": "A very small friendly and cute game",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

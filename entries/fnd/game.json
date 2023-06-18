@@ -1,0 +1,30 @@
+{
+  "screenshots": [
+    "cover.png",
+    "WVQXQ2F.png",
+    "9TbDaC.png",
+    "z1kvOX.png",
+    "On3QsE.png",
+    "s2cvWW.png",
+    "88z2EZ.png",
+    "QY3yeb.png",
+    "rWeIV4.png",
+    "y8JY2e.png"
+  ],
+  "typetag": "game",
+  "tags": ["Platform", "Adventure", "event:gbshowdown23"],
+  "developer": "Johndo21",
+  "date": "2023-05-20T04:46:00",
+  "website": "https://johndo21.itch.io/fnd",
+  "slug": "fnd",
+  "title": "Friendship Never Dies",
+  "platform": "GB",
+  "description": "Help Ethan to save world friendships !",
+  "files": [
+    {
+      "default": true,
+      "filename": "FriendshipNeverDiesGameBoy.gb",
+      "playable": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "j5mbTh.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "friendly_CPU.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Bad_Dad",
+    "date": "2023-05-20T02:36:00",
+    "website": "https://phil-bad-dad-games.itch.io/the-friendly-cpu",
+    "slug": "the-friendly-cpu",
+    "title": "The Friendly CPU",
+    "platform": "GB",
+    "description": "We are saved offline"
+}

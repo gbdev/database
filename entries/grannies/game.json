@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "6vpDdx.png",
+        "SF9H7Q.png",
+        "eDFcXv.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "grannies.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Hohenstaufer",
+    "date": "2023-05-20T21:49:00",
+    "website": "https://hohenstaufer.itch.io/grannies",
+    "slug": "grannies",
+    "title": "Grannies",
+    "platform": "GB",
+    "description": "Help grannie cross the street"
+}

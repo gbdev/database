@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "vVzYqd.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Cuppa_Joe_(Jam_Version).gb",
+            "playable": true
+        }
+    ],
+    "developer": "birdsofafeather",
+    "date": "2023-05-20T21:38:00",
+    "website": "https://birdsofafeather.itch.io/cuppajoe",
+    "slug": "cuppajoe",
+    "title": "Cuppa Joe",
+    "platform": "GB"
+}

@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.jpg",
+        "wfT6MU.jpg",
+        "mXC9el.jpg",
+        "68WRyR.jpg",
+        "5beQVS.jpg",
+        "2B2FT2Bgn.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "AFriendinNeed_rom_v1.1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "gorzylla",
+    "date": "2023-05-20T17:33:00",
+    "website": "https://gorzylla.itch.io/a-friend-in-need",
+    "slug": "a-friend-in-need",
+    "title": "A Friend In Need",
+    "platform": "GB",
+    "description": "A long lost friend with a secret resurfaces and needs your help."
+}

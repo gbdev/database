@@ -1,0 +1,18 @@
+{
+  "screenshots": ["cover.png", "YlsnKp.png", "Ydzs5A.png"],
+  "typetag": "game",
+  "tags": ["Puzzle", "event:gbshowdown23"],
+  "developer": "lukemm12",
+  "date": "2023-05-20T21:15:00",
+  "website": "https://lukemm12.itch.io/the-tale-of-two-dreams",
+  "slug": "the-tale-of-two-dreams",
+  "title": "The Tale Of Two Dreams",
+  "platform": "GB",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

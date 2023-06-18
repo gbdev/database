@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "2T2F0dv.png",
+        "zxGtc2.png",
+        "n13XRA.png",
+        "6tEjf9.png",
+        "ZYvZZk.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Joono",
+    "date": "2023-05-20T21:46:00",
+    "website": "https://joono.itch.io/finally-a-quiet-place",
+    "slug": "finally-a-quiet-place",
+    "title": "Finally, a quiet place.",
+    "platform": "GB",
+    "description": "A young boy locked inside his house finds a talking key."
+}

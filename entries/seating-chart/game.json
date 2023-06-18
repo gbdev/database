@@ -1,0 +1,19 @@
+{
+  "screenshots": ["cover.png", "fLs3V7.png", "4FBRZP.png"],
+  "typetag": "game",
+  "tags": ["Puzzle", "event:gbshowdown23"],
+  "developer": ["Tyler Lombard", "Tswined"],
+  "date": "2023-05-20T21:59:00",
+  "website": "https://tylerlombard.itch.io/seating-chart",
+  "slug": "seating-chart",
+  "title": "Seating Chart",
+  "platform": "GB",
+  "description": "Play as Mr. Oak, the substitute teacher, and seat students next to their friends in this puzzle game!",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

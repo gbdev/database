@@ -1,0 +1,26 @@
+{
+  "screenshots": [
+    "cover.png",
+    "xFH0wy.png",
+    "cUVtia.png",
+    "RwX4OQ.png",
+    "UW3WXD.png",
+    "GbEymC.png"
+  ],
+  "typetag": "game",
+  "tags": ["Visual Novel", "event:gbshowdown23"],
+  "developer": "Yasmine",
+  "date": "2023-05-20T21:46:00",
+  "website": "https://baegho.itch.io/the-trials-of-goodbye",
+  "slug": "the-trials-of-goodbye",
+  "title": "The Trials of Goodbye",
+  "platform": "GB",
+  "description": "A verdict for a final friend",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

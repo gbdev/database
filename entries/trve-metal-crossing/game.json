@@ -1,0 +1,19 @@
+{
+  "screenshots": ["cover.png", "bGUuE2F.gif", "uRCGWr.png", "cIJAKo.png"],
+  "typetag": "game",
+  "tags": ["Adventure", "event:gbshowdown23"],
+  "developer": "Scotaire",
+  "date": "2023-05-20T10:23:00",
+  "website": "https://scotaire.itch.io/trve-metal-crossing",
+  "slug": "trve-metal-crossing",
+  "title": "Trve Metal Crossing",
+  "platform": "GB",
+  "description": "Can you and your friends perform the most popular music show?",
+  "files": [
+    {
+      "default": true,
+      "filename": "game.gb",
+      "playable": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "SpYmYW.png",
+        "GpOhi0.png",
+        "pd5uJd.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "haunted.gb",
+            "playable": true
+        }
+    ],
+    "developer": "November",
+    "date": "2023-05-20T19:07:00",
+    "website": "https://locrianzone.itch.io/haunted",
+    "slug": "haunted",
+    "title": "Haunted",
+    "platform": "GB",
+    "description": "Your apartment is making weird sounds."
+}

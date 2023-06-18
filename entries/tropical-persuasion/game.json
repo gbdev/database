@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "wXDCcJ.png",
+        "qO5Y22B.png",
+        "2F2BIsqv.png",
+        "YQRnr9.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Tropical_Persuasion.gb",
+            "playable": true
+        }
+    ],
+    "developer": "HighTowerBK",
+    "date": "2023-05-20T20:23:00",
+    "website": "https://hightowerbk.itch.io/tropical-persuasion",
+    "slug": "tropical-persuasion",
+    "title": "Tropical Persuasion",
+    "platform": "GB",
+    "description": "Submission for the Game Boy Showdown 2023"
+}

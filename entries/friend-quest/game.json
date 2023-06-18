@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "i4Wjzv.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "FriendQuest.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "briziant",
+        "Zetheon",
+        "ptewie"
+    ],
+    "date": "2023-05-20T20:56:00",
+    "website": "https://briziant.itch.io/friend-quest",
+    "slug": "friend-quest",
+    "title": "Friend Quest",
+    "platform": "GB",
+    "description": "A quest for friendship!"
+}

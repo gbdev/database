@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ClEKeX.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TAMTFA.gb",
+            "playable": true
+        }
+    ],
+    "developer": "thincavalcanti",
+    "date": "2023-05-20T21:30:00",
+    "website": "https://thincavalcanti.itch.io/the-adventures-and-misadventures-of-three-friendly-animals-part-4",
+    "slug": "the-adventures-and-misadventures-of-three-friendly-animals-part-4",
+    "title": "The Adventures and Misadventures of Three Friendly\u00c2\u00a0Animals:\u00c2\u00a0Part\u00c2\u00a04",
+    "platform": "GB"
+}

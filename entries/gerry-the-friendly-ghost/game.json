@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "cover.png",
+        "cAlCY6.png",
+        "NUHc2Bm.png",
+        "1Zu5tc.png",
+        "wvWcNs.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "ceprotypes",
+    "date": "2023-05-20T16:21:00",
+    "website": "https://ceprotypes.itch.io/gerry-the-friendly-ghost",
+    "slug": "gerry-the-friendly-ghost",
+    "title": "Gerry the friendly ghost",
+    "platform": "GB"
+}

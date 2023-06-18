@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "cover.png",
+        "TtgLu4.png",
+        "TeuKA1.png",
+        "W12CgZ.png",
+        "mRB4Wo.png",
+        "N12Bjrp.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "River_Styx_Round-Up_1.0.0.gb",
+            "playable": true
+        }
+    ],
+    "developer": [
+        "IdnitMedia",
+        "RABBITKING"
+    ],
+    "date": "2023-05-20T21:41:00",
+    "website": "https://idnitmedia.itch.io/river-styx-round-up",
+    "slug": "river-styx-round-up",
+    "title": "River Styx Round-Up",
+    "platform": "GB",
+    "description": "Your friendly neighborhood Ferryman"
+}

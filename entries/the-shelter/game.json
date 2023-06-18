@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.png",
+        "KGm4cE.png",
+        "1pdeCk.png",
+        "btZ4jV.png",
+        "18ZkQ5.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TheShelter.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Selbryn",
+    "date": "2023-05-20T15:04:00",
+    "website": "https://selbryn.itch.io/the-shelter",
+    "slug": "the-shelter",
+    "title": "The shelter",
+    "platform": "GB",
+    "description": "GB gamecreated for the Game Boy Showdown 2023"
+}

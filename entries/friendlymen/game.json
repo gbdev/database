@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "vBM6x2B.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Vadimilyano",
+    "date": "2023-05-20T18:30:00",
+    "website": "https://vadimilyano.itch.io/friendlymen",
+    "slug": "friendlymen",
+    "title": "friendlymen -- format\".gb\"--awecome",
+    "platform": "GB",
+    "description": "write what to do to make the game better!"
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "ZZzs0t.png",
+        "gva8Dx.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "BinDay.gb",
+            "playable": true
+        }
+    ],
+    "developer": "sjd",
+    "date": "2023-05-20T12:49:00",
+    "website": "https://sjd-sjd.itch.io/bin-day",
+    "slug": "bin-day",
+    "title": "Bin Day!",
+    "platform": "GB",
+    "description": "Game Boy Showdown 2023"
+}

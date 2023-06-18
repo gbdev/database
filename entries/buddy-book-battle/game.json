@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "cover.png",
+        "LfWsvi.png",
+        "uEIg8L.png",
+        "OxmMf8.png",
+        "62FxLWt.png",
+        "eNXyj8.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Buddy_Book_Battle.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Bownly",
+    "date": "2023-05-20T18:07:00",
+    "website": "https://bownly.itch.io/buddy-book-battle",
+    "slug": "buddy-book-battle",
+    "title": "Buddy Book Battle",
+    "platform": "GB",
+    "description": "Dragon Quest meets Mega Man meets Zatch Bell"
+}

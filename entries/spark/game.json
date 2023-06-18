@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "cover.png",
+        "Hvm6pT.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "LotusGameDev",
+    "date": "2023-05-20T19:46:00",
+    "website": "https://lotusgamedev.itch.io/spark",
+    "slug": "spark",
+    "title": "Spark",
+    "platform": "GB",
+    "description": "A Lotus/Katharou game for Gameboy Showdown 2023"
+}

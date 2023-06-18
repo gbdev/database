@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "zzwlcx.png",
+        "ooXJrf.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Rhythm",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Pspsps_(Updated).gb",
+            "playable": true
+        }
+    ],
+    "developer": "fluxmasterfix",
+    "last_updated": "2023-05-28T18:51:00",
+    "website": "https://fluxmasterfix.itch.io/pspsps",
+    "slug": "pspsps",
+    "title": "Pspsps",
+    "platform": "GB",
+    "description": "Cat Petting Game"
+}

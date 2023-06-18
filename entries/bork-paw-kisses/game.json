@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "cover.png",
+        "BD7aTl.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Interactive Fiction",
+        "Visual Novel",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "visiface",
+    "date": "2023-05-20T21:33:00",
+    "website": "https://visiface.itch.io/bork-paw-kisses",
+    "slug": "bork-paw-kisses",
+    "title": "Bork Paw Kisses",
+    "platform": "GB",
+    "description": "a story about friends"
+}

@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "cover.png",
+        "05FgAl.png",
+        "O2HF4x.png",
+        "MJcVdB.png",
+        "EJj6Ah.png",
+        "Ta1c5F.png",
+        "bBfcaa.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "RPG",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Boxed_In.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Developer0",
+    "date": "2023-05-20T21:17:00",
+    "website": "https://developer0.itch.io/boxed-in",
+    "slug": "boxed-in",
+    "title": "Boxed In",
+    "platform": "GB"
+}

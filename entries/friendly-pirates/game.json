@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "cover.png",
+        "F6Xv5A.gif"
+    ],
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:gbshowdown23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "afriendlypirates.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Eric Studio40A",
+    "date": "2023-05-20T07:49:00",
+    "website": "https://mbaran.itch.io/friendly-pirates",
+    "slug": "friendly-pirates",
+    "title": "Friendly Pirates",
+    "platform": "GB"
+}
