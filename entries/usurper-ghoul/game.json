@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "cover.jpeg",
+        "Rzdg77.jpeg",
+        "mmr2FSs.jpeg",
+        "2BHeGXo.jpeg",
+        "Hq8dO2F.jpeg",
+        "ucM20a.jpeg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "RPG",
+        "Puzzle"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "usurperghoul.1.9.gb",
+            "playable": true
+        }
+    ],
+    "developer": "evandahm",
+    "website": "https://evandahm.itch.io/usurper-ghoul",
+    "slug": "usurper-ghoul",
+    "title": "USURPER GHOUL",
+    "platform": "GB",
+    "description": "Discover the remains of a fallen kingdom and its people. Made in GB Studio, Fall 2020."
+}
