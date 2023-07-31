@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Gay__(Gameboy).zip",
-            "hash": {
-                "md5": "bc5c6e3d19ec9b8f3fee1310ed2ec7b9381bd742",
-                "sha1": "bc5c6e3d19ec9b8f3fee1310ed2ec7b9381bd742",
-                "sha256": "3ddc1b66437e7400c4cdd56000c735861320aa0f378616bda5271487c10933b2"
-            }
+            "filename": "Gay__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "GAY.GB",
-            "hash": {
-                "md5": "bc174d6248f8eefd246136b60e737510",
-                "sha1": "629e32c65847bf39a68a1fccbdc5e95fa767f66c",
-                "sha256": "94f01094e101fa7456308295530f7ffed9ab171dda8aea51c128bb195cf43d49"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DT-CHWLD.ZIP",
-            "hash": {
-                "md5": "4d277acfa8b74a82f883cd3438c53e449e6132fb",
-                "sha1": "4d277acfa8b74a82f883cd3438c53e449e6132fb",
-                "sha256": "eabfa3337a2ec93d782da8cc4d2b08c01863adb1556635f8b4d30b36bf685b4a"
-            }
+            "filename": "DT-CHWLD.ZIP"
         },
         {
             "default": true,
             "filename": "GBDEV.GBC",
-            "hash": {
-                "md5": "85bee43447d95b7327d12cc4c17fdc90",
-                "sha1": "64c4d33685152ff88c7207939239d65d7618fc1a",
-                "sha256": "d988e21fe5b9f71b849351218d47679c67cd4d7a79653fe3495097f352113ea4"
-            },
             "playable": true
         }
     ],

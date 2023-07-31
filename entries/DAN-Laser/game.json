@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DAN_Laser__(Gameboy).zip",
-            "hash": {
-                "md5": "eacfcf32c5e29ca06fea2a2ee0a0c1ce0383fef0",
-                "sha1": "eacfcf32c5e29ca06fea2a2ee0a0c1ce0383fef0",
-                "sha256": "f8dc01f24d78b659723a3ed4a2b3ff4e6b71f84f72500e36b2722fb876788005"
-            }
+            "filename": "DAN_Laser__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "DanLaser.gb",
-            "hash": {
-                "md5": "1c6291d719ae4a87d5f248ad542301ba",
-                "sha1": "710c5db00aa7a95f9867f1b60cfd75a4af54ba9b",
-                "sha256": "dd709311561e264393ff4d1961797eceec8d8fa92d2c02e4d5fb38c4fb5f3bdc"
-            },
             "playable": true
         }
     ],

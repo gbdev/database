@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "YUP-DB.ZIP",
-            "hash": {
-                "md5": "9564e0e482525e1f5ffacc4fc4746cbf11ef1d92",
-                "sha1": "9564e0e482525e1f5ffacc4fc4746cbf11ef1d92",
-                "sha256": "14d60a59e96517d9543a4d3f2564ba434581ae1a19c15c549eb2f1bc41702106"
-            }
+            "filename": "YUP-DB.ZIP"
         },
         {
             "default": true,
             "filename": "yup-demonblood.gb",
-            "hash": {
-                "md5": "5c8206604e72871760c48c5abdf3381d",
-                "sha1": "c766085f6e7730f8681e7f7fd00d699d96dda9ae",
-                "sha256": "a703616e4d03157917dfabc179fdc258d08f988985de05d1c46499f949865399"
-            },
             "playable": true
         }
     ],

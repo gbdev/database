@@ -1,24 +1,14 @@
 {
-    "description": "There\u2019s shoot\u2019em all game, you have good chance to kill enemyes, keep alive and complete your mission. You will meeting 12 different target types, include green bonus ship, meteors, mines. When you kill bonus ship you can received an additional weapon activated by \u2018B\u2019 button. You can have maximum: two shields (up/down \u2013 each for 1 point), two vertical fire balls \u2013 2 points, one circle fire balls \u2013 3 points, rear shield \u2013 4 points, inivisible mode \u2013 5 points. Enjoy!",
+    "description": "There’s shoot’em all game, you have good chance to kill enemyes, keep alive and complete your mission. You will meeting 12 different target types, include green bonus ship, meteors, mines. When you kill bonus ship you can received an additional weapon activated by ‘B’ button. You can have maximum: two shields (up/down – each for 1 point), two vertical fire balls – 2 points, one circle fire balls – 3 points, rear shield – 4 points, inivisible mode – 5 points. Enjoy!",
     "developer": "Cosmigo, Fatality software institute",
     "files": [
         {
             "description": "release",
-            "filename": "Firegear__(Gameboy).zip",
-            "hash": {
-                "md5": "30aa548ee40efd2e1b8a496931b832cbce57b35b",
-                "sha1": "30aa548ee40efd2e1b8a496931b832cbce57b35b",
-                "sha256": "d7c5f4eb85880de7da9e22bffbbf6df5009101d0493e560f573d24b3cc4d1851"
-            }
+            "filename": "Firegear__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Firegear.cgb",
-            "hash": {
-                "md5": "059e85349e020656b53ca9f54bfef05c",
-                "sha1": "b50e02063bc9fee43b49cf8becb4cd76557291ec",
-                "sha256": "93821e7aea5583b320304963165f26f468940df70da90906b7ec61fec5b7c3b7"
-            },
             "playable": true
         }
     ],

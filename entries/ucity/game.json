@@ -4,11 +4,6 @@
         {
             "default": true,
             "filename": "ucity.gbc",
-            "hash": {
-                "md5": "4c34c67e2db310e8b45ec2b53bcca1de",
-                "sha1": "c5ad4b50e8dbcb65e0fa861f08bfea37947848cb",
-                "sha256": "0d608db175dd8ba22780be5df5fc17bf135876f6964f58ee141e4f8d81c62947"
-            },
             "playable": true
         }
     ],

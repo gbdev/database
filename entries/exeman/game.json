@@ -5,11 +5,6 @@
         {
             "default": true,
             "filename": "exeman.gb",
-            "hash": {
-                "md5": "01dd505741c552caf1feb298acd2a114",
-                "sha1": "f9426554d3e89f3984ceae7defa7364779c78e13",
-                "sha256": "14dd8cba1b2bf8fd16025a719dbac787e9c972d2102f1c1b9a19789fe6659a27"
-            },
             "playable": true
         }
     ],

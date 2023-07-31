@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "ironhike.zip",
-            "hash": {
-                "md5": "c1546fb6ea909fd4feed1d7c5ff4a9fd",
-                "sha1": "8d961f7a9fe2277ccdcc1af24b7ca3245b6e87aa",
-                "sha256": "1161f5c0084f1577afc3e105303d54a35e33125e74da5699d1f21501b8369d0a"
-            }
+            "filename": "ironhike.zip"
         },
         {
             "default": true,
             "filename": "ironhike.cgb",
-            "hash": {
-                "md5": "cf7d4e7fe52a416a5d4560eadd686ffc",
-                "sha1": "94119d3529782549f22a1ae5e241f1265a39a203",
-                "sha256": "da528496258cfa3838575de19ff4d365c21b5ec0380e969ec6821ea2d7437b4b"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Capital_Intro_No__2__(Gameboy).ZIP",
-            "hash": {
-                "md5": "9b7a65d96f90f108c5d7c12d375e8bc2ab8cb914",
-                "sha1": "9b7a65d96f90f108c5d7c12d375e8bc2ab8cb914",
-                "sha256": "a68ce43e88de132bcf25bb9d13469a7ed3b34983980ed3b8dbcfecff2b30972d"
-            }
+            "filename": "Capital_Intro_No__2__(Gameboy).ZIP"
         },
         {
             "default": true,
             "filename": "cpl-i_02.gbc",
-            "hash": {
-                "md5": "2be0f8e9b4df0e17a30e5419bfd85602",
-                "sha1": "350e3308f2bb469f4a1d1914be67271968f26d46",
-                "sha256": "a9eb82c4ae3e3e5eb9c819bfa2f7e29f2d7446a7a04693ca7e8e5913ecfa9cdb"
-            },
             "playable": true
         }
     ],

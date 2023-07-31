@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "AND-BTC.ZIP",
-            "hash": {
-                "md5": "38b9bec15348c9c2af5e53dcc63ab0f999625549",
-                "sha1": "38b9bec15348c9c2af5e53dcc63ab0f999625549",
-                "sha256": "f627365aabb8d40f4c8690d77c6f52c59e3b89ef140e038e41d4909707168095"
-            }
+            "filename": "AND-BTC.ZIP"
         },
         {
             "default": true,
             "filename": "demo.gbc",
-            "hash": {
-                "md5": "153dcee2de580aaaf20eb51a7056bc19",
-                "sha1": "3f16585f8ae0a3a8d576e1aec95e1388c5907244",
-                "sha256": "7d7e60e154bdb806f8a0142394a468f318afde8a336d58e5051e722d0700b50c"
-            },
             "playable": true
         }
     ],

@@ -1,24 +1,14 @@
 {
-    "description": "monetai\u2018s Gameboy game Run!! made it into Ludum Dare 36. Try to stay alive as long as possible by avoiding obstacles.",
+    "description": "monetai‘s Gameboy game Run!! made it into Ludum Dare 36. Try to stay alive as long as possible by avoiding obstacles.",
     "developer": "monetai",
     "files": [
         {
             "description": "release",
-            "filename": "Run___v1.0.0_(Gameboy).zip",
-            "hash": {
-                "md5": "a19d0e5774cfe9930fcadcdcd8a5c3f4243bf523",
-                "sha1": "a19d0e5774cfe9930fcadcdcd8a5c3f4243bf523",
-                "sha256": "c8a85de0180a65e2f10ba2153982bd1ee226ac82bbb371e4596d3d3d7e47eed1"
-            }
+            "filename": "Run___v1.0.0_(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Run!!.gb",
-            "hash": {
-                "md5": "e9cb686ce9348ab2234db47c77069ffb",
-                "sha1": "c2ab6d8d49692b811d47ef2b978336479278cf43",
-                "sha256": "25543aa12e1977f0513c1aeae0cb2ad02264c289641fda4460d2f2047dd34ab0"
-            },
             "playable": true
         }
     ],

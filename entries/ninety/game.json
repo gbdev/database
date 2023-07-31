@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DOX-90.ZIP",
-            "hash": {
-                "md5": "c45a73337a7028b26780e36f405ff68652f07dba",
-                "sha1": "c45a73337a7028b26780e36f405ff68652f07dba",
-                "sha256": "98e0160d2d19acf4a45d14bea4d7744089c229308a4d56c3df837fd860190b41"
-            }
+            "filename": "DOX-90.ZIP"
         },
         {
             "default": true,
             "filename": "NINETY.GBC",
-            "hash": {
-                "md5": "b94635b455b8ca921bdc2f4891f54280",
-                "sha1": "5545edd5709598222d7e3634f0f2a3a12c40fbc8",
-                "sha256": "000211926c1613583c99ecc0b48b48eebef4e9b2b27160a8b57d2d85c2abdae0"
-            },
             "playable": true
         }
     ],

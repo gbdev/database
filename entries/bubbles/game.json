@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "TLU-BUBB.ZIP",
-            "hash": {
-                "md5": "d88f87ec91491a82089545d04e7aab26011c11fb",
-                "sha1": "d88f87ec91491a82089545d04e7aab26011c11fb",
-                "sha256": "ae32d0362dde645af1647f930b37b16c44a5dbb92c0b6d7566b5091d5aaeaf30"
-            }
+            "filename": "TLU-BUBB.ZIP"
         },
         {
             "default": true,
             "filename": "tlu-bubbles.gbc",
-            "hash": {
-                "md5": "08a5667b0113266b2a4f8044c3411dcb",
-                "sha1": "908b2dda859e3931538a586def401c2e7769621e",
-                "sha256": "c7feabcc9aa5390627b109fc19955c5584bf27c1a599883be04914a1f011f9bf"
-            },
             "playable": true
         }
     ],

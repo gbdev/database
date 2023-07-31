@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "CPL-T_06.ZIP",
-            "hash": {
-                "md5": "7e61b880efe611a0bd0a46c95509ce6fdbf765c0",
-                "sha1": "7e61b880efe611a0bd0a46c95509ce6fdbf765c0",
-                "sha256": "afa646ca3ccf623b59b9e9cad2945698e95faff336eea1af69d5768557c49fa8"
-            }
+            "filename": "CPL-T_06.ZIP"
         },
         {
             "default": true,
             "filename": "CPL-T_06.GBC",
-            "hash": {
-                "md5": "b2cd87ef5107149c7dcb30c7fe0d5bc7",
-                "sha1": "68363a51b053d1e4e84e67ac8350d0e4c91f44d3",
-                "sha256": "6f63523a4305e444146cfd592ea92e6e9835917b926155ed657f5f43245c1409"
-            },
             "playable": true
         }
     ],

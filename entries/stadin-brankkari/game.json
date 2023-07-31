@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Q-STADIN.ZIP",
-            "hash": {
-                "md5": "2d0209cb33832b225d7abc901b534f8ce8396223",
-                "sha1": "2d0209cb33832b225d7abc901b534f8ce8396223",
-                "sha256": "a319ebcab306a1427b47d923aaada8f097099059d9097deb950fe186c009f00e"
-            }
+            "filename": "Q-STADIN.ZIP"
         },
         {
             "default": true,
             "filename": "stadin.gbc",
-            "hash": {
-                "md5": "3cd349644f867c62b3ab4da3c0a3bfe0",
-                "sha1": "b10159009ce5e02fc89df6f0e2ddfbf92c860413",
-                "sha256": "ed274a982b3a621b42f1e04be7275ac8363e9a05c92b3e0b6b126b3ecb9d4643"
-            },
             "playable": true
         }
     ],

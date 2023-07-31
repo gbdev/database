@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "u3gb.zip",
-            "hash": {
-                "md5": "356bcc1e4256600cf2966abbf2b714ba",
-                "sha1": "738b284bd6d07102ac286afedd5117ad6e783b2f",
-                "sha256": "f28fccfe2e2fb3ea106d45e6a2fd18eceacab82a4062f7f75a38862c6abea93e"
-            }
+            "filename": "u3gb.zip"
         },
         {
             "default": true,
             "filename": "ult3.gb",
-            "hash": {
-                "md5": "39473ac4977e8905c0444f344553a9b4",
-                "sha1": "642a95b52a14869c8ab04434655b775c40192ee5",
-                "sha256": "7ad630d95bf41c48b1d2b16dd686816654c5f8440ba86cfe0992fc952e7adc55"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "RSE-T_04.ZIP",
-            "hash": {
-                "md5": "6e3f5cb4fea4ade455c4c22ea92d6f493cba96e5",
-                "sha1": "6e3f5cb4fea4ade455c4c22ea92d6f493cba96e5",
-                "sha256": "5ec936a7716ac52edd792fcc36ff589795440abdcdfe416ce0cb81bd0dfbfa25"
-            }
+            "filename": "RSE-T_04.ZIP"
         },
         {
             "default": true,
             "filename": "rse-t_04.gbc",
-            "hash": {
-                "md5": "a17669b6b2d42610b24c8ead418bb8cb",
-                "sha1": "97503740423f28491ac828425a4d2f4a1f33ca4d",
-                "sha256": "807466456728223fdc3ea733d3ec17185c8b3c8270043a174e056645170616cf"
-            },
             "playable": true
         }
     ],

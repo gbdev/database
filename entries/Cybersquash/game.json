@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Cybersquash__(Gameboy).zip",
-            "hash": {
-                "md5": "6cb3d02c517ca09252610676b01887216ca87be4",
-                "sha1": "6cb3d02c517ca09252610676b01887216ca87be4",
-                "sha256": "81edb370d5e3f5d5aa11c99798d4dedb5bff586611577f3cd67139a2e0dbca05"
-            }
+            "filename": "Cybersquash__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "cybersquash.gb",
-            "hash": {
-                "md5": "d82b6a0260b1ff3113bf062ae3904822",
-                "sha1": "3e8996b2eb90b4048d428a6436c235180af7331a",
-                "sha256": "7efc36b03cd0700a029976cb3f6f98e1015975b4bc5459d8eae1c7f259ebcf45"
-            },
             "playable": true
         }
     ],

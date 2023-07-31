@@ -5,11 +5,6 @@
         {
             "default": true,
             "filename": "geometrix.gbc",
-            "hash": {
-                "md5": "04438a4b074a8b4f8ea00619cae1d7f7",
-                "sha1": "634abc5f16ccc20696d428457dd3f9b7249c0942",
-                "sha256": "f13575af6bf87003c3eef8c2cab67a49ca6b02aa23ff6a31a38beb96d6eb1795"
-            },
             "playable": true
         }
     ],

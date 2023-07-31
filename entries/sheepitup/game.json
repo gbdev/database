@@ -6,11 +6,6 @@
         {
             "default": true,
             "filename": "sheepitup.gb",
-            "hash": {
-                "md5": "aefb99737d494f83e1b6299651f4ec72",
-                "sha1": "71892f55b45b2eebb4292d01647f66f31b4a71fe",
-                "sha256": "d7046b386aa426eedc32dd0e2634a46ae251ac68b0525a244642b262429ee7da"
-            },
             "playable": true
         }
     ],

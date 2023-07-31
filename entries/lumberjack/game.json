@@ -5,11 +5,6 @@
         {
             "default": true,
             "filename": "ind-lj.gb",
-            "hash": {
-                "md5": "e8eaf9e43096d52383303a2fdbd82a2f",
-                "sha1": "33a6df8c78f0948df1786b0579158353755eb334",
-                "sha256": "5c02806bc79a7d8b96fdaf508af68cd91661fe218b9222ef21bc0e65f9186039"
-            },
             "playable": true
         }
     ],

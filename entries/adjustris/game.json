@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Adjustris_v1.00_(Gameboy).zip",
-            "hash": {
-                "md5": "eed21f4127b2e6a355a0ee827835f0bf26124e01",
-                "sha1": "eed21f4127b2e6a355a0ee827835f0bf26124e01",
-                "sha256": "7197d12d1a242eb0aaafba65a55cc8c968062f311a560ebbaedba494bb8a501b"
-            }
+            "filename": "Adjustris_v1.00_(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "adjustris.gb",
-            "hash": {
-                "md5": "bc26b52dc0661fd20b754700d7a349ed",
-                "sha1": "61c0d3ab874786110b152e4ae183961bcf760744",
-                "sha256": "47f1fa0b5d0ee47f6380c8c388dce2a839f73a55cb4060a4decb44cf36c2a13b"
-            },
             "playable": true
         }
     ],
@@ -31,5 +21,7 @@
     "title": "adjustris",
     "typetag": "game",
     "repository": "https://github.com/tbsp/Adjustris",
-    "tags": [ "Open Source" ]
+    "tags": [
+        "Open Source"
+    ]
 }

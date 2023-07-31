@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "sneakysnakes.zip",
-            "hash": {
-                "md5": "57a16cbac4d4d4d48053fc4bfe958505",
-                "sha1": "ddd0bc3a8d25b8fa5c1a16eba96419053b09ee89",
-                "sha256": "d88847b5881bfb823e175bb8c809d734bf40bed4ae0680f170f37c158acf2837"
-            }
+            "filename": "sneakysnakes.zip"
         },
         {
             "default": true,
             "filename": "snake.gb",
-            "hash": {
-                "md5": "9c822844f7e20a373346889c08ab0c92",
-                "sha1": "ace7bc6f23c349bf0f56a6f309a8e6a8a7d4b59f",
-                "sha256": "70f3d3fdb13990e372232328e70d0028c17bbc397b90a086b2ca4584f24a652d"
-            },
             "playable": true
         }
     ],

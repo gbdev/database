@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Drymouth_v1.0_(Gameboy).zip",
-            "hash": {
-                "md5": "a347378b40b5e87ede06025ed9a1e8a240f7a903",
-                "sha1": "a347378b40b5e87ede06025ed9a1e8a240f7a903",
-                "sha256": "691e4d6c1d75001e2df35130a934706bf828b6d4633cb5980504ae79079ac17b"
-            }
+            "filename": "Drymouth_v1.0_(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Drymouth.gbc",
-            "hash": {
-                "md5": "ad945d22680a6b2a149079cb564a238e",
-                "sha1": "6bf5cbd0b5d2ce170b0334abafa59cf3aa18adb2",
-                "sha256": "09768703a226c5680fefe6d76e3abeb721c609aa9d233d999fe6a91ecf70741c"
-            },
             "playable": true
         }
     ],

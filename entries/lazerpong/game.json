@@ -5,11 +5,6 @@
         {
             "default": true,
             "filename": "lazerpong.gb",
-            "hash": {
-                "md5": "aa2d93e037c7fe2e894d0d7de2590946",
-                "sha1": "f0e3a4c3ad0e5d73f6154f2144abad68e4a5a2f1",
-                "sha256": "051215a87577fdf2e609e43a40ae64c089629d68f772a2e7462d1c2d1d85e449"
-            },
             "playable": true
         }
     ],

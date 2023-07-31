@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "flood.zip",
-            "hash": {
-                "md5": "b14a78f98e2fb285a74e821ade479d23",
-                "sha1": "27958f25c168857c1c13c18e48e227a55190ab70",
-                "sha256": "fcf46ae7710142b881efa1e4c0df50a60ef2dd63c294857a0ca2f14b844f1fea"
-            }
+            "filename": "flood.zip"
         },
         {
             "default": true,
             "filename": "flood.gbc",
-            "hash": {
-                "md5": "931b717bd37dc49ad67f580fa096ebd2",
-                "sha1": "a4e8b338c91ee7abe218bb099bc420f10c00933a",
-                "sha256": "05ee1b96616d9e7f7e91add3a9e5de9c92fcb875e6991cea918a76924c7c610d"
-            },
             "playable": true
         }
     ],

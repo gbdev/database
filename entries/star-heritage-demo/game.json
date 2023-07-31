@@ -4,26 +4,19 @@
     "files": [
         {
             "description": "release",
-            "filename": "star_heritage_demo_version_by_r-lab_(public_domain).zip",
-            "hash": {
-                "md5": "7c245482e23d8721e941ddb203e72825",
-                "sha1": "4a8865e78fd0201fcfb8fac4c897cd5ca0047d13",
-                "sha256": "50558c0ab9149e5197292f2b2e2efed94febccb3916240d9d8296431de0a849e"
-            }
+            "filename": "star_heritage_demo_version_by_r-lab_(public_domain).zip"
         },
         {
             "default": true,
             "filename": "star-heritage-demo-version-by-r-lab-pd-c.gbc",
-            "hash": {
-                "md5": "2bfecbd9b6b56c0a2947f7b4d8221dfa",
-                "sha1": "f597888478b293eda596dde0c152ad7a680acc63",
-                "sha256": "9bc2499e695e2a1b0749c85e5e36b3f61482d5502db9490c59f56c9361132dd7"
-            },
             "playable": true
         }
     ],
     "platform": "GBC",
-    "screenshots": [ "1.bmp", "2.bmp" ],
+    "screenshots": [
+        "1.bmp",
+        "2.bmp"
+    ],
     "slug": "star-heritage-demo",
     "title": "Star Heritage (Demo)",
     "typetag": "game"

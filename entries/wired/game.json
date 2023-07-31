@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "RLAB-WRD.ZIP",
-            "hash": {
-                "md5": "28e45f8b17cdf298a65b8628b9fc372f857dba84",
-                "sha1": "28e45f8b17cdf298a65b8628b9fc372f857dba84",
-                "sha256": "c1ef688d693d4ddf80b96c228c192cb85efede4cbc8c901d413e54a8a01fab89"
-            }
+            "filename": "RLAB-WRD.ZIP"
         },
         {
             "default": true,
             "filename": "wired.gbc",
-            "hash": {
-                "md5": "96484687fd9ddb0516f3904512c974a8",
-                "sha1": "7441f2b5dbf502347f28b075b986c178a73ec468",
-                "sha256": "9619b160f622b1ab80addbc3069f6878632c0759ad1bb94f2e5806fb9977d4d6"
-            },
             "playable": true
         }
     ],

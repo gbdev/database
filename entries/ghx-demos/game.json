@@ -4,12 +4,7 @@
     "files": [
         {
             "description": "release",
-            "filename": "SHINEN.ZIP",
-            "hash": {
-                "md5": "bd099a960f286cf1f20ebef7e4448628baba8820",
-                "sha1": "bd099a960f286cf1f20ebef7e4448628baba8820",
-                "sha256": "19568826732340656cb8695ba3b4af3ddb4a687d89fa4bef635261685effc50f"
-            }
+            "filename": "SHINEN.ZIP"
         }
     ],
     "platform": "GB",

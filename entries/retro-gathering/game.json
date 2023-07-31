@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DCS-RTRG.ZIP",
-            "hash": {
-                "md5": "95f462d12221c4664ed5a86c3f436b195f81ba40",
-                "sha1": "95f462d12221c4664ed5a86c3f436b195f81ba40",
-                "sha256": "ec5aa8eac45e0872c8fd912b378cde15d0ee88168952ea7146257eb1f014aa5d"
-            }
+            "filename": "DCS-RTRG.ZIP"
         },
         {
             "default": true,
             "filename": "dcs-rtrg.gbc",
-            "hash": {
-                "md5": "37d96362ea640b3b6b7a71d875e3af87",
-                "sha1": "82d4cd92ee2e352650e4f9149e8d1ceae0addef7",
-                "sha256": "d0a1fec86ed7d75fdea4cb1ac1cdcfc6cd379c1635143b15e314881359e93421"
-            },
             "playable": true
         }
     ],

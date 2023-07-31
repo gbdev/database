@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Horse_Race__(Gameboy).zip",
-            "hash": {
-                "md5": "5d442f5dc48f4169cb661d183712dd59f3560d48",
-                "sha1": "5d442f5dc48f4169cb661d183712dd59f3560d48",
-                "sha256": "6679e44f8c949e1023862d3ca1e4cc235fca8e8f0790194842d683d1a7840f68"
-            }
+            "filename": "Horse_Race__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "HorseRace.cgb",
-            "hash": {
-                "md5": "395c6e7493d5ff990dee54c2b9f4e724",
-                "sha1": "a102459ceebf0de671d339608aadd90167f4041e",
-                "sha256": "515e81f4c9db29a5377af918471131f6e62d8d22ea49c47a5f6256266c3ce55c"
-            },
             "playable": true
         }
     ],

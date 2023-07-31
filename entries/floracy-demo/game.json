@@ -5,21 +5,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "floracy.zip",
-            "hash": {
-                "md5": "60277fadc598765fb1d22221cb042f7c",
-                "sha1": "505bcfa5cd8c386bb52700a8a37cfcc2476cf2b7",
-                "sha256": "596e4903604e5ec356983bdfdb44453a7e272601085d1249b160584b6f65b459"
-            }
+            "filename": "floracy.zip"
         },
         {
             "default": true,
             "filename": "floracy.gbc",
-            "hash": {
-                "md5": "ffadefd2e7e6325cd33f834915a09c8b",
-                "sha1": "bb24ea021d873990d2e381d711376ba1d300b81f",
-                "sha256": "2079bf9fc139ba2ef43d7a9a72ae284b8900880a5be94d7852deec45d69aaf63"
-            },
             "playable": true
         }
     ],

@@ -1,24 +1,14 @@
 {
-    "description": "Don\u2019t shot, don\u2019t kill, don\u2019t eat \u2013  rescue  \ud83d\ude09",
+    "description": "Don’t shot, don’t kill, don’t eat –  rescue  😉",
     "developer": "Dox",
     "files": [
         {
             "description": "release",
-            "filename": "Rescue__(Gameboy).zip",
-            "hash": {
-                "md5": "a2857668d814e66b29a07543e8ca88544419708e",
-                "sha1": "a2857668d814e66b29a07543e8ca88544419708e",
-                "sha256": "cf80d00ec564ecb9b7cb29593832e867f83cdc6e1018f182869384dab884d17b"
-            }
+            "filename": "Rescue__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "rescue.gbc",
-            "hash": {
-                "md5": "8e4427c518359d2f6ac28292316e3ce5",
-                "sha1": "d7721dcdeb7b8bb882386b79ab0eb13c3f987c1b",
-                "sha256": "171b5890e8468895ed4c3bd9d165d26a595c790b2ebdeff2b7d170c4de684b09"
-            },
             "playable": true
         }
     ],

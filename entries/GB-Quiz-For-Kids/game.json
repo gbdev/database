@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "GB-Quiz_For_Kids__(Gameboy).zip",
-            "hash": {
-                "md5": "4b292eae2ed9339862ed3dc3c8cdd87f31d7c1b9",
-                "sha1": "4b292eae2ed9339862ed3dc3c8cdd87f31d7c1b9",
-                "sha256": "9274663693c874920852fb127b97171fff4985cd101d41f99136bf5c5c7735c5"
-            }
+            "filename": "GB-Quiz_For_Kids__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Quiz.gb",
-            "hash": {
-                "md5": "f4f933b9e5adcd4790e0fb9856f2510e",
-                "sha1": "500a87193200409eaafd918765360d2614d0b31b",
-                "sha256": "6b7f24e62b90be9deaff0bde73144781e9b67ced2e2cc57539799f52f7abb017"
-            },
             "playable": true
         }
     ],

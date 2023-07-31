@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "SP-GB.ZIP",
-            "hash": {
-                "md5": "d25254d0a86666308e34fc331b43a138ae18c99f",
-                "sha1": "d25254d0a86666308e34fc331b43a138ae18c99f",
-                "sha256": "43ad399a961f014f262a343b6b08e1bbb7e131adbc816436064dfd457b58321c"
-            }
+            "filename": "SP-GB.ZIP"
         },
         {
             "default": true,
             "filename": "gejmboj.gb",
-            "hash": {
-                "md5": "1f70b412f026a101d418efa3e227fe27",
-                "sha1": "6681d964f4b7735ced930a0218bd51745593d472",
-                "sha256": "f14c6d66a662123ffd5f0e8990dfa2e74eff831e9326e76262745574228a0632"
-            },
             "playable": true
         }
     ],

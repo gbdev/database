@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "MC-MRDER.ZIP",
-            "hash": {
-                "md5": "2a80a319f60226eb3dfae3dbe76820583405a81c",
-                "sha1": "2a80a319f60226eb3dfae3dbe76820583405a81c",
-                "sha256": "dbdfc5865ada3d6ec3105ff6dc2e98e9fed1fe280791e70fcd668fea88c0ee71"
-            }
+            "filename": "MC-MRDER.ZIP"
         },
         {
             "default": true,
             "filename": "mc-mrder.gb",
-            "hash": {
-                "md5": "520d4920b7d8c7d878165fb8c1db063c",
-                "sha1": "0f338ac4d6909d9266265955bd778a5ea0d866b3",
-                "sha256": "4ad6c96b524f671162bbbd7de5fb9c910f2c5abe0d2f100220656edfa50a7046"
-            },
             "playable": true
         }
     ],

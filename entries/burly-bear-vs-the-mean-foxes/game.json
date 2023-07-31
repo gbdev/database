@@ -4,32 +4,19 @@
     "files": [
         {
             "description": "release",
-            "filename": "burly.zip",
-            "hash": {
-                "md5": "31344e38745e5c71a7e612824188653b",
-                "sha1": "62412d4f2600fb466238d3036661801a853bb596",
-                "sha256": "78e95c037f9d2d78b97d904d4f467c31d470c14c1abaf4bc37d527a794af4513"
-            }
+            "filename": "burly.zip"
         },
         {
             "default": true,
             "filename": "burly.gbc",
-            "hash": {
-                "md5": "805f535a27e70d762d093f2c3750155a",
-                "sha1": "a84dda7f436aa803af692f3c764137185f03a71e",
-                "sha256": "b74ad58ef5946616a753b126e0c9112b5ea73a42754fa345c5c2f4cc910ef1e7"
-            },
             "playable": true,
             "version": "2"
-        },
-        {
-            "filename": "burly_older.gb",
-            "playable": true,
-            "version": "1"
         }
     ],
     "platform": "GBC",
-    "screenshots": [ "1.bmp" ],
+    "screenshots": [
+        "1.bmp"
+    ],
     "slug": "burly-bear-vs-the-mean-foxes",
     "title": "Burly Bear vs. The Mean Foxes",
     "typetag": "game"

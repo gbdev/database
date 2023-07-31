@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DOX-7447.ZIP",
-            "hash": {
-                "md5": "9c32bc2a6d3724595e61cd1947ea677f5eb73a74",
-                "sha1": "9c32bc2a6d3724595e61cd1947ea677f5eb73a74",
-                "sha256": "f860a2b2515f79b2c62056042d22d5efb9626ec489c3b5a582c7617473a64294"
-            }
+            "filename": "DOX-7447.ZIP"
         },
         {
             "default": true,
             "filename": "7447.cgb",
-            "hash": {
-                "md5": "9ae83af2d274b9322714cc54c3d5d70b",
-                "sha1": "e11bebf70b5e932ad1f712bb6eb4b35519845573",
-                "sha256": "ef37979308c8b4e9cdf482e151ded96d1cad31caf634efd91d6f2bf813828bb7"
-            },
             "playable": true
         }
     ],

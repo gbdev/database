@@ -5,21 +5,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "mona.zip",
-            "hash": {
-                "md5": "09ca62a903e5b707f4706750bc23473788c41440",
-                "sha1": "09ca62a903e5b707f4706750bc23473788c41440",
-                "sha256": "b4601c04948c3a3d32ddb1d0c90d67cb0360909e77b44808f4073ac0ad8a8442"
-            }
+            "filename": "mona.zip"
         },
         {
             "default": true,
             "filename": "Mona_And_The_Witch_Hat.gb",
-            "hash": {
-                "md5": "c267820660ecbbab0d63fded955f1e15",
-                "sha1": "625d3664d99dee075021b03ea6ff074ae2e49204",
-                "sha256": "0a6b282afd737bb270aaf2ea5567986cafeb27f96556fa08ad1af41d1fe0a100"
-            },
             "playable": true
         }
     ],

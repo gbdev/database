@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Wonderworm_Willy__(Gameboy).zip",
-            "hash": {
-                "md5": "af98fadeee2cac9a35079b4fec180bdf5070a79a",
-                "sha1": "af98fadeee2cac9a35079b4fec180bdf5070a79a",
-                "sha256": "e043680cc1c01649c2d7c5351ac0f05a1cddec19560a48a560a2ee65fcc7975b"
-            }
+            "filename": "Wonderworm_Willy__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "WORM.GB",
-            "hash": {
-                "md5": "509a9b53e45415fa404b1f8c334e2f5b",
-                "sha1": "5432978ad0ea805e9b807a87ddb6baabb73733d8",
-                "sha256": "622e68117bc0bd0c6d5d1b44be10840beca95f04a76facccc2e0df9904f874a6"
-            },
             "playable": true
         }
     ],

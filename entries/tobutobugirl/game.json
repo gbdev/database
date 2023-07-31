@@ -5,11 +5,6 @@
         {
             "default": true,
             "filename": "tobu.gb",
-            "hash": {
-                "md5": "48ea776eace6f2582b70dc965cf2df1f",
-                "sha1": "8a8f3c1f21f903ea5a7df8fc8b0a6aa5a602e150",
-                "sha256": "5d3871cae77db2287807e8914fd21f76203e73aa3fec20955489d45cb4571d8f"
-            },
             "playable": true
         }
     ],

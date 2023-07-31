@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "JML-STOR.ZIP",
-            "hash": {
-                "md5": "e8a2231e2d78812e90ae372a0022d0b83e1e5fdd",
-                "sha1": "e8a2231e2d78812e90ae372a0022d0b83e1e5fdd",
-                "sha256": "8426194212a84f83c51cb8702edfb79ed7cd2805b55fbdb83539b6cec0cfa39b"
-            }
+            "filename": "JML-STOR.ZIP"
         },
         {
             "default": true,
             "filename": "jml-stor.gb",
-            "hash": {
-                "md5": "2b0a0ea7ce38cbc9f30ddaa514544a1a",
-                "sha1": "56af1e2def6c392c8c1e8930abca8af760ea6ad4",
-                "sha256": "734e820c5f0aa167fedbf3082f8df43f00c4e5c04638d4e354ef0466336d17d5"
-            },
             "playable": true
         }
     ],

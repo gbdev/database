@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Snake__(Gameboy).zip",
-            "hash": {
-                "md5": "a9f07e3093cc4320e1cfe5da3d18767fb3cf80f0",
-                "sha1": "a9f07e3093cc4320e1cfe5da3d18767fb3cf80f0",
-                "sha256": "72aa5bd55f207c4d57e77836207099f07c673104b5ca33c67d9455e45b271d82"
-            }
+            "filename": "Snake__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Snake.cgb",
-            "hash": {
-                "md5": "328385936c41193b0e0ec23bda99f3b5",
-                "sha1": "09f758c71a9f5d5ff881a8abf28446f325aa83f6",
-                "sha256": "4f76e1ebe15d81d885fc9cc5fafb6b10e5629186ee3121900481a23d2ab0e91e"
-            },
             "playable": true
         }
     ],

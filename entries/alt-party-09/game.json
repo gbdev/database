@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "JML-A09.ZIP",
-            "hash": {
-                "md5": "14a2d784213e0f14d6b55c214672448ab5068e13",
-                "sha1": "14a2d784213e0f14d6b55c214672448ab5068e13",
-                "sha256": "091065c4605179d53d460942389bb013297835a49d122cd128b37343a7b48669"
-            }
+            "filename": "JML-A09.ZIP"
         },
         {
             "default": true,
             "filename": "jml-a09.gb",
-            "hash": {
-                "md5": "0ae847ba47b9a4da5c932e689179ba89",
-                "sha1": "9bfd13cd0fb0bedca57a4bf5e773fa2629e6348e",
-                "sha256": "aca103e34ac05371e819bf13544f7e6424e0e3fc9bded6339d1f4d4a75a63de1"
-            },
             "playable": true
         }
     ],

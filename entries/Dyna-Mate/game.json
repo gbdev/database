@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Dyna_Mate__(Gameboy).zip",
-            "hash": {
-                "md5": "8ebcdc8493150f10f9fbb337337238fdcd71c24e",
-                "sha1": "8ebcdc8493150f10f9fbb337337238fdcd71c24e",
-                "sha256": "2cfacc2347158456d6a2cf2bea66dfc1a7b6d92b94a17b855e1e78507024a430"
-            }
+            "filename": "Dyna_Mate__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "dynamate.gb",
-            "hash": {
-                "md5": "ca9c1aa89b8412556e0e683c67890406",
-                "sha1": "7a05940a6f896742970fe21a8eff44f8a40c8eea",
-                "sha256": "6ad82626cb4ab6b56054b0c6096fd9fdbd9947b7a5dea8b7b35ff354d742e5b2"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "King_s_Korner__(Gameboy).zip",
-            "hash": {
-                "md5": "fccf025df62155010bfb43025e192d8687ccafdf",
-                "sha1": "fccf025df62155010bfb43025e192d8687ccafdf",
-                "sha256": "1722608741a31d4a171123799da726635523e4dcfdfb32d331dbd5f94984419e"
-            }
+            "filename": "King_s_Korner__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "KingsKorner.gbc",
-            "hash": {
-                "md5": "b5b73fdf09eb7fdff6b0ef26c4825060",
-                "sha1": "0be300d0dd97fe8674ba92b6c60481c879398426",
-                "sha256": "7966e04f5559afc8679426f3e21bfde3d01628174821c62ae4804ac506d2a3de"
-            },
             "playable": true
         }
     ],
@@ -28,6 +18,6 @@
         "20110402_kings_korner.png"
     ],
     "slug": "kings-korner",
-    "title": "King\u2019s Korner",
+    "title": "King’s Korner",
     "typetag": "game"
 }

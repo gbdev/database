@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Viper__(Gameboy).zip",
-            "hash": {
-                "md5": "fbfa59489ac855f98854c9f53dd8171630add6f2",
-                "sha1": "fbfa59489ac855f98854c9f53dd8171630add6f2",
-                "sha256": "64a78b46b0304b05c21cf00a2840ac705949c7ef6177e62b92e5100f8b29bbf0"
-            }
+            "filename": "Viper__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Viper.gb",
-            "hash": {
-                "md5": "3326cb52101104c82cbae91a6dac6b8d",
-                "sha1": "c6af10bd43f2095e501ea5b0408f133ba17c605b",
-                "sha256": "b16ee09de1b7c9a372cbdc7edd4906e86e77f39275ea1459bfeb13ab1dfb6841"
-            },
             "playable": true
         }
     ],

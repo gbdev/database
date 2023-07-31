@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "OYD-WTCH.ZIP",
-            "hash": {
-                "md5": "ce1ccc2f14eaf995255b475807609a05d796c5ea",
-                "sha1": "ce1ccc2f14eaf995255b475807609a05d796c5ea",
-                "sha256": "16fd4f3c9ef34cd6a2c664ebdbf474207b75adcfbf8d16ba610aeb1f9f5822c0"
-            }
+            "filename": "OYD-WTCH.ZIP"
         },
         {
             "default": true,
             "filename": "Wheres.gbc",
-            "hash": {
-                "md5": "65c643826a64a15458ab9832e8f0aaae",
-                "sha1": "d800db356750bb0bf25ab2a7996a2c5fc19d78a2",
-                "sha256": "ebfe15c7b0e894971a89830615ae478a81a1b6695187e23db9df70870426d4b7"
-            },
             "playable": true
         }
     ],

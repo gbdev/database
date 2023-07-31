@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Q-TSU.ZIP",
-            "hash": {
-                "md5": "73c0b101dab2de4b6ea55480c02661944de75dfc",
-                "sha1": "73c0b101dab2de4b6ea55480c02661944de75dfc",
-                "sha256": "b48cafdc370ada711fee84a40c4db5b7a1ccd583ff95870b6e697d5cc715e282"
-            }
+            "filename": "Q-TSU.ZIP"
         },
         {
             "default": true,
             "filename": "q-tsu.gb",
-            "hash": {
-                "md5": "d7be1cedf89c34b88e8f17cb93c329e6",
-                "sha1": "b58b0f6ac05f2e506258a8085ff9f0a2a488e5e4",
-                "sha256": "4031afe32196074b1f9cc4c934343c3a53139d324f4339b2e9ce3eb1e2332823"
-            },
             "playable": true
         }
     ],

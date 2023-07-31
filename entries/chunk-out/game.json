@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "chunkout.zip",
-            "hash": {
-                "md5": "0b50581c3d8292403d0e6514a0b0996a",
-                "sha1": "826df5aebbde4e0ce0e2fe275a7cad4e0b9012d0",
-                "sha256": "8dd2b246a9097f3ebcf4bf643bf002a4554e0a342cff3f950957904a762bff2c"
-            }
+            "filename": "chunkout.zip"
         },
         {
             "default": true,
             "filename": "chunkout.gbc",
-            "hash": {
-                "md5": "66c2dfc4770c517f08eedeea5919955a",
-                "sha1": "d3331d81b67568404f6ca01b916ee514ad0982d0",
-                "sha256": "83cd70d3cf9d1d7da3baa98055c7f3aa292b85594160335cca351761717e94a4"
-            },
             "playable": true
         }
     ],

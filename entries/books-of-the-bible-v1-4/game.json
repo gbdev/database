@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Books_of_the_Bible_v1.4_(Gameboy).zip",
-            "hash": {
-                "md5": "01e99d300b32b381f483df87a1607169e3ae8d8e",
-                "sha1": "01e99d300b32b381f483df87a1607169e3ae8d8e",
-                "sha256": "d05723eab652c5142f5b619fac53e5a332f28c7fbfd171973083db754dc541c1"
-            }
+            "filename": "Books_of_the_Bible_v1.4_(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "BotBfGB_14.gb",
-            "hash": {
-                "md5": "0b5663b9ff5e45f886876563771181df",
-                "sha1": "93da6f8d825b2990e12eedf831dc4bed261e6739",
-                "sha256": "37a3624281d4b673ba1184c438a7813cb75a61c25e9a04ca9b5218b4810e29d3"
-            },
             "playable": true
         }
     ],

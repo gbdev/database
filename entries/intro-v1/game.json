@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "FA-V1.ZIP",
-            "hash": {
-                "md5": "fbcd54791dba4444ffbe21d6461ac584b2cb1fa5",
-                "sha1": "fbcd54791dba4444ffbe21d6461ac584b2cb1fa5",
-                "sha256": "6e1bbba9255c70f04fbc852f321f53810c5fe5e9e79a552fe4370fd7b112bf8c"
-            }
+            "filename": "FA-V1.ZIP"
         },
         {
             "default": true,
             "filename": "FREEART Intro V1.gbc",
-            "hash": {
-                "md5": "c26f178187731fa70881d9daa944aa3c",
-                "sha1": "ca10993e93c83b89e78faf31f7d1909daf9953b9",
-                "sha256": "1ee175664cd24f8cdf963a98961022c38f76c183ae04ab892c5b6662e1de22ce"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DOX-BUMP.ZIP",
-            "hash": {
-                "md5": "5bdc9ccedbc6cabed2d41fbdffd3d051f98feedd",
-                "sha1": "5bdc9ccedbc6cabed2d41fbdffd3d051f98feedd",
-                "sha256": "791b7f1272e2adbf72a435f505f290de850b099fdc6317a994180ec78645fc44"
-            }
+            "filename": "DOX-BUMP.ZIP"
         },
         {
             "default": true,
             "filename": "bump.gbc",
-            "hash": {
-                "md5": "cf4041b760157dd3970dd057f6572ca1",
-                "sha1": "4f207314d13dec8c1b14fdf29e775228774ffa46",
-                "sha256": "296664c63a75035fb18e69a7ff2625daf44876ea529feb7cacc507e44dffa949"
-            },
             "playable": true
         }
     ],

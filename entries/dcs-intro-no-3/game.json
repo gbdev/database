@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DCS_Intro_No__3__(Gameboy).ZIP",
-            "hash": {
-                "md5": "08d4eb3f93bb252d64b1187ee2821b00481ffad2",
-                "sha1": "08d4eb3f93bb252d64b1187ee2821b00481ffad2",
-                "sha256": "f33a3b126ebdb1a6ec0c73afd69d1a98a174b7c85b6d1ae8240d444121e518ba"
-            }
+            "filename": "DCS_Intro_No__3__(Gameboy).ZIP"
         },
         {
             "default": true,
             "filename": "dcs-i_03.gbc",
-            "hash": {
-                "md5": "f75139bdd319cc21856ba79948784223",
-                "sha1": "13926e5c2195a3a9b63bc0062772f54f93841789",
-                "sha256": "8f411e7bb8a068a6fd92051f1808b1766d49c1c9fdbb98fbb0e3718b612c9761"
-            },
             "playable": true
         }
     ],

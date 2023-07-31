@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Yars_Revenge_v1.0_(Gameboy).zip",
-            "hash": {
-                "md5": "1bfb8dc2ccaba36228d1b427a4c4c335701dedd7",
-                "sha1": "1bfb8dc2ccaba36228d1b427a4c4c335701dedd7",
-                "sha256": "224cabc75b3bac7ea456a91bce940626bb015e053faabe79150fc4a7c7446ee7"
-            }
+            "filename": "Yars_Revenge_v1.0_(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "YAR.GB",
-            "hash": {
-                "md5": "1107c5af1549d4266895a80f9f9ebed6",
-                "sha1": "adcf7075faac0889ae3ef1944ca9a7f0043777f8",
-                "sha256": "5e4b612caf0debc94f8e53eae82478ce8d0db2f572b1658ee3eeb932bfd2eab1"
-            },
             "playable": true
         }
     ],

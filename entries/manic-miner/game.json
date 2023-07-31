@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "manicminer.zip",
-            "hash": {
-                "md5": "fa5d2a94d465b10555636e02a1d36b32",
-                "sha1": "5607421ccb0a505a5e52a7f13afc99336987864e",
-                "sha256": "b7822616d69094c80a77b02270370106accddc25da49481fa4b347ac8c4b6644"
-            }
+            "filename": "manicminer.zip"
         },
         {
             "default": true,
             "filename": "maniacminer.cgb",
-            "hash": {
-                "md5": "b13061a4a1a84ef2edb4c9d47f794093",
-                "sha1": "931e0a38c5248d01d4b576d20a6dbba7cbaceaea",
-                "sha256": "f69a5fed3f1fc734eb5293b7bfddcad7a2b8a33af066264b373dfcb3b50ee79c"
-            },
             "playable": true
         }
     ],

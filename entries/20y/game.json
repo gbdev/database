@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "SP-20Y.ZIP",
-            "hash": {
-                "md5": "03b814b0ca54a68d0a441b82b61d825ea57ef247",
-                "sha1": "03b814b0ca54a68d0a441b82b61d825ea57ef247",
-                "sha256": "234879891fb72364cdf2910cea0f2424e854ec09af0a6fe3bb2ac66f03eecd75"
-            }
+            "filename": "SP-20Y.ZIP"
         },
         {
             "default": true,
             "filename": "20y.gb",
-            "hash": {
-                "md5": "56bfee2f437bd9dad7284c14c30eccc1",
-                "sha1": "349e02f077213498f2361a404870aac3eb294f5f",
-                "sha256": "69db4cd94071c5cdfb57057ffc9945857a056f5aa0f09d774e5b064ecebf0f9c"
-            },
             "playable": true
         }
     ],

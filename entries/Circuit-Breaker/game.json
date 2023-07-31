@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Circuit_Breaker__(Gameboy).zip",
-            "hash": {
-                "md5": "7cac8e3e28781cef5ec8a6cd62b17a7cc00f4f4b",
-                "sha1": "7cac8e3e28781cef5ec8a6cd62b17a7cc00f4f4b",
-                "sha256": "c172762e166b6bb5b0c0d91c8e51a0b491f447c52f2bcfdf2ce33140f846a9bb"
-            }
+            "filename": "Circuit_Breaker__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "CircuitBreaker.cgb",
-            "hash": {
-                "md5": "7a165df71045e55e8bfb73cf0d5fd375",
-                "sha1": "ecd58fa2622052315e756716ed485b6e83870bd1",
-                "sha256": "a576b5708ab4628d2be6fb7007d9ebc945d2e63da56e94ae2cef61da4c90cfb5"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "PHT-MR.ZIP",
-            "hash": {
-                "md5": "169e3b92bfda96659d09aa21e23ab7a27b253f3e",
-                "sha1": "169e3b92bfda96659d09aa21e23ab7a27b253f3e",
-                "sha256": "7c0d66a6e3de4d34c7acb534535f5a988fcd78a6d9360f0032db932878001b5d"
-            }
+            "filename": "PHT-MR.ZIP"
         },
         {
             "default": true,
             "filename": "pht-mr.gbc",
-            "hash": {
-                "md5": "cba2d81042957ebf88052b21422cc757",
-                "sha1": "3ba3fdf063392017b0709d72be203401d6def6a3",
-                "sha256": "b4dbe171142d06e802c5b9ed54879d68254c736b58314fccf401aaf75498b0df"
-            },
             "playable": true
         }
     ],

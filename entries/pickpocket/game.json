@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "INKA-PP.ZIP",
-            "hash": {
-                "md5": "1cf716c16ba2b0c38e843683fc41ebc9f46f2681",
-                "sha1": "1cf716c16ba2b0c38e843683fc41ebc9f46f2681",
-                "sha256": "eb2a1be80442ebdb2a87c3b9992c673e0d666873587d13995ebfafb4d64dc142"
-            }
+            "filename": "INKA-PP.ZIP"
         },
         {
             "default": true,
             "filename": "inka-PP.GBC",
-            "hash": {
-                "md5": "47d725f3fa219c4c78119eaeec0b818f",
-                "sha1": "4fb4858702c17f631b8876e2731d4b72f363dd42",
-                "sha256": "e8ce98f7edce59e0f610cb98f22cd32a7979d47af9054220f3aa4bc194ba1e2a"
-            },
             "playable": true
         }
     ],

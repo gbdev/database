@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DOX-VXL.ZIP",
-            "hash": {
-                "md5": "cf8c4b4b394f821481c14f6dd97890e15dcee846",
-                "sha1": "cf8c4b4b394f821481c14f6dd97890e15dcee846",
-                "sha256": "4b1420d21a4b75de1de06c2b1ae3ef46965a3f1e9d1fb6fcbc21add36d931352"
-            }
+            "filename": "DOX-VXL.ZIP"
         },
         {
             "default": true,
             "filename": "vxl.gbc",
-            "hash": {
-                "md5": "45099c80a808acc413bceb88b68b447e",
-                "sha1": "0edeea04309e0e22ea8af0c051a610b2c0229be1",
-                "sha256": "542e6f95782cbf6c613057690c2b3847356d27f376c25191911c5ca6a3c4d69d"
-            },
             "playable": true
         }
     ],

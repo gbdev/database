@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Mineshweeper__(Gameboy).zip",
-            "hash": {
-                "md5": "d6f3521735a6eb6beea271c8f52466b793333a7f",
-                "sha1": "d6f3521735a6eb6beea271c8f52466b793333a7f",
-                "sha256": "79b02ebbf7c893374d67812e7bd89405b9b9ab4d7eadfcf4ccff4692751f7c53"
-            }
+            "filename": "Mineshweeper__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "minewin.gbc",
-            "hash": {
-                "md5": "39ed70f92ddad8f9932694b83d589ebf",
-                "sha1": "30e5138acb851d8b4717207f8bc31060c16e34ea",
-                "sha256": "582b0e3d7fbe7ae8943ad0f3ae2b4dcd0e82aede6ce66b8f2cbaf08899111db7"
-            },
             "playable": true
         }
     ],

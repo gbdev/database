@@ -6,11 +6,6 @@
         {
             "default": true,
             "filename": "flappyboy.gb",
-            "hash": {
-                "md5": "5264f52f72d0ea6feeb06476cb3919cb",
-                "sha1": "228a5b5b076815b62c538711b980c167c8681e99",
-                "sha256": "fdee22217da0ffe70c6b767892defbd591e3629250eb920baa71acd238250b32"
-            },
             "playable": true
         }
     ],

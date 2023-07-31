@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "MMX-T2.ZIP",
-            "hash": {
-                "md5": "3784684aefc20679e62762bd736acd1b0faf61df",
-                "sha1": "3784684aefc20679e62762bd736acd1b0faf61df",
-                "sha256": "686de2a0407b2daf650d48d47d1e6412b36de0c3eff245e7311214fbd3171668"
-            }
+            "filename": "MMX-T2.ZIP"
         },
         {
             "default": true,
             "filename": "T2.GB",
-            "hash": {
-                "md5": "77f8a03e5fd76f9febc7f9336c25bff8",
-                "sha1": "52ea1e32709414d4b2d8c89dd0d1fbd0c3eaf5a8",
-                "sha256": "321109b44e26c313634e00920deec26bcc53f46cfac2aa564217aa991e5043b9"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "XAGOR.ZIP",
-            "hash": {
-                "md5": "3ff8da51f9bb9c49af2b5193218e0dc98009e707",
-                "sha1": "3ff8da51f9bb9c49af2b5193218e0dc98009e707",
-                "sha256": "ea3cecdaeedebe344cfd6c4a8af029bfc17f5e4b5b85e4c26fe5a33bacafb3c0"
-            }
+            "filename": "XAGOR.ZIP"
         },
         {
             "default": true,
             "filename": "XagorsDemo.cgb",
-            "hash": {
-                "md5": "f57fbb157cfb8514dd379e0dfd07fc21",
-                "sha1": "9af1dda2a1d712ee793180756f1c6d4db07764f8",
-                "sha256": "2d368945ddfe281d5b1b4921f358b871787ce9de5532928f0e4bf0739a0ac481"
-            },
             "playable": true
         }
     ],

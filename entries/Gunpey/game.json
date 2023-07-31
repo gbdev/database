@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Gunpey__(Gameboy).zip",
-            "hash": {
-                "md5": "88d11bfff00f21ea0940e3e66a968bb3f1309342",
-                "sha1": "88d11bfff00f21ea0940e3e66a968bb3f1309342",
-                "sha256": "6b312e8c8d37986dda0f8d7390bfdcb62e1721bd3607408960f9c9d7431f795a"
-            }
+            "filename": "Gunpey__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Gunpey.cgb",
-            "hash": {
-                "md5": "284d92fc9f0e27de3e68b783e4bb998e",
-                "sha1": "6d5b486dd82ec52459ad5582d59974cfa4c7b6cc",
-                "sha256": "b2d6c1f195a899585dc0c75eebae717e634c0912d147225fd405d49143ed4d97"
-            },
             "playable": true
         }
     ],

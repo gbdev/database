@@ -5,11 +5,6 @@
         {
             "default": true,
             "filename": "skrollidemo.gb",
-            "hash": {
-                "md5": "aa4c8cc5d21145cc8f1d3a137c54d363",
-                "sha1": "af509764deb7fd2ce28ed1f09f58abb4fea8645f",
-                "sha256": "ccd3c319b8c05c15e8e250ce9315d6e9d16b5a580564eb5df6fd1f4cdb1ca54b"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "LFC-I_01.ZIP",
-            "hash": {
-                "md5": "d4f0382b9bb79363a21f50db8041c7158b430606",
-                "sha1": "d4f0382b9bb79363a21f50db8041c7158b430606",
-                "sha256": "1f069611c1b677df24bb510f8ae25e31d697220d3f7e332e1d5df3354ff551ea"
-            }
+            "filename": "LFC-I_01.ZIP"
         },
         {
             "default": true,
             "filename": "lfc1.gbc",
-            "hash": {
-                "md5": "d1babe0539b7fcda91a14306af71c64b",
-                "sha1": "c4b5a9ec0ab9411d5a4134914a8a46b485312767",
-                "sha256": "ba2671de846b45fc2338d6eccf0f3866ebd2752f7e8642fa2dc135484785b2d5"
-            },
             "playable": true
         }
     ],

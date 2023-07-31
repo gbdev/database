@@ -5,11 +5,6 @@
         {
             "default": true,
             "filename": "airaki.gb",
-            "hash": {
-                "md5": "b61797b4b092545189d709c5a9c06303",
-                "sha1": "6258873c62beefcfd8f660387021f56e40984f8f",
-                "sha256": "45d2136dff7a4b51bd1a5a7ef428763be61baa2d91e48beef2be8c6c6c3735f6"
-            },
             "playable": true
         }
     ],

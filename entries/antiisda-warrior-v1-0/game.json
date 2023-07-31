@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "AntiISDA_Warrior_v1.0_(Gameboy).zip",
-            "hash": {
-                "md5": "a93f2af81d3e75822d975cf25615ea15da5b410c",
-                "sha1": "a93f2af81d3e75822d975cf25615ea15da5b410c",
-                "sha256": "d95e970cb2d03d1e85cd7a6e46577756e628f15f0202eaf92ab4f033f4bded9f"
-            }
+            "filename": "AntiISDA_Warrior_v1.0_(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "AntiISDAWarrior.gb",
-            "hash": {
-                "md5": "ab3463c76ecca438b0ec91a30ce2d40d",
-                "sha1": "ccae5ed768de7ed67a9e167983fa137e1e00efc1",
-                "sha256": "1d1879255890e88a667721c728c2ed03a46b01435a579148283495791104c4b5"
-            },
             "playable": true
         }
     ],

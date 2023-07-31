@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Tank_Rush__(Gameboy).zip",
-            "hash": {
-                "md5": "c8d82174dc4ec4457e1d378cc1fd1e5c636a9a77",
-                "sha1": "c8d82174dc4ec4457e1d378cc1fd1e5c636a9a77",
-                "sha256": "2ef13f24c3b0428c8249d38fe67bfc2db7e709025e19019cde01757761b3dfb7"
-            }
+            "filename": "Tank_Rush__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Tankrush.cgb",
-            "hash": {
-                "md5": "a26309f206598c8b96d45741a43124e8",
-                "sha1": "445900c5ae5280dde41e4c9f19a7de89e277b6ff",
-                "sha256": "11b74f90a5af775041e7ba0cea7503bfd152943b7e70d22acc7ffe0a64749cc6"
-            },
             "playable": true
         }
     ],

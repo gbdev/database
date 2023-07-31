@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "IP-2560C.ZIP",
-            "hash": {
-                "md5": "0e5a97e491b5ac83f6f3c7a5ae4a29464c7b381a",
-                "sha1": "0e5a97e491b5ac83f6f3c7a5ae4a29464c7b381a",
-                "sha256": "af346e41a061d24d6c575ecfffc68a1902d99c4dd08705f804e60cc63322f243"
-            }
+            "filename": "IP-2560C.ZIP"
         },
         {
             "default": true,
             "filename": "COLORS.GBC",
-            "hash": {
-                "md5": "1271ddb6d46cb59af6b5cfe02408e03a",
-                "sha1": "50d9c00fad01c962a1fe8e7b4a72633c7b2ebc97",
-                "sha256": "88767cfc2666188f529cf887affc8ab6f60d71b8be716c9c08bc34342383c01b"
-            },
             "playable": true
         }
     ],

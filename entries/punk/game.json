@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "AG-PUNK.ZIP",
-            "hash": {
-                "md5": "69767b3befa535d8b0ac2efd0a796e06cfca75c5",
-                "sha1": "69767b3befa535d8b0ac2efd0a796e06cfca75c5",
-                "sha256": "ef87ecb9114086b81e6450a2356ef3d16928a4ca91d6bccf639169b109e3ba4a"
-            }
+            "filename": "AG-PUNK.ZIP"
         },
         {
             "default": true,
             "filename": "Punk.gb",
-            "hash": {
-                "md5": "ce2798f4b8b9163b7850e88c8d07cc80",
-                "sha1": "9f2857fe697fd76028c2d7bb56085547bb57527a",
-                "sha256": "1c89ad84dcc335f30e67f06cf421b2bfcfaec26f328cbffadf7db23a3bca9147"
-            },
             "playable": true
         }
     ],

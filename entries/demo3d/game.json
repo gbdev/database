@@ -3,11 +3,6 @@
         {
             "default": true,
             "filename": "demo3d.gb",
-            "hash": {
-                "md5": "489d731d3ffd5a7dd4c326df017bbb9c",
-                "sha1": "b727aa9e27c98709e8884c41311f2fec58bf6178",
-                "sha256": "b6dbb29c02841920c9af2e46d2f4217b67fdec5ebad839bde2f14e97b5640944"
-            },
             "playable": true
         }
     ],

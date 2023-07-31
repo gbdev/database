@@ -5,11 +5,6 @@
         {
             "default": true,
             "filename": "Retroid.gb",
-            "hash": {
-                "md5": "eb2c8695b903c45611c9faa43ca1b2ab",
-                "sha1": "4c7323d6a10852fe416c7bd581d6ffdd2d473bb5",
-                "sha256": "133a95d96515a15e8d1ef3ee3fc1a08bc70acce5d2547cb345a060f8ad18c20f"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Pdroms_com_Relaunch_Intro_2002__(Gameboy).ZIP",
-            "hash": {
-                "md5": "d99ddce6f2ca45b416c78b19dcf3e7c1861839eb",
-                "sha1": "d99ddce6f2ca45b416c78b19dcf3e7c1861839eb",
-                "sha256": "a283e0bb10ce8325529e0eba9f65dd3491ec142be3bab0b50c2ebe589c1af2e9"
-            }
+            "filename": "Pdroms_com_Relaunch_Intro_2002__(Gameboy).ZIP"
         },
         {
             "default": true,
             "filename": "pdroms.gbc",
-            "hash": {
-                "md5": "7d12c113b25d753e13d4417e41696365",
-                "sha1": "7c255797b6126e20ba72f04bbdf65627bd35c071",
-                "sha256": "edd0c78928f09ca7a127d5e4d9c7e4b0f3296465ce4437dbadb4e8675fe973de"
-            },
             "playable": true
         }
     ],

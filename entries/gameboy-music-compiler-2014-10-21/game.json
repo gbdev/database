@@ -5,21 +5,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "gbmc_20141021.zip",
-            "hash": {
-                "md5": "c7bc955be7a09915f88b7dc780d7963e",
-                "sha1": "48a582541e85037e5877b86315f12acdc18cddaf",
-                "sha256": "1ef629a351b354a015c050aaa35028103b768433ef76ec4544cd65ef1f5aa6c8"
-            }
+            "filename": "gbmc_20141021.zip"
         },
         {
             "default": true,
             "filename": "bgm03.gbc",
-            "hash": {
-                "md5": "ebb7b3c8ec22c3cb1fdcd88deb938839",
-                "sha1": "04b6980d6f518fbb5d91ff38206cf3a3786dd45c",
-                "sha256": "6c98690bf21e6fe6a3cf7a6398a3b8e314097277bd30975e5fea558d293f7f10"
-            },
             "playable": true
         }
     ],

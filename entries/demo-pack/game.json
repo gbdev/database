@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "MANGO.ZIP",
-            "hash": {
-                "md5": "748072b6abe24d7c779f9e34aa4e050f0471eaa4",
-                "sha1": "748072b6abe24d7c779f9e34aa4e050f0471eaa4",
-                "sha256": "617d69a7c2c9a8a768e3853a674355f7b9e0e626bb3601d862c45390389b0df9"
-            }
+            "filename": "MANGO.ZIP"
         },
         {
             "default": true,
             "filename": "TOONS.GB",
-            "hash": {
-                "md5": "ab2908ad2bbb4f5a7ddeb7807d74e17d",
-                "sha1": "17692e7a2acc43c79697cf037ab3223083bb94a0",
-                "sha256": "83dd06493c14c8fee26ebe2f57855c0649b048f9b0ec9deae839314066cbbdb0"
-            },
             "playable": true
         }
     ],

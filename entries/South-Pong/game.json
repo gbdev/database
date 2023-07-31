@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "South_Pong__(Gameboy).zip",
-            "hash": {
-                "md5": "7a53b68c576154f93d7cc91a5eec0b1d85fec300",
-                "sha1": "7a53b68c576154f93d7cc91a5eec0b1d85fec300",
-                "sha256": "e605d9a0153b27567a1482d8d058403a2537d550e22be241ded57a7a902be694"
-            }
+            "filename": "South_Pong__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "SouthPong.gb",
-            "hash": {
-                "md5": "3b66de796bdca2d1ddf224f77ab8b16a",
-                "sha1": "b529b63426f7205489eb5d72e6bdd2599c345102",
-                "sha256": "5f0906341d7d356c604fb2ef20fddec5c3cd5ef99053c4a9cb5d32c1ea7d50e2"
-            },
             "playable": true
         }
     ],

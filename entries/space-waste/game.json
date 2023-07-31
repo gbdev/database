@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "OCT-SPW.ZIP",
-            "hash": {
-                "md5": "7f2c766f8eda25b8738ce8e117fc5a2ef763d83b",
-                "sha1": "7f2c766f8eda25b8738ce8e117fc5a2ef763d83b",
-                "sha256": "c520325d359d0a4b5057ee199b755f5ac8b2596ffe9e3c09e2d8e90089c38461"
-            }
+            "filename": "OCT-SPW.ZIP"
         },
         {
             "default": true,
             "filename": "oct-spw.gbc",
-            "hash": {
-                "md5": "42e4f903ba9b1f6deca46a978beda9c6",
-                "sha1": "1bb3d9275a4f101d2e6678e20ddb023642748292",
-                "sha256": "9d089afd5216ad91a417f2818b3cafac112b859fa3bf71777502d55df373d8dd"
-            },
             "playable": true
         }
     ],

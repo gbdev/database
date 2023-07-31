@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Psst__(Gameboy).zip",
-            "hash": {
-                "md5": "b7be5ff755467b21c77d121a0e8fd9a114ce87f2",
-                "sha1": "b7be5ff755467b21c77d121a0e8fd9a114ce87f2",
-                "sha256": "224a23468f7ca4cbbd04cf52d7557b8800842cafe7c894eeb008795e13f97aba"
-            }
+            "filename": "Psst__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Psst.cgb",
-            "hash": {
-                "md5": "5f88b4f9ccc485a8341bb380c3ab0e4e",
-                "sha1": "3394c65fdd92fe4769df137f09fdd7e6e3941133",
-                "sha256": "fe6e721241964b585f8cf526b99ce8170e0684d40aade1fcc83be6912f54a8f6"
-            },
             "playable": true
         }
     ],

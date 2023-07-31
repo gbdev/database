@@ -4,11 +4,6 @@
         {
             "default": true,
             "filename": "2048.gb",
-            "hash": {
-                "md5": "c5351811148f47079b37e92904eb2779",
-                "sha1": "ece57f98d668e46fb29941e688704e346b66feb9",
-                "sha256": "3ea2376b15b34bd26b10e6b31d2753bf8b086098dbdb5ee84d9c0f03d66d3d7f"
-            },
             "playable": true
         }
     ],

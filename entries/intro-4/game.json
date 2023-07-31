@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "DCS-I_04.ZIP",
-            "hash": {
-                "md5": "e35fc41f9cbdc9db6bf7c104a3da44cb7aee433d",
-                "sha1": "e35fc41f9cbdc9db6bf7c104a3da44cb7aee433d",
-                "sha256": "67d5c40119174db3c02987b08851ae2cde47b93cb421f06f52b68f831a55f418"
-            }
+            "filename": "DCS-I_04.ZIP"
         },
         {
             "default": true,
             "filename": "dcs-i_04.gbc",
-            "hash": {
-                "md5": "c82daea01ac84b9ce83d7f2d5b186f26",
-                "sha1": "01c6b36d7e71bb44730f1e8a6d70f41c64e23c19",
-                "sha256": "7e1ceb4afbcf5ac1aef3a2ff0fd32c5d858dd4c868d2f22499d7b6d5b27a328d"
-            },
             "playable": true
         }
     ],

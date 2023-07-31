@@ -4,11 +4,6 @@
         {
             "default": true,
             "filename": "snake.gb",
-            "hash": {
-                "md5": "5f5cd500d874914f3c5c81dc00db41a9",
-                "sha1": "34aefb162fb63c2e7d6414151e0b46892ab7fa57",
-                "sha256": "eda9a5a9455ed13e496abca8fff765122c0f79b624fab736b407fd68c29adf7e"
-            },
             "playable": true
         }
     ],

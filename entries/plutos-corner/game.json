@@ -15,7 +15,7 @@
         "Adventure"
     ],
     "onlineplay": true,
-    "screenshots" : [
+    "screenshots": [
         "pluto_001.png",
         "pluto_002.png",
         "pluto_003.png",
@@ -23,17 +23,12 @@
         "pluto_005.png",
         "pluto_006.png"
     ],
-    "rom" : "PLUTOS_CORNER.gb",
+    "rom": "PLUTOS_CORNER.gb",
     "date": "2019-06-19",
     "files": [
         {
             "default": true,
             "filename": "PLUTOS_CORNER.gb",
-            "hash": {
-                "md5": "DA341149D4B5399A98410C351132235F",
-                "sha1": "3DD8304770C9D96C9DE33F510D2A38487D2D2C39",
-                "sha256": "1647C713B49641A69D719238DDE2E7015699389ADEFBD1F4B340BC0B6CD41D68"
-            },
             "playable": true
         }
     ]

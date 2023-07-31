@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Balloon_Man_v1.0_(Gameboy).zip",
-            "hash": {
-                "md5": "d21f3b9f0d22013991c9b1f357cb007fa4540c0a",
-                "sha1": "d21f3b9f0d22013991c9b1f357cb007fa4540c0a",
-                "sha256": "25c8a299a2b9fe526b2296b324dfb9f7f0bec6eea2c076a09c8568ac8349ebb2"
-            }
+            "filename": "Balloon_Man_v1.0_(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "BalloonMan.gb",
-            "hash": {
-                "md5": "203a2fe30da5e9c62434b5994adbd4a2",
-                "sha1": "bbf1802fa2e8b6ddaa7102f361365d9247dc435c",
-                "sha256": "4aa3f4ae8912589445f50652aae7f0da5f77bbf7d8a4cd38b6083fd8fe615af6"
-            },
             "playable": true
         }
     ],

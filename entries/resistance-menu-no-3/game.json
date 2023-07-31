@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Resistance_Menu_No__3__(Gameboy).ZIP",
-            "hash": {
-                "md5": "cd3225610a64f35c7de5dadc4faf7d7242eb53f9",
-                "sha1": "cd3225610a64f35c7de5dadc4faf7d7242eb53f9",
-                "sha256": "a475ba768a4a283e97b01cafeeb5fe2c9781b8daf76c3489bd32a69fe47d6b13"
-            }
+            "filename": "Resistance_Menu_No__3__(Gameboy).ZIP"
         },
         {
             "default": true,
             "filename": "rse-t_03.gbc",
-            "hash": {
-                "md5": "8fe559d57b81311b4c1ed5555a92922f",
-                "sha1": "db6ea01b274310866ca2eff2bde8457a06e79af3",
-                "sha256": "6a5ab16fd9475ab81abdbfa15b0f54d91b172f31a2e70797749b5de242688b22"
-            },
             "playable": true
         }
     ],

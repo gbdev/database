@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "SWorld_2__(Gameboy).zip",
-            "hash": {
-                "md5": "6497386dfb06f1900487b598a9e280f34fb4e63c",
-                "sha1": "6497386dfb06f1900487b598a9e280f34fb4e63c",
-                "sha256": "dad52fcf7093c8153dbaa1548f3915dea4b083362969e796a2c0e754ee21a2f1"
-            }
+            "filename": "SWorld_2__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "SWorld2.gbc",
-            "hash": {
-                "md5": "8e6a6caae59a309bfa8f4ad3bad71261",
-                "sha1": "75024048921ef889bbb1fa1f3fa3b1b129439b07",
-                "sha256": "7da18496672ff040191697ecfdb3565127a52b3669d6a42a005fc03ff2e0f570"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Bounce_v1.1_(Gameboy).zip",
-            "hash": {
-                "md5": "984e18b202bec484687040b8782c6d774f98c691",
-                "sha1": "984e18b202bec484687040b8782c6d774f98c691",
-                "sha256": "4a3c055d5f7ecc89f9a7e153097686e272631a4769abde62997a807cbb95f6da"
-            }
+            "filename": "Bounce_v1.1_(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Bounce.gb",
-            "hash": {
-                "md5": "1967d7ddff33c292b5f935bc0acc1d25",
-                "sha1": "e9abf64de3faeb48151003ac8bb77dea61e838b5",
-                "sha256": "f6069b3d905fd7b3d2027eb71ebeb50623387c078c689a63935455a249b49b0c"
-            },
             "playable": true
         }
     ],

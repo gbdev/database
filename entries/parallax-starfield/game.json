@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "OMB-STAR.ZIP",
-            "hash": {
-                "md5": "e236e25b1322c782818df10393bd27639060e176",
-                "sha1": "e236e25b1322c782818df10393bd27639060e176",
-                "sha256": "99ecf841f52a6cf1e69b64e306161583da2f50decea014169c7186fe60ee3202"
-            }
+            "filename": "OMB-STAR.ZIP"
         },
         {
             "default": true,
             "filename": "Stars.gb",
-            "hash": {
-                "md5": "a5bc998426327c16e526bacf26b7353a",
-                "sha1": "1cf2c8d77efceb184d9868bfb06f5091b7267c03",
-                "sha256": "2e2bcafdd032cefe359792adc234366e13bae54b264c932e31d3f18a086345f7"
-            },
             "playable": true
         }
     ],

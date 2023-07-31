@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Stomp_The_Slime__(Gameboy).zip",
-            "hash": {
-                "md5": "301ddb55962ce3f35861455d48e555c493da10b1",
-                "sha1": "301ddb55962ce3f35861455d48e555c493da10b1",
-                "sha256": "dad9b9753d2aa3993e34d465bd83913a794dfbf87222b184b905a4b6d5454a48"
-            }
+            "filename": "Stomp_The_Slime__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "StompTheSlime.cgb",
-            "hash": {
-                "md5": "95d5861af84bf0ab399231b7aab61a38",
-                "sha1": "aed13e0c784c4be7acb2437e0ec59fb53076c5dd",
-                "sha256": "a135aa7dc5eefbdb3c9439d70383696a47fffd1c7088798d5918d7f602b187e7"
-            },
             "playable": true
         }
     ],

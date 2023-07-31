@@ -5,21 +5,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "tyriangb.zip",
-            "hash": {
-                "md5": "8a09ad7d4fc4bdaa85cd4d851a348c59",
-                "sha1": "b0411d5af90b809463f96542e1e368d09df9cbee",
-                "sha256": "19abea4e05b02128c1300b855cf2f5dcfd89a8b7f88fa6a3d265eccc867af9a8"
-            }
+            "filename": "tyriangb.zip"
         },
         {
             "default": true,
             "filename": "t.gb",
-            "hash": {
-                "md5": "e56e69bc23281c85a8a17a48a6f2abdb",
-                "sha1": "1cfe1c97c50155844a349b7ca4ef8c77985adac2",
-                "sha256": "85056bbeae007e00bc42c6654a67637ce6c154750bd004ed8df33e07a4eb4d99"
-            },
             "playable": true
         }
     ],

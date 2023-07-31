@@ -1,24 +1,14 @@
 {
-    "description": "It\u2019s snake with a different name \ud83d\ude42",
+    "description": "It’s snake with a different name 🙂",
     "developer": "Glenn Bussell, Justin Rumpff",
     "files": [
         {
             "description": "release",
-            "filename": "Serpent_Apocalypse__(Gameboy).zip",
-            "hash": {
-                "md5": "485f5d0a1a7d87d3162da312d864e96e3cbe8883",
-                "sha1": "485f5d0a1a7d87d3162da312d864e96e3cbe8883",
-                "sha256": "cceb882370e7d4c89607d71192028d131c61131b150f174c4ebc2048c2e968b5"
-            }
+            "filename": "Serpent_Apocalypse__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "SerpentApocalypse.gbc",
-            "hash": {
-                "md5": "816ded59e8e35625699af75b36351ff3",
-                "sha1": "caf6c7a3844984c54cb6ab908ef4dacf14d6abb0",
-                "sha256": "063e874a20eaceb73b96a7cb05da8ce2e8c3e46ca012dc1c238fd9ee1fcfdf04"
-            },
             "playable": true
         }
     ],

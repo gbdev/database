@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "JML-MCE.ZIP",
-            "hash": {
-                "md5": "37125e14f57c4c1cea0eb8300ecd9b39f3e2b9d5",
-                "sha1": "37125e14f57c4c1cea0eb8300ecd9b39f3e2b9d5",
-                "sha256": "3c6621202649cb33a71f98d541367d7ce1a1f6a02a6ffa5dfd310e924b4dffe5"
-            }
+            "filename": "JML-MCE.ZIP"
         },
         {
             "default": true,
             "filename": "jml-mce.gb",
-            "hash": {
-                "md5": "5bd45647c293ce8ccf01b0ef50c55231",
-                "sha1": "712ce9ae073b031a645ea8eefd7541ad34cc2990",
-                "sha256": "9d82ca03e970247e0a99126aaf54674d5dfecf9eed248f4a0597ee2c23bd0dbc"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Frode__(Gameboy).zip",
-            "hash": {
-                "md5": "33ee9145cdf2c65865f9d185c7b2c098541a2ef2",
-                "sha1": "33ee9145cdf2c65865f9d185c7b2c098541a2ef2",
-                "sha256": "61955c848268d2bd07f693787eb738489b025707a98d4b60d84cd077a20b8052"
-            }
+            "filename": "Frode__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Frode.cgb",
-            "hash": {
-                "md5": "830458d91f46a93d4fbe27bcfcbdb5c1",
-                "sha1": "7bff2616acbe44781f423082040acc21686d5efb",
-                "sha256": "79971d02f31e5bacfda052919296d6b2acc34165579273fdb020099fdb3f251e"
-            },
             "playable": true
         }
     ],

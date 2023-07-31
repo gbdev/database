@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "TC-INTRO.ZIP",
-            "hash": {
-                "md5": "c49192880525b4793588704be3fb427a108ab6f2",
-                "sha1": "c49192880525b4793588704be3fb427a108ab6f2",
-                "sha256": "abbcb2096a7b5287b479737c7cfbeda82b8e8dd719ead4ef2bf280623988eb3e"
-            }
+            "filename": "TC-INTRO.ZIP"
         },
         {
             "default": true,
             "filename": "tcintro3.gb",
-            "hash": {
-                "md5": "c63cc723fbf9d208c7801e104663fe38",
-                "sha1": "22b87137ea1d8ebf76c74e0e8443f83710e3daeb",
-                "sha256": "c208e2c47fa98bac1a5eaf96a0401f85329f2aa3c37d6898bf9ca5753f81aa48"
-            },
             "playable": true
         }
     ],

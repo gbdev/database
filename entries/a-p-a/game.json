@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "JF-APA.ZIP",
-            "hash": {
-                "md5": "e7fedd71e740a63f83b950272fcd8943c7f86ca1",
-                "sha1": "e7fedd71e740a63f83b950272fcd8943c7f86ca1",
-                "sha256": "56bca626b1c4aef35c59cd30d31897f7bdb4e4e47f4653c926ab8ecc6232faa5"
-            }
+            "filename": "JF-APA.ZIP"
         },
         {
             "default": true,
             "filename": "APA.GB",
-            "hash": {
-                "md5": "1f1eb72e7547a97b818962488af5dc04",
-                "sha1": "c43b60cd976fc14a839cb0ec3c15fbf98bea29a2",
-                "sha256": "7e75c2d54e5f96c63dd1e20e82e12e34b182413dc8f7a8f313b46db27345f328"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "kittyquest.zip",
-            "hash": {
-                "md5": "f1071a06b95f5d9fa9bd4abaf8e8759c",
-                "sha1": "c24ecf812dae1664ab119da981161539dd0ee739",
-                "sha256": "04e3eb1d70bd4e92d65ae901ba210969dcfbb18bcdef3988565bc6055fd55d46"
-            }
+            "filename": "kittyquest.zip"
         },
         {
             "default": true,
             "filename": "kquest.gbc",
-            "hash": {
-                "md5": "e4efb20a561f400122402fcc1c122ef6",
-                "sha1": "0f3809d9cf47ed0ab18b12ab441c34c080cac112",
-                "sha256": "130f09110838738e2be9fd96124afa4b7ab2b1714c32abc0d9b4aa05ba777919"
-            },
             "playable": true
         }
     ],

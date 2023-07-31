@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Cricket__(Gameboy).zip",
-            "hash": {
-                "md5": "11063144259c3987dd15b128ed8ac2adb71f558e",
-                "sha1": "11063144259c3987dd15b128ed8ac2adb71f558e",
-                "sha256": "435a5137d8022354bf06011f16031c7669ff4dda9117f71ad469c3ad6c89ec38"
-            }
+            "filename": "Cricket__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "CRICKET.GB",
-            "hash": {
-                "md5": "15c5a899875e16bf1f91b7525d088801",
-                "sha1": "3b9c4e8757a0eb1ebd4f58d0eb479b060a6d62e4",
-                "sha256": "3ad07d6ad3ef02c7afb4c8c1be688f8a3140d5cbe04d53e3d2a50bfafd6e65b4"
-            },
             "playable": true
         }
     ],

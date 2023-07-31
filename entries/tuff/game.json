@@ -4,11 +4,6 @@
         {
             "default": true,
             "filename": "game.gb",
-            "hash": {
-                "md5": "d5f71894ebb36d4424de4207d9ecfa91",
-                "sha1": "cd1b425bcc7668328ba58fed6474ea8aaf4fd78d",
-                "sha256": "ca28220f7f04460cef5d652a6298989ff00efe92e2a08a67f874bc865d98f7a6"
-            },
             "playable": true
         }
     ],

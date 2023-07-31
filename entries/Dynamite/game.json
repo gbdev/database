@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Dynamite__(Gameboy).zip",
-            "hash": {
-                "md5": "7c9af2e0fdf4fda2f460bcdb1e6bbb93380524fc",
-                "sha1": "7c9af2e0fdf4fda2f460bcdb1e6bbb93380524fc",
-                "sha256": "72015bdbe6a08881fd03f3c841b4cfebe1b53f149f1e0c0f9824ad1958b3effd"
-            }
+            "filename": "Dynamite__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Dynamite.gb",
-            "hash": {
-                "md5": "0b6bcf5a0541608c9ace62b636b26a74",
-                "sha1": "9bf927f0135ee8dd527bd1bb1d7ebc5bf32cbf14",
-                "sha256": "468dee0f0211d1ca860272495d789fc989621d166c2d05b59bfd45245cd8c3c4"
-            },
             "playable": true
         }
     ],

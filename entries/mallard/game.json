@@ -2,7 +2,9 @@
     "developer": "Snorpung, Nordloef",
     "platform": "GB",
     "screenshots": [
-        "gEHIJy.gif", "FAhorO.gif", "lS90Fg.gif"
+        "gEHIJy.gif",
+        "FAhorO.gif",
+        "lS90Fg.gif"
     ],
     "slug": "mallard",
     "tags": [],
@@ -12,13 +14,8 @@
         {
             "default": true,
             "filename": "mallard.gb",
-            "hash": {
-                "md5": "31b36a2702887bd762b8969f8e16339e",
-                "sha1": "046f15d659e02424eb0bf7fe068fc3349bdf5417",
-                "sha256": "2f68e8aa7d060bb6b58a5dfd308ed48c15da8f4738936db5f20fee7280a2156d"
-            },
             "playable": true
         }
     ],
     "website": "https://snorpung.itch.io/sam-mallard-gb"
-} 
+}

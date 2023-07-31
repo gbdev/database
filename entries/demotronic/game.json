@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "MB-DTRNC.ZIP",
-            "hash": {
-                "md5": "ae9aa1635a77815ca1d240e23e356f308f2532e4",
-                "sha1": "ae9aa1635a77815ca1d240e23e356f308f2532e4",
-                "sha256": "bcd21ff4b62e942c051828f40fcc17632c2d995932e28cc9812b2267a4fee6c1"
-            }
+            "filename": "MB-DTRNC.ZIP"
         },
         {
             "default": true,
             "filename": "mb-dtrnc.gbc",
-            "hash": {
-                "md5": "9eaec454b15b596261a03eca5a27ea41",
-                "sha1": "482be472545771d2ae62296dab05030553d1f784",
-                "sha256": "72c96a1a488e29c031cc4e3dd69537fdc29f4d547790da0965b5675b32d9ae30"
-            },
             "playable": true
         }
     ],

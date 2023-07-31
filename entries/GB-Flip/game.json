@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "GB-Flip__(Gameboy).zip",
-            "hash": {
-                "md5": "e3add20efab17158f98be819ab586ef3c3099339",
-                "sha1": "e3add20efab17158f98be819ab586ef3c3099339",
-                "sha256": "8202ce63630a300c40cbb4c986faa1f33e8c53d1c4744799b86beef222c89494"
-            }
+            "filename": "GB-Flip__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "GB-Flip.cgb",
-            "hash": {
-                "md5": "e2dc5609ef101776597f056e6f119b47",
-                "sha1": "8c6fae6d28da631ddb77b279aacfb678d50a36ed",
-                "sha256": "de032dfbb85ec7bd2a2eb119e69c1e2201af034bab7af6f3057a11e2477e1738"
-            },
             "playable": true
         }
     ],

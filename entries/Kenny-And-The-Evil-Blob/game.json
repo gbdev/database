@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Kenny_And_The_Evil_Blob__(Gameboy).zip",
-            "hash": {
-                "md5": "2ca889282904da8dd60878e3759c02e7eaaaca74",
-                "sha1": "2ca889282904da8dd60878e3759c02e7eaaaca74",
-                "sha256": "97c23dd2537f67c56a25b8d6cabefcba7d30ac33e1ae7a745993e0632c580ec8"
-            }
+            "filename": "Kenny_And_The_Evil_Blob__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "KennyAndTheEvilBlob.gbc",
-            "hash": {
-                "md5": "3c358f69131d2586af353ef865e1cf66",
-                "sha1": "80f317b3329df71af5df40930ffe8448ce892f9d",
-                "sha256": "1dcf8c089e2894a1f8bfb99c9de68371167042137f9d7486395f3db8aff14acd"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "CHN-INT2.ZIP",
-            "hash": {
-                "md5": "5ec03aa98571b6b29159ff646855bb8dcd357808",
-                "sha1": "5ec03aa98571b6b29159ff646855bb8dcd357808",
-                "sha256": "1e35c5ba847d653d0088f01b88f4f2a78d28059d359dee6d621b32144c9cc1db"
-            }
+            "filename": "CHN-INT2.ZIP"
         },
         {
             "default": true,
             "filename": "introcollection.gbc",
-            "hash": {
-                "md5": "ed7fde5b35d8210cc91813d69bb803fa",
-                "sha1": "1b6f6ee3aa6e20bf891309604d69284894078d9d",
-                "sha256": "92c121b6647ba7ee608f2a576ce79a1a1320ca068c8597d79b8e9878c93ec40c"
-            },
             "playable": true
         }
     ],

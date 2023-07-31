@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Utopia_Menu_No__3__(Gameboy).ZIP",
-            "hash": {
-                "md5": "db00340d90bfa287fc6e4a02beba21b7e1d6f656",
-                "sha1": "db00340d90bfa287fc6e4a02beba21b7e1d6f656",
-                "sha256": "83159271d51cc37f5853ba2ff8eb47c659bad803b5df397a2af4ae1b46aaa1eb"
-            }
+            "filename": "Utopia_Menu_No__3__(Gameboy).ZIP"
         },
         {
             "default": true,
             "filename": "UTP-T_03.GBC",
-            "hash": {
-                "md5": "be500a5738fc97df50f2397281750cf1",
-                "sha1": "16debf68803a8c95d98bc8b78f555dcb4b1bdac3",
-                "sha256": "88e37ae541fcca2315f040c47048d035ce987ce54de021a40244f3ec42de5a08"
-            },
             "playable": true
         }
     ],

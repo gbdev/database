@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "PHT-KNRK.ZIP",
-            "hash": {
-                "md5": "ebc6f1b9b85d9bb046ab2b9d2655acdd11ecadfc",
-                "sha1": "ebc6f1b9b85d9bb046ab2b9d2655acdd11ecadfc",
-                "sha256": "21d652dc225c7a4205e71a640b71aa1ef2c4f04bad193002bd35ff4a4d057b6f"
-            }
+            "filename": "PHT-KNRK.ZIP"
         },
         {
             "default": true,
             "filename": "pht-knrk.GBC",
-            "hash": {
-                "md5": "52eddd6f54ca3f5387196cbfb230f76a",
-                "sha1": "02062edff0d9705f111c37a80fc7ac737b26ab9a",
-                "sha256": "f3e117fda3b284cb98ec97cb343098591b6015ef4fafd58568b4638989b00539"
-            },
             "playable": true
         }
     ],

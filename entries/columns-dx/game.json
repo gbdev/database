@@ -3,21 +3,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "columnsdx.zip",
-            "hash": {
-                "md5": "9290e098e54a8a11d54656ac88ca5cd3",
-                "sha1": "813bce9b9e60d24f4abae19031ac9bf9d3e4357c",
-                "sha256": "4abdc1376817a551a7b4b248d311f5ff146a6ed23a6ff8bf7ea5d1bdd6f67992"
-            }
+            "filename": "columnsdx.zip"
         },
         {
             "default": true,
             "filename": "columnsdx.cgb",
-            "hash": {
-                "md5": "78b17fc7ab067c81c8374db6e28aa075",
-                "sha1": "e22b9ab24167855bf1a6750347fdaa8e6a9ca738",
-                "sha256": "a5e5d729927a414e29e05c2e00e167ad1180f69069ad2ca6ffd4945907c49a3c"
-            },
             "playable": true
         }
     ],

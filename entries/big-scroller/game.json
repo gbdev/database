@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "AG-BC.ZIP",
-            "hash": {
-                "md5": "42c7abe7b31492ed349a2770e30d1aa06d0858f9",
-                "sha1": "42c7abe7b31492ed349a2770e30d1aa06d0858f9",
-                "sha256": "4f2c647a4500642df39d4e1ace412f7e7c72c8216407b66fdcdcb2b0a5d26474"
-            }
+            "filename": "AG-BC.ZIP"
         },
         {
             "default": true,
             "filename": "Bc.gb",
-            "hash": {
-                "md5": "d6d839eaac2d01ff3db44caebeaa6882",
-                "sha1": "1fda6359c483ce5e04b3db08cfaf2f3576a33179",
-                "sha256": "cbb75160063c800ed276626033bfc46fbe9a4236fc447b6134adcaa96a070df0"
-            },
             "playable": true
         }
     ],

@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Quartex_Intro_No__2__(Gameboy).ZIP",
-            "hash": {
-                "md5": "5ce834f15e735ea431c4950a244339261abfbe97",
-                "sha1": "5ce834f15e735ea431c4950a244339261abfbe97",
-                "sha256": "af3a5348c2c8265dcc5f238c5b167d82c0c36c67e0ddc26874fe3ded1f2fc7b5"
-            }
+            "filename": "Quartex_Intro_No__2__(Gameboy).ZIP"
         },
         {
             "default": true,
             "filename": "qtx-i_02.gbc",
-            "hash": {
-                "md5": "89797c59e93650c42bf605301a421302",
-                "sha1": "50d57008b60787c940a9ba59727ecb9f17af9614",
-                "sha256": "b059d6904fa9bfcf14aaec84d176ead13a0441d5f9a82f15d53c97f22cffe146"
-            },
             "playable": true
         }
     ],

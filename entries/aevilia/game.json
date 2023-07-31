@@ -4,11 +4,6 @@
         {
             "default": true,
             "filename": "aevilia.gbc",
-            "hash": {
-                "md5": "619cbed184ecdd74855cd77fde8c660d",
-                "sha1": "451d39d7b0a58539ab60ce8d6fbc4ee9a4e0bb50",
-                "sha256": "feb3064fb266bf13ad63644cf0e6d6610e249818889ae8ab2f3263d32717798a"
-            },
             "playable": true
         }
     ],

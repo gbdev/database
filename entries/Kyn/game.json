@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "Kyn__(Gameboy).zip",
-            "hash": {
-                "md5": "44cc40c7bf4c6ddfc6dbba6007556a03e55153d8",
-                "sha1": "44cc40c7bf4c6ddfc6dbba6007556a03e55153d8",
-                "sha256": "5fe9892ddee17f8aefe615326d919857d0d421979e6e0d57088d6abb02464881"
-            }
+            "filename": "Kyn__(Gameboy).zip"
         },
         {
             "default": true,
             "filename": "Kyn.cgb",
-            "hash": {
-                "md5": "80516c5065146b69e835bf486b1c2062",
-                "sha1": "80f0413bfa10389b09877266e4e8ffcb795eda2f",
-                "sha256": "b3202a081ed0932763ddedc95b91dd05398750c60346a0e38ddb3ac1bd59b776"
-            },
             "playable": true
         }
     ],

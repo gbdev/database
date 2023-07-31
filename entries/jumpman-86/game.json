@@ -1,24 +1,14 @@
 {
     "date": "2001-03-25",
-    "developer": "P\u00c3\u0192\u00c2\u00a4r Johannesson",
+    "developer": "PÃƒÂ¤r Johannesson",
     "files": [
         {
             "description": "release",
-            "filename": "jmpman86.zip",
-            "hash": {
-                "md5": "2b03931c37fef0a7450eef2450081ba0",
-                "sha1": "8baaf8dc5da8d2a5eead503596f6f16109423b1e",
-                "sha256": "857ba5ddfc851b5b9b9f870263949f89d6841adffbad9de7a39cff153a8d4ffb"
-            }
+            "filename": "jmpman86.zip"
         },
         {
             "default": true,
             "filename": "jumpman86.gbc",
-            "hash": {
-                "md5": "030adb17ca9b142498d73489594e8c46",
-                "sha1": "854c5c6ff01d9ebe1fdd982c8718a02d31a5a1e1",
-                "sha256": "107f59fb7ea193fc7b57745b0061ed60c5a43303366ecfda9c9ac1100ccaa986"
-            },
             "playable": true
         }
     ],

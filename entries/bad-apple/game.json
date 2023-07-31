@@ -4,21 +4,11 @@
     "files": [
         {
             "description": "release",
-            "filename": "BADAPPLE.ZIP",
-            "hash": {
-                "md5": "e30ba8cb359a1448582a44a65bc8d2c7ef50bf9f",
-                "sha1": "e30ba8cb359a1448582a44a65bc8d2c7ef50bf9f",
-                "sha256": "c6fb50e9dffbc6ccaf5af8a7ef1ead9710a1d6d0879931ea0068e4ec895c585e"
-            }
+            "filename": "BADAPPLE.ZIP"
         },
         {
             "default": true,
             "filename": "BADAPPLE.GBC",
-            "hash": {
-                "md5": "1e8c2c4cdf5e67e708c51c9739e6f2c8",
-                "sha1": "3113f18f75e832c0d3b3f0223619b44a6c9ad285",
-                "sha256": "2e6a39c3de29dbfc54bada4d7b9ed0cf21f84e5d94dc02bb1f259c8621c03c65"
-            },
             "playable": true
         }
     ],
