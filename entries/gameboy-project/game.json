@@ -3,7 +3,7 @@
     "slug": "gameboy-project",
     "developer": "Marc Rawer",
     "platform": "GB",
-    "typetag": "homebrew",
+    "typetag": "tool",
     "screenshots": [
         "steffen.png"
     ],

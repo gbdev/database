@@ -3,7 +3,7 @@
     "slug": "stopwatch-version-1",
     "developer": "Chris Antonellis",
     "platform": "GB",
-    "typetag": "homebrew",
+    "typetag": "tool",
     "screenshots": [
         "stopwatch.png"
     ],

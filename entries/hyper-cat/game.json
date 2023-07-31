@@ -3,7 +3,7 @@
     "slug": "hyper-cat",
     "developer": "Andrew G. Crowell",
     "platform": "GB",
-    "typetag": "homebrew",
+    "typetag": "tool",
     "screenshots": [
         "hypercat.png"
     ],

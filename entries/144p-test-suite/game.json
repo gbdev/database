@@ -5,11 +5,15 @@
     "developer": "Damian Yerrick",
     "repository": "https://github.com/pinobatch/240p-test-mini",
     "platform": "GB",
-    "typetag": "homebrew",
+    "typetag": "tool",
     "date": "2018-04-17",
-    "tags": [ "Open Source" ],
-    "play": {"enable": true},
-    "screenshots" : [
+    "tags": [
+        "Open Source"
+    ],
+    "play": {
+        "enable": true
+    },
+    "screenshots": [
         "gb240p-linearity.png",
         "gb240p-megaton.png",
         "gb240p-audiosync.png",

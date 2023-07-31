@@ -2,7 +2,7 @@
     "title": "Lunar Chase",
     "slug": "lunar-chase",
     "platform": "GB",
-    "typetag": "homebrew",
+    "typetag": "tool",
     "screenshots": [
         "lunarchase.png"
     ],

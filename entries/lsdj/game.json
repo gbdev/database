@@ -11,9 +11,9 @@
     "repository": "",
     "screenshots": [
         "phrase.png",
-		"wave.png"
+        "wave.png"
     ],
     "slug": "lsdj",
     "title": "LSDJ",
-    "typetag": "homebrew"
+    "typetag": "tool"
 }

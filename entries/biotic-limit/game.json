@@ -2,7 +2,7 @@
     "title": "Biotic Limit",
     "slug": "biotic-limit",
     "platform": "GB",
-    "typetag": "homebrew",
+    "typetag": "tool",
     "description": "By Ryan Carson",
     "screenshots": [
         "bioticlimit.png",
