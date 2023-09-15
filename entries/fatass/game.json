@@ -1,5 +1,6 @@
 {
     "developer": "Jeremy Evers",
+    "onlineplay": false,
     "files": [
         {
             "default": true,
