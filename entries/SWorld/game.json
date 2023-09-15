@@ -1,6 +1,7 @@
 {
+    "date": "2000-04-01",
     "description": "",
-    "developer": "Bug Skull Games",
+    "developer": "Shen",
     "files": [
         {
             "default": true,
@@ -15,5 +16,6 @@
     ],
     "slug": "SWorld",
     "title": "SWorld",
+    "tags": ["Action", "liksang2000-compo"],
     "typetag": "game"
 }

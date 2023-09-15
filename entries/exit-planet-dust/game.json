@@ -1,0 +1,19 @@
+{
+    "date": "2000-04-01",
+    "developer": "Robotech",
+    "files": [
+        {
+            "default": true,
+            "filename": "b004.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "b004-0.png"
+    ],
+    "slug": "exit-planet-dust",
+    "title": "Exit Planet Dust",
+    "typetag": "game",
+    "tags": ["Action", "liksang2000-compo"]
+}

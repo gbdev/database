@@ -1,5 +1,5 @@
 {
-    "date": "2000-10-21",
+    "date": "2000-04-01",
     "description": "",
     "developer": "Will Cotton",
     "files": [
@@ -24,5 +24,6 @@
     ],
     "slug": "Slugs",
     "title": "Slugs",
+    "tags": ["Action", "Adventure", "liksang2000-compo"],
     "typetag": "game"
 }

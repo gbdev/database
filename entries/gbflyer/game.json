@@ -1,0 +1,19 @@
+{
+    "date": "2000-04-01",
+    "developer": "Bob - One Man Band",
+    "files": [
+        {
+            "default": true,
+            "filename": "a009.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "a009-0.png"
+    ],
+    "slug": "gbflyer",
+    "title": "GBFlyer",
+    "typetag": "game",
+    "tags": ["Action", "liksang2000-compo"]
+}

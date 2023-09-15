@@ -1,6 +1,7 @@
 {
+    "date": "2000-04-01",
     "description": "",
-    "developer": "Unknown",
+    "developer": "Gianluca Cancelmi",
     "files": [
         {
             "description": "release",
@@ -18,6 +19,7 @@
         "20110402_capman.gif"
     ],
     "slug": "Capman",
+    "tags": ["Action", "liksang2000-compo"],
     "title": "Capman",
     "typetag": "game"
 }

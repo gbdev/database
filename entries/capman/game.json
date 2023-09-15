@@ -1,0 +1,18 @@
+{
+    "date": "2000-04-01",
+    "developer": "Gianluca Cancelmi",
+    "files": [
+        {
+            "default": true,
+            "filename": "a008.gb",
+            "playable": false
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+    ],
+    "slug": "capman",
+    "title": "Capman",
+    "typetag": "game",
+    "tags": ["Action", "liksang2000-compo"]
+}

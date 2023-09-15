@@ -1,5 +1,5 @@
 {
-    "date": "2000-01-01",
+    "date": "2000-04-01",
     "developer": "Xagor",
     "files": [
         {
@@ -17,6 +17,7 @@
         "755.png"
     ],
     "slug": "xagor-s-demo",
+    "tags": ["liksang2000-compo"],
     "title": "Xagor's Demo",
     "typetag": "demo"
 }
