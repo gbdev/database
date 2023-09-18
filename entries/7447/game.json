@@ -1,6 +1,6 @@
 {
     "date": "2000-01-01",
-    "developer": "Dox",
+    "developer": "Tomasz Slanina (Dox)",
     "files": [
         {
             "description": "release",
@@ -23,6 +23,7 @@
         "163.png"
     ],
     "slug": "7447",
+    "tags": ["event:liksang2000-compo"],
     "title": "7447",
     "typetag": "demo"
 }

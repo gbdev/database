@@ -1,0 +1,19 @@
+{
+    "date": "2000-04-01",
+    "developer": "Southern Dreams",
+    "files": [
+        {
+            "default": true,
+            "filename": "b001.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "b001-0.png"
+    ],
+    "slug": "southern-dreams",
+    "title": "Southern Dreams",
+    "typetag": "demo",
+    "tags": ["event:liksang2000-compo"]
+}

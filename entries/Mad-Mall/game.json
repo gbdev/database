@@ -1,4 +1,5 @@
 {
+    "date": "2000-04-01",
     "description": "",
     "developer": "Christian Andersson",
     "files": [
@@ -18,6 +19,7 @@
         "20110402_mad_mall.png"
     ],
     "slug": "Mad-Mall",
+    "tags": ["Platform", "event:liksang2000-compo"],
     "title": "Mad Mall",
     "typetag": "game"
 }

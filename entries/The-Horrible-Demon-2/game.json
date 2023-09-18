@@ -1,4 +1,5 @@
 {
+    "date": "2000-04-01",
     "description": "",
     "developer": "Bertil Hörberg",
     "files": [
@@ -18,6 +19,7 @@
         "20110402_the_horrible_demon_2.png"
     ],
     "slug": "The-Horrible-Demon-2",
+    "tags": ["Adventure", "event:liksang2000-compo"],
     "title": "The Horrible Demon 2",
     "typetag": "game"
 }

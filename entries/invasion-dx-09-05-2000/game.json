@@ -1,4 +1,5 @@
 {
+    "date": "2000-05-09",
     "description": "A little shooter game for the Gameboy Color by Richard van der Brugge.",
     "developer": "Richard van der Brugge",
     "files": [
@@ -18,6 +19,7 @@
         "20110402_invasion_dx.JPG"
     ],
     "slug": "invasion-dx-09-05-2000",
+    "tags": ["Action", "event:liksang2000-compo"],
     "title": "Invasion DX (09-05-2000)",
     "typetag": "game"
 }

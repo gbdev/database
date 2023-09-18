@@ -1,6 +1,6 @@
 {
-    "date": "2016-08-19",
-    "developer": "Asobi tech",
+    "date": "2000-04-01",
+    "developer": "Mr Quang Nguyen",
     "files": [
         {
             "description": "release",
@@ -17,6 +17,7 @@
         "20110402_egg_racer.png"
     ],
     "slug": "egg-racer",
+    "tags": ["Action", "event:liksang2000-compo"],
     "title": "Egg Racer",
     "typetag": "game"
 }
