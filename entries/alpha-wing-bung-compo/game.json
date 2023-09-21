@@ -17,7 +17,8 @@
     "screenshots": [
         "20110402_alpha_wing.png"
     ],
-    "slug": "Alpha-Wing",
+    "slug": "alpha-wing-bung-compo",
     "title": "Alpha Wing",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-3rd-coding-compo"]
 }

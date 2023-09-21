@@ -14,5 +14,6 @@
     ],
     "slug": "maze",
     "title": "Maze",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Puzzle", "event:bung-3rd-coding-compo"]
 }

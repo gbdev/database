@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "A game about destroying other planes. It features a scatman's world cover in the main menu.",
     "developer": "Fatality, Freeman, Mast",
     "files": [
         {
@@ -19,5 +19,6 @@
     ],
     "slug": "MIG-21",
     "title": "MIG 21",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-3rd-coding-compo"]
 }

@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "Score as many points as possible by destroying the enemy tanks",
     "developer": "Martin Eyre",
     "files": [
         {
@@ -19,5 +19,6 @@
     ],
     "slug": "Tanks",
     "title": "Tanks",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-3rd-coding-compo"]
 }

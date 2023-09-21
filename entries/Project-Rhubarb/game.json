@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "Pacman clone",
     "developer": "Unknown",
     "files": [
         {
@@ -19,5 +19,6 @@
     ],
     "slug": "Project-Rhubarb",
     "title": "Project Rhubarb",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-3rd-coding-compo"]
 }

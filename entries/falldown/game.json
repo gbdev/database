@@ -14,5 +14,6 @@
     ],
     "slug": "falldown",
     "title": "Falldown",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-3rd-coding-compo"]
 }
