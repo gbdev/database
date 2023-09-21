@@ -1,0 +1,21 @@
+{
+    "description": "Aka BDash",
+    "date": "1999-07-04",
+    "developer": "Dark Fader",
+    "files": [
+        {
+            "default": true,
+            "filename": "bdash.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "bdash.gb",
+    "screenshots": [
+        "bdash.gif"
+    ],
+    "slug": "boulder-dash",
+    "tags": ["Action", "event:bung-1st-coding-compo"],
+    "title": "Boulder Dash",
+    "typetag": "game"
+}

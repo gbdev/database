@@ -19,5 +19,6 @@
     ],
     "slug": "PuzzleX",
     "title": "PuzzleX",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Puzzle", "event:bung-1st-coding-compo"]
 }

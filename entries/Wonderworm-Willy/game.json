@@ -1,6 +1,6 @@
 {
     "description": "Willy Wonderworm is a game for the Nintendo Gameboy and Gameboy Color systems. It should operate under most emulators and on an actual Gameboy system if copied onto a cartridge. Note that the scrolling text on the title screen may not appear correctly on some emulators and we recommend that you use the nocash emulator (no$gmb).",
-    "developer": "Icarus Productions",
+    "developer": "Matthew Shepcar",
     "files": [
         {
             "description": "release",
@@ -19,5 +19,6 @@
     ],
     "slug": "Wonderworm-Willy",
     "title": "Wonderworm Willy",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Arcade", "event:bung-1st-coding-compo"]
 }

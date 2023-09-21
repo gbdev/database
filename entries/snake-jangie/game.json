@@ -1,5 +1,4 @@
 {
-    "description": "",
     "developer": "Jangie",
     "files": [
         {
@@ -19,5 +18,6 @@
     ],
     "slug": "snake-jangie",
     "title": "Snake",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Arcade", "event:bung-1st-coding-compo"]
 }
