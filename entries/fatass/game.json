@@ -1,5 +1,6 @@
 {
     "developer": "Jeremy Evers",
+    "website": "https://jeremyevers.com/fatass",
     "onlineplay": false,
     "files": [
         {
@@ -8,7 +9,7 @@
             "playable": true
         }
     ],
-    "platform": "GB",
+    "platform": "GBC",
     "repository": "",
     "screenshots": [
         "fatass.png"
