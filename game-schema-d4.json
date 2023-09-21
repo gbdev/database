@@ -88,6 +88,7 @@
                 "type": "string",
                 "enum":
                 [
+                    "Arcade",
                     "RPG",
                     "Open Source",
                     "Adventure",
