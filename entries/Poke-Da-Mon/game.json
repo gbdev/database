@@ -19,5 +19,6 @@
     ],
     "slug": "Poke-Da-Mon",
     "title": "Poke Da Mon",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
 }

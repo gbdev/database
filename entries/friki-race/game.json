@@ -19,5 +19,6 @@
     ],
     "slug": "friki-race",
     "title": "Friki Race",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Racing", "event:bung-2nd-coding-compo"]
 }

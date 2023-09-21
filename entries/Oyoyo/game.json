@@ -19,5 +19,6 @@
     ],
     "slug": "Oyoyo",
     "title": "Oyoyo",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Platform", "event:bung-2nd-coding-compo"]
 }

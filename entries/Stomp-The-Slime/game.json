@@ -19,5 +19,6 @@
     ],
     "slug": "Stomp-The-Slime",
     "title": "Stomp The Slime",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
 }

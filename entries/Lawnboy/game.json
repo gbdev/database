@@ -19,5 +19,6 @@
     ],
     "slug": "Lawnboy",
     "title": "Lawnboy",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Adventure", "event:bung-2nd-coding-compo"]
 }

@@ -19,5 +19,6 @@
     ],
     "slug": "Firegear",
     "title": "Firegear",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Shooter", "event:bung-2nd-coding-compo"]
 }

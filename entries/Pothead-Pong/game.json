@@ -19,5 +19,6 @@
     ],
     "slug": "Pothead-Pong",
     "title": "Pothead Pong",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
 }

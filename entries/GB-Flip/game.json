@@ -19,5 +19,6 @@
     ],
     "slug": "GB-Flip",
     "title": "GB-Flip",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
 }
