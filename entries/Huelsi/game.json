@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "3rd place at Bung 1st Coding Compo",
     "developer": "Roland G. Huelsmann",
     "files": [
         {
@@ -19,5 +19,6 @@
     ],
     "slug": "Huelsi",
     "title": "Huelsi",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Adventure", "event:bung-1st-coding-compo"]
 }

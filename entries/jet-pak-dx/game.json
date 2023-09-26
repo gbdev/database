@@ -19,5 +19,6 @@
     ],
     "slug": "jet-pak-dx",
     "title": "Jet Pak DX",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Arcade", "event:bung-1st-coding-compo"]
 }
