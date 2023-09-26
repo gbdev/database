@@ -1,18 +1,23 @@
 {
+    "description": "",
     "developer": "Gambit Studios",
     "files": [
         {
+            "description": "release",
+            "filename": "Deep_Scan__(Gameboy).zip"
+        },
+        {
             "default": true,
-            "filename": "deep-scan.cgb",
+            "filename": "DeepScan.cgb",
             "playable": true
         }
     ],
     "platform": "GBC",
-    "repository": "",
+    "rom": "DeepScan.cgb",
     "screenshots": [
-        "deep-scan.png"
+        "20110402_deep_scan.png"
     ],
-    "slug": "deep-scan",
+    "slug": "Deep-Scan",
     "title": "Deep Scan",
     "typetag": "game"
 }
