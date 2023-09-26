@@ -1,18 +1,23 @@
 {
+    "description": "",
     "developer": "james todd",
     "files": [
         {
+            "description": "release",
+            "filename": "Cricket__(Gameboy).zip"
+        },
+        {
             "default": true,
-            "filename": "cricket.gb",
+            "filename": "CRICKET.GB",
             "playable": true
         }
     ],
     "platform": "GB",
-    "repository": "",
+    "rom": "CRICKET.GB",
     "screenshots": [
-        "cricket.png"
+        "20110402_cricket.png"
     ],
-    "slug": "cricket",
+    "slug": "Cricket",
     "title": "Cricket",
     "typetag": "game"
 }
