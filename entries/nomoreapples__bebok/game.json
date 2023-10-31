@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "tGeL9U.png",
+        "2FPpuAX.png",
+        "A8xlOL.png",
+        "oHLGnK.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "bebok_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "NoMoreApples",
+    "title": "Bebok",
+    "date": "2023-09-15",
+    "website": "https://nomoreapples.itch.io/bebok",
+    "slug": "nomoreapples__bebok"
+}

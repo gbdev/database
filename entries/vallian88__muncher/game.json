@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "ApnV2e.png",
+        "ndvub1.png",
+        "OZlG9z.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platformer",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "vallian88",
+    "title": "Muncher",
+    "date": "2023-09-15",
+    "website": "https://vallian88.itch.io/muncher",
+    "slug": "vallian88__muncher"
+}

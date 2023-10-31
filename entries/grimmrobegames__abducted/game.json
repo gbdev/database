@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "h6KyuI.png",
+        "lAMITM.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Role Playing"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Abducted.gb",
+            "playable": true
+        }
+    ],
+    "developer": "grimmrobegames",
+    "title": "Abducted",
+    "date": "2023-09-15",
+    "website": "https://grimmrobegames.itch.io/abducted",
+    "slug": "grimmrobegames__abducted"
+}

@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "yoZL18.png",
+        "hrjI9f.png",
+        "oKcOim.png",
+        "5eicvl.gif",
+        "2BGj2F5c.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platformer",
+        "Role Playing"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "PurlsofMagic-v.09.gb",
+            "playable": true
+        }
+    ],
+    "developer": "AllieMackie",
+    "title": "Purls of Magic DEMO",
+    "date": "2023-09-15",
+    "website": "https://alliemackie.itch.io/purls-of-magic",
+    "slug": "alliemackie__purls-of-magic"
+}

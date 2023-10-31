@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "wMwuSN.png",
+        "rJWOsp.png",
+        "2BNOQN0.png",
+        "yVbkLx.png",
+        "T2FJmyr.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platformer",
+        "Puzzle"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "The_Host_(Only_For_GBC)_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "allalonegamez",
+    "title": "The Host",
+    "date": "2023-09-15",
+    "website": "https://allalonegamez.itch.io/the-host",
+    "slug": "allalonegamez__the-host"
+}

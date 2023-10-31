@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "6rZl92.png",
+        "jUPC9y.png",
+        "xlOTB3.png",
+        "AJiwZq.png",
+        "7LLsxy.png",
+        "byX4S9.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platformer"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Feed_IT_Souls_v1.4.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Gumpy Function",
+    "title": "Feed IT Souls",
+    "date": "2023-09-15",
+    "website": "https://gumpyfunction.itch.io/feed-it-souls",
+    "slug": "gumpyfunction__feed-it-souls"
+}

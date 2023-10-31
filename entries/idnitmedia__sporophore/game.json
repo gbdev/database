@@ -1,0 +1,33 @@
+{
+    "screenshots": [
+        "4yxfpg.png",
+        "GZtNep.png",
+        "gGHQry.png",
+        "TaXlwx.png",
+        "2FTA2is.png",
+        "2Be9Ti2F.png",
+        "JohbEc.png",
+        "kqOus6.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platformer",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Sporophore0.1.0_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": {
+        "IdnitMedia": "https://idnitmedia.itch.io",
+        "Alex Mesa": "https://lexcastle.itch.io"
+    },
+    "title": "Sporophore",
+    "date": "2023-09-15",
+    "website": "https://idnitmedia.itch.io/sporophore",
+    "slug": "idnitmedia__sporophore"
+}

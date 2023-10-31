@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "yom1i7.png",
+        "O8fPFT.png",
+        "C9QJvl.png",
+        "NoDFl9.png",
+        "QWBbbB.png",
+        "TqMFbh.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action",
+        "Puzzle"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "stardiver.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Lazy Dev Games",
+    "title": "Stardiver",
+    "date": "2023-09-15",
+    "website": "https://lazydevs.itch.io/stardiver",
+    "slug": "lazydevs__stardiver"
+}

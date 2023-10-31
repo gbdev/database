@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "A26CRY.gif",
+        "x2BNRmi.gif",
+        "9U3xUM.gif",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Sacred_Meat_1.3_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": {
+        "Wrong Way Games": "https://wrong-way-games.itch.io",
+        "Cool Bug Games": "https://cool-bug-games.itch.io"
+    },
+    "title": "Sacred Meat",
+    "date": "2023-09-15",
+    "website": "https://wrong-way-games.itch.io/sacred-meat",
+    "slug": "wrong-way-games__sacred-meat"
+}

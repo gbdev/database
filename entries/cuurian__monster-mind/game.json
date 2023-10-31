@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "2Fu6Tbh.png",
+        "W2LRRQ.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Fighting"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "MonsterMind_Jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Cuurian",
+    "title": "Monster Mind",
+    "date": "2023-09-15",
+    "website": "https://cuurian.itch.io/monster-mind",
+    "slug": "cuurian__monster-mind"
+}

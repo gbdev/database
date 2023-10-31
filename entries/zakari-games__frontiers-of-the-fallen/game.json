@@ -1,0 +1,38 @@
+{
+    "screenshots": [
+        "2FMeuP.png",
+        "3jun6z.png",
+        "M2B1MrF.png",
+        "M1krxT.png",
+        "kegd3W.png",
+        "wapjyG.png",
+        "SSh2do.png",
+        "87exfe.png",
+        "KuSfWM.png",
+        "SdM3dX.png",
+        "QY0HV2F.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action",
+        "Role Playing"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "FrontiersOfTheFallen_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": {
+        "Zakari Games": "https://zakari-games.itch.io",
+        "systemeffect": "https://systemeffect.itch.io",
+        "frequency.data": "https://frequencydata.itch.io"
+    },
+    "title": "Frontiers of the Fallen",
+    "date": "2023-09-15",
+    "website": "https://zakari-games.itch.io/frontiers-of-the-fallen",
+    "slug": "zakari-games__frontiers-of-the-fallen"
+}

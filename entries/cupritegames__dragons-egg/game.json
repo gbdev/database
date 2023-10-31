@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "zH9jHp.png",
+        "RrtwbD.png",
+        "vATwXd.png",
+        "vgixtF.png",
+        "PrKSPD.png",
+        "O4YO2g.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Role Playing"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Dragons_Egg_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Cuprite",
+    "title": "Dragon's Egg (GB Compo 2023)",
+    "date": "2023-09-15",
+    "website": "https://cupritegames.itch.io/dragons-egg",
+    "slug": "cupritegames__dragons-egg"
+}

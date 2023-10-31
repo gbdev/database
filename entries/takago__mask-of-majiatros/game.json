@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "oUGWg8.png",
+        "2S77zW.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Strategy",
+        "Role Playing"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "MASKOFMAJIATROS_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Takago",
+    "title": "Mask of Majiatros",
+    "date": "2023-09-15",
+    "website": "https://takago.itch.io/mask-of-majiatros",
+    "slug": "takago__mask-of-majiatros"
+}

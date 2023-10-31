@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "IpiTco.png",
+        "tbHBA2.png",
+        "h7I8O3.png",
+        "vljISE.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Shooter"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "automatron_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Lenni",
+    "title": "Automatron GB Demo",
+    "date": "2023-09-15",
+    "website": "https://harlequin.itch.io/automatron-gb-demake",
+    "slug": "harlequin__automatron-gb-demake"
+}

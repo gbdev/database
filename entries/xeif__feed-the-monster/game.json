@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "wmKc62.png",
+        "Mf3Y16.png",
+        "zPtbYc.png",
+        "1PA8lH.png",
+        "gA9Hga.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platformer"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "FeedTheMonsterDemo.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Xeif",
+    "title": "FEED THE MONSTER DEMO (Game Boy Color)",
+    "date": "2023-09-15",
+    "website": "https://xeif.itch.io/feed-the-monster",
+    "slug": "xeif__feed-the-monster"
+}

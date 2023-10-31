@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "B1p3BE.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/joestrong/gameboy-monster-within",
+    "tags": [
+        "event:gbcompo23",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "monster-within_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "joestrong",
+    "title": "Monster Within",
+    "date": "2023-09-15",
+    "website": "https://joestrong.itch.io/monster-within",
+    "slug": "joestrong__monster-within"
+}

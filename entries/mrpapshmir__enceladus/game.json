@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "w89uJM.png",
+        "gduQyF.png",
+        "bl9biI.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platformer"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ENCELADUS_V3_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "mr.papshmir",
+    "title": "Enceladus - GBCompo2023 Version",
+    "date": "2023-09-15",
+    "website": "https://mrpapshmir.itch.io/enceladus",
+    "slug": "mrpapshmir__enceladus"
+}

@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "2FJ3JS2.png",
+        "4ChmW3.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/nikku4211/7heaven",
+    "tags": [
+        "event:gbcompo23",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "7HEAVEN_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Nikku4211",
+    "title": "7heaven",
+    "date": "2023-09-15",
+    "website": "https://nikku4211.itch.io/7heaven",
+    "slug": "nikku4211__7heaven"
+}

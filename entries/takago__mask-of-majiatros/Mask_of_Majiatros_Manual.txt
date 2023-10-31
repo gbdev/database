@@ -1,0 +1,37 @@
+-- Controls --
+Control Pad:
+Use the Control Pad to move Kiro around in the overworld. Pressing up and down or the left and right buttons on the Control Pad can change the current selection.
+
+A Button:
+Use the A button to interact with objects in the overworld or to confirm selections in menus.
+
+B Button:
+Use the B button to cancel a selection in menus.
+
+Start Button
+The Start Button is used to open the Sub Screen, analyze the battle when in combat or to you know... start the game.
+
+Select Button
+Press the Select Button to scare enemies in battle.
+
+-- Battle --
+The rules of a battle are simple. Get the enemy's HP to 0, keep yours from depleting to 0 and make sure your Monster Meter doesn't reach 20 MP. Below is the order of battle:
+
+Select a move with the left and right buttons on the Control Pad. Confirm with the A button. Or, press the Start Button to know the species and HP of the enemies.
+If needed, select a target still with the left and right buttons of the Control Pad. Confirm with the A button. The move will then take place.
+Repeat the first 2 steps 2 more times to pick 2 other moves.
+The enemies then take their turn. If all the enemy's HP are 0, you win. If your HP is 0 or Monster Meter has 20 MP, it's Game Over and will return to the hospital.
+
+-- Types --
+Exploiting the types of monsters can help you to efficiently defeat the enemy. A wary enemy beats feisty, a crafty enemy beats wary and feisty beats crafty (Essentially, it's Pokemon! :)))). Therefore, each type has a strength and weakness. An enemy with a stronger type attacking an enemy with a weaker type gets added DMG while an enemy with a weaker type attacking an enemy with a stronger type will have reduced DMG. Each type also has buffs. Feisty gives an offense buff, wary gives a defense buff and crafty gives a healing buff. 
+
+-- Monster Meter --
+Placing on the Mask of Majiatros can make you more monstrous. Using a monster move with the mask will add 1 MP to the Monster Meter. Each time you get 5 MP, one of your human moves will be replaced with a monster move.
+
+-- Scare Enemies --
+When you banished enough enemy packs, you can now scare in battle. Scare by pressing the Select Button. You will immediately end the battle. This doesn't work with bosses however. This also does not count as killing or sparing enemies. 
+
+-- Glossary --
+ HP or Hit Points
+ MP or Monster Points
+ DMG or Damage 

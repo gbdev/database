@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "4DPzwF.png",
+        "e7TSKW.png",
+        "ym42FJi.png",
+        "Td9Cry.png",
+        "IHJs03.png",
+        "rWm2km.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ghostofthearcade.gb",
+            "playable": true
+        }
+    ],
+    "developer": "playinstinct",
+    "title": "Ghost of the Arcade",
+    "date": "2023-09-15",
+    "website": "https://playinstinct.itch.io/ghost-of-the-arcade",
+    "slug": "playinstinct__ghost-of-the-arcade"
+}
