@@ -1,0 +1,27 @@
+{
+    "developer": "Tangram Games",
+    "files": [
+        {
+            "default": true,
+            "filename": "tobudx.gb",
+            "playable": true
+        }
+    ],
+    "license": "MIT",
+    "onlineplay": true,
+    "platform": "GBC",
+    "gameWebsite": "https://tangramgames.itch.io/tobu-tobu-girl-deluxe",
+    "repository": "https://github.com/SimonLarsen/tobutobugirl-dx",
+    "screenshots": [
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "slug": "tobutobugirldeluxe",
+    "tags": [
+        "Open Source",
+        "Action"
+    ],
+    "title": "Tobu Tobu Girl Deluxe",
+    "typetag": "game"
+}
