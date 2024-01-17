@@ -12,7 +12,7 @@
     "typetag": "game",
     "tags": [
         "event:gbcompo23",
-        "Platformer",
+        "Platform",
         "Adventure"
     ],
     "files": [
@@ -22,10 +22,7 @@
             "playable": true
         }
     ],
-    "developer": {
-        "IdnitMedia": "https://idnitmedia.itch.io",
-        "Alex Mesa": "https://lexcastle.itch.io"
-    },
+    "developer": "IdnitMedia (https://idnitmedia.itch.io), Alex Mesa (https://lexcastle.itch.io)",
     "title": "Sporophore",
     "date": "2023-09-15",
     "website": "https://idnitmedia.itch.io/sporophore",
