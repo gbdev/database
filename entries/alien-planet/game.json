@@ -1,5 +1,6 @@
 {
     "date": "2001-09-25",
+    "description": "Alien Planet is a vertical shooter game.",
     "developer": "TNI",
     "files": [
         {
@@ -18,6 +19,7 @@
         "20110402_alien_planet.png"
     ],
     "slug": "alien-planet",
+    "tags": ["event:freedom-2001-gameboy-developers-competition"],
     "title": "Alien Planet",
     "typetag": "game"
 }

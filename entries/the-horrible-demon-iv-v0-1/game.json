@@ -1,11 +1,11 @@
 {
     "date": "2001-09-09",
-    "description": "",
+    "description": "The Horrible Demon 4 is a side-scrolling action/adventure game.",
     "developer": "Bertil Hörberg",
     "files": [
         {
             "description": "release",
-            "filename": "The_Horrible_Demon_IV_v0.1_(Gameboy).zip"
+            "filename": "thd4.zip"
         },
         {
             "default": true,
@@ -19,6 +19,7 @@
         "20110402_the_horrible_demon_iv.png"
     ],
     "slug": "the-horrible-demon-iv-v0-1",
-    "title": "The Horrible Demon IV v0.1",
+    "tags": ["event:freedom-2001-gameboy-developers-competition"],
+    "title": "The Horrible Demon 4",
     "typetag": "game"
 }
