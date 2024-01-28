@@ -1,0 +1,22 @@
+{
+    "date": "1995-08-13",
+    "developer": "HeroZero/DiESEL",
+    "files": [
+        {
+            "default": true,
+            "filename": "DSL-GBC.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "DSL-GBC.ZIP"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "DSL-GBC-0.png"
+    ],
+    "slug": "dsl-gbc",
+    "title": "How to code your GameBoy part 1",
+    "typetag": "tool"
+}
