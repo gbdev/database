@@ -1,6 +1,16 @@
 {
-    "developer": "Gambit Studios",
+    "date": "1998-03-04",
+    "description": "Obsession Development's implementation of the popular little puzzle game",
+    "developer": "Obsession Development",
     "files": [
+        {
+            "description": "release (v1.20)",
+            "filename": "sokoban12.zip"
+        },
+        {
+            "description": "release (v1.10)",
+            "filename": "sokoban11.zip"
+        },
         {
             "default": true,
             "filename": "sokoban.gb",
@@ -13,6 +23,6 @@
         "sokoban.png"
     ],
     "slug": "sokoban",
-    "title": "Sokoban",
+    "title": "GameBoy SokoBan",
     "typetag": "game"
 }
