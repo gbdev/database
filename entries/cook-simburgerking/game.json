@@ -1,10 +1,11 @@
 {
+    "date": "2001-09-26",
     "description": "Cook (SimBurgerKing) is a very simple game. Press the button that is represented by the icon onscreen.",
     "developer": "Joshua Wise",
     "files": [
         {
             "description": "release",
-            "filename": "Cook__SimBurgerKing___(Gameboy).zip"
+            "filename": "cook.zip"
         },
         {
             "default": true,
@@ -18,6 +19,7 @@
         "20110402_cook_(simburgerking).png"
     ],
     "slug": "cook-simburgerking",
+    "tags": ["event:freedom-2001-gameboy-developers-competition"],
     "title": "Cook (SimBurgerKing)",
     "typetag": "game"
 }

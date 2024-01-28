@@ -1,10 +1,11 @@
 {
-    "description": "story: U on Mars. U must to kill all enemy. Take fuel using scoops, take medicine kits of previous expedition. That’s all good luck!",
+    "date": "2001-09-14",
+    "description": "Red Dreams is a 3D shooter. story: U on Mars. U must to kill all enemy. Take fuel using scoops, take medicine kits of previous expedition. That’s all good luck!",
     "developer": "Arcadiy Gobuzov",
     "files": [
         {
             "description": "release",
-            "filename": "Red_Dreams__(Gameboy).zip"
+            "filename": "red.zip"
         },
         {
             "default": true,
@@ -18,6 +19,7 @@
         "20110402_red_dreams.png"
     ],
     "slug": "Red-Dreams",
+    "tags": ["event:freedom-2001-gameboy-developers-competition"],
     "title": "Red Dreams",
     "typetag": "game"
 }

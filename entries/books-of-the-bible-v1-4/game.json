@@ -1,10 +1,11 @@
 {
-    "description": "",
+    "date": "2001-08-09",
+    "description": "Basic replacement for flashcards.",
     "developer": "Danny H. Newport",
     "files": [
         {
             "description": "release",
-            "filename": "Books_of_the_Bible_v1.4_(Gameboy).zip"
+            "filename": "botbfgb.zip"
         },
         {
             "default": true,
@@ -18,6 +19,7 @@
         "20110402_books_of_the_bible.png"
     ],
     "slug": "books-of-the-bible-v1-4",
+    "tags": ["event:freedom-2001-gameboy-developers-competition"],
     "title": "Books of the Bible v1.4",
     "typetag": "game"
 }

@@ -4,7 +4,7 @@
     "files": [
         {
             "description": "release",
-            "filename": "The_Princess___The_Pauper__(Gameboy).zip"
+            "filename": "princess.zip"
         },
         {
             "default": true,
@@ -18,6 +18,7 @@
         "screenshot.png"
     ],
     "slug": "The-Princess-and-The-Pauper",
+    "tags": ["event:freedom-2001-gameboy-developers-competition"],
     "title": "The Princess & The Pauper",
     "typetag": "game"
 }
