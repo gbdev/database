@@ -3,7 +3,7 @@
     "description": "Partly PC application, but contains Gameboy binaries.",
     "files": [
         {
-            "description": "release",
+            "description": "release (v1.2)",
             "filename": "cncd_editor.zip"
         },
         {
@@ -16,7 +16,7 @@
     "screenshots": [
         "carillon.png"
     ],
-    "slug": "carillon-editor-version-12",
-    "title": "Carillon Editor (Version 1.2)",
-    "typetag": "game"
+    "slug": "carillon-editor",
+    "title": "Carillon Editor",
+    "typetag": "tool"
 }
