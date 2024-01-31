@@ -1,22 +1,22 @@
 {
     "date": "2000-01-01",
-    "developer": "One Man Band",
+    "developer": "Lightforce",
     "files": [
         {
             "description": "release",
-            "filename": "OMB-STAR.ZIP"
+            "filename": "LFC-I_01.ZIP"
         },
         {
             "default": true,
-            "filename": "Stars.gb",
+            "filename": "lfc1.gbc",
             "playable": true
         }
     ],
     "platform": "GBC",
     "screenshots": [
-        "718.png"
+        "275.png"
     ],
-    "slug": "parallax-starfield",
-    "title": "175-sprite Parallax Starfield",
+    "slug": "lightforce-intro-1",
+    "title": "Lightforce Intro 1 (The Emperor's New Groove +4)",
     "typetag": "demo"
 }

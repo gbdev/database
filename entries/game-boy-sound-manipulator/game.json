@@ -1,16 +1,20 @@
 {
-    "developer": "Plasma Works",
+    "date": "2000-08-18",
+    "developer": "Plasmaworks Digital Entertainment",
     "files": [
         {
+            "description": "release (v1.01)",
+            "filename": "gbsound.zip"
+        },
+        {
             "default": true,
-            "filename": "game-boy-sound-manipulator.gb",
+            "filename": "gbsound.gb",
             "playable": true
         }
     ],
     "platform": "GB",
-    "repository": "",
     "screenshots": [
-        "game-boy-sound-manipulator.png"
+        "gbsound.png"
     ],
     "slug": "game-boy-sound-manipulator",
     "title": "Game Boy Sound Manipulator",

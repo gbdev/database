@@ -1,0 +1,23 @@
+{
+    "date": "1999-09-21",
+    "description": "Guide the red dot around the maze to the exit. You \ncan't stop, only turn. Too slow and you crash which loses a life. \nYou have 3 lives to finish all 10 levels. Oh yes, collect the pots too.",
+    "developer": "Darren Hebden",
+    "files": [
+        {
+            "description": "release (v1.0)",
+            "filename": "skoardygb.zip"
+        },
+        {
+            "default": true,
+            "filename": "skoardy.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "skoardy.png"
+    ],
+    "slug": "skoardy",
+    "title": "Skoardy",
+    "typetag": "game"
+}

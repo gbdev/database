@@ -1,6 +1,11 @@
 {
-    "developer": "Gambit Studios",
+    "date": "1999-05-05",
+    "developer": "Icarus Productions",
     "files": [
+        {
+            "description": "release (v0.95 beta)",
+            "filename": "sqrxzgb.zip"
+        },
         {
             "default": true,
             "filename": "sqrxz.gb",
@@ -8,11 +13,10 @@
         }
     ],
     "platform": "GB",
-    "repository": "",
     "screenshots": [
         "sqrxz.png"
     ],
     "slug": "sqrxz",
-    "title": "Sqrxz!",
+    "title": "Sqrxz",
     "typetag": "game"
 }

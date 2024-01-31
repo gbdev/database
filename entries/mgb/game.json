@@ -1,6 +1,11 @@
 {
-    "developer": "trash80",
+    "date": "2016-08-30",
+    "developer": "Trash80",
     "files": [
+        {
+            "description": "release (v1.3.3)",
+            "filename": "mgb_v133.zip"
+        },
         {
             "default": true,
             "filename": "mgb.gb",
@@ -8,11 +13,10 @@
         }
     ],
     "platform": "GB",
-    "repository": "",
     "screenshots": [
-        "mgb.png"
+        "screenshot.png"
     ],
     "slug": "mgb",
     "title": "mGB",
-    "typetag": "tool"
+    "typetag": "game"
 }

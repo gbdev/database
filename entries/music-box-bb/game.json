@@ -1,0 +1,22 @@
+{
+    "date": "2001-02-25",
+    "developer": "Black Box",
+    "files": [
+        {
+            "description": "release (v1.3)",
+            "filename": "bb-mb103.zip"
+        },
+        {
+            "default": true,
+            "filename": "musicbox.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "musicbox.png"
+    ],
+    "slug": "music-box-bb",
+    "title": "Music Box",
+    "typetag": "game"
+}
