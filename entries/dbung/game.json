@@ -1,0 +1,22 @@
+{
+    "date": "1999-07-09",
+    "developer": "Derek Steinmoeller",
+    "files": [
+        {
+            "default": true,
+            "filename": "dbung.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "dbung.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "dbung-0.png"
+    ],
+    "slug": "dbung",
+    "title": "Bung Cart Slideshow",
+    "typetag": "demo"
+}
