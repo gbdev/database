@@ -1,10 +1,14 @@
 {
-    "developer": "Gambit Studios",
+    "developer": "Jeff Siebold",
     "files": [
         {
             "default": true,
             "filename": "maze.cgb",
             "playable": true
+        },
+        {
+            "description": "release (Bung)",
+            "filename": "maze.zip"
         }
     ],
     "platform": "GBC",
