@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "ukgros.jpg",
+        "zAk9RW.jpg",
+        "qvqEsJ.jpg",
+        "l4nP71.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Shooter"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ImperiumStrikeForce_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "OrlandoMee",
+    "title": "Imperium Strike Force (demo)",
+    "date": "2023-09-15",
+    "website": "https://orlando64.itch.io/imperium-strike-force",
+    "slug": "orlando64__imperium-strike-force"
+}

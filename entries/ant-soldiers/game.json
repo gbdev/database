@@ -2,6 +2,10 @@
     "developer": "Gambit Studios",
     "files": [
         {
+            "description": "release",
+            "filename": "Ant_Soldiers__(Gameboy).zip"
+        },
+        {
             "default": true,
             "filename": "ant-soldiers.gb",
             "playable": true
@@ -10,7 +14,8 @@
     "platform": "GB",
     "repository": "",
     "screenshots": [
-        "ant-soldiers.png"
+        "ant-soldiers.png",
+        "20110402_ant_soldiers.png"
     ],
     "slug": "ant-soldiers",
     "title": "Ant Soldiers",

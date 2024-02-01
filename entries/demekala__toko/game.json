@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "8SFFLr.png",
+        "eT5lb0.png",
+        "qHbW0e.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platform"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TOKO_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "demekala",
+    "title": "Toko",
+    "date": "2023-09-15",
+    "website": "https://demekala.itch.io/toko",
+    "slug": "demekala__toko"
+}

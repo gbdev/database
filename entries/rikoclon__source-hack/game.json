@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "4pPmmQ.png",
+        "T0afKS.jpg",
+        "V0MIfO.jpg",
+        "yV2B3pR.jpg",
+        "vjR6FL.jpg",
+        "4WftBT.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Puzzle",
+        "Shooter"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Source_Hack_Jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "RikOclon",
+    "title": "Source Hack",
+    "date": "2023-09-15",
+    "website": "https://rikoclon.itch.io/source-hack",
+    "slug": "rikoclon__source-hack"
+}

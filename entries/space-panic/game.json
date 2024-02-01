@@ -1,0 +1,21 @@
+{
+    "date":"1999-06-30",
+    "description": "2nd place at Bung 1st Coding Compo",
+    "developer": "Steve Jones",
+    "files": [
+        {
+            "default": true,
+            "filename": "spacepanic.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "spacepanic.gb",
+    "screenshots": [
+        "spacepanic.gif"
+    ],
+    "slug": "space-panic",
+    "title": "Space Panic",
+    "typetag": "game",
+    "tags": ["Platform", "event:bung-1st-coding-compo"]
+}

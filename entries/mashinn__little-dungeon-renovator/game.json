@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "b8hSbp.png",
+        "DmKk5f.png",
+        "wFqBMP.png",
+        "2FUhssp.png",
+        "V3wMt5.png",
+        "WTEfNk.png",
+        "sTeTsY.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure",
+        "RPG"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Little_Dungeon_Renovator1.0_JAM.gb",
+            "playable": true
+        }
+    ],
+    "developer": "MashinN",
+    "title": "Little Dungeon Renovator",
+    "date": "2023-09-15",
+    "website": "https://mashinn.itch.io/little-dungeon-renovator",
+    "slug": "mashinn__little-dungeon-renovator"
+}

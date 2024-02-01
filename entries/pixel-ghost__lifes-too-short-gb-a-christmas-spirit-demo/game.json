@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "bFSq2F.png",
+        "cBxuqH.png",
+        "goFylW.png",
+        "2FY1Nad.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "LTSGBACS_jam_(DEMO).gb",
+            "playable": true
+        }
+    ],
+    "developer": "Pixel Ghost",
+    "title": "Life's Too Short GB: A Christmas Spirit (DEMO)",
+    "date": "2023-09-15",
+    "website": "https://pixel-ghost.itch.io/lifes-too-short-gb-a-christmas-spirit-demo",
+    "slug": "pixel-ghost__lifes-too-short-gb-a-christmas-spirit-demo"
+}

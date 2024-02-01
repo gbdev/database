@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "rFGR2Fj.gif",
+        "XW5SOr.gif",
+        "BE3fQi.gif",
+        "Oq7l8a.gif",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Puzzle"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "enthraller.gb",
+            "playable": true
+        }
+    ],
+    "developer": "dancar",
+    "title": "Enthraller: The Small-Hauler",
+    "date": "2023-09-15",
+    "website": "https://dancar.itch.io/mind-controller",
+    "slug": "dancar__mind-controller"
+}

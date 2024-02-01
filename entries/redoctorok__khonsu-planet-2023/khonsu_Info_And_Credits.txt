@@ -1,0 +1,43 @@
+Khonsu 2023
+
+This Game plays on GB but is designed for GBC
+
+Spoilers ahead :)
+
+	Khonsu 2023 is a Shooter game with light puzzle elements. 
+While cleaning your ship you discover an old device; the ship tells you its a GBplayer.
+You learn that the planet 2023 has 5 game carts, so you decide to go to the planet and collect the carts. 
+
+There are five zones, each containing fun enemies and unique environments.
+
+The carts you can collect:
+
+Murph Racing:
+Murph has fun racing around. Play in two modes on two courses. 
+(Murph is a Gameboy character from another game making a cameo :) )
+
+LazerTag:
+LazerTag sets you in an arcade and laser tag facility. There are arcade games you can play. 
+The laser tag game lets you choose how many players you want to compete against and the length
+of your games. 
+ Arcade Games: 
+Endless runner- jump over incoming baddies.
+Endless Dungeon- explore an endless dungeon to collect rare treasure. 
+Endless BoneChomp- collect pellets and avoid a bug chasing you. 
+
+Hearts and Swords:
+This game sets you as a gladiator who is forced to fight. Heavy on the story and combat. 
+
+Tiny Metal Gears That Are Solid Not Liquid:
+You are an undercover field agent tasked with destroying metal gears. This is a stealth shooter game. 
+
+
+
+Art:
+Elvies -various tiles
+ProtoPixel-various tiles
+PixelMech-various tiles
+Mol-various tiles
+
+For judging purpose , I made a lot of my own art (all the sprites), but I did use and modify a lot of tiles. 
+Hard to say what mix it is but maybe like 70% mine 20% modded and 10% unmodded.

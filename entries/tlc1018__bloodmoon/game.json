@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "t247Bs.png",
+        "GjbYl2B.png",
+        "HRrko2B.png",
+        "X0aJ10.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "BLOODMOON.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Tlc1018",
+    "title": "BLOODMOON",
+    "date": "2023-09-15",
+    "website": "https://tlc1018.itch.io/bloodmoon",
+    "slug": "tlc1018__bloodmoon"
+}

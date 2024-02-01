@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "54xRi1.png",
+        "HqBNhH.png",
+        "LhgLrC.png",
+        "cover.png"
+    ],
+    "typetag": "tool",
+    "tags": [
+        "event:gbcompo23",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Iron_Core_Stainless_v.2_gbcompo23_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Elvies",
+    "title": "Iron Cor - Stainless",
+    "date": "2023-09-15",
+    "website": "https://elvies.itch.io/iron-cor-stainless",
+    "slug": "elvies__iron-cor-stainless"
+}

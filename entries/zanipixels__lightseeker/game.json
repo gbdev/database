@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "JSG0JF.jpg",
+        "UC2FkMs.jpg",
+        "3qqYwM.jpg",
+        "oZiJ2BM.jpg",
+        "q6XHGH.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Lightseeker_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Zani.Pixels \u00e0\u00b2\u00a0_\u00e0\u00b2",
+    "title": "Lightseeker",
+    "date": "2023-09-15",
+    "website": "https://zanipixels.itch.io/lightseeker",
+    "slug": "zanipixels__lightseeker"
+}

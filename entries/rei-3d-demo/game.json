@@ -1,9 +1,9 @@
 {
-    "date": "2022-05-01",
+    "date": "1996-06-17",
     "files": [
         {
             "default": true,
-            "filename": "Rei_3D_Demo.gb",
+            "filename": "REI3D.GB",
             "playable": true
         },
         {
@@ -17,5 +17,5 @@
     ],
     "slug": "rei-3d-demo",
     "title": "Rei 3D Demo",
-    "typetag": "tool"
+    "typetag": "demo"
 }

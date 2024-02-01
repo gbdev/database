@@ -1,0 +1,30 @@
+{
+    "screenshots": [
+        "BPXkPS.png",
+        "pS4iKk.png",
+        "vj0jTY.png",
+        "5WNe5b.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/Bownly/MirrorGB",
+    "tags": [
+        "event:gbcompo23",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Banished_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": {
+        "RetroReflector": "https://retroreflector.itch.io",
+        "Bownly": "https://bownly.itch.io"
+    },
+    "title": "Banished",
+    "date": "2023-09-15",
+    "website": "https://retroreflector.itch.io/banished",
+    "slug": "retroreflector__banished"
+}

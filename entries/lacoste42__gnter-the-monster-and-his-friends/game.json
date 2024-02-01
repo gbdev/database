@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "mjow9J.gif",
+        "22FoX2FW.gif",
+        "m2FCweb.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "G\u00fcnter_the_monster_and_his_friends_GBC_(WLS).gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Rajcs\u00c3\u00a1nyi L\u00c3\u00a1szl\u00c3\u00b3 (WLS)",
+    "title": "G\u00c3\u00bcnter the monster and his friends",
+    "date": "2023-09-15",
+    "website": "https://lacoste42.itch.io/gnter-the-monster-and-his-friends",
+    "slug": "lacoste42__gnter-the-monster-and-his-friends"
+}

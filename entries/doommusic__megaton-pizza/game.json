@@ -1,0 +1,24 @@
+{
+    "screenshots": [
+        "aZz2BSD.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Shooter",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Megaton_Pizza_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "DoomMusic",
+    "title": "Megaton Pizza",
+    "date": "2023-09-15",
+    "website": "https://doommusic.itch.io/megaton-pizza",
+    "slug": "doommusic__megaton-pizza"
+}

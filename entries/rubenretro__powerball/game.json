@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "ZaWEGQ.png",
+        "djmu2r.png",
+        "LqhMHp.png",
+        "gzudMZ.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Powerball_1.04DEMO.gb",
+            "playable": true
+        }
+    ],
+    "developer": {
+        "Rubenretro": "https://rubenretro.itch.io",
+        "beatscribe": "https://beatscribe.itch.io",
+        "ainaSGE": "https://ainasge.itch.io"
+    },
+    "title": "PowerBall: Monster's Quest",
+    "date": "2023-09-15",
+    "website": "https://rubenretro.itch.io/powerball",
+    "slug": "rubenretro__powerball"
+}

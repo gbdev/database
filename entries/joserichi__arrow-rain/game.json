@@ -1,0 +1,23 @@
+{
+    "screenshots": [
+        "rgSbJr.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "ArrowRain_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Joserichi",
+    "title": "Arrow Rain",
+    "date": "2023-09-15",
+    "website": "https://joserichi.itch.io/arrow-rain",
+    "slug": "joserichi__arrow-rain"
+}

@@ -1,0 +1,21 @@
+{
+    "description": "Aka spr4col",
+    "date": "1999-06-29",
+    "developer": "Derek Steinmoeller",
+    "files": [
+        {
+            "default": true,
+            "filename": "spr4col.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "spr4col.gb",
+    "screenshots": [
+        "spr4col.gif"
+    ],
+    "slug": "shoot-the-x",
+    "tags": ["Action", "event:bung-1st-coding-compo"],
+    "title": "Shoot the X (spr4col)",
+    "typetag": "game"
+}

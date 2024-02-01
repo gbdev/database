@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "TdoDAq.png",
+        "wgxrAP.png",
+        "13Bm4R.png",
+        "gKUSU8.png",
+        "YsXavN.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platform"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "SlimeTrials.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Canight",
+    "title": "Slime Trials",
+    "date": "2023-09-15",
+    "website": "https://canight.itch.io/slime-trials",
+    "slug": "canight__slime-trials"
+}

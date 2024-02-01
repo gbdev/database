@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "XKDGNx.jpg",
+        "NMhPR0.jpg",
+        "QdA1wR.jpg",
+        "Xf3SA2F.jpg",
+        "OlbPAP.jpg"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Khonsu_Planet_2023_Cheat_Rom.gb",
+            "playable": true
+        }
+    ],
+    "developer": "redoctorok",
+    "title": "Khonsu Planet 2023",
+    "date": "2023-09-15",
+    "website": "https://redoctorok.itch.io/khonsu-planet-2023",
+    "slug": "redoctorok__khonsu-planet-2023"
+}
