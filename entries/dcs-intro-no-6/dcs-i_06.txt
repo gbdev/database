@@ -1,7 +1,0 @@
- .-/credits/--------------------------------.
- |           code: Gilligan                 |
- |           logo: Iridion                  |
- |            msx: Wayne Kerr               |
-_|__       player: Heatbeat^CNCD          __|_
- | /_________________________[DCS/GBC/06]_\ |
- '                                          `

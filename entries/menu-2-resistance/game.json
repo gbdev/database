@@ -1,22 +1,22 @@
 {
     "date": "2000-01-01",
-    "developer": "Utopia",
+    "developer": "Resistance",
     "files": [
         {
             "description": "release",
-            "filename": "UTP-T_01.ZIP"
+            "filename": "RSE-T_02.ZIP"
         },
         {
             "default": true,
-            "filename": "utp-t_01.gbc",
+            "filename": "rse-t_02.gbc",
             "playable": true
         }
     ],
     "platform": "GBC",
     "screenshots": [
-        "222.png"
+        "184.png"
     ],
-    "slug": "menu-1-utopia",
-    "title": "Menu #1 (Wings of Fury +2)",
+    "slug": "menu-2-resistance",
+    "title": "Menu #2 (The Jungle Book: Mowgli's Wild Adventure +3)",
     "typetag": "demo"
 }

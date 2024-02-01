@@ -1,22 +1,22 @@
 {
     "date": "2001-01-01",
-    "developer": "Capital",
+    "developer": "High Society",
     "files": [
         {
             "description": "release",
-            "filename": "CPL-I_06.ZIP"
+            "filename": "HS-T_01.ZIP"
         },
         {
             "default": true,
-            "filename": "cpl-i_06.gbc",
+            "filename": "hs-t_01.gbc",
             "playable": true
         }
     ],
     "platform": "GBC",
     "screenshots": [
-        "210.png"
+        "191.png"
     ],
-    "slug": "c64-will-never-die",
-    "title": "C64 will never die (VIP)",
+    "slug": "menu-1-high-society",
+    "title": "Menu #1 (Mr. Nutz)",
     "typetag": "demo"
 }

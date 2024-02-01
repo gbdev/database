@@ -1,7 +1,0 @@
- .-/credits/--------------------------------.
- |          code: Lordee                    |
- |          logo: Crossfade                 |
- |           msx: Cemik                     |
-_|__      player: Heatbeat^CNCD           __|_
- | /___________________________[V/GBC/01]_\ |
- '                                          `

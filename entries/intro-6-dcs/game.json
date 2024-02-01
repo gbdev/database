@@ -1,22 +1,22 @@
 {
     "date": "2001-01-01",
-    "developer": "Capital",
+    "developer": "Dual Crew & Shining",
     "files": [
         {
             "description": "release",
-            "filename": "CPL-I_06.ZIP"
+            "filename": "DCS-I_06.ZIP"
         },
         {
             "default": true,
-            "filename": "cpl-i_06.gbc",
+            "filename": "dcs-i_06.gbc",
             "playable": true
         }
     ],
     "platform": "GBC",
     "screenshots": [
-        "210.png"
+        "199.png"
     ],
-    "slug": "c64-will-never-die",
-    "title": "C64 will never die (VIP)",
+    "slug": "intro-6-dcs",
+    "title": "Intro #6 (Croc 2)",
     "typetag": "demo"
 }
