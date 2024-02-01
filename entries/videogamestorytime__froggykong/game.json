@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "fGvvQl.png",
+        "teJGoC.png",
+        "tUrAPd.png",
+        "gRKJko.png",
+        "I6FD5u.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platform"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Froggy_Kong_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "VideoGameStoryTime",
+    "title": "Froggy Kong",
+    "date": "2023-09-15",
+    "website": "https://videogamestorytime.itch.io/froggykong",
+    "slug": "videogamestorytime__froggykong"
+}

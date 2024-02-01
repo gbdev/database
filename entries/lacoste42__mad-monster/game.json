@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        "6alJdJ.gif",
+        "U800G2F.gif",
+        "EHqa5T.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Mad_Monster_GB_(WLS).gb",
+            "playable": true
+        }
+    ],
+    "developer": "Rajcs\u00c3\u00a1nyi L\u00c3\u00a1szl\u00c3\u00b3 (WLS)",
+    "title": "Mad Monster",
+    "date": "2023-09-15",
+    "website": "https://lacoste42.itch.io/mad-monster",
+    "slug": "lacoste42__mad-monster"
+}

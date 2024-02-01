@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "CUrwld.png",
+        "OLR0Jz.png",
+        "SKt6k2F.png",
+        "LuAXFt.png",
+        "K0D0JJ.png",
+        "PU4ZhO.png",
+        "3CiCiE.png",
+        "M4UNv3.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure",
+        "RPG"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "moki007_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Sleeping Panda",
+    "title": "Moki, the Monster Kid - GBCompo23",
+    "date": "2023-09-15",
+    "website": "https://sleepingpandagames.itch.io/moki-the-monster-kid",
+    "slug": "sleepingpandagames__moki-the-monster-kid"
+}

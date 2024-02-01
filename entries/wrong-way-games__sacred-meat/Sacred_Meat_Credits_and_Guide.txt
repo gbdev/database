@@ -1,0 +1,49 @@
+"Old man head scan" (https://skfb.ly/ov7ZJ) by yaro.pro is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Item gathing noise: https://freesound.org/people/NicknameLarry/sounds/511216/
+
+Ba dum tsh: https://freesound.org/people/paththeir/sounds/196196/
+
+Notebook background from the pause menu: 2BitCrook
+
+Rocks and Walls in Scoprion Running Sequence: https://baddesignbryan.itch.io/gameboy-tilesets
+
+Character Sprite for Scorpion Running Sequence: https://dan-velasquez-art.itch.io/
+
+Ambient Cave Noise: Beatscribe
+
+Various royalty free photos from Pixabay were also used as references or directly converted for use with the gameboy as well.
+
+Special thanks to Pearacidic for the coding help, as well as playtesting the game to help me find bugs. Thanks to Digital Dragon as well for helping me find bugs. Thank you to Beatscribe, Dan Velasquez, and Baddesignbryan for making your assets available for purchase! I recommend you take a look if you're a fellow gamedev. 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Spoiler Free Walkthrough:
+
+Day 1: Your objectives are to get the notebook to activate the checklist menu, get Papa's pills, insulin, and some eggs to make breakfast. First, pick up the notebook from the bookshelf in the living room using the hand. Then, go upstairs and follow the path in the left corner of the room to enter the upstairs hallway. Go into the bathroom on the right, and use the magnifying glass on the medicine cabinet. The pills are on the right. then, go back to the upstairs loft area, and go into the door on the left. This is Jonah's room. Turn off the lights and examine the map on the wall to get a hint on how to solve the next puzzle. Next, go downstairs and use the speech bubble on Papa to get another hint. Go into the kitchen to the right and find a padlock on the door of the cabinet. Use the hints from before to solve. Once it's open, grab the box and examine it in the inventory menu to open it and get the Shot item. Finally, check the fridge to find the eggs and use the eggs on the stove to start the egg mini-game. Once this is all done, you can use the hand on Papa in the living room to check his blood sugar, then you can use the pills and the shot to complete those tasks. Optionally, you can check the fireplace for a key. The next time you pause, the game should say you completed the tasks and move to night 1. Congrats!
+
+Night 1: If you got the Key from day 1, you can use it on the spandrel here, though you can't see inside just yet. Otherwise, your only task is to go upstairs, follow the path in the left corner of the room, and enter the door on the left to find Papa in his room. This will trigger an event and go to a nightmare, then Day 2. However, you can explore around in Night 1 to find some optional spooky events that help decide if you get the hidden scene at the end of the game or not. Hint: in the nightmare, inaction is also a choice.
+
+Day 2: Your task for the day is similar to Day 1. You have to use the Pills and Shot on Papa, but first you have to find a way past his locked door. To find the key, you need to interact with the aloe plant on the second floor loft area, and see that it is swarmed with ants. Go into the bathroom and use the hand on the sink to look in the drawers. Examine the bottle to get the Alcohol item. Use it on the plant to kill the ants, then use the magnifying glass to get the key. Use the key to open Papa's door. You can also go downstairs to get the Met item just like you did the eggs, and use the meat on the stove to cook it for Papa. Once all the objectives are complete, the game will move to Night 2 the next time you pause. If you used the key in the previous night, you can check it to get the Doll item. 
+
+Night 2: You will see Papa standing in front of the spandrel. Your objective is to go into the bathroom and check the shower to see blood in the bath, which will have the game prompt you to ask Papa what's happening. He will be gone from the room, but if you check the spandrel you'll get the ending event for the night. 
+
+Day 3: Your objective is to find Jonah's phone in his room, and check on Papa. If you check his blood sugar before calling his doctor, you will be set on one ending track, and if you don't check his blood sugar and go to the kitchen to find food, you will be set on a different ending path. Not checking his blood sugar is also how you begin to access the hidden scene at the end of the game. 
+
+Night 3: If Papa is overly negative, you did not check his blood sugar. If he is forgiving, you checked his blood sugar first before calling for help. Speak to him in every room, then go to his room to get the final event. If you saw at least 4 paranormal events in the game, you will get the hidden scene. This requires some luck and exploration, as some of the paranormal events are chance based. Checking the mirror, for example, has a chance of having eyes looking at you, but it doesn't happen every time. If you get the ending where he is positive, the hidden scene will not play. 
+
+Congrats on finishing the game! Try again for the other ending and the hidden scene if you didn't get it. 
+
+Optional Paranormal Events:
+
+1. Examine the egg in the inventory until you see a pentagram on the egg, and then look at it.
+2. Check the painting on Night 2. If you see teeth on the man, you got it.
+3. Check the toilet in the bathoom on Night 1 or 2. If you see blood, you got it.
+4. Check the mirror on Day 1. If you see eyes, you got it.
+5. Check the fridge on night 2. If you see meat, you got it.
+6. If you pull the teeth in the nightmare, you get a point.
+
+If you get 4 of these and don't check Papa's blood sugar on Day 3, you'll get the hidden scene.
+
+

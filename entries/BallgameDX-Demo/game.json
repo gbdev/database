@@ -1,5 +1,4 @@
 {
-    "description": "",
     "developer": "Dark Fader",
     "files": [
         {
@@ -19,5 +18,6 @@
     ],
     "slug": "BallgameDX-Demo",
     "title": "BallgameDX Demo",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Arcade", "event:bung-1st-coding-compo"]
 }

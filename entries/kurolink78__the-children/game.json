@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "S2BZyZe.png",
+        "pePmdw.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
+    "developer": {
+        "Kurolink78": "https://kurolink78.itch.io",
+        "SubterraneanExhibit": "https://subterraneanexhibit.itch.io"
+    },
+    "title": "The Children",
+    "date": "2023-09-15",
+    "website": "https://kurolink78.itch.io/the-children",
+    "slug": "kurolink78__the-children"
+}

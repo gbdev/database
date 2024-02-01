@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "3rd place at Bung 1st Coding Compo",
     "developer": "R.H. Gough",
     "files": [
         {
@@ -19,5 +19,6 @@
     ],
     "slug": "Coffee-Drop",
     "title": "Coffee Drop",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Arcade", "event:bung-1st-coding-compo"]
 }

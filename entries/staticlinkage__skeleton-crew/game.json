@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "nOFqcC.png",
+        "IGoLCZ.png",
+        "EAS2FWJ.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/chrislewisdev/skeleton-crew",
+    "tags": [
+        "event:gbcompo23",
+        "RPG"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "skeletoncrew_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "staticlinkage",
+    "title": "Skeleton Crew",
+    "date": "2023-09-15",
+    "website": "https://staticlinkage.itch.io/skeleton-crew",
+    "slug": "staticlinkage__skeleton-crew"
+}

@@ -19,5 +19,6 @@
     ],
     "slug": "Jet-Set-Willy",
     "title": "Jet Set Willy",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Arcade", "event:bung-1st-coding-compo"]
 }

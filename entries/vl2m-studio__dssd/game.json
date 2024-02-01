@@ -1,0 +1,26 @@
+{
+    "screenshots": [
+        "FuzK8o.gif",
+        "F8EwIK.png",
+        "3zA9DU.png",
+        "3ST6xO.png",
+        "bdtHy3.png",
+        "CewYve.png"
+    ],
+    "typetag": "demo",
+    "tags": [
+        "event:gbcompo23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "DSSD_JAM.gb",
+            "playable": true
+        }
+    ],
+    "developer": "VL2M STUDIO",
+    "title": "Did Somebody Say Demo?",
+    "date": "2023-09-15",
+    "website": "https://vl2m-studio.itch.io/dssd",
+    "slug": "vl2m-studio__dssd"
+}

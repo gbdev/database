@@ -1,0 +1,19 @@
+{
+    "screenshots": [],
+    "typetag": "music",
+    "tags": [
+        "event:gbcompo23"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "The_Infernodome!.gb",
+            "playable": true
+        }
+    ],
+    "developer": "EmperorJub",
+    "title": "The Infernodome - Original GB Song ROM!",
+    "date": "2023-09-15",
+    "website": "https://emperorjub.itch.io/infernodome-song-rom",
+    "slug": "emperorjub__infernodome-song-rom"
+}

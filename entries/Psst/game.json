@@ -19,5 +19,6 @@
     ],
     "slug": "Psst",
     "title": "Psst",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-1st-coding-compo"]
 }

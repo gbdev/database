@@ -1,0 +1,19 @@
+{
+    "date": "2001-01-01",
+    "developer": "Matt Stainton",
+    "files": [
+        {
+            "default": true,
+            "filename": "Channel49-firststrike.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "firststrike.png"
+    ],
+    "slug": "channel-49-first-strike",
+    "tags": ["event:freedom-2001-gameboy-developers-competition"],
+    "title": "Channel 49 - First Strike",
+    "typetag": "music"
+}

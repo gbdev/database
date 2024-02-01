@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "qzN5CF.png",
+        "8Bk2Fac.gif",
+        "mhH0Ei.gif",
+        "nlazkR.gif",
+        "LAFxPr.gif",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Action"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Bomb_Runner_1-2_GBC_(WLS).gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Rajcs\u00c3\u00a1nyi L\u00c3\u00a1szl\u00c3\u00b3 (WLS)",
+    "title": "Bomb Runner 1-2",
+    "date": "2023-09-15",
+    "website": "https://lacoste42.itch.io/bomb-runner-1-2",
+    "slug": "lacoste42__bomb-runner-1-2"
+}

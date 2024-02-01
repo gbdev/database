@@ -1,0 +1,32 @@
+{
+    "screenshots": [
+        "2Fu0Zjm.png",
+        "1SivGi.png",
+        "VodZhK.png",
+        "JVDReG.png",
+        "Dqdg6F.png",
+        "puQ2F8b.png",
+        "cLyyMg.png",
+        "GEjy7C.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/SpaceTimeWarrior/temporal-light-Jem-of-Twilight",
+    "tags": [
+        "event:gbcompo23",
+        "RPG",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "Temporal_Light-Jem_of_twilight-updated.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "TimeSpaceWarrior",
+    "title": "Temporal Light-Jem of Twilight gamejam demo",
+    "date": "2023-09-15",
+    "website": "https://timespacewarrior.itch.io/temporal-light-jem-of-twilight",
+    "slug": "timespacewarrior__temporal-light-jem-of-twilight"
+}

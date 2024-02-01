@@ -1,0 +1,41 @@
+{
+    "screenshots": [
+        "VUi5tD.jpg",
+        "cFH5w2F.jpg",
+        "2FllH7T.jpg",
+        "BRW3V2.jpg",
+        "MyusMO.jpg",
+        "f4l2Bj6.jpg",
+        "6R0Eaw.jpg",
+        "fCKYAH.jpg",
+        "y1430C.jpg",
+        "tZ5Wck.jpg",
+        "sGpZ6z.jpg",
+        "Beds2Fr.jpg",
+        "SX8moK.jpg",
+        "2o32B14.jpg",
+        "AiUUcc.jpg",
+        "A2FqGXF.jpg",
+        "EgQ8xv.jpg",
+        "czTGEM.jpg",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "repository": "https://github.com/djarky/Keychan/",
+    "tags": [
+        "event:gbcompo23",
+        "Platform"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "keychan_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Arky750",
+    "title": "keychan",
+    "date": "2023-09-15",
+    "website": "https://djarky.itch.io/keychan",
+    "slug": "djarky__keychan"
+}

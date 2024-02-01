@@ -1,0 +1,28 @@
+{
+    "screenshots": [
+        "IcNsLF.png",
+        "UowZRj.png",
+        "8Gxub0.png",
+        "crRD0k.png",
+        "3Ql2Dx.png",
+        "5UZwce.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Puzzle"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TVchanGB_Jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "nykTV",
+    "title": "TV-Chan's Great Escape!: GB",
+    "date": "2023-09-15",
+    "website": "https://nyktv.itch.io/tv-chans-great-escape-gb",
+    "slug": "nyktv__tv-chans-great-escape-gb"
+}

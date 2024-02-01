@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "OClTy2.png",
+        "a8ES4E.png",
+        "yZSAS2F.png",
+        "TM6qsP.png",
+        "jOeAi2F.png",
+        "K3hhy4.png",
+        "sxcZ6l.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "TIGERTALE_NoColor.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Kristian David",
+    "title": "Tigertale",
+    "date": "2023-09-15",
+    "website": "https://kristiandvd.itch.io/tigertale",
+    "slug": "kristiandvd__tigertale"
+}

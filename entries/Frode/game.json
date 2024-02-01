@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "1st place at Bung 1st Coding compo",
     "developer": "Mikael Andersson",
     "files": [
         {
@@ -19,5 +19,6 @@
     ],
     "slug": "Frode",
     "title": "Frode",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Arcade", "event:bung-1st-coding-compo"]
 }

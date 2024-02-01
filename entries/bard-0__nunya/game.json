@@ -1,0 +1,29 @@
+{
+    "screenshots": [
+        "2FcqhQd.png",
+        "hs9Q7x.png",
+        "IqEGs5.png",
+        "hLZIkW.png",
+        "x4e9uU.png",
+        "8Z3nuC.png",
+        "CTJvq2.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Platform"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "NUNYA.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Bard",
+    "title": "NUNYA(demo)",
+    "date": "2023-09-15",
+    "website": "https://bard-0.itch.io/nunya",
+    "slug": "bard-0__nunya"
+}

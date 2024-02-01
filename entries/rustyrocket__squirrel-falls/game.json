@@ -1,0 +1,27 @@
+{
+    "screenshots": [
+        "3jrG2Fl.png",
+        "QHj7TP.png",
+        "0elkhQ.png",
+        "V6yY61.png",
+        "0SHcCz.png",
+        "cover.png"
+    ],
+    "typetag": "game",
+    "tags": [
+        "event:gbcompo23",
+        "Adventure"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "SquirrelFalls.gb",
+            "playable": true
+        }
+    ],
+    "developer": "RustyRocket",
+    "title": "Squirrel Falls",
+    "date": "2023-09-15",
+    "website": "https://rustyrocket.itch.io/squirrel-falls",
+    "slug": "rustyrocket__squirrel-falls"
+}
