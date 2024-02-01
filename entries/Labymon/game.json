@@ -1,5 +1,5 @@
 {
-    "description": "Labymon is a maze kind of game. But just not a maze game were you have to go from start to end and hen next level. But not this game. You will have to use your wits to find out secret passages, collect items, go through doors, warp to different places on the map, and more! Also, it will make you go crazy trying to guess your way out of some of the mazes :). In some mazes, there will be spaces that will look like you can pass through. You try to go through, but boom! You find out you can’t pass through that space. There will also be secret passages you will need to keep a look out for, like spaces that look like walls, but really, some you can just pass  right through, like a blank space. Like MAGIC, huh (ya right)! Like I said, some mazes will keep you puzzled for a while, so hang in there.",
+    "description": "Laby'mon is a maze kind of game. But just not a maze game were you have to go from start to end and hen next level. But not this game. You will have to use your wits to find out secret passages, collect items, go through doors, warp to different places on the map, and more! Also, it will make you go crazy trying to guess your way out of some of the mazes :). In some mazes, there will be spaces that will look like you can pass through. You try to go through, but boom! You find out you can’t pass through that space. There will also be secret passages you will need to keep a look out for, like spaces that look like walls, but really, some you can just pass  right through, like a blank space. Like MAGIC, huh (ya right)! Like I said, some mazes will keep you puzzled for a while, so hang in there.",
     "developer": "Joseph Norman",
     "files": [
         {
@@ -18,7 +18,7 @@
         "20110402_labymon.png"
     ],
     "slug": "Labymon",
-    "title": "Labymon",
+    "title": "Laby'mon",
     "typetag": "game",
     "tags": ["Adventure", "event:bung-3rd-coding-compo"]
 }
