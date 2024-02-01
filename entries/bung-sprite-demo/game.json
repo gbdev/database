@@ -1,0 +1,24 @@
+{
+    "date": "1999-02-10",
+    "description": "Gameboy Color format demo program with sprite effect. Press the control pad to move the background and the 'Start' button to stop it.",
+    "developer": "Bung Enterprises",
+    "files": [
+        {
+            "default": true,
+            "filename": "sprite.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "bungrite.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "sprite-0.png"
+    ],
+    "slug": "bung-sprite-demo",
+    "title": "Bung Sprite Demo",
+    "typetag": "demo",
+    "website": "http://www.bung.com.hk/support/download.htm"
+}
