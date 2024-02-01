@@ -3,8 +3,12 @@
     "files": [
         {
             "default": true,
-            "filename": "falldown.cgb",
+            "filename": "falldown.gb",
             "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "falldown.zip"
         }
     ],
     "platform": "GBC",
