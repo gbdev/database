@@ -1,13 +1,18 @@
 {
+    "date": "2000-01-19",
     "developer": "Unknown",
     "files": [
         {
             "default": true,
             "filename": "Mygame.gb",
             "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "mygame.zip"
         }
     ],
-    "platform": "GB",
+    "platform": "GBC",
     "rom": "Mygame.gb",
     "screenshots": [
         "Mygame-0.png"
