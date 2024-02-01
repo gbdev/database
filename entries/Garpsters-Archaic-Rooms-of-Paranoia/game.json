@@ -4,10 +4,15 @@
     "files": [
         {
             "description": "release",
-            "filename": "Garpsters_Archaic_Rooms_of_Paranoia__(Gameboy).gb"
+            "filename": "garp.zip",
+        },
+        {
+            "default": true,
+            "filename": "GARP.GBC",
+            "playable": true
         }
     ],
-    "platform": "GB",
+    "platform": "GBC",
     "screenshots": [
         "20110402_garpsters_archaic_rooms_of_paranoia.png"
     ],
