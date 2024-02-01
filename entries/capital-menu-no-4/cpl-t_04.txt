@@ -1,6 +1,0 @@
- .-/credits/--------------------------------.
- |          code: Wayne Kerr                |
- |          logo: Twoflower                 |
-_|__        font: from "X-Copy"           __|_
- | /_________________________[CPL/GBC/08]_\ |
- '                                          `

@@ -1,10 +1,10 @@
 {
-    "description": "",
-    "developer": "Freeman",
+    "date": "2001-01-01",
+    "developer": "Freeart",
     "files": [
         {
             "description": "release",
-            "filename": "Freeart_Intro_v1__(Gameboy).ZIP"
+            "filename": "FA-V1.ZIP"
         },
         {
             "default": true,
@@ -13,11 +13,10 @@
         }
     ],
     "platform": "GBC",
-    "rom": "FREEART Intro V1.gbc",
     "screenshots": [
-        "20110402_freeart_intro_v1.gif"
+        "218.png"
     ],
-    "slug": "Freeart-Intro-v1",
-    "title": "Freeart Intro v1",
+    "slug": "freeart-intro-v1",
+    "title": "Intro v1",
     "typetag": "demo"
 }
