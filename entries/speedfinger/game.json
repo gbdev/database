@@ -1,19 +1,19 @@
 {
-    "developer": "Gambit Studios",
+    "developer": "Ville Jarvi",
     "files": [
         {
             "default": true,
-            "filename": "starfisher.gb",
+            "filename": "Speed Finger.gb",
             "playable": true
         }
     ],
     "platform": "GB",
-    "repository": "",
+    "rom": "Speed Finger.gb",
     "screenshots": [
-        "starfisher.png"
+        "Speed Finger-0.png"
     ],
-    "slug": "starfisher",
-    "title": "Starfisher",
+    "slug": "speedfinger",
+    "title": "Speed Finger",
     "typetag": "game",
     "tags": ["event:bung-2nd-coding-compo"]
 }

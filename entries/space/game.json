@@ -1,19 +1,17 @@
 {
-    "date": "1999-10-03",
-    "developer": "Karin Horberg",
     "files": [
         {
             "default": true,
-            "filename": "Apple Demo (PD).gb",
+            "filename": "space.gb",
             "playable": true
         }
     ],
     "platform": "GBC",
     "screenshots": [
-        "Apple Demo (PD).png"
+        "space-0.png"
     ],
-    "slug": "apple-demo",
-    "title": "Apple",
+    "slug": "space",
+    "title": "Space",
     "typetag": "game",
     "tags": ["event:bung-2nd-coding-compo"]
 }

@@ -1,0 +1,19 @@
+{
+    "developer": "Bertil Hörberg",
+    "files": [
+        {
+            "default": true,
+            "filename": "The Horrible Demon.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "The Horrible Demon.gb",
+    "screenshots": [
+        "The Horrible Demon-0.png"
+    ],
+    "slug": "The-Horrible-Demon",
+    "title": "The Horrible Demon",
+    "typetag": "game",
+    "tags": ["Adventure", "event:bung-2nd-coding-compo"]
+}
