@@ -18,6 +18,7 @@
         "20110402_tetra_blox_2000.png"
     ],
     "slug": "Tetra-Blox-2000",
-    "title": "Tetra Blox 2000",
-    "typetag": "game"
+    "title": "TetraBlox 2000",
+    "typetag": "game",
+    "tags": ["Puzzle", "event:bung-2nd-coding-compo"]
 }

@@ -19,5 +19,6 @@
     ],
     "slug": "Water-Basketball",
     "title": "Water Basketball",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-2nd-coding-compo"]
 }

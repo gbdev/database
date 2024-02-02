@@ -19,5 +19,6 @@
     ],
     "slug": "Blobz",
     "title": "Blobz",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Puzzle", "event:bung-2nd-coding-compo"]
 }
