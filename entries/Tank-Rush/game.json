@@ -19,5 +19,6 @@
     ],
     "slug": "Tank-Rush",
     "title": "Tank Rush",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
 }

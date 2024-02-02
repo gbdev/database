@@ -19,5 +19,6 @@
     ],
     "slug": "Combat-Soccer",
     "title": "Combat Soccer",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
 }

@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "Aim to destroy other enemies and proceed to the victory",
     "developer": "Pawel Labojko, Black Box, Guiseppe Musardo, Jukka-Pekka, Luukkonen",
     "files": [
         {
@@ -19,5 +19,6 @@
     ],
     "slug": "Apache",
     "title": "Apache",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-3rd-coding-compo"]
 }

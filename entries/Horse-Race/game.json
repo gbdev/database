@@ -19,5 +19,6 @@
     ],
     "slug": "Horse-Race",
     "title": "Horse Race",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
 }

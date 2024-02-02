@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "CubeRaider is a puzzle game in which Tara Loft (a play on the famous protagonist Lara Croft) must collect white cubes within an isometric 3D game board.",
     "developer": "Dark Fader, Black Thunder",
     "files": [
         {
@@ -19,5 +19,6 @@
     ],
     "slug": "Cube-Raider",
     "title": "Cube Raider",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Platform", "event:bung-3rd-coding-compo"]
 }

@@ -18,6 +18,7 @@
         "20110402_noahs_arkaid.png"
     ],
     "slug": "noahs-arkaid",
-    "title": "Noah’s Arkaid",
-    "typetag": "game"
+    "title": "Noah's Arkaid",
+    "typetag": "game",
+    "tags": ["Adventure", "event:bung-3rd-coding-compo"]
 }

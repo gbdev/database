@@ -19,5 +19,6 @@
     ],
     "slug": "Car",
     "title": "Car",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Racing", "event:bung-3rd-coding-compo"]
 }

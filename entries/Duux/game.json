@@ -19,5 +19,7 @@
     ],
     "slug": "Duux",
     "title": "Duux",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Adventure", "event:bung-3rd-coding-compo"]
+
 }

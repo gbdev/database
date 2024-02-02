@@ -19,5 +19,6 @@
     ],
     "slug": "Block-Badger",
     "title": "Block Badger",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Adventure", "event:bung-2nd-coding-compo"]
 }

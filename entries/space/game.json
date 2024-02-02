@@ -1,0 +1,17 @@
+{
+    "files": [
+        {
+            "default": true,
+            "filename": "space.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "space-0.png"
+    ],
+    "slug": "space",
+    "title": "Space",
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
+}

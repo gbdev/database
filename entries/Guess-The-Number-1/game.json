@@ -19,5 +19,6 @@
     ],
     "slug": "Guess-The-Number-1",
     "title": "Guess The Number 1",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["event:bung-2nd-coding-compo"]
 }

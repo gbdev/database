@@ -1,0 +1,24 @@
+{
+    "date": "2000-01-19",
+    "developer": "Unknown",
+    "files": [
+        {
+            "default": true,
+            "filename": "Mygame.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "mygame.zip"
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Mygame.gb",
+    "screenshots": [
+        "Mygame-0.png"
+    ],
+    "slug": "mygame",
+    "title": "Mygame",
+    "typetag": "game",
+    "tags": ["Adventure", "event:bung-3rd-coding-compo"]
+}

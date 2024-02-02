@@ -18,6 +18,7 @@
         "20110402_margo.png"
     ],
     "slug": "Margo",
-    "title": "Margo",
-    "typetag": "game"
+    "title": "Margo Puzzle",
+    "typetag": "game",
+    "tags": ["Puzzle", "event:bung-2nd-coding-compo"]
 }

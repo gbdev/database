@@ -19,5 +19,6 @@
     ],
     "slug": "Alpha-Wing",
     "title": "Alpha Wing",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-3rd-coding-compo"]
 }
