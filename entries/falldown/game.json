@@ -3,8 +3,12 @@
     "files": [
         {
             "default": true,
-            "filename": "falldown.cgb",
+            "filename": "falldown.gb",
             "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "falldown.zip"
         }
     ],
     "platform": "GBC",
@@ -14,5 +18,6 @@
     ],
     "slug": "falldown",
     "title": "Falldown",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-3rd-coding-compo"]
 }

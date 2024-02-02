@@ -1,25 +1,24 @@
 {
-    "description": "",
+    "date": "2000-01-19",
     "developer": "Unknown",
     "files": [
         {
-            "description": "release",
-            "filename": "Duux__(Gameboy).zip"
+            "default": true,
+            "filename": "Mygame.gb",
+            "playable": true
         },
         {
-            "default": true,
-            "filename": "Duux.cgb",
-            "playable": true
+            "description": "release",
+            "filename": "mygame.zip"
         }
     ],
     "platform": "GBC",
-    "rom": "Duux.cgb",
+    "rom": "Mygame.gb",
     "screenshots": [
-        "20110402_duux.png"
+        "Mygame-0.png"
     ],
-    "slug": "Duux",
-    "title": "Duux",
+    "slug": "mygame",
+    "title": "Mygame",
     "typetag": "game",
     "tags": ["Adventure", "event:bung-3rd-coding-compo"]
-
 }

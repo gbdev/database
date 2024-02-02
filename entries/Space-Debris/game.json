@@ -19,5 +19,6 @@
     ],
     "slug": "Space-Debris",
     "title": "Space Debris",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Action", "event:bung-3rd-coding-compo"]
 }

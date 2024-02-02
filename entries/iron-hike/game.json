@@ -18,5 +18,6 @@
     ],
     "slug": "iron-hike",
     "title": "Iron Hike",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Platform", "event:bung-3rd-coding-compo"]
 }

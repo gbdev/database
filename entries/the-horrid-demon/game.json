@@ -1,0 +1,20 @@
+{
+    "description": "",
+    "developer": "Bertil Hörberg",
+    "files": [
+        {
+            "default": true,
+            "filename": "Horrid.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Horrid.gb",
+    "screenshots": [
+        "Horrid.png"
+    ],
+    "slug": "the-horrid-demon",
+    "title": "The Horrid Demon",
+    "typetag": "game",
+    "tags": ["Adventure", "event:bung-3rd-coding-compo"]
+}
