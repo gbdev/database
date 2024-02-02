@@ -1,0 +1,22 @@
+{
+    "date": "1999-02-03",
+    "files": [
+        {
+            "default": true,
+            "filename": "TRIVIA.GB",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "trivia.zip"
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "TRIVIA-0.png"
+    ],
+    "slug": "bung-trivia",
+    "title": "Bung Enterprises Limited Product Test",
+    "typetag": "game",
+    "website": "http://www.bung.com.hk/support/download.htm"
+}

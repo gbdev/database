@@ -1,0 +1,22 @@
+{
+    "date": "1999-07-09",
+    "developer": "Beber",
+    "files": [
+        {
+            "default": true,
+            "filename": "beberg.gbc",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "beberg.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "beberg-0.png"
+    ],
+    "slug": "beberg",
+    "title": "Beberg",
+    "typetag": "demo"
+}
