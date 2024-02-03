@@ -1,0 +1,22 @@
+{
+    "date": "2001-01-09",
+    "description": "Partly PC application, but contains Gameboy binaries.",
+    "files": [
+        {
+            "description": "release (v1.2)",
+            "filename": "cncd_editor.zip"
+        },
+        {
+            "default": true,
+            "filename": "carillon.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "carillon.png"
+    ],
+    "slug": "carillon-editor",
+    "title": "Carillon Editor",
+    "typetag": "tool"
+}

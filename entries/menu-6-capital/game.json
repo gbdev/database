@@ -4,19 +4,19 @@
     "files": [
         {
             "description": "release",
-            "filename": "CPL-T_05.ZIP"
+            "filename": "CPL-T_06.ZIP"
         },
         {
             "default": true,
-            "filename": "CPL-T_05.GBC",
+            "filename": "CPL-T_06.GBC",
             "playable": true
         }
     ],
     "platform": "GBC",
     "screenshots": [
-        "278.png"
+        "277.png"
     ],
-    "slug": "menu-5-capital",
-    "title": "Menu #5 (Speedy Gonzales: Aztec Adventure +5)",
+    "slug": "menu-6-capital",
+    "title": "Menu #6 (Papyrus +3)",
     "typetag": "demo"
 }

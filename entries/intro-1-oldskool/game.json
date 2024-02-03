@@ -1,22 +1,22 @@
 {
-    "date": "2002-01-01",
-    "developer": "Capital",
+    "date": "2001-01-01",
+    "developer": "Oldskool",
     "files": [
         {
             "description": "release",
-            "filename": "CPL-I_04.ZIP"
+            "filename": "OS-I_01.ZIP"
         },
         {
             "default": true,
-            "filename": "cpl-i_04.gbc",
+            "filename": "os-i_01.gbc",
             "playable": true
         }
     ],
     "platform": "GBC",
     "screenshots": [
-        "207.png"
+        "190.png"
     ],
-    "slug": "intro-4-capital",
-    "title": "Intro #4 (Monkey Puncher)",
+    "slug": "intro-1-oldskool",
+    "title": "Intro #1 (X-Men Mutant Academy)",
     "typetag": "demo"
 }

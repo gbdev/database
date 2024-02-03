@@ -1,10 +1,10 @@
 {
-    "description": "",
+    "date": "1999-01-01",
     "developer": "Paragon5",
     "files": [
         {
             "description": "release",
-            "filename": "Paragon5_Music_Cart__(Gameboy).ZIP"
+            "filename": "P5-ALBUM.ZIP"
         },
         {
             "default": true,
@@ -13,11 +13,11 @@
         }
     ],
     "platform": "GB",
-    "rom": "P5_ALBUM.GB",
     "screenshots": [
-        "20110402_paragon5_music_cart.gif"
+        "148.png",
+        "149.png"
     ],
     "slug": "Paragon5-Music-Cart",
-    "title": "Paragon5 Music Cart",
+    "title": "Paragon5 Album",
     "typetag": "music"
 }

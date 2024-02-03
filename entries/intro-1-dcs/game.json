@@ -1,22 +1,22 @@
 {
-    "date": "2002-01-01",
-    "developer": "Capital",
+    "date": "2000-01-01",
+    "developer": "Dual Crew & Shining",
     "files": [
         {
             "description": "release",
-            "filename": "CPL-I_04.ZIP"
+            "filename": "DCS-I_01.ZIP"
         },
         {
             "default": true,
-            "filename": "cpl-i_04.gbc",
+            "filename": "dcs-i_01.gbc",
             "playable": true
         }
     ],
     "platform": "GBC",
     "screenshots": [
-        "207.png"
+        "196.png"
     ],
-    "slug": "intro-4-capital",
-    "title": "Intro #4 (Monkey Puncher)",
+    "slug": "intro-1-dcs",
+    "title": "Intro #1 (Metal Gear Solid)",
     "typetag": "demo"
 }

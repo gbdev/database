@@ -3,8 +3,12 @@
     "developer": "Jeff Siebold",
     "files": [
         {
-            "description": "release",
+            "description": "release (v1.02)",
             "filename": "Maze_v1.02_(Gameboy).zip"
+        },
+        {
+            "description": "release (Bung)",
+            "filename": "maze.zip"
         },
         {
             "default": true,
@@ -19,5 +23,6 @@
     ],
     "slug": "maze-v1-02",
     "title": "Maze v1.02",
-    "typetag": "game"
+    "typetag": "game",
+    "tags": ["Puzzle", "event:bung-3rd-coding-compo"]
 }

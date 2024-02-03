@@ -1,5 +1,6 @@
 {
     "date": "2000-10-31",
+    "description": "Hungry are the Dead is a turn-based game. This means that you have a number of moves per turn and then the enemies have a number of moves per turn. This cycle continues until you complete all tasks, are attacked by an enemy, or decide to stop playing.",
     "developer": "Berserker Industries",
     "files": [
         {

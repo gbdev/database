@@ -1,9 +1,0 @@
- .-/credits/--------------------------------.
- |                                          |
- |            code: lai                     |
- |           music: twoflower               |
- |            logo: desert                  |
- |            font: raver                   |
-_|__                                      __|_
- | /_________________________[PHT/GBC/01]_\ |
- '                                          `
