@@ -1,0 +1,25 @@
+{
+    "date": "2022-05-15",
+    "developer": "xenophile",
+    "files": [
+        {
+            "default": true,
+            "filename": "GBColorPicker.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "[166]GameBoyColorPicker.zip"
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "166titlescreen.png",
+        "166screenshot1.png",
+        "166screenshot2.png"
+    ],
+    "slug": "game-boy-color-picker",
+    "title": "Game Boy Color Picker",
+    "typetag": "tool",
+    "website": "https://www.romhacking.net/homebrew/166/"
+}
