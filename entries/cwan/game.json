@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Sabre Wulf",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Cwan__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Cwan.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Cwan.cgb",
+    "screenshots": [
+        "20110402_cwan.png"
+    ],
+    "slug": "cwan",
+    "title": "Cwan",
+    "typetag": "game"
+}

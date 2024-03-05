@@ -1,0 +1,23 @@
+{
+    "description": "Blossom is a meditative Game Boy program by colorful_courier.",
+    "developer": "colorful_courier",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Blossom__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "tu_b_shvat.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "tu_b_shvat.gb",
+    "screenshots": [
+        "20180219_blossom_(gbc_misc).gif"
+    ],
+    "slug": "blossom",
+    "title": "Blossom",
+    "typetag": "game"
+}

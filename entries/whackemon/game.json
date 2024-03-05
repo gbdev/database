@@ -1,0 +1,23 @@
+{
+    "description": "Whackemon is a recreation of my favourite sub-game in Mystical Ninja on the SNES. The idea of the game is to whack the critters that pop up before they disappear. There are 3 game modes, Timed Attack, Persecution and Whackathon, details are given in the game.",
+    "developer": "Decay",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Whackemon__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Whackemon.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Whackemon.gbc",
+    "screenshots": [
+        "20110402_whackemon.png"
+    ],
+    "slug": "whackemon",
+    "title": "Whackemon",
+    "typetag": "game"
+}

@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Johnny13",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Tic-Tac-Toe__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "TicTacToe.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "TicTacToe.GB",
+    "screenshots": [
+        "20110402_tic-tac-toe.png"
+    ],
+    "slug": "tic-tac-toe",
+    "title": "Tic-Tac-Toe",
+    "typetag": "game"
+}

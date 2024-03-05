@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Space_Debris__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "SpaceDebris.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "SpaceDebris.cgb",
+    "screenshots": [
+        "20110402_space_debris.png"
+    ],
+    "slug": "space-debris",
+    "title": "Space Debris",
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:bung-3rd-coding-compo"
+    ]
+}

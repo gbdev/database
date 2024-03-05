@@ -1,0 +1,32 @@
+{
+    "developer": "Oliver Balfour",
+    "files": [
+        {
+            "default": true,
+            "filename": "flooder.gb",
+            "playable": true
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://github.com/Obalfour/Flooder",
+    "screenshots": [
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "slug": "flooder",
+    "tags": [
+        "Puzzle"
+    ],
+    "title": "Flooder",
+    "typetag": "game",
+    "description": "Can you flood the entire screen with a single color in less than 25 moves? Test your wits with this fun puzzle game.",
+    "alias": [
+        "GB flood it",
+        "Ink Spill"
+    ],
+    "gameWebsite": "https://www.ferrantecrafts.com/listing/1173804126/flooder-game-cartridge-for-game-boy",
+    "devWebsite": "https://oli.com.ar/",
+    "onlineplay": true
+}

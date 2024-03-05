@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Steve Jones",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Fatlicks__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Fatlicks.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Fatlicks.cgb",
+    "screenshots": [
+        "20110402_fatlicks.png"
+    ],
+    "slug": "fatlicks",
+    "title": "Fatlicks",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

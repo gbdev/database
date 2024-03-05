@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Same_Or_Not__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "SameOrNot.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "SameOrNot.cgb",
+    "screenshots": [
+        "20110402_same_or_not.gif"
+    ],
+    "slug": "same-or-not",
+    "title": "Same Or Not",
+    "typetag": "game"
+}

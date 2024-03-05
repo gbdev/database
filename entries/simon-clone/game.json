@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Jason",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Simon_Clone__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "SimonClone.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "SimonClone.cgb",
+    "screenshots": [
+        "20110402_simon_clone.png"
+    ],
+    "slug": "simon-clone",
+    "title": "Simon Clone",
+    "typetag": "game"
+}

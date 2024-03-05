@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Ship__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "SHIP.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "SHIP.GB",
+    "screenshots": [
+        "20110402_ship.png"
+    ],
+    "slug": "ship",
+    "title": "Ship",
+    "typetag": "game"
+}

@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Steve Jones",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Pocket_Panic__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "PocketPanic.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "PocketPanic.cgb",
+    "screenshots": [
+        "20110402_pocket_panic.png"
+    ],
+    "slug": "pocket-panic",
+    "title": "Pocket Panic",
+    "typetag": "game"
+}

@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Lawnboy__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "LAWNBOY.GBC",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "LAWNBOY.GBC",
+    "screenshots": [
+        "20110402_lawnboy.png"
+    ],
+    "slug": "lawnboy",
+    "title": "Lawnboy",
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:bung-2nd-coding-compo"
+    ]
+}

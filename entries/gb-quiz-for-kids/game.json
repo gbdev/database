@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Inspeis",
+    "files": [
+        {
+            "description": "release",
+            "filename": "GB-Quiz_For_Kids__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Quiz.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Quiz.gb",
+    "screenshots": [
+        "20110402_gb-quiz_for_kids.png"
+    ],
+    "slug": "gb-quiz-for-kids",
+    "title": "GB-Quiz For Kids",
+    "typetag": "game"
+}

@@ -1,0 +1,23 @@
+{
+    "description": "It’s snake with a different name 🙂",
+    "developer": "Glenn Bussell, Justin Rumpff",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Serpent_Apocalypse__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "SerpentApocalypse.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "SerpentApocalypse.gbc",
+    "screenshots": [
+        "20110402_serpent_apocalypse.png"
+    ],
+    "slug": "serpent-apocalypse",
+    "title": "Serpent Apocalypse",
+    "typetag": "game"
+}

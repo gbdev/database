@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Anders Granlund",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Breakout_Demo__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "BreakoutDemo .cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "BreakoutDemo .cgb",
+    "screenshots": [
+        "20110402_breakout_demo.png"
+    ],
+    "slug": "breakout-demo",
+    "title": "Breakout Demo",
+    "typetag": "game"
+}

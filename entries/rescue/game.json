@@ -1,0 +1,23 @@
+{
+    "description": "Don’t shot, don’t kill, don’t eat –  rescue  😉",
+    "developer": "Dox",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Rescue__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "rescue.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "rescue.gbc",
+    "screenshots": [
+        "20110402_rescue.png"
+    ],
+    "slug": "rescue",
+    "title": "Rescue",
+    "typetag": "game"
+}

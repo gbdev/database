@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Jason Stern",
+    "files": [
+        {
+            "description": "release",
+            "filename": "The_Downward_Spiral__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "TheDownwardSpiral.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "TheDownwardSpiral.cgb",
+    "screenshots": [
+        "20110402_the_downward_spiral.png"
+    ],
+    "slug": "the-downward-spiral",
+    "title": "The Downward Spiral",
+    "typetag": "game",
+    "tags": [
+        "event:bung-3rd-coding-compo"
+    ]
+}

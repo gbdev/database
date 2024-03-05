@@ -1,0 +1,23 @@
+{
+    "description": "This GBC game is based upon a 1987’s(?) idea of Stefan Nowak. You must destroy all sattelites in each level with the gun of your starship, but the brakes of your starship are broken. D’oh ! So you also have to keep track of and avoid all the obstacles in the levels.",
+    "developer": "Chris Nowak, Stefan Nowak",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Space_Mission_DX__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "SpaceMissionDX.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "SpaceMissionDX.gbc",
+    "screenshots": [
+        "20110402_space_mission_dx.png"
+    ],
+    "slug": "space-mission-dx",
+    "title": "Space Mission DX",
+    "typetag": "game"
+}

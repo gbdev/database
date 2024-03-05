@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "Aaron St.John",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Skistyle__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Skistyle.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Skistyle.cgb",
+    "screenshots": [
+        "20110402_skistyle.png"
+    ],
+    "slug": "skistyle",
+    "title": "Skistyle",
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:bung-2nd-coding-compo"
+    ]
+}

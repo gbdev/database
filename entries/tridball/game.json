@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Aaron St. John",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Tridball__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Tridball.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Tridball.gbc",
+    "screenshots": [
+        "20110402_tridball.png"
+    ],
+    "slug": "tridball",
+    "title": "Tridball",
+    "typetag": "game"
+}

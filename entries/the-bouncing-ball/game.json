@@ -1,0 +1,23 @@
+{
+    "description": "Guide your bouncing balls around obstacles or try to avoid them at all. There are really plenty of levels, which makes this game outstanding. Coded by HuCABBAGE for GB Jam 4.",
+    "developer": "HuCABBAGE",
+    "files": [
+        {
+            "description": "release",
+            "filename": "The_Bouncing_Ball_v0.1.0_(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "THEBOUNCINGBALL.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "THEBOUNCINGBALL.GB",
+    "screenshots": [
+        "20151112_the_bouncing_ball_(17-08-2015)_(gb_game).png"
+    ],
+    "slug": "the-bouncing-ball",
+    "title": "The Bouncing Ball",
+    "typetag": "game"
+}

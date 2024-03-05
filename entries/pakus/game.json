@@ -1,0 +1,26 @@
+{
+    "description": "Control Pakus character throughout several mazes collecting dots and bonus fruits. Avoid enemy ghosts trying to catch you. Find power dots to hunt ghosts. Take the opportunity to score extra points during challanging stages.",
+    "developer": "Pawel Labojko",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Pakus__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "PAKUS.GBC",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "PAKUS.GBC",
+    "screenshots": [
+        "20110402_pakus.png"
+    ],
+    "slug": "pakus",
+    "title": "Pakus",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

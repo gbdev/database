@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Stephen Stair",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Mineshweeper__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "minewin.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "minewin.gbc",
+    "screenshots": [
+        "20110402_mineshweeper.png"
+    ],
+    "slug": "mineshweeper",
+    "title": "Mineshweeper",
+    "typetag": "game"
+}

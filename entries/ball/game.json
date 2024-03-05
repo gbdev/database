@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Tomasz Slanina",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Ball__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "BALL.GBC",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "BALL.GBC",
+    "screenshots": [
+        "20110402_ball.png"
+    ],
+    "slug": "ball",
+    "title": "Ball",
+    "typetag": "game",
+    "tags": [
+        "event:bung-3rd-coding-compo"
+    ]
+}

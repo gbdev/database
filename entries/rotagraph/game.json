@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Rotagraph__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Rotagraph.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Rotagraph.cgb",
+    "screenshots": [
+        "20110402_rotagraph.png"
+    ],
+    "slug": "rotagraph",
+    "title": "Rotagraph",
+    "typetag": "game"
+}

@@ -1,0 +1,33 @@
+{
+    "date": "2000-04-01",
+    "description": "",
+    "developer": "Will Cotton",
+    "files": [
+        {
+            "description": "release",
+            "filename": "slugs.zip"
+        },
+        {
+            "description": "release (may 2000)",
+            "filename": "slugs_old.zip"
+        },
+        {
+            "default": true,
+            "filename": "Slugs.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Slugs.cgb",
+    "screenshots": [
+        "20110402_slugs.png"
+    ],
+    "slug": "slugs",
+    "title": "Slugs",
+    "tags": [
+        "Action",
+        "Adventure",
+        "event:liksang2000-compo"
+    ],
+    "typetag": "game"
+}

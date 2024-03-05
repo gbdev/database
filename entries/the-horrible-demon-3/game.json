@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Bertil Hörberg",
+    "files": [
+        {
+            "description": "release",
+            "filename": "The_Horrible_Demon_3__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "TheHorribleDemon3.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "TheHorribleDemon3.gbc",
+    "screenshots": [
+        "20110402_the_horrible_demon_3.png"
+    ],
+    "slug": "the-horrible-demon-3",
+    "title": "The Horrible Demon 3",
+    "typetag": "game"
+}

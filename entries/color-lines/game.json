@@ -1,0 +1,27 @@
+{
+    "description": "This game is very popular in eastern Europe and especially Russia.",
+    "developer": "cosmigo",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Color_Lines__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "ColorLines.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "ColorLines.cgb",
+    "screenshots": [
+        "20110402_color_lines.png"
+    ],
+    "slug": "color-lines",
+    "title": "Color Lines",
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:bung-2nd-coding-compo"
+    ]
+}

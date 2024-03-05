@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Joseph Norman",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Amingos_Wild_Journey__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "AmingosWildJourney.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "AmingosWildJourney.gbc",
+    "screenshots": [
+        "20110402_amingos_wild_journey.png"
+    ],
+    "slug": "amingos-wild-journey",
+    "title": "Amingos Wild Journey",
+    "typetag": "game"
+}

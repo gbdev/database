@@ -1,0 +1,27 @@
+{
+    "description": "Aim to destroy other enemies and proceed to the victory",
+    "developer": "Pawel Labojko, Black Box, Guiseppe Musardo, Jukka-Pekka, Luukkonen",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Apache__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Apache.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Apache.cgb",
+    "screenshots": [
+        "20110402_apache.png"
+    ],
+    "slug": "apache",
+    "title": "Apache",
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:bung-3rd-coding-compo"
+    ]
+}

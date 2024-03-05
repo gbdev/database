@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Denis Rosset",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Space_Duel__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "SpaceDuel.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "SpaceDuel.cgb",
+    "screenshots": [
+        "20110402_space_duel.png"
+    ],
+    "slug": "space-duel",
+    "title": "Space Duel",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

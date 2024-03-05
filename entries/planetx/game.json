@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "Shane Horner",
+    "files": [
+        {
+            "description": "release",
+            "filename": "PlanetX__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "PlanetX.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "PlanetX.cgb",
+    "screenshots": [
+        "20110402_planetx.png"
+    ],
+    "slug": "planetx",
+    "title": "PlanetX",
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:bung-2nd-coding-compo"
+    ]
+}

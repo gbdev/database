@@ -1,0 +1,27 @@
+{
+    "description": "1st place at Bung 1st Coding compo",
+    "developer": "Mikael Andersson",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Frode__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Frode.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Frode.cgb",
+    "screenshots": [
+        "20110402_frode.png"
+    ],
+    "slug": "frode",
+    "title": "Frode",
+    "typetag": "game",
+    "tags": [
+        "Arcade",
+        "event:bung-1st-coding-compo"
+    ]
+}

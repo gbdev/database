@@ -1,0 +1,26 @@
+{
+    "developer": "Dark Fader",
+    "files": [
+        {
+            "description": "release",
+            "filename": "BallgameDX_Demo__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "BallgameDXDemo.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "BallgameDXDemo.gbc",
+    "screenshots": [
+        "20110402_ballgamedx_demo.png"
+    ],
+    "slug": "ballgamedx-demo",
+    "title": "BallgameDX Demo",
+    "typetag": "game",
+    "tags": [
+        "Arcade",
+        "event:bung-1st-coding-compo"
+    ]
+}

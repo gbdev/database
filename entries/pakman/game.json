@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Rob Uttley",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Pakman__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Pakman.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Pakman.gbc",
+    "screenshots": [
+        "20110402_pakman.png"
+    ],
+    "slug": "pakman",
+    "title": "Pakman",
+    "typetag": "game"
+}

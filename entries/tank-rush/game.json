@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Mette Tech",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Tank_Rush__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Tankrush.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Tankrush.cgb",
+    "screenshots": [
+        "20110402_tank_rush.png"
+    ],
+    "slug": "tank-rush",
+    "title": "Tank Rush",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

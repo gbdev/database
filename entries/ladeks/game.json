@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Lee Tonks",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Ladeks__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "LADEKS.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "LADEKS.GB",
+    "screenshots": [
+        "20110402_ladeks.png"
+    ],
+    "slug": "ladeks",
+    "title": "Ladeks",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

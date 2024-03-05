@@ -1,0 +1,26 @@
+{
+    "description": "Test your mental speed, stamina and dexterity with this new game from the Hex Heroes.",
+    "developer": "James Rutherford, Hex Heroes",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Circuit_Breaker__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "CircuitBreaker.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "CircuitBreaker.cgb",
+    "screenshots": [
+        "20110402_circuit_breaker.png"
+    ],
+    "slug": "circuit-breaker",
+    "title": "Circuit Breaker",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

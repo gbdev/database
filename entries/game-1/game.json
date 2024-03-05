@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Nick Kockakian",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Game_1__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "GAME1.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "GAME1.GB",
+    "screenshots": [
+        "20110402_game_1.png"
+    ],
+    "slug": "game-1",
+    "title": "Game 1",
+    "typetag": "game"
+}

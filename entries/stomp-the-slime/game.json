@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Picc Productions",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Stomp_The_Slime__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "StompTheSlime.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "StompTheSlime.cgb",
+    "screenshots": [
+        "20110402_stomp_the_slime.png"
+    ],
+    "slug": "stomp-the-slime",
+    "title": "Stomp The Slime",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

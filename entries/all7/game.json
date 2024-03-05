@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "All7__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "All7.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "All7.cgb",
+    "screenshots": [
+        "20110402_all7.gif"
+    ],
+    "slug": "all7",
+    "title": "All7",
+    "typetag": "game"
+}

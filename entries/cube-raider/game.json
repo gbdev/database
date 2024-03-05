@@ -1,0 +1,27 @@
+{
+    "description": "CubeRaider is a puzzle game in which Tara Loft (a play on the famous protagonist Lara Croft) must collect white cubes within an isometric 3D game board.",
+    "developer": "Dark Fader, Black Thunder",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Cube_Raider__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "CubeRaider.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "CubeRaider.cgb",
+    "screenshots": [
+        "20110402_cube_raider.jpg"
+    ],
+    "slug": "cube-raider",
+    "title": "Cube Raider",
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:bung-3rd-coding-compo"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Cosmic_Attack__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "CosmicAttack.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "CosmicAttack.gbc",
+    "screenshots": [
+        "20110402_cosmic_attack.png"
+    ],
+    "slug": "cosmic-attack",
+    "title": "Cosmic Attack",
+    "typetag": "game"
+}

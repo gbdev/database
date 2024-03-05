@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Pete",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Guess_The_Number_2__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "GuessTheNumber_2.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "GuessTheNumber_2.gb",
+    "screenshots": [
+        "20110402_guess_the_number_2.png"
+    ],
+    "slug": "guess-the-number-2",
+    "title": "Guess The Number 2",
+    "typetag": "game"
+}

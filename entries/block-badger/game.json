@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "Tobias Cohen, Carolyn Staines",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Block_Badger__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "BlockBadger.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "BlockBadger.cgb",
+    "screenshots": [
+        "20110402_block_badger.png"
+    ],
+    "slug": "block-badger",
+    "title": "Block Badger",
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:bung-2nd-coding-compo"
+    ]
+}

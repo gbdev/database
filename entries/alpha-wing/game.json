@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Alpha_Wing__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "AlphaWing.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "AlphaWing.cgb",
+    "screenshots": [
+        "20110402_alpha_wing.png"
+    ],
+    "slug": "alpha-wing",
+    "title": "Alpha Wing",
+    "typetag": "game",
+    "tags": [
+        "Action",
+        "event:bung-3rd-coding-compo"
+    ]
+}

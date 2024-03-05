@@ -1,0 +1,28 @@
+{
+    "date": "2000-04-01",
+    "description": "The city drains are well known hideouts for vicious and bizarre creatures of the underworld. Your aim is to sweep clean the whole drain system before this crawling plague gets out of control.",
+    "developer": "Jorge Persiva",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Drains__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Drains.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Drains.gbc",
+    "screenshots": [
+        "20110402_drains.png"
+    ],
+    "slug": "drains",
+    "tags": [
+        "Action",
+        "event:liksang2000-compo"
+    ],
+    "title": "Drains",
+    "typetag": "game"
+}

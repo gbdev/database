@@ -1,0 +1,23 @@
+{
+    "description": "In Fatal Flame by Jaws-V Soft you need to hunt down fireflies with a flamethrower. The game is not very complex, but pleases for a couple of minutes.",
+    "developer": "Jaws-V Soft",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Fatal_Flame_v2_(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "FatalFlame_v2.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "FatalFlame_v2.gbc",
+    "screenshots": [
+        "fatalflame_v2.png"
+    ],
+    "slug": "fatal-flame",
+    "title": "Fatal Flame",
+    "typetag": "game"
+}

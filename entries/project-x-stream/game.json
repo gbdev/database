@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "Craig Rothwell",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Project-X-Stream__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "ProjectX-Stream.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "ProjectX-Stream.cgb",
+    "screenshots": [
+        "20110402_project-x-stream.png"
+    ],
+    "slug": "project-x-stream",
+    "title": "Project-X-Stream",
+    "typetag": "game",
+    "tags": [
+        "Shooter",
+        "event:bung-2nd-coding-compo"
+    ]
+}

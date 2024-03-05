@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Abel Vincze",
+    "files": [
+        {
+            "description": "release",
+            "filename": "LogX__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "LogX.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "LogX.gb",
+    "screenshots": [
+        "20110402_logx.png"
+    ],
+    "slug": "logx",
+    "title": "LogX",
+    "typetag": "game"
+}

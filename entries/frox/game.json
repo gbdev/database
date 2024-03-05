@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Thorsten Stockmeier",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Frox__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Frox.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Frox.cgb",
+    "screenshots": [
+        "20110402_frox.png"
+    ],
+    "slug": "frox",
+    "title": "Frox",
+    "typetag": "game"
+}

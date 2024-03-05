@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Richard Town",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Bomber__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Bomber.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Bomber.gbc",
+    "screenshots": [
+        "20110402_bomber.gif"
+    ],
+    "slug": "bomber",
+    "title": "Bomber",
+    "typetag": "game"
+}

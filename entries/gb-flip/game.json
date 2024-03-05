@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Wooden Spoon",
+    "files": [
+        {
+            "description": "release",
+            "filename": "GB-Flip__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "GB-Flip.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "GB-Flip.cgb",
+    "screenshots": [
+        "20110402_gb-flip.png"
+    ],
+    "slug": "gb-flip",
+    "title": "GB-Flip",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Ramon de Abreu",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Psst__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Psst.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Psst.cgb",
+    "screenshots": [
+        "20110402_psst.png"
+    ],
+    "slug": "psst",
+    "title": "Psst",
+    "typetag": "game",
+    "tags": [
+        "event:bung-3rd-coding-compo"
+    ]
+}

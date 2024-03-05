@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Jon Wingrove",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Cyberball__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Cyberball.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Cyberball.cgb",
+    "screenshots": [
+        "20110402_cyberball.png"
+    ],
+    "slug": "cyberball",
+    "title": "Cyberball",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

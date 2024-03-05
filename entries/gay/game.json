@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Gay__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "GAY.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "GAY.GB",
+    "screenshots": [
+        "20110402_gay.png"
+    ],
+    "slug": "gay",
+    "title": "Gay",
+    "typetag": "game"
+}

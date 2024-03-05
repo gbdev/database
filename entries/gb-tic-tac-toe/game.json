@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Norman Nithman",
+    "files": [
+        {
+            "description": "release",
+            "filename": "GB_Tic-Tac-Toe__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "GB-TicTacToe.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "GB-TicTacToe.gb",
+    "screenshots": [
+        "20110402_gb_tic-tac-toe.png"
+    ],
+    "slug": "gb-tic-tac-toe",
+    "title": "GB Tic-Tac-Toe",
+    "typetag": "game"
+}

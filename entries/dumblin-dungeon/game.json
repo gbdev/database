@@ -1,0 +1,23 @@
+{
+    "description": "Dumblin Dungeon is a Gameboy multiplayer game, 2+ players. You control a Goblin that must activate buttons in a given order, and in a given timing. If you succeed, tell the next pattern to the next player, and give him the Gameboy. The first pattern is A B C D, walk on the pressure plate with your character to activate it.",
+    "developer": "DaCookie, Fog Ryû, Hell_666",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Dumblin_Dungeon_v2018.01.28_(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Dumblin Dungeon (GB).gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Dumblin Dungeon (GB).gb",
+    "screenshots": [
+        "Dumblin_Dungeon_GB.png"
+    ],
+    "slug": "dumblin-dungeon",
+    "title": "Dumblin Dungeon",
+    "typetag": "game"
+}

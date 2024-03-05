@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "PurpleFish",
+    "files": [
+        {
+            "description": "release",
+            "filename": "NiNSlider__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "NinSlider.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "NinSlider.cgb",
+    "screenshots": [
+        "20110402_ninslider.png"
+    ],
+    "slug": "ninslider",
+    "title": "NiNSlider",
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:bung-2nd-coding-compo"
+    ]
+}

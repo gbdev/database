@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Black_Jack__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "BlackJack.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "BlackJack.cgb",
+    "screenshots": [
+        "20110402_black_jack.png"
+    ],
+    "slug": "black-jack",
+    "title": "Black Jack",
+    "typetag": "game"
+}

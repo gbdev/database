@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Boxing__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "BOXING.GB",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "BOXING.GB",
+    "screenshots": [
+        "20110402_boxing.png"
+    ],
+    "slug": "boxing",
+    "title": "Boxing",
+    "typetag": "game"
+}

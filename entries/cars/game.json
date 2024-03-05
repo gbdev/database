@@ -1,0 +1,23 @@
+{
+    "description": "Drivers are lost in your home town. You have to show them the way out – and keep them from crashing into each other by placing road signs in their way. But for everyone who gets out, another lost drivers enters the town. How long can you handle it?",
+    "developer": "Stefan Giesewetter",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Cars__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Cars.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Cars.gbc",
+    "screenshots": [
+        "20110402_cars.png"
+    ],
+    "slug": "cars",
+    "title": "Cars",
+    "typetag": "game"
+}

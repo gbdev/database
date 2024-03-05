@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "Francis Bernier",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Guess_The_Number_1__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "GuessTheNumber_1.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "GuessTheNumber_1.gb",
+    "screenshots": [
+        "20110402_guess_the_number_1.png"
+    ],
+    "slug": "guess-the-number-1",
+    "title": "Guess The Number 1",
+    "typetag": "game",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ]
+}

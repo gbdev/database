@@ -1,0 +1,27 @@
+{
+    "description": "3rd place at Bung 1st Coding Compo",
+    "developer": "Roland G. Huelsmann",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Huelsi__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Huelsi.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Huelsi.cgb",
+    "screenshots": [
+        "20110402_huelsi.png"
+    ],
+    "slug": "huelsi",
+    "title": "Huelsi",
+    "typetag": "game",
+    "tags": [
+        "Adventure",
+        "event:bung-1st-coding-compo"
+    ]
+}

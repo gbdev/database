@@ -1,0 +1,27 @@
+{
+    "description": "Oyoyo is a game in a medieval time and start in a castle, you will need to use all your skill to pass the traps and dangerous places ! 😉 … (just kidding) and as well you will encounter a terrible gardian … MUSHBACK !! so to pass your way and found money during your quest, you will need to hit him several times…",
+    "developer": "Lemon Production",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Oyoyo__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Oyoyo.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Oyoyo.gbc",
+    "screenshots": [
+        "20110402_oyoyo.png"
+    ],
+    "slug": "oyoyo",
+    "title": "Oyoyo",
+    "typetag": "game",
+    "tags": [
+        "Platform",
+        "event:bung-2nd-coding-compo"
+    ]
+}

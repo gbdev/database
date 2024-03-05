@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Predator Development",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Aqueous__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Aqueous.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Aqueous.gbc",
+    "screenshots": [
+        "20110402_aqueous.png"
+    ],
+    "slug": "aqueous",
+    "title": "Aqueous",
+    "typetag": "game"
+}

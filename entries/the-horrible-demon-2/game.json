@@ -1,0 +1,28 @@
+{
+    "date": "2000-04-01",
+    "description": "",
+    "developer": "Bertil Hörberg",
+    "files": [
+        {
+            "description": "release",
+            "filename": "The_Horrible_Demon_2__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "TheHorribleDemon2.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "TheHorribleDemon2.cgb",
+    "screenshots": [
+        "20110402_the_horrible_demon_2.png"
+    ],
+    "slug": "the-horrible-demon-2",
+    "tags": [
+        "Adventure",
+        "event:liksang2000-compo"
+    ],
+    "title": "The Horrible Demon 2",
+    "typetag": "game"
+}

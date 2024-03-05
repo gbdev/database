@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Craig Rothwell",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Jumping_Jack__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "JumpingJack.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "JumpingJack.cgb",
+    "screenshots": [
+        "20110402_jumping_jack.png"
+    ],
+    "slug": "jumping-jack",
+    "title": "Jumping Jack",
+    "typetag": "game"
+}

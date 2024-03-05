@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "developer": "Unknown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Puzz__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Puzz.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "rom": "Puzz.gb",
+    "screenshots": [
+        "20110402_puzz.png"
+    ],
+    "slug": "puzz",
+    "title": "Puzz",
+    "typetag": "game",
+    "tags": [
+        "Puzzle",
+        "event:bung-3rd-coding-compo"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2000-04-01",
+    "description": "",
+    "developer": "Gianluca Cancelmi",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Capman__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "Capman.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "Capman.cgb",
+    "screenshots": [
+        "20110402_capman.gif"
+    ],
+    "slug": "capman",
+    "tags": [
+        "Action",
+        "event:liksang2000-compo"
+    ],
+    "title": "Capman",
+    "typetag": "game"
+}

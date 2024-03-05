@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "developer": "Unkown",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Wonder_Topia__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "WonderTopia.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "WonderTopia.cgb",
+    "screenshots": [
+        "20110402_wonder_topia.png"
+    ],
+    "slug": "wonder-topia",
+    "title": "Wonder Topia",
+    "typetag": "game"
+}

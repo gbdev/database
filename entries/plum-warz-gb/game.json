@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "developer": "JW2K",
+    "files": [
+        {
+            "description": "release",
+            "filename": "Plum_Warz_GB__(Gameboy).zip"
+        },
+        {
+            "default": true,
+            "filename": "PlumWarz.cgb",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "PlumWarz.cgb",
+    "screenshots": [
+        "20110402_plum_warz_gb.png"
+    ],
+    "slug": "plum-warz-gb",
+    "title": "Plum Warz GB",
+    "typetag": "game",
+    "tags": [
+        "event:bung-3rd-coding-compo"
+    ]
+}
