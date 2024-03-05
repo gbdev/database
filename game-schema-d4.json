@@ -83,46 +83,44 @@
             "format": "date",
             "description": "The date the entry was first released"
         },
-        "tags":
-        {
+        "tags": {
             "type": "array",
             "description": "A list of the categories representing the entry",
-            "items":
-            {
-                "type": "string",
-                "enum":
-                [
-                    "Arcade",
-                    "RPG",
-                    "Open Source",
-                    "Adventure",
-                    "Action",
-                    "Puzzle",
-                    "Platform",
-                    "gbajam21",
-                    "gbcompo21",
-                    "gbcompo21-shortlist",
-                    "gbprinter",
-                    "gb-showdown-22",
-                    "Survival",
-                    "Shooter",
-                    "Visual Novel",
-                    "Simulation",
-                    "Educational",
-                    "Rhythm",
-                    "Card Game",
-                    "Strategy",
-                    "Racing",
-                    "Sports",
-                    "Fighting",
-                    "Interactive Fiction",
-                    "event:gbshowdown23",
-                    "event:liksang2000-compo",
-                    "event:bung-1st-coding-compo",
-                    "event:bung-3rd-coding-compo",
-                    "event:bung-2nd-coding-compo",
-                    "event:freedom-2001-gameboy-developers-competition",
-                    "event:gbcompo23"
+            "items": {
+                "anyOf": [
+                    {
+                        "type": "string",
+                        "enum": [
+                            "Arcade",
+                            "RPG",
+                            "Open Source",
+                            "Adventure",
+                            "Action",
+                            "Puzzle",
+                            "Platform",
+                            "gbajam21",
+                            "gbcompo21",
+                            "gbcompo21-shortlist",
+                            "gbprinter",
+                            "gb-showdown-22",
+                            "Survival",
+                            "Shooter",
+                            "Visual Novel",
+                            "Simulation",
+                            "Educational",
+                            "Rhythm",
+                            "Card Game",
+                            "Strategy",
+                            "Racing",
+                            "Sports",
+                            "Fighting",
+                            "Interactive Fiction"
+                        ]
+                    },
+                    {
+                        "type": "string",
+                        "pattern": "^event:[a-z0-9._-]+$"
+                    }
                 ]
             }
         },
