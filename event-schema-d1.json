@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The name of the event."
+    },
+    "slug": {
+      "type": "string",
+      "description": "A unique identifier for the event, often used in URLs.",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "period": {
+      "type": "object",
+      "description": "The time period during which the event runs.",
+      "properties": {
+        "start": {
+          "type": "string",
+          "description": "The start date of the event period.",
+          "format": "date-time"
+        },
+        "end": {
+          "type": "string",
+          "description": "The end date of the event period.",
+          "format": "date-time"
+        }
+      },
+      "required": ["start", "end"]
+    },
+    "website": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "description": "The website URL of the event."
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "format": "uri"
+          },
+          "description": "An array of website URLs for the event."
+        }
+      ],
+      "description": "The website or websites of the event."
+    },
+    "results": {
+      "type": "array",
+      "description": "A list of results for the event.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "entry_slug": {
+            "type": "string",
+            "description": "A unique identifier for the event entry."
+          },
+          "final_score": {
+            "type": "number",
+            "description": "The final score obtained by the entry."
+          },
+          "rank": {
+            "type": "integer",
+            "description": "The rank of the entry, useful for tie-breaking."
+          }
+        },
+        "required": ["entry_slug", "final_score", "rank"]
+      }
+    }
+  },
+  "required": ["name", "slug", "period", "results"]
+}
