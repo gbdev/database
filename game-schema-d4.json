@@ -9,7 +9,8 @@
         "slug":
         {
             "description": "A unique string identifier for a game",
-            "type": "string"
+            "type": "string",
+            "pattern": "^[a-z0-9._-]+$"
         },
         "developer":
         {
