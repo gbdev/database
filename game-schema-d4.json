@@ -241,7 +241,14 @@
                 },
                 "playable": {
                     "type": "boolean",
-                    "description": "Describes if the file is a GB/GBC ROM"
+                    "description": "Describes if the file can be played in the emulator"
+                },
+                "version": {
+                    "type": "string"
+                },
+                "date": {
+                    "type": "string",
+                    "format": "date"
                 },
                 "hash": {
                     "type": "object",
