@@ -1,1 +1,2 @@
 jsonschema==3.2.0
+progressbar2==4.4.2
