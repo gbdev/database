@@ -63,7 +63,8 @@
         },
         "video": {
             "description": "URL of a gameplay or trailer video",
-            "type": "string"
+            "type": "string",
+            "format": "uri"
         },
         "date": {
             "type": "string",
