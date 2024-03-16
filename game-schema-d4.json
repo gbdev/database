@@ -4,18 +4,14 @@
     "title": "Game object",
     "description": "A game in the Homebrew Hub database",
     "type": "object",
-    "properties":
-    {
-        "slug":
-        {
+    "properties": {
+        "slug": {
             "description": "A unique string identifier for a game",
             "type": "string",
             "pattern": "^[a-z0-9._-]+$"
         },
-        "developer":
-        {
-            "oneOf":
-            [
+        "developer": {
+            "oneOf": [
                 {
                     "type": "string",
                     "description": "A name, username or nickname representing the developer(s)"
@@ -28,57 +24,37 @@
                 }
             ]
         },
-        "description":
-        {
+        "description": {
             "type": "string",
             "description": "A text description about the entry (e.g. Instructions, lore, ..)"
         },
-        "title":
-        {
+        "title": {
             "type": "string",
             "description": "Full name of the game"
         },
-        "platform":
-        {
+        "platform": {
             "type": "string",
             "description": "Target console",
-            "enum":
-            [
-                "GB",
-                "GBC",
-                "GBA"
-            ]
+            "enum": ["GB", "GBC", "GBA"]
         },
-        "typetag":
-        {
+        "typetag": {
             "type": "string",
             "description": "Type of the software",
-            "enum":
-            [
-                "game",
-                "tool",
-                "demo",
-                "hackrom",
-                "music"
-            ]
+            "enum": ["game", "tool", "demo", "hackrom", "music"]
         },
-        "gameLicense":
-        {
+        "gameLicense": {
             "description": "License under which the software is released",
             "$ref": "#/definitions/license"
         },
-        "assetsLicense":
-        {
+        "assetsLicense": {
             "description": "License under which the game assets are released",
             "$ref": "#/definitions/license"
         },
-        "video":
-        {
+        "video": {
             "description": "URL of a gameplay or trailer video",
             "type": "string"
         },
-        "date":
-        {
+        "date": {
             "type": "string",
             "format": "date",
             "description": "The date the entry was first released"
@@ -123,9 +99,7 @@
                     {
                         "type": "string",
                         "enum": [
-                            // The homebrew makes use of the Game Boy Camera (Pocket Camera) accessory
                             "hw:gbprinter",
-                            // The homebrew makes use of the Game Boy Printer (Pocket Printer) accessory
                             "hw:gbcamera"
                         ]
                     }
