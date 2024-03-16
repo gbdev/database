@@ -101,7 +101,6 @@
                             "gbajam21",
                             "gbcompo21",
                             "gbcompo21-shortlist",
-                            "gbprinter",
                             "gb-showdown-22",
                             "Survival",
                             "Shooter",
@@ -120,139 +119,109 @@
                     {
                         "type": "string",
                         "pattern": "^event:[a-z0-9._-]+$"
+                    },
+                    {
+                        "type": "string",
+                        "enum": [
+                            // The homebrew makes use of the Game Boy Camera (Pocket Camera) accessory
+                            "hw:gbprinter",
+                            // The homebrew makes use of the Game Boy Printer (Pocket Printer) accessory
+                            "hw:gbcamera"
+                        ]
                     }
                 ]
             }
         },
-        "alias":
-        {
+        "alias": {
             "description": "A list of other names with which the entry can be referred to",
             "type": "array",
-            "items":
-            {
+            "items": {
                 "type": "string"
             }
         },
-        "repository":
-        {
+        "repository": {
             "type": "string",
             "description": "Repository or URL where the source can be found",
             "format": "uri"
         },
-        "website":
-        {
+        "website": {
             "type": "string",
             "format": "uri",
             "description": "Game website or page"
         },
-        "wip":
-        {
+        "wip": {
             "type": "boolean",
             "description": "Flag a game as work-in-progress (not yet completely stable/bugfree)"
         },
-        "play":
-        {
+        "play": {
             "type": "object",
-            "properties":
-            {
-                "enable":
-                {
+            "properties": {
+                "enable": {
                     "type": "boolean",
                     "description": "Allow or not the game to be played directly on the website"
                 }
             }
         },
-        "nsfw":
-        {
+        "nsfw": {
             "type": "boolean",
             "description": "The game contains NSFW or (potentially) controversial content"
         },
-        "screenshots":
-        {
+        "screenshots": {
             "type": "array",
-            "items":
-            {
+            "items": {
                 "type": "string"
             }
         },
-        "files":
-        {
+        "files": {
             "type": "array",
-            "items":
-            {
+            "items": {
                 "$ref": "#/definitions/file"
             }
         }
     },
-    "required":
-    [
-        "slug"
-    ],
-    "definitions":
-    {
-        "file":
-        {
+    "required": ["slug"],
+    "definitions": {
+        "file": {
             "type": "object",
-            "properties":
-            {
-                "filename":
-                {
+            "properties": {
+                "filename": {
                     "type": "string"
                 },
-                "description":
-                {
+                "description": {
                     "type": "string"
                 },
-                "type":
-                {
+                "type": {
                     "type": "string",
-                    "enum":
-                    [
-                        "rom",
-                        "manual",
-                        "release"
-                    ]
+                    "enum": ["rom", "manual", "release"]
                 },
-                "playable":
-                {
+                "playable": {
                     "type": "boolean",
                     "description": "Describes if the file is a GB/GBC ROM"
                 },
-                "hash":
-                {
+                "hash": {
                     "type": "object",
-                    "properties":
-                    {
-                        "md5":
-                        {
+                    "properties": {
+                        "md5": {
                             "type": "string"
                         },
-                        "sha1":
-                        {
+                        "sha1": {
                             "type": "string"
                         },
-                        "sha256":
-                        {
+                        "sha256": {
                             "type": "string"
                         }
                     }
                 },
-                "default":
-                {
+                "default": {
                     "type": "boolean",
                     "description": "Describes if the file is the default ROM to play"
                 }
             },
-            "required":
-            [
-                "filename"
-            ]
+            "required": ["filename"]
         },
-        "license":
-        {
+        "license": {
             "type": "string",
-            "enum":
-            [
+            "enum": [
                 "0BSD",
                 "AAL",
                 "Abstyles",
