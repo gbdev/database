@@ -124,26 +124,70 @@
         },
         "repository": {
             "type": "string",
-            "description": "Repository or URL where the source can be found",
+            "description": "Repository or URL where the source code can be found",
             "format": "uri"
         },
         "website": {
+            "oneOf": [
+                {
+                    "type": "string",
+                    "format": "uri"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "format": "uri"
+                    }
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "title": {
+                      "type": "string",
+                      "description": "The optional title of the link."
+                    },
+                    "type": {
+                      "type": "string",
+                      "description": "The optional type of the link, indicating the media type or link relation."
+                    },
+                    "url": {
+                      "type": "string",
+                      "format": "uri",
+                      "description": "The URL of the link."
+                    }
+                  },
+                  "required": ["url"]
+              }
+            ],
+            "description": "Website(s) related to the game, which can be provided as either a single URL or an array of URLs."
+        },
+        "physical-release": {
             "type": "string",
             "format": "uri",
-            "description": "Game website or page"
+            "description": "If the entry has/had a physical edition available, provide here a link to where this edition can be purchased or more information about it can be found."
         },
         "wip": {
             "type": "boolean",
             "description": "Flag a game as work-in-progress (not yet completely stable/bugfree)"
         },
-        "play": {
+        "commercial": {
+            "type": "boolean",
+            "description": "Flag the entry as a commercial release"
+        },
+        "use-requirements": {
             "type": "object",
             "properties": {
-                "enable": {
+                "disabledownloads": {
                     "type": "boolean",
-                    "description": "Allow or not the game to be played directly on the website"
+                    "description": "Disable downloads for all the attached files to the entry"
+                },
+                "disableplay": {
+                    "type": "boolean",
+                    "description": "Allow or not the game to be played directly on the website through an emulator"
                 }
-            }
+            },
+            "description": "Global preferences aimed at potential users of the database (e.g. the Homebrew Hub frontend). Those values ovverride the ones set to the single files."
         },
         "nsfw": {
             "type": "boolean",
