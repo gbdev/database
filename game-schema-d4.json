@@ -14,15 +14,26 @@
             "oneOf": [
                 {
                     "type": "string",
-                    "description": "A name, username or nickname representing the developer(s)"
+                    "description": "A name, username or nickname representing the developer."
                 },
                 {
-                    "type": "array"
+                    "type": "array",
+                    "items": {
+                        "oneOf": [
+                            {
+                                "type": "string"
+                            },
+                            {
+                                "$ref": "#/definitions/author"
+                            }
+                        ]
+                    }
                 },
                 {
-                    "type": "object"
+                    "$ref": "#/definitions/author"
                 }
-            ]
+            ],
+            "description": "The developer of the game, which can be a single string, an array of strings, an author object or an array of author objects."
         },
         "description": {
             "type": "string",
@@ -35,7 +46,7 @@
         "platform": {
             "type": "string",
             "description": "Target console",
-            "enum": ["GB", "GBC", "GBA"]
+            "enum": ["GB", "GBC", "GBA", "NES"]
         },
         "typetag": {
             "type": "string",
@@ -98,10 +109,7 @@
                     },
                     {
                         "type": "string",
-                        "enum": [
-                            "hw:gbprinter",
-                            "hw:gbcamera"
-                        ]
+                        "enum": ["hw:gbprinter", "hw:gbcamera"]
                     }
                 ]
             }
@@ -155,6 +163,24 @@
     },
     "required": ["slug"],
     "definitions": {
+        "author": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "A name, username or nickname representing the entity/person"
+                },
+                "link": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "A link to the author's website or profile"
+                },
+                "role": {
+                    "type": "string",
+                    "description": "The role of the author in the project"
+                }
+            }
+        },
         "file": {
             "type": "object",
             "properties": {
