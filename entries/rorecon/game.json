@@ -12,7 +12,9 @@
             "filename": "rorecon.zip"
         }
     ],
+    "license": "MIT",
     "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcrorecon",
     "screenshots": [
         "RoReCon-0.png",
         "RoReCon-1.png",

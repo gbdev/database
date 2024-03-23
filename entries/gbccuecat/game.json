@@ -1,0 +1,24 @@
+{
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-cat.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbccuecat.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbccuecat",
+    "screenshots": [
+        "gb-cat-0.png"
+    ],
+    "slug": "gbccuecat",
+    "title": "CueCAT reader",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_cate.html"
+}

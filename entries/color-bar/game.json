@@ -3,22 +3,22 @@
     "files": [
         {
             "default": true,
-            "filename": "dscan.gb",
+            "filename": "colorbar.gb",
             "playable": true
         },
         {
             "description": "release",
-            "filename": "gbcdeepscan.zip"
+            "filename": "gbccolorbar.zip"
         }
     ],
     "license": "MIT",
     "platform": "GBC",
-    "repository": "https://gitlab.com/teamknox/gbcdeepscan",
+    "repository": "https://gitlab.com/teamknox/gbccolorbar",
     "screenshots": [
-        "dscan-0.png"
+        "colorbar-0.png"
     ],
-    "slug": "deep-scan",
-    "title": "Deep Scan for GBC",
-    "typetag": "game",
+    "slug": "color-bar",
+    "title": "Color bar display for GBC",
+    "typetag": "demo",
     "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_softe.html"
 }

@@ -1,0 +1,24 @@
+{
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-phreak.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcphreakboy.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GB",
+    "repository": "https://gitlab.com/teamknox/gbcphreakboy",
+    "screenshots": [
+        "gb-phreak-0.png"
+    ],
+    "slug": "phreakboy",
+    "title": "Phreakboy (Enhanced DTMF Dialer)",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_phreake.html"
+}

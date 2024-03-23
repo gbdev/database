@@ -1,23 +1,24 @@
 {
-    "description": "",
     "developer": "TeamKNOx",
     "files": [
         {
-            "description": "release",
-            "filename": "Gunpey__(Gameboy).zip"
+            "default": true,
+            "filename": "namihey.gb",
+            "playable": true
         },
         {
-            "default": true,
-            "filename": "Gunpey.cgb",
-            "playable": true
+            "description": "release",
+            "filename": "gbcnamihey.zip"
         }
     ],
+    "license": "MIT",
     "platform": "GBC",
-    "rom": "Gunpey.cgb",
+    "repository": "https://gitlab.com/teamknox/gbcnamihey",
     "screenshots": [
-        "20110402_gunpey.png"
+        "namihey-0.png"
     ],
     "slug": "gunpey",
-    "title": "Gunpey",
-    "typetag": "game"
+    "title": "Namihey",
+    "typetag": "game",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_name.html"
 }

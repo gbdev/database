@@ -1,0 +1,25 @@
+{
+    "description": "Driver and application software for connection between GBC and SONY IPS-5x00 series",
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-gps.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcgps.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcgps",
+    "screenshots": [
+        "gb-gps.png"
+    ],
+    "slug": "gbcgps",
+    "title": "GPS receiver",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_gpse.html"
+}

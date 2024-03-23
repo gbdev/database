@@ -1,0 +1,24 @@
+{
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-pdc.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcpdc.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcpdc",
+    "screenshots": [
+        "gb-pdc-0.png"
+    ],
+    "slug": "gbcpdc",
+    "title": "GB-PDC",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_pdce.html"
+}

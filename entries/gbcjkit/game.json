@@ -1,0 +1,25 @@
+{
+    "date": "2024-03-23",
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "jkit.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcjkit.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GB",
+    "repository": "https://gitlab.com/teamknox/gbcjkit",
+    "screenshots": [
+        "jkit-0.png"
+    ],
+    "slug": "gbcjkit",
+    "title": "Kanji driver kit",
+    "typetag": "demo",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_jkitj.html"
+}

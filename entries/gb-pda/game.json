@@ -1,0 +1,25 @@
+{
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "pda.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcpda.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcpda",
+    "screenshots": [
+        "pda-0.png",
+        "pda-1.png"
+    ],
+    "slug": "gb-pda",
+    "title": "GB-PDA",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_pdae.html"
+}

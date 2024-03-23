@@ -12,7 +12,9 @@
             "filename": "gb-rem.zip"
         }
     ],
+    "license": "MIT",
     "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcremcon",
     "screenshots": [
         "gb-rem-0.png"
     ],
