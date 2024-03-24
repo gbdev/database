@@ -1,0 +1,25 @@
+{
+    "date": "2000-07-31",
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-key.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gb-key.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GB",
+    "repository": "https://gitlab.com/teamknox/gbckeyboard",
+    "screenshots": [
+        "gb-key-0.png"
+    ],
+    "slug": "gb-key",
+    "title": "GB-KEY (PS/2 keyboard handler)",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_keye.html"
+}

@@ -1,0 +1,24 @@
+{
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "shell.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcshell.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GB",
+    "repository": "https://gitlab.com/teamknox/gbcshell",
+    "screenshots": [
+        "shell-0.png"
+    ],
+    "slug": "gbcshell",
+    "title": "GB-SHELL",
+    "typetag": "demo",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_shelle.html"
+}

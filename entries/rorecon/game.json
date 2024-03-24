@@ -1,0 +1,27 @@
+{
+    "date": "2000-03-19",
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "RoReCon.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "rorecon.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcrorecon",
+    "screenshots": [
+        "RoReCon-0.png",
+        "RoReCon-1.png",
+        "RoReCon-2.png"
+    ],
+    "slug": "rorecon",
+    "title": "RoReCon",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_legoe.html"
+}

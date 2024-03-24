@@ -1,0 +1,25 @@
+{
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "pelmanism.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbccardgame.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GB",
+    "repository": "https://gitlab.com/teamknox/gbccardgame",
+    "screenshots": [
+        "pelmanism-0.png",
+        "pelmanism-1.png"
+    ],
+    "slug": "gbccardgame",
+    "title": "Pelmanism",
+    "typetag": "game",
+    "website": "https://gitlab.com/teamknox/gbccardgame"
+}

@@ -1,0 +1,24 @@
+{
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-bar.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcbarcode.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcbarcode",
+    "screenshots": [
+        "gb-bar-0.png"
+    ],
+    "slug": "gbcbarcode",
+    "title": "Barcode reader",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_bare.html"
+}

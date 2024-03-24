@@ -3,22 +3,22 @@
     "files": [
         {
             "default": true,
-            "filename": "dscan.gb",
+            "filename": "GB-DTMF.GB",
             "playable": true
         },
         {
             "description": "release",
-            "filename": "gbcdeepscan.zip"
+            "filename": "gbcdtmf.zip"
         }
     ],
     "license": "MIT",
-    "platform": "GBC",
-    "repository": "https://gitlab.com/teamknox/gbcdeepscan",
+    "platform": "GB",
+    "repository": "https://gitlab.com/teamknox/gbcdtmf",
     "screenshots": [
-        "dscan-0.png"
+        "GB-DTMF-0.png"
     ],
-    "slug": "deep-scan",
-    "title": "Deep Scan for GBC",
-    "typetag": "game",
+    "slug": "gb-dtmf",
+    "title": "DTMF Dialer for GBC",
+    "typetag": "tool",
     "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_softe.html"
 }

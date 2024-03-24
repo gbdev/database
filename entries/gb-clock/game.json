@@ -3,22 +3,22 @@
     "files": [
         {
             "default": true,
-            "filename": "dscan.gb",
+            "filename": "clock.gb",
             "playable": true
         },
         {
             "description": "release",
-            "filename": "gbcdeepscan.zip"
+            "filename": "gbcclock.zip"
         }
     ],
     "license": "MIT",
-    "platform": "GBC",
-    "repository": "https://gitlab.com/teamknox/gbcdeepscan",
+    "platform": "GB",
+    "repository": "https://gitlab.com/teamknox/gbcclock",
     "screenshots": [
-        "dscan-0.png"
+        "clock-0.png"
     ],
-    "slug": "deep-scan",
-    "title": "Deep Scan for GBC",
-    "typetag": "game",
+    "slug": "gb-clock",
+    "title": "GB-Clock (MBC3 RTC handling by GBC)",
+    "typetag": "demo",
     "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_softe.html"
 }

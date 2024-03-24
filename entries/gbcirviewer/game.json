@@ -1,0 +1,24 @@
+{
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "ir_view.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcirviewer.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcirviewer",
+    "screenshots": [
+        "ir_view-0.png"
+    ],
+    "slug": "gbcirviewer",
+    "title": "IrViewer",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_viewe.html"
+}

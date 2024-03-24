@@ -1,0 +1,46 @@
+{
+    "date": "2002-05-19",
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "pda.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gbcpda.zip"
+        },
+        {
+            "description": "release (v4.1 / 2000-01-28)",
+            "filename": "pda4.1-2000-01-28.gb"
+        },
+        {
+            "description": "release (v4.1 / 2000-01-14)",
+            "filename": "pda4.1-2000-01-14.gb"
+        },
+        {
+            "description": "release (v4.1 / 1999-06-28)",
+            "filename": "pda4.0-1999-06-28.gb"
+        },
+        {
+            "description": "release (v4.0 / 1999-06-16)",
+            "filename": "pda4.0-1999-06-16.gb"
+        },
+        {
+            "description": "release (v3.0 / 1999-05-30)",
+            "filename": "pda3.0-1999-05-30.gb"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcpda",
+    "screenshots": [
+        "pda-0.png",
+        "pda-1.png"
+    ],
+    "slug": "gb-pda",
+    "title": "GB-PDA",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_pdae.html"
+}

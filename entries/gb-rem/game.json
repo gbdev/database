@@ -1,0 +1,25 @@
+{
+    "date": "2000-10-26",
+    "developer": "TeamKNOx",
+    "files": [
+        {
+            "default": true,
+            "filename": "gb-rem.gb",
+            "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "gb-rem.zip"
+        }
+    ],
+    "license": "MIT",
+    "platform": "GBC",
+    "repository": "https://gitlab.com/teamknox/gbcremcon",
+    "screenshots": [
+        "gb-rem-0.png"
+    ],
+    "slug": "gb-rem",
+    "title": "Learning RemCon",
+    "typetag": "tool",
+    "website": "http://home.att.ne.jp/gamma/TeamKNOx/gameboy/gb_reme.html"
+}
