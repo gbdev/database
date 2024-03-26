@@ -1,0 +1,30 @@
+{
+	"date": "2024-02-27",
+    "developer": "Konstantin Dobrev",
+	"description": "A ground/air horizontal shooter",
+	"video": "https://youtu.be/dtfq-sFIdkg",
+    "files": [
+		{
+			"default": false,
+            "filename": "HoverDefenderInstructionBooklet.pdf",
+            "playable": false
+		},
+        {
+            "default": true,
+            "filename": "hoverdefender.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "https://github.com/kldobrev/HoverDefender",
+    "screenshots": [
+        "HovDefScrn1.png",
+        "HovDefScrn2.png"
+    ],
+    "slug": "hover-defender",
+    "tags": [
+        "Action", "Shooter"
+    ],
+    "title": "Hover Defender",
+    "typetag": "game"
+}

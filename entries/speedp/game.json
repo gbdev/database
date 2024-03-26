@@ -1,0 +1,23 @@
+{
+	"date": "2021-10-28",
+    "developer": "Konstantin Dobrev",
+    "files": [
+        {
+            "default": true,
+            "filename": "speedp.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "https://github.com/kldobrev/SpeedP",
+    "screenshots": [
+        "SpeedPScrn1.png",
+        "SpeedPScrn2.png"
+    ],
+    "slug": "speedp",
+    "tags": [
+        "Sports"
+    ],
+    "title": "SpeedP",
+    "typetag": "game"
+}
