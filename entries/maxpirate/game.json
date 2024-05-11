@@ -1,0 +1,27 @@
+{
+    "developer": "Lemmy Hawkins",
+    "date": "2024-05-11",
+    "description": "A small action game. Smash zombies with your anchor and your cannon Bessie. Made with GBDK-2020.",
+    "files": [
+        {
+            "default": true,
+            "filename": "maxpirate.gb",
+            "playable": true
+        }
+    ],
+    "license": "MIT",
+    "platform": "GB",
+    "repository": "https://github.com/MWehrstedt/MaxPirate",
+    "screenshots": [
+        "cover.png",
+        "screen1.png",
+        "screen2.png"
+    ],
+    "slug": "maxpirate",
+    "tags": [
+        "Open Source",
+        "Action"
+    ],
+    "title": "Max Pirate",
+    "typetag": "game"
+}
