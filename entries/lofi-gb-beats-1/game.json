@@ -1,0 +1,25 @@
+{
+    "developer": "Beatscribe",
+    "files": [
+        {
+            "default": true,
+            "filename": "lofi-chiptune-1.gb",
+            "playable": true
+        }
+    ],
+    "license": "Zlib",
+    "platform": "GB",
+    "description": "Showing off the softer side of the GB soundchip. This collection of 13 remixes of calming songs from games I've worked on over the past two years are perfect background music for relaxing or studying.  Use the D-Pad to switch between songs or just let them roll on automatically. ",
+    "video": "https://www.youtube.com/watch?v=2ybnmCkdWZg",
+    "screenshots": [
+        "gbsb.png"
+    ],
+    "slug": "lofi-gb-beats-1",
+    "gameWebsite": "https://beatscribe.itch.io/lo-fi-game-boy-chiptune-beats-to-relax-to-volume-1",
+    "devWebsite": "beatscribe.com",
+    "tags": [
+        "RPG"
+    ],
+    "title": "LoFi Chiptune Beats To Relax To Vol 1",
+    "typetag": "game"
+}
