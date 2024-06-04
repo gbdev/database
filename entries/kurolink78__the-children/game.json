@@ -16,10 +16,16 @@
             "playable": true
         }
     ],
-    "developer": {
-        "Kurolink78": "https://kurolink78.itch.io",
-        "SubterraneanExhibit": "https://subterraneanexhibit.itch.io"
-    },
+    "developer": [
+        {
+            "name": "Kurolink78",
+            "link": "https://kurolink78.itch.io"
+        },
+        {
+            "name": "SubterraneanExhibit",
+            "link": "https://subterraneanexhibit.itch.io"
+        }
+    ],
     "title": "The Children",
     "date": "2023-09-15",
     "website": "https://kurolink78.itch.io/the-children",

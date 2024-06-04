@@ -18,10 +18,16 @@
             "playable": true
         }
     ],
-    "developer": {
-        "Orbis Tertius Games": "https://orbistertius.itch.io",
-        "lunafromthemoon": "https://lunafromthemoon.itch.io"
-    },
+    "developer": [
+        {
+            "name": "Orbis Tertius Games",
+            "link": "https://orbistertius.itch.io"
+        },
+        {
+            "name": "lunafromthemoon",
+            "link": "https://lunafromthemoon.itch.io"
+        }
+    ],
     "title": "Petrophobia",
     "date": "2023-09-15",
     "website": "https://orbistertius.itch.io/petrophobia",

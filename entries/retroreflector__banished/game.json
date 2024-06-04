@@ -19,10 +19,16 @@
             "playable": true
         }
     ],
-    "developer": {
-        "RetroReflector": "https://retroreflector.itch.io",
-        "Bownly": "https://bownly.itch.io"
-    },
+    "developer": [
+        {
+            "name": "RetroReflector",
+            "link": "https://retroreflector.itch.io"
+        },
+        {
+            "name": "Bownly",
+            "link": "https://bownly.itch.io"
+        }
+    ],
     "title": "Banished",
     "date": "2023-09-15",
     "website": "https://retroreflector.itch.io/banished",

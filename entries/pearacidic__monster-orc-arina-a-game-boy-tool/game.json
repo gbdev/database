@@ -14,10 +14,16 @@
             "playable": true
         }
     ],
-    "developer": {
-        "Pearacidic": "https://pearacidic.itch.io",
-        "beatscribe": "https://beatscribe.itch.io"
-    },
+    "developer": [
+        {
+            "name": "Pearacidic",
+            "link": "https://pearacidic.itch.io"
+        },
+        {
+            "name": "beatscribe",
+            "link": "https://beatscribe.itch.io"
+        }
+    ],
     "title": "Monster Orc-arina",
     "date": "2023-09-15",
     "website": "https://pearacidic.itch.io/monster-orc-arina-a-game-boy-tool",
