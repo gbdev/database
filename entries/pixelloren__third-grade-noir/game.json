@@ -1,6 +1,5 @@
 {
     "screenshots": [
-        "9WXsj6.png",
         "cover.png"
     ],
     "typetag": "game",
@@ -8,7 +7,13 @@
         "event:gbcompo23",
         "Adventure"
     ],
-    "files": [],
+    "files": [        
+    {
+            "default": true,
+            "filename": "game.gb",
+            "playable": true
+        }
+    ],
     "developer": "pixelloren",
     "title": "Third Grade Noir",
     "date": "2023-09-15",
