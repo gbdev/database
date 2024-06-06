@@ -23,5 +23,6 @@
     "title": "Froggy Kong",
     "date": "2023-09-15",
     "website": "https://videogamestorytime.itch.io/froggykong",
-    "slug": "videogamestorytime__froggykong"
+    "slug": "videogamestorytime__froggykong",
+    "repository": "https://github.com/videogamestorytime/FroggyKong"
 }
