@@ -1,0 +1,23 @@
+{
+    "developer": "xoxo_grease",
+    "files": [
+        {
+            "default": true,
+            "filename": "life.gb",
+            "playable": true
+        }
+    ],
+    "license": "MIT",
+    "platform": "GB",
+    "repository": "https://github.com/Brehana/LIFE_gb",
+    "screenshots": [
+        "splash.png"
+    ],
+    "slug": "life-gb",
+    "tags": [
+        "Open Source",
+        "Simulation"
+    ],
+    "title": "Conways Game of Life",
+    "typetag": "demo"
+}
