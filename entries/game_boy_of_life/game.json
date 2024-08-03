@@ -1,0 +1,29 @@
+{
+	"title": "Game (Boy) of Life",
+	"slug": "game_boy_of_life",
+	"developer": "StudioGuma",
+	"platform": "GB",
+	"typetag": "game",
+	"screenshots": [
+		"cover_image.png"
+	],
+	"files": [
+		{
+			"default": true,
+			"filename": "life.gb",
+			"playable": true
+		}
+	],
+	"license": "GPL-3.0-or-later",
+	"assetLicense": "CC-BY-SA-4.0",
+	"description": "Port of Conway's Game of Life",
+	"date": "2024-02-13",
+	"tags": [
+		"Open Source"
+	],
+	"repository": "https://github.com/StudioGuma/game_boy_of_life",
+	"gameWebsite": "https://studioguma.itch.io/game-boy-of-life",
+	"devWebsite": "https://studioguma.itch.io",
+	"onlineplay": true,
+	"wip": false
+}

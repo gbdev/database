@@ -1,0 +1,30 @@
+{
+	"title": "Bit Bang",
+	"slug": "bit_bang",
+	"developer": "StudioGuma",
+	"platform": "GB",
+	"typetag": "game",
+	"screenshots": [
+		"bit_bang_logo.png"
+	],
+	"files": [
+		{
+			"default": true,
+			"filename": "bit_bang.gb",
+			"playable": true
+		}
+	],
+	"license": "GPL-3.0-or-later",
+	"assetLicense": "CC-BY-SA-4.0",
+	"description": "A numbers game",
+	"date": "2024-06-09",
+	"tags": [
+		"Open Source",
+		"Puzzle"
+	],
+	"repository": "https://github.com/StudioGuma/bit_bang",
+	"gameWebsite": "https://studioguma.itch.io/bit-bang",
+	"devWebsite": "https://studioguma.itch.io",
+	"onlineplay": true,
+	"wip": false
+}
