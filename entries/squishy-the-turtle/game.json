@@ -3,18 +3,21 @@
     "slug": "squishy-the-turtle",
     "developer": "Cppchriscpp",
     "platform": "GB",
+    "date": "2015-12-14",
+    "license": "MIT",
+    "repository": "https://github.com/potatolain/SquishyTheTurtle",
     "typetag": "game",
     "screenshots": [
         "squishy.png"
     ],
     "files": [
         {
-            "description": "release",
-            "filename": "squishy.zip"
-        },
-        {
             "default": true,
             "playable": true,
+            "filename": "squishy-magfest.gb"
+        },
+        {
+            "description": "release (Ludum Dare 34)",
             "filename": "ludum-dare.gb"
         }
     ]
