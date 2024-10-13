@@ -1,10 +1,15 @@
 {
+    "date": "1999-07-13",
     "description": "",
     "developer": "Sabre Wulf",
     "files": [
         {
             "description": "release",
-            "filename": "Cwan__(Gameboy).zip"
+            "filename": "cwan.zip"
+        },
+        {
+            "description": "source",
+            "filename": "CWAN.src.zip"
         },
         {
             "default": true,
