@@ -189,6 +189,15 @@
             },
             "description": "Global preferences aimed at potential consumers of the database (e.g. the Homebrew Hub frontend). Those values ovverride the ones set on the single files."
         },
+        "third-party": {
+            "type": "array",
+            "description": "List of third-party users of the Homebrew Hub API authorised to re-distribute/embed the entry metadata and assets in their clients. See https://github.com/gbdev/database/tree/master/thirdparty for the specific terms.",
+            "items": {
+                "type": "string",
+                "enum": ["sameboy"]
+            },
+            "uniqueItems": true
+        },
         "nsfw": {
             "type": "boolean",
             "description": "The game contains NSFW or (potentially) controversial content"
