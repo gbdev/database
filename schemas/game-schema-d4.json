@@ -46,12 +46,23 @@
         "platform": {
             "type": "string",
             "description": "Target console",
-            "enum": ["GB", "GBC", "GBA", "NES"]
+            "enum": [
+                "GB",
+                "GBC",
+                "GBA",
+                "NES"
+            ]
         },
         "typetag": {
             "type": "string",
             "description": "Type of the software",
-            "enum": ["game", "tool", "demo", "hackrom", "music"]
+            "enum": [
+                "game",
+                "tool",
+                "demo",
+                "hackrom",
+                "music"
+            ]
         },
         "gameLicense": {
             "description": "License under which the software is released",
@@ -110,7 +121,10 @@
                     },
                     {
                         "type": "string",
-                        "enum": ["hw:gbprinter", "hw:gbcamera"]
+                        "enum": [
+                            "hw:gbprinter",
+                            "hw:gbcamera"
+                        ]
                     }
                 ]
             }
@@ -141,24 +155,26 @@
                     }
                 },
                 {
-                  "type": "object",
-                  "properties": {
-                    "title": {
-                      "type": "string",
-                      "description": "The optional title of the link."
+                    "type": "object",
+                    "properties": {
+                        "title": {
+                            "type": "string",
+                            "description": "The optional title of the link."
+                        },
+                        "type": {
+                            "type": "string",
+                            "description": "The optional type of the link, indicating the media type or link relation."
+                        },
+                        "url": {
+                            "type": "string",
+                            "format": "uri",
+                            "description": "The URL of the link."
+                        }
                     },
-                    "type": {
-                      "type": "string",
-                      "description": "The optional type of the link, indicating the media type or link relation."
-                    },
-                    "url": {
-                      "type": "string",
-                      "format": "uri",
-                      "description": "The URL of the link."
-                    }
-                  },
-                  "required": ["url"]
-              }
+                    "required": [
+                        "url"
+                    ]
+                }
             ],
             "description": "Website(s) related to the game, which can be provided as either a single URL or an array of URLs."
         },
@@ -194,7 +210,9 @@
             "description": "List of third-party users of the Homebrew Hub API authorised to re-distribute/embed the entry metadata and assets in their clients. See https://github.com/gbdev/database/tree/master/thirdparty for the specific terms.",
             "items": {
                 "type": "string",
-                "enum": ["sameboy"]
+                "enum": [
+                    "sameboy"
+                ]
             },
             "uniqueItems": true
         },
@@ -215,7 +233,9 @@
             }
         }
     },
-    "required": ["slug"],
+    "required": [
+        "slug"
+    ],
     "definitions": {
         "author": {
             "type": "object",
@@ -247,7 +267,12 @@
                 },
                 "type": {
                     "type": "string",
-                    "enum": ["rom", "manual", "release"]
+                    "enum": [
+                        "rom",
+                        "manual",
+                        "release",
+                        "patch"
+                    ]
                 },
                 "playable": {
                     "type": "boolean",
@@ -274,12 +299,29 @@
                         }
                     }
                 },
+                "apply-to": {
+                    "type": "object",
+                    "description": "If the file is of type 'patch', report here one (or more) of the hash values of the base file against which the patch should be applied",
+                    "properties": {
+                        "md5": {
+                            "type": "string"
+                        },
+                        "sha1": {
+                            "type": "string"
+                        },
+                        "sha256": {
+                            "type": "string"
+                        }
+                    }
+                },
                 "default": {
                     "type": "boolean",
                     "description": "Describes if the file is the default ROM to play"
                 }
             },
-            "required": ["filename"]
+            "required": [
+                "filename"
+            ]
         },
         "license": {
             "type": "string",
