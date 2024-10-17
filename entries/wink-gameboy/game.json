@@ -27,14 +27,19 @@
     ],
     "files": [
         {
-            "default": true,
+            "default": false,
             "filename": "Wink_&_the_Broken_Robot_Beta_5.7.gbc",
+            "playable": true
+        },
+        {
+            "default": true,
+            "filename": "Wink_&_the_Broken_Robot_Beta_5.8.gbc",
             "playable": true
         }
     ],
     "developer": "Max Oakland",
     "website": "https://maxoakland.itch.io/wink-gameboy",
     "slug": "wink-gameboy",
-    "title": "Wink GameBoy - Beta 5.7",
+    "title": "Wink GameBoy - Beta 5.8",
     "description": "Wink\u00e2\u0080\u0099s smallest adventure yet! \u00e2\u0080\u0094 Made with GB Studio"
 }
