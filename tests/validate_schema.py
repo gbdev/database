@@ -9,7 +9,7 @@ import sys
 
 from jsonschema import validate, ValidationError
 
-with open("../game-schema-d4.json") as f:
+with open("../schemas/game-schema-d4.json") as f:
     schema = json.load(f)
 
 path = "../entries/"
