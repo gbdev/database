@@ -169,25 +169,25 @@
         },
         "wip": {
             "type": "boolean",
-            "description": "Flag a game as work-in-progress (not yet completely stable/bugfree)"
+            "description": "Flag the entry as work-in-progress."
         },
         "commercial": {
             "type": "boolean",
-            "description": "Flag the entry as a commercial release"
+            "description": "Flag the entry as a commercial (i.e. the main/most complete version of the game is distributed for profit)."
         },
         "use-requirements": {
             "type": "object",
             "properties": {
-                "disabledownloads": {
+                "disable-downloads": {
                     "type": "boolean",
                     "description": "Disable downloads for all the attached files to the entry"
                 },
-                "disableplay": {
+                "disable-play": {
                     "type": "boolean",
                     "description": "Allow or not the game to be played directly on the website through an emulator"
                 }
             },
-            "description": "Global preferences aimed at potential users of the database (e.g. the Homebrew Hub frontend). Those values ovverride the ones set to the single files."
+            "description": "Global preferences aimed at potential consumers of the database (e.g. the Homebrew Hub frontend). Those values ovverride the ones set on the single files."
         },
         "nsfw": {
             "type": "boolean",
