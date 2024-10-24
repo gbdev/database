@@ -1,15 +1,21 @@
 {
     "date": "1999-03-11",
+    "description": "STARFIGHT for GAMEBOY means real action PLEASURE in less than 4096 bytes (don't ask where the stars are in the game, that isn't the point anyways)",
+    "developer": "Martin Korth",
     "files": [
         {
             "default": true,
-            "filename": "Starfight (PD) [C].gbc",
+            "filename": "starfigh.gb",
             "playable": true
+        },
+        {
+            "description": "release",
+            "filename": "starfigh.zip"
         }
-    ],
-    "platform": "GBC",
+   ],
+    "platform": "GB",
     "screenshots": [
-        "Starfight (PD) [C].png"
+        "starfigh.png"
     ],
     "slug": "starfight",
     "title": "Starfight",
