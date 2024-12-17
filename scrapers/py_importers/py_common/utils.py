@@ -1,28 +1,22 @@
-import sys
-import py_common.utils
+
 import re
 import json
 import shutil
 import zipfile
 import fnmatch
-import urllib3
 import requests
-import unicodedata
 import contextlib
 import urllib
-from urllib.request import urlopen
-import imghdr
 from PIL import Image
 
 import os
 from os import listdir
-from os.path import isfile, join
 
-from bs4 import BeautifulSoup
 from unidecode import unidecode
 
 from py_common.Logger import Logger
 from py_common.Production import Production
+import py7zr
 
 ###########################
 ### GLOBAL VAR AND CONS ###
@@ -130,7 +124,10 @@ def build(prod: Production, entrypath: str, desired_extentions: list):
 
         # figuring out the suffix
         suffix = str.lower(prod.url.split(".")[-1])
+        
         if suffix not in desired_extentions:
+            print("ERROR: " + prod.slug + " extension is not a " +
+                  str(desired_extentions) + " file!")
             suffix = "gb"
 
         # building the filepath
@@ -164,48 +161,60 @@ def build(prod: Production, entrypath: str, desired_extentions: list):
                     shutil.copyfileobj(r, f)
 
         # unzip in case of zip
-        if prod.url.endswith(".zip") or prod.url.endswith(".ZIP"):
-            # download and unzip
-            try:
-                with zipfile.ZipFile(filepath + prod.slug + "." + suffix, "r") as zip_ref:
-                    zip_ref.extractall(filepath + "unzippedfolder")
-
-                # manage all extensions, and it doesn't matter if they have uppercase or lowercase
-                path = []       # eventually the file
-
-                extentions = fix_extentions(desired_extentions)
-                for extension in extentions:
-                    path = fetch_prod_name(prod, extension, filepath)
-                    if path != []:
-                        break
-
-                # proper renaming and moving the file
-                if path != []:
-                    os.rename(path[0], filepath + prod.slug +
-                              "." + extension.lower())
-
-                    # update production object file
-                    prod.files.append(prod.slug + "." + extension.lower())
-                else:
-                    logger.write(
-                        "[WARN]", prod.title + " extension is not a " + prod.platform + " file.")
+        if suffix in ["zip", "7z"]:
+            # manage zip file
+            if prod.url == "zip":
+                try:
+                    with zipfile.ZipFile(filepath + prod.slug + "." + suffix, "r") as zip_ref:
+                        zip_ref.extractall(filepath + "unzippedfolder")
+                except zipfile.BadZipFile as e:
+                    logger.write("[ERR] ", str(e) + " bad zip file")
                     shutil.rmtree(entrypath + prod.slug)
                     return 1
+            # manage 7z file
+            elif suffix == "7z":
+                try:
+                    with py7zr.SevenZipFile(filepath + prod.slug + "." + suffix, mode='r') as z:
+                        z.extractall(filepath + "unzippedfolder")
+                except py7zr.exceptions.Bad7zFile as e:
+                    logger.write("[ERR] ", str(e) + " bad 7z file")
+                    shutil.rmtree(entrypath + prod.slug)
+                    return 1
+        
+            # manage all extensions, and it doesn't matter if they have uppercase or lowercase
+            path = []       # eventually the file
 
-                # cleaning up unneeded files
-                shutil.rmtree(filepath + "unzippedfolder")
-                if CLEANZIP:
-                    os.remove(filepath + prod.slug + "." + "zip")
-            except zipfile.BadZipFile as e:
-                logger.write("[ERR] ", str(e) + " bad zip file")
+            extentions = fix_extentions(desired_extentions)
+            for extension in extentions:
+                path = fetch_prod_name(prod, extension, filepath)
+                if path != []:
+                    break
+
+            # proper renaming and moving the file
+            if path != []:
+                os.rename(path[0], filepath + prod.slug +
+                            "." + extension.lower())
+
+                # update production object file
+                prod.files.append(prod.slug + "." + extension.lower())
+            else:
+                logger.write(
+                    "[WARN]", prod.title + " extension is not a " + prod.platform + " file.")
                 shutil.rmtree(entrypath + prod.slug)
                 return 1
+
+            # cleaning up unneeded files
+            shutil.rmtree(filepath + "unzippedfolder")
+
+            for ext in ["zip", "7z"]:
+                if CLEANZIP and os.path.exists(filepath + prod.slug + "." + ext):
+                    os.remove(filepath + prod.slug + "." + ext)
         else:
             # it is a proper gb file -> just write the filename in its own structure field
             pass
 
         # download the screenshot
-        if prod.screenshots != None and prod.screenshots != [] and prod.screenshots[0] != "None":
+        if prod.screenshots is not None and prod.screenshots != [] and prod.screenshots[0] != "None":
             r = requests.get(
                 prod.screenshots[0], allow_redirects=True, timeout=None)
 

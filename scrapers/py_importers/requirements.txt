@@ -12,3 +12,4 @@ webencodings==0.5.1
 wget==3.2
 webptools==0.0.5
 pillow==8.3.2
+py7zr==0.22.0
