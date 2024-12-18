@@ -3,17 +3,8 @@
 # URL is structured in this way:
 # https://demozoo.org/productions/?platform={internal_no_platform}&production_type={internal_prodtype_number}
 
-import sys
-import re
-import os
-import json
-import shutil
-import zipfile
-import fnmatch
-import urllib3
+
 import requests
-import unicodedata
-from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 from py_common.Logger import Logger
@@ -71,13 +62,15 @@ def scrape(platform):
     page = requests.get(baseurl + "/productions/?platform=" + str(PLATFORMS[platform][0]) + "&page=1", timeout=None)
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    # get total number of pages
-    span_pages = soup.find("span", {"class":"current"})
-    numberofpages = int(str.strip(span_pages.text).split(" ")[-1].split(".")[0])
-    logger.write("[INFO]", "Total number of pages: " + str(numberofpages) )
-
     # parsing every page
-    for i in range(0, numberofpages):
+    enough_page = True
+    i = 0
+    while enough_page:
+        if soup.find('a', {"title": "Next_page"}):
+            enough_page = True
+        else:
+            enough_page = False
+
         logger.write("[INFO]", "Parsing page: " + str(i+1) )
         #TODO: dont call twice this page, as it is called before
         
@@ -107,7 +100,7 @@ def scrape(platform):
 
                     # check if it could be added to database or not
                     # building files
-                    ret = utils.build(prod, entrypath, ["GB", "GBC"])   # TODO: GBA, add GBA to this list
+                    ret = utils.build(prod, entrypath, ["gb", "gbc"])   # TODO: GBA, add GBA to this list
                 
                     # make required JSON file
                     if ret != 1:
@@ -165,7 +158,7 @@ def scrape_page(slug, url, platform):
     
     # fetching screenshot
     screen_obj = soup.find('a', {"class": "screenshot"})
-    if screen_obj != None:
+    if screen_obj is not None:
         screenshot = screen_obj.get("href")
     else:
         screenshot = "None"
@@ -178,7 +171,7 @@ def scrape_page(slug, url, platform):
 
     # fetching url (if present)
     url = soup.find('ul', {"class": "download_links"})
-    if url != None:
+    if url is not None:
         url = url.findChildren("a")
     else:
         # it doesn't make any sense to have a prod without DL link
@@ -196,11 +189,15 @@ def scrape_page(slug, url, platform):
     elif len(url) >= 2:
         # because almost always the prod will have the secondary mirror as scene.org or smth like that
         url = url[1].get("href")
+        if "scene.org" in url and "view" in url:
+            url = url.replace("view", "get")
 
     # fetching video
     video = soup.find(lambda tag: tag.name == "a" and "youtube" in tag.text.lower())
     video = video.get("href") if video else ""
     
+    files = [f"{slug}.{platform.lower()}"]
+
     return Production(title, slug, developer, platform, typetag, screenshots, files, video, repository=source, url=url)
 
 def main():
