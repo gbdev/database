@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "Titan",
+    "files": [
+        {
+            "default": true,
+            "filename": "to-the-lighthouse.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "to-the-lighthouse.png"
+    ],
+    "slug": "to-the-lighthouse",
+    "title": "To The Lighthouse!",
+    "typetag": "demo"
+}
