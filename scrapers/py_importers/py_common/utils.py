@@ -198,6 +198,7 @@ def build(prod, entrypath: str, desired_extensions: list):
 
         # Handle screenshots
         if prod.screenshots and prod.screenshots[0] != "None":
+            print(prod.screenshots)
             try:
                 r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=None)
                 screen_ext = prod.screenshots[0].split(".")[-1].lower()
@@ -270,6 +271,8 @@ def makeJSON(prod, entrypath):
             "screenshots": [screen for screen in prod.screenshots] if len(prod.screenshots) != 0 else [],
             "slug": prod.slug,
             "title": prod.title,
+            "website": [ prod.url ],
+            "date": prod.date
         }
 
         # adding optional fields

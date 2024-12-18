@@ -6,10 +6,11 @@
 
 import requests
 from bs4 import BeautifulSoup
-
+import re
 from py_common.Logger import Logger
 from py_common.Production import Production
 import py_common.utils as utils
+from datetime import datetime
 
 ########################
 ### GLOBAL VARIABLES ###
@@ -86,7 +87,7 @@ def scrape(platform):
         # get rows; for each rows, get the name of the prod and the internal link
         for link in links:
             demozoo_internal_link = baseurl + "/" + link.get("href")
-            
+            print(demozoo_internal_link)
             # building slug: all lowercase, each word separated by hyphen, no special character
             slug = utils.build_slug(link.text)
 
@@ -115,7 +116,21 @@ def scrape(platform):
                 elif slug in globalgameslist:
                     logger.write("[WARN]", " " + slug + " already in entries folder!")
 
+def parse_date(date_string):
+    date_part = re.search(r"(\d{1,2} [A-Za-z]+ \d{4})|([A-Za-z]+ \d{4})|(\d{4})", date_string)
+    
+    if not date_part:
+        raise ValueError(f"No recognizable date found in: {date_string}")
+    
+    date_part = date_part.group(0)  # Extract the matched part
+    
+    parsed_date = datetime.strptime(date_part, "%d %B %Y")
+
+    # Convert to desired format
+    return parsed_date.strftime("%Y-%m-%d")
+
 def scrape_page(slug, url, platform):
+    demozoo_url = url
     '''
         given a slug and demozoo production url, it returns an object containing everything useful
         to build a file hierarchy
@@ -130,6 +145,17 @@ def scrape_page(slug, url, platform):
 
     # getting title
     title = str.strip(soup.find('div', {"class": "production_title focus_title"}).findChildren("h2")[0].text)
+
+    date_string = str.strip(soup.find('ul', {"class": "attributes"}).findChildren("li")[0].text)
+
+    release_date = None
+
+    try:
+        release_date = parse_date(date_string)
+        print(date_string, "->", parse_date(date_string))
+    except:
+        print("nodate")
+
 
     logger.write("[INFO]", " Adding: " + title + " ...")
 
@@ -198,7 +224,7 @@ def scrape_page(slug, url, platform):
     
     files = [f"{slug}.{platform.lower()}"]
 
-    return Production(title, slug, developer, platform, typetag, screenshots, files, video, repository=source, url=url)
+    return Production(title, slug, developer, platform, typetag, screenshots, files, video, date=release_date, repository=source, url=demozoo_url)
 
 def main():
     for platform in PLATFORMS.keys():
