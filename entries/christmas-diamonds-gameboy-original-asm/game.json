@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "kindid",
+    "files": [
+        {
+            "default": true,
+            "filename": "christmas-diamonds-gameboy-original-asm.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "christmas-diamonds-gameboy-original-asm.png"
+    ],
+    "slug": "christmas-diamonds-gameboy-original-asm",
+    "title": "Christmas Diamonds (GameBoy (original../ASM)",
+    "typetag": "demo"
+}
