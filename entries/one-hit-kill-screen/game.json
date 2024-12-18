@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "One Hit Kill",
+    "files": [
+        {
+            "default": true,
+            "filename": "one-hit-kill-screen.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "one-hit-kill-screen.png"
+    ],
+    "slug": "one-hit-kill-screen",
+    "title": "One Hit Kill Screen",
+    "typetag": "game"
+}
