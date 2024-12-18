@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "xinux",
+    "files": [
+        {
+            "default": true,
+            "filename": "brylknol.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "brylknol.png"
+    ],
+    "slug": "brylknol",
+    "title": "brylkn\u00f6l",
+    "typetag": "demo"
+}
