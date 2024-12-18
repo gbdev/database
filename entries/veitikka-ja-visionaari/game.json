@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "pakaste.",
+    "files": [
+        {
+            "default": true,
+            "filename": "veitikka-ja-visionaari.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "veitikka-ja-visionaari.png"
+    ],
+    "slug": "veitikka-ja-visionaari",
+    "title": "Veitikka ja vision\u00e4\u00e4ri",
+    "typetag": "demo"
+}
