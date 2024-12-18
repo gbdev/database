@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "Beige",
+    "files": [
+        {
+            "default": true,
+            "filename": "beigeray.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "beigeray.png"
+    ],
+    "slug": "beigeray",
+    "title": "BeigeRay",
+    "typetag": "demo"
+}

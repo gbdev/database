@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "Latitude Independent Association",
+    "files": [
+        {
+            "default": true,
+            "filename": "la-miniflash.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "la-miniflash.png"
+    ],
+    "slug": "la-miniflash",
+    "title": "La MiniFlash",
+    "typetag": "game"
+}

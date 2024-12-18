@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "DevEd",
+    "files": [
+        {
+            "default": true,
+            "filename": "downer.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "downer.png"
+    ],
+    "slug": "downer",
+    "title": "Downer",
+    "typetag": "game"
+}

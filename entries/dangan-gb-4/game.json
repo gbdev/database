@@ -1,0 +1,16 @@
+{
+    "description": "",
+    "developer": "Phantasy",
+    "files": [
+        {
+            "default": true,
+            "filename": "dangan-gb-4.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [],
+    "slug": "dangan-gb-4",
+    "title": "Dangan GB +4",
+    "typetag": "demo"
+}
