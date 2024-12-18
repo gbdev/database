@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "developer": "elyon",
+    "files": [
+        {
+            "default": true,
+            "filename": "reflectendo.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "reflectendo.png"
+    ],
+    "slug": "reflectendo",
+    "title": "reflectendo",
+    "typetag": "demo"
+}
