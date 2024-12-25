@@ -283,7 +283,8 @@ def scrape_page(slug, url, platform):
         video,
         date=release_date,
         repository=source,
-        url=demozoo_url,
+        url=url,
+        url2=demozoo_url,
     )
 
 

@@ -21,7 +21,7 @@ import py7zr
 ###########################
 # enable if you want a more detailed log, beta folder and other useful things
 DEBUG = True
-CLEANZIP = True                 # enable if you want to delete downloaded zip file
+CLEANZIP = True  # enable if you want to delete downloaded zip file
 # warning: this must not be blank. If you dont want to use this simply set DEBUG to False
 BETA_FOLDER = "beta"
 # warning: this must not be blank. It is used to store tmp files.
@@ -32,7 +32,7 @@ PREFERRED_OUTPUT = "CONSOLE"
 DONT_CARE_EXT = True
 
 logger = Logger(PREFERRED_OUTPUT)
-headers = {'User-Agent': 'Mozilla/5.0'}
+headers = {"User-Agent": "Mozilla/5.0"}
 
 # required: we need to check if BETA_FOLDER and TMP_FOLDER exist or not
 if not BETA_FOLDER or not TMP_FOLDER or BETA_FOLDER == "" or TMP_FOLDER == "":
@@ -50,13 +50,13 @@ if not os.path.isdir("py_common/" + TMP_FOLDER):
 
 
 def build_slug(slug: str):
-    '''
-        a slug it is built in this way:
-            - removes all special characters, except for letters
-            - makes everything lowercase
-            - hyphens are used instead of spaces
-            - accented characters are normalized (ascii)
-    '''
+    """
+    a slug it is built in this way:
+        - removes all special characters, except for letters
+        - makes everything lowercase
+        - hyphens are used instead of spaces
+        - accented characters are normalized (ascii)
+    """
     # delete characters not needed in the slug
     # removes all except letters and numbers
     slug = re.sub("[^0-9a-zA-ZÀ-ÖØ-öø-ÿ]+", " ", slug)
@@ -68,9 +68,9 @@ def build_slug(slug: str):
 
 
 def find(pattern, path):
-    '''
-        find files matching a path in a folder and its subfolders
-    '''
+    """
+    find files matching a path in a folder and its subfolders
+    """
     result = []
     for root, dirs, files in os.walk(path):
         for name in files:
@@ -81,47 +81,50 @@ def find(pattern, path):
 
 
 def gimme_global_games_list():
-    '''
-        return a list containing all slugs in entrypath 
-    '''
+    """
+    return a list containing all slugs in entrypath
+    """
     entries_list = listdir("../../entries")
 
-    return(sorted(entries_list + listdir("py_common/" + BETA_FOLDER)) if DEBUG else sorted(entries_list))
+    return (
+        sorted(entries_list + listdir("py_common/" + BETA_FOLDER))
+        if DEBUG
+        else sorted(entries_list)
+    )
 
 
 def fetch_prod_name(prod, suffix, filepath):
-    '''
-        return a list with path as the first entry if file is found in the unzippedfolder
-        if DONT_CARE_EXT is enabled, it will search if there is a file with a certain extension
-        regardless what it's scraping
-    '''
-    path = []           # manage the unknown extensions
+    """
+    return a list with path as the first entry if file is found in the unzippedfolder
+    if DONT_CARE_EXT is enabled, it will search if there is a file with a certain extension
+    regardless what it's scraping
+    """
+    path = []  # manage the unknown extensions
 
     # fetching product path in the unzippedfolder
     if DONT_CARE_EXT:
         path = find("*." + suffix, filepath + "unzippedfolder")
     else:
-        if prod.platform == suffix.upper():     # e.g. if "GB" == "GB"
+        if prod.platform == suffix.upper():  # e.g. if "GB" == "GB"
             path = find("*." + suffix, filepath + "unzippedfolder")
 
     return path
 
 
-
 def build(prod, entrypath: str, desired_extensions: list):
-    '''
-        Given a prod "Production" object containing
-        all production's data, create a properly named folder, fetch all files (screenshot + ROM),
-        and organize everything.
-    '''
+    """
+    Given a prod "Production" object containing
+    all production's data, create a properly named folder, fetch all files (screenshot + ROM),
+    and organize everything.
+    """
     # Create folder if not already present
     target_folder = os.path.join(entrypath, prod.slug)
     if not os.path.exists(target_folder):
         os.mkdir(target_folder, 0o777)
 
         # Extract file extension
-        suffix = prod.url.split(".")[-1].lower()
-        
+        suffix = prod.url2.split(".")[-1].lower()
+
         if suffix not in desired_extensions and suffix not in ["zip", "7z", "mp4"]:
             print(f"ERROR: {prod.slug} extension is not in {desired_extensions}")
             suffix = "gb"  # Fallback extension
@@ -132,14 +135,16 @@ def build(prod, entrypath: str, desired_extensions: list):
         # Download the file
         try:
             if prod.url.startswith("http"):
-                r = requests.get(prod.url, allow_redirects=True, timeout=None, verify=False)
+                r = requests.get(
+                    prod.url, allow_redirects=True, timeout=None, verify=False
+                )
                 if r.status_code != 200:
                     raise Exception(f"HTTP Error {r.status_code}")
-                with open(filepath, 'wb') as f:
+                with open(filepath, "wb") as f:
                     f.write(r.content)
             else:
                 with contextlib.closing(urllib.request.urlopen(prod.url)) as r:
-                    with open(filepath, 'wb') as f:
+                    with open(filepath, "wb") as f:
                         shutil.copyfileobj(r, f)
         except Exception as e:
             logger.write("[ERR]:", f"Error downloading {prod.slug}: {e}")
@@ -156,7 +161,7 @@ def build(prod, entrypath: str, desired_extensions: list):
                     with zipfile.ZipFile(filepath, "r") as zip_ref:
                         zip_ref.extractall(unzipped_path)
                 elif suffix == "7z":
-                    with py7zr.SevenZipFile(filepath, mode='r') as z:
+                    with py7zr.SevenZipFile(filepath, mode="r") as z:
                         z.extractall(unzipped_path)
             except Exception as e:
                 logger.write("[ERR]:", f"Failed to extract {suffix} file: {e}")
@@ -173,19 +178,22 @@ def build(prod, entrypath: str, desired_extensions: list):
                     if ext in desired_extensions:
                         extracted_file = os.path.join(root, file)
                         final_file = os.path.join(target_folder, f"{prod.slug}.{ext}")
-                        
+
                         # Move the valid file to the target folder
                         shutil.move(extracted_file, final_file)
                         prod.files.append(f"{prod.slug}.{ext}")
-                        
+
                         valid_file_found = True
                         break
-                    
+
                 if valid_file_found:
                     break
 
             if not valid_file_found:
-                logger.write("[WARN]:", f"No valid files with extensions {desired_extensions} found.")
+                logger.write(
+                    "[WARN]:",
+                    f"No valid files with extensions {desired_extensions} found.",
+                )
                 shutil.rmtree(target_folder)
                 return 1
 
@@ -200,10 +208,12 @@ def build(prod, entrypath: str, desired_extensions: list):
         if prod.screenshots and prod.screenshots[0] != "None":
             print(prod.screenshots)
             try:
-                r = requests.get(prod.screenshots[0], allow_redirects=True, timeout=None)
+                r = requests.get(
+                    prod.screenshots[0], allow_redirects=True, timeout=None
+                )
                 screen_ext = prod.screenshots[0].split(".")[-1].lower()
                 screen_file = os.path.join(target_folder, f"{prod.slug}.{screen_ext}")
-                with open(screen_file, 'wb') as f:
+                with open(screen_file, "wb") as f:
                     f.write(r.content)
 
                 # Convert to PNG if necessary
@@ -216,21 +226,24 @@ def build(prod, entrypath: str, desired_extensions: list):
                 else:
                     prod.screenshots[0] = f"{prod.slug}.png"
             except Exception as e:
-                logger.write("[ERR]:", f"Failed to download screenshot for {prod.slug}: {e}")
+                logger.write(
+                    "[ERR]:", f"Failed to download screenshot for {prod.slug}: {e}"
+                )
                 prod.screenshots = []
 
     else:
-        logger.write("[WARN]:", f"Directory already exists for {prod.slug}. Skipping...")
+        logger.write(
+            "[WARN]:", f"Directory already exists for {prod.slug}. Skipping..."
+        )
         return 1
     return 0
 
 
-
 def fix_extentions(desired_extentions):
-    '''
-        given a theorical list of extensions, it returns a list containing additional correct extensions (like CGB, AGB)
-        in this way, we deals with these kind of files
-    '''
+    """
+    given a theorical list of extensions, it returns a list containing additional correct extensions (like CGB, AGB)
+    in this way, we deals with these kind of files
+    """
     final_list = []
 
     if "GB" in desired_extentions:
@@ -253,9 +266,9 @@ def fix_extentions(desired_extentions):
 
 
 def makeJSON(prod, entrypath):
-    '''
-        build the json file contained in each directory
-    '''
+    """
+    build the json file contained in each directory
+    """
     if os.path.exists(entrypath + prod.slug):
         jsondata = {
             "developer": prod.developer,
@@ -264,29 +277,34 @@ def makeJSON(prod, entrypath):
                 {
                     "default": True,
                     "filename": prod.files[0] if len(prod.files) != 0 else [],
-                    "playable": True
+                    "playable": True,
                 }
             ],
             "platform": prod.platform,
-            "screenshots": [screen for screen in prod.screenshots] if len(prod.screenshots) != 0 else [],
+            "screenshots": [screen for screen in prod.screenshots]
+            if len(prod.screenshots) != 0
+            else [],
             "slug": prod.slug,
             "title": prod.title,
-            "website": [ prod.url ],
-            "date": prod.date
+            "website": [prod.url2],
+            "date": prod.date,
         }
 
         # adding optional fields
         if len(prod.typetag) != 0:
-            jsondata['typetag'] = prod.typetag
-        
+            jsondata["typetag"] = prod.typetag
+
         if prod.repository != "":
-            jsondata['repository'] = prod.repository
-            
+            jsondata["repository"] = prod.repository
 
         updateJSON(jsondata, entrypath + prod.slug + "/game.json")
     else:
-        logger.write("[ERR]", "Unable to create file for " +
-                     prod.slug + ". There is no directory for this prod.")
+        logger.write(
+            "[ERR]",
+            "Unable to create file for "
+            + prod.slug
+            + ". There is no directory for this prod.",
+        )
         return 1
     return 0
 
