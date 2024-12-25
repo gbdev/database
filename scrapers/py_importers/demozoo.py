@@ -15,30 +15,32 @@ from datetime import datetime
 ########################
 ### GLOBAL VARIABLES ###
 ########################
-globalgameslist = utils.gimme_global_games_list()   # slug in entries folder
-logger = Logger(utils.PREFERRED_OUTPUT)     # logger will print in file or on console depending on params in utils.PREFERRED_OUTPUT --> LOG or CONSOLE
+globalgameslist = utils.gimme_global_games_list()  # slug in entries folder
+logger = Logger(
+    utils.PREFERRED_OUTPUT
+)  # logger will print in file or on console depending on params in utils.PREFERRED_OUTPUT --> LOG or CONSOLE
 
 baseurl = "https://demozoo.org"
 blacklist = [
-    #"missing-colors",    # file in a folder...must solve this ASAP
-    "pdroms-com-relaunch"   # duplicate file (and it doesn't have devs specified)
+    # "missing-colors",    # file in a folder...must solve this ASAP
+    "pdroms-com-relaunch"  # duplicate file (and it doesn't have devs specified)
 ]
 
 #############
 ### DEBUG ###
 #############
-added = []              # debug
-#as a friendly reminder, remember to change utils.DEBUG flag!
+added = []  # debug
+# as a friendly reminder, remember to change utils.DEBUG flag!
 
 #################
 ### CONSTANTS ###
 #################
 
-#TODO: GBA placeholder intentionally left here for future development.
+# TODO: GBA placeholder intentionally left here for future development.
 ##
-    # dict containing demozoo's categories,
-    # with a mapped "simplified" category according to CONTRIBUTING.MD 
-    # "game", "homebrew", "demo" or "hackrom"
+# dict containing demozoo's categories,
+# with a mapped "simplified" category according to CONTRIBUTING.MD
+# "game", "homebrew", "demo" or "hackrom"
 ##
 PLATFORMS = {
     "Gameboy": [38, "GB"],
@@ -50,39 +52,50 @@ PLATFORMS = {
 # Default: "../../entries
 entrypath = "py_common/" + utils.BETA_FOLDER + "/" if utils.DEBUG else "../../entries"
 
+
 #################
 ### FUNCTIONS ###
 #################
 def scrape(platform):
-    '''
-        scrape Demozoo prods page and fetches all links
-        - each link will be processed (scraped) and a Production object will be built
-        - this object will be used to build JSON, files and folders
-    ''' 
+    """
+    scrape Demozoo prods page and fetches all links
+    - each link will be processed (scraped) and a Production object will be built
+    - this object will be used to build JSON, files and folders
+    """
     logger.write("[INFO]", "Scraping platform " + platform)
-    page = requests.get(baseurl + "/productions/?platform=" + str(PLATFORMS[platform][0]) + "&page=1", timeout=None)
-    soup = BeautifulSoup(page.content, 'html.parser')
+    page = requests.get(
+        baseurl + "/productions/?platform=" + str(PLATFORMS[platform][0]) + "&page=1",
+        timeout=None,
+    )
+    soup = BeautifulSoup(page.content, "html.parser")
 
     # parsing every page
     enough_page = True
     i = 0
     while enough_page:
-        if soup.find('a', {"title": "Next_page"}):
+        if soup.find("a", {"title": "Next_page"}):
             enough_page = True
         else:
             enough_page = False
 
-        logger.write("[INFO]", "Parsing page: " + str(i+1) )
-        #TODO: dont call twice this page, as it is called before
-        
-        page = requests.get(baseurl + "/productions/?platform=" + str(PLATFORMS[platform][0]) + "&page=" + str(i+1), timeout=None)
-        soup = BeautifulSoup(page.content, 'html.parser')
+        logger.write("[INFO]", "Parsing page: " + str(i + 1))
+        # TODO: dont call twice this page, as it is called before
+
+        page = requests.get(
+            baseurl
+            + "/productions/?platform="
+            + str(PLATFORMS[platform][0])
+            + "&page="
+            + str(i + 1),
+            timeout=None,
+        )
+        soup = BeautifulSoup(page.content, "html.parser")
 
         # get the big prods table
-        prodTable = soup.findAll('tbody')[0].findAll('a')
+        prodTable = soup.findAll("tbody")[0].findAll("a")
 
         # get links "worth to parse" (those ones that links to a production page)
-        links = [ link for link in prodTable if "productions" in link.get("href") ]
+        links = [link for link in prodTable if "productions" in link.get("href")]
 
         # get rows; for each rows, get the name of the prod and the internal link
         for link in links:
@@ -94,19 +107,21 @@ def scrape(platform):
             if slug not in globalgameslist and slug not in blacklist:
                 # scrape demozoo's page: the returned object will be used to build the file hierarchy
                 prod = scrape_page(slug, demozoo_internal_link, PLATFORMS[platform][1])
-                
+
                 if prod != -1:
-                    #DBGPRINT slugprint
-                    #print(prod.slug)
+                    # DBGPRINT slugprint
+                    # print(prod.slug)
 
                     # check if it could be added to database or not
                     # building files
-                    ret = utils.build(prod, entrypath, ["gb", "gbc"])   # TODO: GBA, add GBA to this list
-                
+                    ret = utils.build(
+                        prod, entrypath, ["gb", "gbc"]
+                    )  # TODO: GBA, add GBA to this list
+
                     # make required JSON file
                     if ret != 1:
                         ret = utils.makeJSON(prod, entrypath)
-                        
+
                         # useful to print all added entries (to spot duplicates for example)
                         if utils.DEBUG:
                             added.append(prod.slug)
@@ -116,37 +131,60 @@ def scrape(platform):
                 elif slug in globalgameslist:
                     logger.write("[WARN]", " " + slug + " already in entries folder!")
 
+
 def parse_date(date_string):
-    date_part = re.search(r"(\d{1,2} [A-Za-z]+ \d{4})|([A-Za-z]+ \d{4})|(\d{4})", date_string)
-    
+    date_string = date_string.replace("Released ", "")
+
+    date_part = re.search(
+        r"(\d{1,2} [A-Za-z]+ \d{4})|([A-Za-z]+ \d{4})|(\d{4})", date_string
+    )
+
     if not date_part:
         raise ValueError(f"No recognizable date found in: {date_string}")
-    
-    date_part = date_part.group(0)  # Extract the matched part
-    
-    parsed_date = datetime.strptime(date_part, "%d %B %Y")
 
-    # Convert to desired format
-    return parsed_date.strftime("%Y-%m-%d")
+    date_part = date_part.group(0)  # Extract the matched part
+
+    # Determine the format based on the matched part
+    try:
+        if re.match(
+            r"\d{1,2} [A-Za-z]+ \d{4}", date_part
+        ):  # Full date like "1 January 2024"
+            parsed_date = datetime.strptime(date_part, "%d %B %Y")
+            return parsed_date.strftime("%Y-%m-%d")
+        elif re.match(r"[A-Za-z]+ \d{4}", date_part):  # Month and year like "June 2009"
+            parsed_date = datetime.strptime(date_part, "%B %Y")
+            return parsed_date.strftime("%Y-%m")
+        elif re.match(r"\d{4}", date_part):  # Year only like "2009"
+            parsed_date = datetime.strptime(date_part, "%Y")
+            return parsed_date.strftime("%Y")
+    except ValueError as e:
+        raise ValueError(f"Error parsing date: {e}")
+
 
 def scrape_page(slug, url, platform):
     demozoo_url = url
-    '''
+    """
         given a slug and demozoo production url, it returns an object containing everything useful
         to build a file hierarchy
-    '''
+    """
     # init variables
     screenshots = []
     files = []
     typetag = ""
 
     page = requests.get(url, timeout=None)
-    soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(page.content, "html.parser")
 
     # getting title
-    title = str.strip(soup.find('div', {"class": "production_title focus_title"}).findChildren("h2")[0].text)
+    title = str.strip(
+        soup.find("div", {"class": "production_title focus_title"})
+        .findChildren("h2")[0]
+        .text
+    )
 
-    date_string = str.strip(soup.find('ul', {"class": "attributes"}).findChildren("li")[0].text)
+    date_string = str.strip(
+        soup.find("ul", {"class": "attributes"}).findChildren("li")[0].text
+    )
 
     release_date = None
 
@@ -154,21 +192,28 @@ def scrape_page(slug, url, platform):
         release_date = parse_date(date_string)
         print(date_string, "->", parse_date(date_string))
     except:
-        print("nodate")
-
+        print("COULDN'T PARSE DATE:", date_string)
 
     logger.write("[INFO]", " Adding: " + title + " ...")
 
     # getting developer
-    developer = str.strip(soup.find('div', {"class": "production_title focus_title"}).findChildren("h3")[0].findChildren("a")[0].text)
-    
+    developer = str.strip(
+        soup.find("div", {"class": "production_title focus_title"})
+        .findChildren("h3")[0]
+        .findChildren("a")[0]
+        .text
+    )
+
     # fetching tag
-    list_typetag = soup.find('li', {"class": "signpost"})
+    list_typetag = soup.find("li", {"class": "signpost"})
     if list_typetag == None:
         typetag = ""
     else:
-        typetag = str.strip(list_typetag.text if not isinstance(list_typetag, list) else list_typetag[0].text)
-
+        typetag = str.strip(
+            list_typetag.text
+            if not isinstance(list_typetag, list)
+            else list_typetag[0].text
+        )
 
     if "TRO" in typetag.upper() or "DEMO" in typetag.upper():
         typetag = "demo"
@@ -181,9 +226,9 @@ def scrape_page(slug, url, platform):
     else:
         logger.write("[WARN]", " We don't care about this category: " + typetag)
         return -1
-    
+
     # fetching screenshot
-    screen_obj = soup.find('a', {"class": "screenshot"})
+    screen_obj = soup.find("a", {"class": "screenshot"})
     if screen_obj is not None:
         screenshot = screen_obj.get("href")
     else:
@@ -196,7 +241,7 @@ def scrape_page(slug, url, platform):
     source = source.get("href") if source else ""
 
     # fetching url (if present)
-    url = soup.find('ul', {"class": "download_links"})
+    url = soup.find("ul", {"class": "download_links"})
     if url is not None:
         url = url.findChildren("a")
     else:
@@ -210,7 +255,10 @@ def scrape_page(slug, url, platform):
     elif len(url) == 1:
         url = url[0].get("href")
         if "modermodemet.se" in url:
-            logger.write("[ERR]", " modermodemet.se is not available, and no other valid link has been found")
+            logger.write(
+                "[ERR]",
+                " modermodemet.se is not available, and no other valid link has been found",
+            )
             return -1
     elif len(url) >= 2:
         # because almost always the prod will have the secondary mirror as scene.org or smth like that
@@ -221,19 +269,33 @@ def scrape_page(slug, url, platform):
     # fetching video
     video = soup.find(lambda tag: tag.name == "a" and "youtube" in tag.text.lower())
     video = video.get("href") if video else ""
-    
+
     files = [f"{slug}.{platform.lower()}"]
 
-    return Production(title, slug, developer, platform, typetag, screenshots, files, video, date=release_date, repository=source, url=demozoo_url)
+    return Production(
+        title,
+        slug,
+        developer,
+        platform,
+        typetag,
+        screenshots,
+        files,
+        video,
+        date=release_date,
+        repository=source,
+        url=demozoo_url,
+    )
+
 
 def main():
     for platform in PLATFORMS.keys():
-        logger.write("[INFO]","Parsing platform: " + platform)
+        logger.write("[INFO]", "Parsing platform: " + platform)
         scrape(platform)
-    
+
+
 main()
 
 if utils.DEBUG:
-    [ logger.write("[TITLE]", f) for f in added ]
+    [logger.write("[TITLE]", f) for f in added]
 
 logger.write("[INFO]", "demozoo importer ended!")
