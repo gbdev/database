@@ -37,7 +37,7 @@ def look_for_rom(files):
     return -1
 
 
-'''
+"""
    given a path of a folder containing rom to be added in the database
    it says if we're adding duplicates or nope
 
@@ -48,7 +48,7 @@ def look_for_rom(files):
 
     params: beta flag --> if on, it won't print again the recap at the end and it will print a special [BETA] tag if a rom turns
     out to be duplicated
-'''
+"""
 d = dict()
 
 
@@ -85,12 +85,17 @@ def check_entries_folder(entries_path, beta=False):
                     # print(rom_name + " " + hash)
                     if len(d[hash]["appears_in"]) > 1:
                         print(
-                            "[BETA] " + f"{d[hash]['filename']} found in entries: {d[hash]['appears_in']}")
+                            "[BETA] "
+                            + f"{d[hash]['filename']} found in entries: {d[hash]['appears_in']}"
+                        )
 
             except:
                 print(data["slug"] + ": hash can't be retrieved.")
         else:
             print(data["slug"] + ": hash can't be retrieved.")
+
+        with open("rom-hashes.json", "w") as json_file:
+            json.dump(d, json_file, indent=4)
 
     """
     If a list contains more than one slug, it means that those slugs are the same,
@@ -101,18 +106,25 @@ def check_entries_folder(entries_path, beta=False):
     if not beta:
         for key in d:
             if len(d[key]["appears_in"]) > 1:
-                print(
-                    f"{d[key]['filename']} found in entries: {d[key]['appears_in']}")
-                #print("hash: " + key)
+                print(f"{d[key]['filename']} found in entries: {d[key]['appears_in']}")
+                # print("hash: " + key)
 
 
 def main():
     args = sys.argv[1:]
 
     if "-h" in args or "--help" in args:
-        print("Usage: ./dupe_finder <entries folder>\n\t<entries_folder> are roms to be checked, hardcoded in source at DEFAULT_ENTRIES_FOLDER = " + DEFAULT_ENTRIES_FOLDER + "\n" +
-              "Parameters:\n\t--beta <entries beta folder>:\n\t\tabsolute path where the beta folder is: new entries that are going to be merged\n" +
-              "\t\thardcoded in source at DEFAULT_BETA_FOLDER = " + DEFAULT_BETA_FOLDER + "\n" + "\t--help\n" + "\t\tshow this message")
+        print(
+            "Usage: ./dupe_finder <entries folder>\n\t<entries_folder> are roms to be checked, hardcoded in source at DEFAULT_ENTRIES_FOLDER = "
+            + DEFAULT_ENTRIES_FOLDER
+            + "\n"
+            + "Parameters:\n\t--beta <entries beta folder>:\n\t\tabsolute path where the beta folder is: new entries that are going to be merged\n"
+            + "\t\thardcoded in source at DEFAULT_BETA_FOLDER = "
+            + DEFAULT_BETA_FOLDER
+            + "\n"
+            + "\t--help\n"
+            + "\t\tshow this message"
+        )
         exit(0)
 
     check_entries_folder(DEFAULT_ENTRIES_FOLDER)
