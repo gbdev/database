@@ -14,7 +14,7 @@ games_list = os.listdir(path)
 for game in progressbar.progressbar(games_list, redirect_stdout=True):
     with open(f"../entries/{game}/game.json") as f:
         game = json.load(f)
-    print(f"Checking {game['slug']}..")
+    # print(f"Checking {game['slug']}..")
     for file in game["files"]:
         if file["filename"] not in os.listdir(f"{path}/{game['slug']}"):
             raise Exception(
@@ -25,6 +25,6 @@ for game in progressbar.progressbar(games_list, redirect_stdout=True):
             raise Exception(
                 f'{screenshot} found in manifest but not on disk (entry {game["slug"]})'
             )
-    print(
-        f"{game['slug']}: {len(game['files'])} file(s), {len(game['screenshots'])} screenshot(s)"
-    )
+    # print(
+    #    f"{game['slug']}: {len(game['files'])} file(s), {len(game['screenshots'])} screenshot(s)"
+    # )
