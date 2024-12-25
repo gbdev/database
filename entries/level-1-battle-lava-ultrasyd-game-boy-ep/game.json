@@ -1,0 +1,22 @@
+{
+    "date": "2009",
+    "description": "",
+    "developer": "Battle Lava",
+    "files": [
+        {
+            "default": true,
+            "filename": "level-1-battle-lava-ultrasyd-game-boy-ep.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "level-1-battle-lava-ultrasyd-game-boy-ep.png"
+    ],
+    "slug": "level-1-battle-lava-ultrasyd-game-boy-ep",
+    "title": "Level 1 - Battle Lava & Ultrasyd Game Boy EP",
+    "typetag": "music",
+    "website": [
+        "https://demozoo.org//productions/285652/"
+    ]
+}

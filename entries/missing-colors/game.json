@@ -1,0 +1,22 @@
+{
+    "date": "2018-03-17",
+    "description": "",
+    "developer": "Dreamweb",
+    "files": [
+        {
+            "default": true,
+            "filename": "missing-colors.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "missing-colors.png"
+    ],
+    "slug": "missing-colors",
+    "title": "Missing Colors",
+    "typetag": "music",
+    "website": [
+        "https://demozoo.org//productions/184761/"
+    ]
+}

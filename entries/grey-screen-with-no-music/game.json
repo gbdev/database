@@ -1,0 +1,22 @@
+{
+    "date": "2018-08",
+    "description": "",
+    "developer": "Spacepigs",
+    "files": [
+        {
+            "default": true,
+            "filename": "grey-screen-with-no-music.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "None"
+    ],
+    "slug": "grey-screen-with-no-music",
+    "title": "Grey Screen With No Music",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/346224/"
+    ]
+}

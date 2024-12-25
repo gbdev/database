@@ -1,0 +1,23 @@
+{
+    "date": "2022-08-13",
+    "description": "",
+    "developer": "All You Can Execute",
+    "files": [
+        {
+            "default": true,
+            "filename": "turbocharged.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "https://github.com/AYCEdemo/Turbocharged",
+    "screenshots": [
+        "turbocharged.png"
+    ],
+    "slug": "turbocharged",
+    "title": "Turbocharged",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/312206/"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2002-06-10",
+    "description": "",
+    "developer": "Dual Crew Shining",
+    "files": [
+        {
+            "default": true,
+            "filename": "shantae-8.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "shantae-8.png"
+    ],
+    "slug": "shantae-8",
+    "title": "Shantae +8",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/26879/"
+    ]
+}

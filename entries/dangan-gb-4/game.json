@@ -1,0 +1,22 @@
+{
+    "date": "2019-03-12",
+    "description": "",
+    "developer": "Phantasy",
+    "files": [
+        {
+            "default": true,
+            "filename": "dangan-gb-4.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "None"
+    ],
+    "slug": "dangan-gb-4",
+    "title": "Dangan GB +4",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/201967/"
+    ]
+}

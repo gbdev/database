@@ -1,0 +1,22 @@
+{
+    "date": "2024-02-11",
+    "description": "",
+    "developer": "DevEd",
+    "files": [
+        {
+            "default": true,
+            "filename": "downer.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "downer.png"
+    ],
+    "slug": "downer",
+    "title": "Downer",
+    "typetag": "game",
+    "website": [
+        "https://demozoo.org//productions/338029/"
+    ]
+}

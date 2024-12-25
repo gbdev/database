@@ -1,0 +1,22 @@
+{
+    "date": "2017-10-21",
+    "description": "",
+    "developer": "JMD",
+    "files": [
+        {
+            "default": true,
+            "filename": "lumberjack-for-game-boy.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "lumberjack-for-game-boy.png"
+    ],
+    "slug": "lumberjack-for-game-boy",
+    "title": "Lumberjack for Game Boy",
+    "typetag": "game",
+    "website": [
+        "https://demozoo.org//productions/179603/"
+    ]
+}

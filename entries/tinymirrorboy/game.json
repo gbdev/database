@@ -1,0 +1,22 @@
+{
+    "date": "2022-02-12",
+    "description": "",
+    "developer": "basxto",
+    "files": [
+        {
+            "default": true,
+            "filename": "tinymirrorboy.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "tinymirrorboy.png"
+    ],
+    "slug": "tinymirrorboy",
+    "title": "tinymirrorboy",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/305307/"
+    ]
+}

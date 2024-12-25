@@ -1,0 +1,22 @@
+{
+    "date": "2022-11-12",
+    "description": "",
+    "developer": "Beige",
+    "files": [
+        {
+            "default": true,
+            "filename": "beigeray.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "beigeray.png"
+    ],
+    "slug": "beigeray",
+    "title": "BeigeRay",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/315207/"
+    ]
+}

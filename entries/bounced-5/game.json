@@ -1,0 +1,23 @@
+{
+    "date": "2020-09",
+    "description": "",
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "bounced-5.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "https://github.com/DevEd2/BouncedTrainer",
+    "screenshots": [
+        "bounced-5.png"
+    ],
+    "slug": "bounced-5",
+    "title": "Bounced +5",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/284473/"
+    ]
+}

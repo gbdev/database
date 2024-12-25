@@ -1,0 +1,22 @@
+{
+    "date": "2023-05-20",
+    "description": "",
+    "developer": "xinux",
+    "files": [
+        {
+            "default": true,
+            "filename": "brylknol.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "brylknol.png"
+    ],
+    "slug": "brylknol",
+    "title": "brylkn\u00f6l",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/324522/"
+    ]
+}

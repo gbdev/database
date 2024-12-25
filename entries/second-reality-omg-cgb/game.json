@@ -1,0 +1,22 @@
+{
+    "date": "2014-04",
+    "description": "",
+    "developer": "Mills",
+    "files": [
+        {
+            "default": true,
+            "filename": "second-reality-omg-cgb.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "second-reality-omg-cgb.png"
+    ],
+    "slug": "second-reality-omg-cgb",
+    "title": "Second Reality OMG CGB",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/160037/"
+    ]
+}

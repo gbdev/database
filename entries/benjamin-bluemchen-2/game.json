@@ -1,0 +1,22 @@
+{
+    "date": "2001-11",
+    "description": "",
+    "developer": "Quartex",
+    "files": [
+        {
+            "default": true,
+            "filename": "benjamin-bluemchen-2.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "benjamin-bluemchen-2.png"
+    ],
+    "slug": "benjamin-bluemchen-2",
+    "title": "Benjamin Bluemchen +2",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/8556/"
+    ]
+}

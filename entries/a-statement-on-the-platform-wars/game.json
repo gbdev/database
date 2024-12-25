@@ -1,0 +1,22 @@
+{
+    "date": "2024-03-31",
+    "description": "",
+    "developer": "Moonbase Allstars",
+    "files": [
+        {
+            "default": true,
+            "filename": "a-statement-on-the-platform-wars.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "a-statement-on-the-platform-wars.png"
+    ],
+    "slug": "a-statement-on-the-platform-wars",
+    "title": "A Statement On The Platform Wars",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/342318/"
+    ]
+}

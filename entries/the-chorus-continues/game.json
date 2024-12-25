@@ -1,0 +1,22 @@
+{
+    "date": "2023-07-01",
+    "description": "",
+    "developer": "Inversion",
+    "files": [
+        {
+            "default": true,
+            "filename": "the-chorus-continues.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "the-chorus-continues.png"
+    ],
+    "slug": "the-chorus-continues",
+    "title": "The Chorus Continues",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/325608/"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2001-08-05",
+    "description": "",
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "prince-naseem-boxing-one-giant-moo.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "prince-naseem-boxing-one-giant-moo.png"
+    ],
+    "slug": "prince-naseem-boxing-one-giant-moo",
+    "title": "Prince Naseem Boxing / One Giant Moo",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/8136/"
+    ]
+}

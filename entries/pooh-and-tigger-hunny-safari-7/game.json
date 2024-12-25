@@ -1,0 +1,22 @@
+{
+    "date": "2002-01-21",
+    "description": "",
+    "developer": "Dual Crew Shining",
+    "files": [
+        {
+            "default": true,
+            "filename": "pooh-and-tigger-hunny-safari-7.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "pooh-and-tigger-hunny-safari-7.png"
+    ],
+    "slug": "pooh-and-tigger-hunny-safari-7",
+    "title": "Pooh and Tigger Hunny Safari +7",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/8091/"
+    ]
+}

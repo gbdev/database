@@ -1,0 +1,22 @@
+{
+    "date": "2003-02-10",
+    "description": "",
+    "developer": "Phantasy",
+    "files": [
+        {
+            "default": true,
+            "filename": "tonka-construction-site-6.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "tonka-construction-site-6.png"
+    ],
+    "slug": "tonka-construction-site-6",
+    "title": "Tonka Construction Site +6",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/8555/"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2001-11",
+    "description": "",
+    "developer": "Venom",
+    "files": [
+        {
+            "default": true,
+            "filename": "vip-5.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "vip-5.png"
+    ],
+    "slug": "vip-5",
+    "title": "VIP +5",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/19786/"
+    ]
+}

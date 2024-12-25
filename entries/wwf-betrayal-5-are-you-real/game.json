@@ -1,0 +1,22 @@
+{
+    "date": "2001-08-13",
+    "description": "",
+    "developer": "Dual Crew Shining",
+    "files": [
+        {
+            "default": true,
+            "filename": "wwf-betrayal-5-are-you-real.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "wwf-betrayal-5-are-you-real.png"
+    ],
+    "slug": "wwf-betrayal-5-are-you-real",
+    "title": "WWF Betrayal +5 / Are You Real?!",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/159488/"
+    ]
+}

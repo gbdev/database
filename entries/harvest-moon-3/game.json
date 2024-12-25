@@ -1,0 +1,22 @@
+{
+    "date": "2001-11-03",
+    "description": "",
+    "developer": "Quartex",
+    "files": [
+        {
+            "default": true,
+            "filename": "harvest-moon-3.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "harvest-moon-3.png"
+    ],
+    "slug": "harvest-moon-3",
+    "title": "Harvest Moon 3",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/159469/"
+    ]
+}

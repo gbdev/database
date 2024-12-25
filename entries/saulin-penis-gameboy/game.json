@@ -1,0 +1,22 @@
+{
+    "date": "2008-06",
+    "description": "",
+    "developer": "Jumalauta",
+    "files": [
+        {
+            "default": true,
+            "filename": "saulin-penis-gameboy.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "None"
+    ],
+    "slug": "saulin-penis-gameboy",
+    "title": "Saulin Penis Gameboy",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/355518/"
+    ]
+}

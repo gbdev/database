@@ -1,0 +1,23 @@
+{
+    "date": "2017-05-06",
+    "description": "",
+    "developer": "naavis",
+    "files": [
+        {
+            "default": true,
+            "filename": "roboto.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "repository": "https://github.com/naavis/roboto-demo",
+    "screenshots": [
+        "roboto.png"
+    ],
+    "slug": "roboto",
+    "title": "Roboto",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/171568/"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "date": "2024-10-05",
+    "description": "",
+    "developer": "Latitude Independent Association",
+    "files": [
+        {
+            "default": true,
+            "filename": "la-miniflash.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "la-miniflash.png"
+    ],
+    "slug": "la-miniflash",
+    "title": "La MiniFlash",
+    "typetag": "game",
+    "website": [
+        "https://demozoo.org//productions/358858/"
+    ]
+}

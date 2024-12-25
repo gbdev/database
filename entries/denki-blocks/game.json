@@ -1,0 +1,22 @@
+{
+    "date": "2001-10-18",
+    "description": "",
+    "developer": "Quartex",
+    "files": [
+        {
+            "default": true,
+            "filename": "denki-blocks.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "denki-blocks.png"
+    ],
+    "slug": "denki-blocks",
+    "title": "Denki Blocks",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/159468/"
+    ]
+}

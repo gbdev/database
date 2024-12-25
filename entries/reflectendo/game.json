@@ -1,0 +1,22 @@
+{
+    "date": "2023-02-11",
+    "description": "",
+    "developer": "elyon",
+    "files": [
+        {
+            "default": true,
+            "filename": "reflectendo.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "reflectendo.png"
+    ],
+    "slug": "reflectendo",
+    "title": "reflectendo",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/319020/"
+    ]
+}

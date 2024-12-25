@@ -1,0 +1,22 @@
+{
+    "date": "2024-10-05",
+    "description": "",
+    "developer": "Ajatustenhautomopaja",
+    "files": [
+        {
+            "default": true,
+            "filename": "mokelon-ajattelupeli.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "mokelon-ajattelupeli.png"
+    ],
+    "slug": "mokelon-ajattelupeli",
+    "title": "M\u00f6kel\u00f6n ajattelupeli",
+    "typetag": "game",
+    "website": [
+        "https://demozoo.org//productions/360233/"
+    ]
+}

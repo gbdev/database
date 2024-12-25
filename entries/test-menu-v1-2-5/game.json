@@ -1,0 +1,22 @@
+{
+    "date": "2002",
+    "description": "",
+    "developer": "Resistance",
+    "files": [
+        {
+            "default": true,
+            "filename": "test-menu-v1-2-5.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "test-menu-v1-2-5.png"
+    ],
+    "slug": "test-menu-v1-2-5",
+    "title": "Test Menu V1.2 +5",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/159478/"
+    ]
+}

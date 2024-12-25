@@ -1,0 +1,22 @@
+{
+    "date": "2023-03-11",
+    "description": "",
+    "developer": "ComSha",
+    "files": [
+        {
+            "default": true,
+            "filename": "memory-lane-gameboy-edition.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "memory-lane-gameboy-edition.png"
+    ],
+    "slug": "memory-lane-gameboy-edition",
+    "title": "Memory Lane (Gameboy Edition)",
+    "typetag": "game",
+    "website": [
+        "https://demozoo.org//productions/321101/"
+    ]
+}

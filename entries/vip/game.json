@@ -1,0 +1,22 @@
+{
+    "date": "2001-08-23",
+    "description": "",
+    "developer": "Capital",
+    "files": [
+        {
+            "default": true,
+            "filename": "vip.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "screenshots": [
+        "vip.png"
+    ],
+    "slug": "vip",
+    "title": "VIP",
+    "typetag": "demo",
+    "website": [
+        "https://demozoo.org//productions/26877/"
+    ]
+}
