@@ -10,13 +10,12 @@
         }
     ],
     "platform": "GB",
-    "screenshots": [
-        "None"
-    ],
+    "screenshots": [],
     "slug": "saulin-penis-gameboy",
     "title": "Saulin Penis Gameboy",
     "typetag": "demo",
     "website": [
         "https://demozoo.org//productions/355518/"
-    ]
+    ],
+    "nsfw": true
 }
