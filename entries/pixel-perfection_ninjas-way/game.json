@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "pixel-perfection_ninjas-way",
+    "title": "NINJA'S WAY - Gameboy color",
+    "screenshots": [
+        "screenshots/7OMA7r.png",
+        "screenshots/tbV0zO.gif",
+        "screenshots/ZJBYbK.gif",
+        "screenshots/OJ2h3N.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Platform"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Ninja.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Pixel Perfection",
+    "cover": "cover.png",
+    "website": "https://pixel-perfection.itch.io/ninjas-way"
+}
