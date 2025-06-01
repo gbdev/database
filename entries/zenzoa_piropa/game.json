@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "zenzoa_piropa",
+    "title": "Piropa",
+    "screenshots": [
+        "cover.png",
+        "screenshots/kcXe6Y.png",
+        "screenshots/nyEGbK.png",
+        "screenshots/nhBfI3.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Frogs",
+        "Pixel Art",
+        "Cozy",
+        "Virtual Pet",
+        "Simulation",
+        "8-Bit",
+        "Cute",
+        "Open Source",
+        "Singleplayer"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/piropa-2.1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "sg",
+    "website": "https://zenzoa.itch.io/piropa"
+}
