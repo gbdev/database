@@ -1,0 +1,32 @@
+{
+    "game_id": 1382590,
+    "title": "Conway's Life for Game Boy",
+    "url": "https://novasquirrel.itch.io/conways-life-for-game-boy",
+    "cover_url": "https://img.itch.zone/aW1nLzgwNTMyMzEucG5n/original/IkN8is.png",
+    "screenshots": [
+        "https://img.itch.zone/aW1hZ2UvMTM4MjU5MC84MDUzMjUxLnBuZw==/original/tTtsZz.png",
+        "https://img.itch.zone/aW1hZ2UvMTM4MjU5MC84MDUzMjUzLnBuZw==/original/PPOHY1.png",
+        "https://img.itch.zone/aW1hZ2UvMTM4MjU5MC84MDUzMjU0LnBuZw==/original/6eNAwT.png"
+    ],
+    "description": "Fast implementation of Conway's Life",
+    "released_at": "2018-05-29T04:00:00",
+    "author": "NovaSquirrel",
+    "author_url": "https://novasquirrel.itch.io",
+    "extra": {
+        "status": "Released",
+        "tags": {
+            "Game Boy": "https://itch.io/games/tag-gameboy",
+            "Game Boy ROM": "https://itch.io/games/tag-gameboy-rom",
+            "Homebrew": "https://itch.io/games/tag-homebrew",
+            "Open Source": "https://itch.io/games/tag-open-source"
+        },
+        "code_license": {
+            "zlib License": "https://itch.io/games/code-zlib"
+        },
+        "asset_license": {
+            "Creative Commons Zero v1.0 Universal": "https://itch.io/games/assets-cc0"
+        }
+    },
+    "errors": [],
+    "external_downloads": []
+}
