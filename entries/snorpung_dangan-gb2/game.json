@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "snorpung_dangan-gb2",
+    "title": "Dangan GB2",
+    "screenshots": [
+        "cover.png",
+        "screenshots/jfi2mJ.gif",
+        "screenshots/U1LhJ7.gif",
+        "screenshots/wa%2BxYi.gif",
+        "screenshots/RcheLR.gif",
+        "screenshots/%2Bz8mK7.gif",
+        "screenshots/09f%2FG0.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Shoot 'Em Up",
+        "Shooter",
+        "Bullet Hell"
+
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/DanganGB2.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "snorpung",
+    "website": "https://snorpung.itch.io/dangan-gb2"
+}
