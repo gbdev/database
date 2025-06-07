@@ -1,0 +1,31 @@
+{
+    "screenshots": [
+        "workmasterosgb13.png",
+        "workmasterosgb12.png",
+        "workmasterosgb11.png",
+        "workmasterosgb10.png",
+        "workmasterosgb9.png",
+        "workmasterosgb8.png",
+        "workmasterosgb7.png",
+        "workmasterosgb6.png",
+        "workmasterosgb5.png",
+        "workmasterosgb4.png",
+        "workmasterosgb3.png",
+        "workmasterosgb2.png",
+        "workmasterosgb9.png"
+    ],
+    "typetag": "tool",
+    "tags": [],
+    "files": [
+        {
+            "default": true,
+            "filename": "workmaster.gb",
+            "playable": true
+        }
+    ],
+    "developer": "A.D.Inform",
+    "website": "https://web.archive.org/web/20081226145840/http://workmaster.ru/index.php?p=8",
+    "slug": "work-master-os",
+    "title": "Work Master OS",
+    "description": ""
+}
