@@ -132,6 +132,10 @@
                     },
                     {
                         "type": "string",
+                        "pattern": "^['A-Za-z0-9\\s-]+$"
+                    },
+                    {
+                        "type": "string",
                         "enum": [
                             "hw:gbprinter",
                             "hw:gbcamera",
