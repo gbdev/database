@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "tardigrade-nx_logic-island",
+    "title": "Logic Island",
+    "screenshots": [
+        "cover.png",
+        "screenshots/xnwPwI.png",
+        "screenshots/EhHVsU.png",
+        "screenshots/qfsYnG.png",
+        "screenshots/g6d4Np.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Puzzle",
+        "Black and White"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/LogicIsland-v2.1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Tardigrade",
+    "website": "https://tardigrade-nx.itch.io/logic-island"
+}
