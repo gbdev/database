@@ -19,7 +19,6 @@ errors = 0
 
 for game in progressbar.progressbar(games_list, redirect_stdout=True):
     n += 1
-    print(f"Validating {game}..")
     with open(f"../entries/{game}/game.json") as f:
         game_metadata = json.load(f)
     try:
