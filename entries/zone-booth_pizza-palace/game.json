@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "zone-booth_pizza-palace",
+    "title": "Pizza Palace",
+    "screenshots": [
+        "cover.png",
+        "screenshots/RVN4NR.png",
+        "screenshots/x215uu.png",
+        "screenshots/RMPm%2BH.png",
+        "screenshots/8RUBKt.png",
+        "screenshots/QnkW%2Bi.png",
+        "screenshots/RFx8gn.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "repository": "https://github.com/kinostl/Pizza-Palace",
+    "gameLicense": "GPL-3.0-only",
+    "tags": [
+        "Short"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/pizza_palace.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Zone Booth",
+    "website": "https://zone-booth.itch.io/pizza-palace"
+}

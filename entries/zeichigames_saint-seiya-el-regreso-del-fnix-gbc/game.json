@@ -1,0 +1,43 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "zeichigames_saint-seiya-el-regreso-del-fnix-gbc",
+    "title": "Saint Seiya - El regreso del Fenix (GameBoy Color)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/EJhxfD.png",
+        "screenshots/9roa%2B9.gif",
+        "screenshots/lKUnzQ.gif",
+        "screenshots/5FPNBo.png",
+        "screenshots/U3HTQM.png",
+        "screenshots/k0if3w.png",
+        "screenshots/QqkDZX.png",
+        "screenshots/YGvyxx.png",
+        "screenshots/8sBpLe.png",
+        "screenshots/Wtf39x.png",
+        "screenshots/qtmMBL.png",
+        "screenshots/BLvIgN.png",
+        "screenshots/DBrYyN.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Platformer",
+        "gbstudio",
+        "saint-seiya",
+        "Retro",
+        "los-caballeros-del-zodiaco",
+        "2D",
+        "Anime",
+        "Indie"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/LCZ - El regreso del fenix v1.4.1S (Update 21-01-2023 + Credits) casual mode.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "ZeichiGames",
+    "date": "2022-10-12T06:00:00",
+    "website": "https://zeichigames.itch.io/saint-seiya-el-regreso-del-fnix-gbc"
+}

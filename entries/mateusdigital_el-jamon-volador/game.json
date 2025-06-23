@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "mateusdigital_el-jamon-volador",
+    "title": "El Jamon Volador",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/Eljamonvolador.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "repository": "https://github.com/mateusdigital/el_jamon_volador",
+    "gameLicense": "GPL-3.0-only",
+    "tags": [
+        "Action",
+        "Flappy Bird"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/el-jamon-volador_1.2.1.gb",
+            "playable": true
+        }
+    ],
+    "developer": "mateus.digital",
+    "date": "2023-06-02T03:00:00",
+    "website": "https://mateusdigital.itch.io/el-jamon-volador"
+}
