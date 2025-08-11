@@ -1,5 +1,8 @@
 {
-    "developer": "Gambit Studios",
+    "developer": {
+        "name": "QuangDX",
+        "link": "https://asobitech.com/"
+    },
     "files": [
         {
             "default": true,
