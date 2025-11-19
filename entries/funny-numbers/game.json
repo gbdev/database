@@ -1,0 +1,18 @@
+{
+    "date": "2025-11-19",
+    "developer": "FijiAura",
+    "files": [
+        {
+            "default": true,
+            "filename": "funny-numbers.gb",
+            "playable": true
+        }
+    ],
+    "platform": "GB",
+    "screenshots": [
+        "funny-numbers.png"
+    ],
+    "slug": "funny-numbers",
+    "title": "Funny Numbers",
+    "typetag": "game"
+}
