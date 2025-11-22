@@ -59,7 +59,7 @@ In the folder we just created, create a file called `game.json`. Here's a basic 
 }
 ```
 
-Fill in every property with your values. You can take a look at existing games or the [`game.json` schema](game-schema-d3.json) to make sure everything is correct.
+Fill in every property with your values. You can take a look at existing games or the [`game.json` schema](schemas/game-schema-d4.json) to make sure everything is correct.
 
 #### Required Fields
 
