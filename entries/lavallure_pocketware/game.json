@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "lavallure_pocketware",
+    "title": "PocketWare",
+    "screenshots": [
+        "cover.png",
+        "screenshots/SGNWYU.png",
+        "screenshots/5rnQFt.png",
+        "screenshots/qJQFcE.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "minigames",
+        "8-Bit",
+        "Action",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/PocketWare_v1_2.gb",
+            "playable": true
+        }
+    ],
+    "developer": "lavallure",
+    "website": "https://lavallure.itch.io/pocketware"
+}

@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "blackrookgames_george-demoscene",
+    "title": "George Demoscene",
+    "screenshots": [
+        "cover.png",
+        "screenshots/qemK35.png",
+        "screenshots/4TMpvq.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Parody",
+        "demoscene",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/george_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Black Rook Games",
+    "website": "https://blackrookgames.itch.io/george-demoscene"
+}

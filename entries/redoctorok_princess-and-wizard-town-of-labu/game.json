@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "redoctorok_princess-and-wizard-town-of-labu",
+    "title": "Princess and Wizard: Town of Labu",
+    "screenshots": [
+        "cover.png",
+        "screenshots/sayyRn.gif",
+        "screenshots/umHEuj.png",
+        "screenshots/9MH%2FvS.png",
+        "screenshots/Izqjhp.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "sword",
+        "originalgameboy",
+        "GBJam",
+        "princess",
+        "Adventure",
+        "Wizards",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Princess and Wizard_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "redoctorok",
+    "website": "https://redoctorok.itch.io/princess-and-wizard-town-of-labu"
+}

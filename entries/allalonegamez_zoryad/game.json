@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "allalonegamez_zoryad",
+    "title": "Zoryad",
+    "screenshots": [
+        "cover.png",
+        "screenshots/E%2FrLfg.png",
+        "screenshots/rDcIGT.png",
+        "screenshots/4165yf.png",
+        "screenshots/BAAgmm.png",
+        "screenshots/LPrMkS.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "analogue-pocket",
+        "Action",
+        "Platformer",
+        "gbstudio",
+        "Action-Adventure",
+        "Metroidvania",
+        "gb-studio",
+        "Adventure",
+        "game-boy",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Zoryad (v1.1)_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "allalonegamez",
+    "website": "https://allalonegamez.itch.io/zoryad"
+}

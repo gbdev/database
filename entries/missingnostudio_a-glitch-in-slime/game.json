@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "missingnostudio_a-glitch-in-slime",
+    "title": "a Glitch in Slime",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/ZguCp6.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Role Playing",
+        "glitch",
+        "Slime",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GameDemoAGIS.gb",
+            "playable": true
+        }
+    ],
+    "developer": "MissingNo.Studio",
+    "website": "https://missingnostudio.itch.io/a-glitch-in-slime"
+}

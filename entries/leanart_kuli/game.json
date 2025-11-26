@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "leanart_kuli",
+    "title": "[PREVIEW] KULI",
+    "screenshots": [
+        "cover.png",
+        "screenshots/gW5ZRI.png",
+        "screenshots/K9Ie6a.png",
+        "screenshots/1s5yEJ.png",
+        "screenshots/9QZVjb.png",
+        "screenshots/e%2FXKbE.png",
+        "screenshots/xIzQ%2BX.png",
+        "screenshots/1O%2F1%2FH.png",
+        "screenshots/rCC8j%2B.png",
+        "screenshots/HLtS5q.png",
+        "screenshots/b87O72.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "No AI",
+        "GBJam",
+        "8x8",
+        "Multiplayer",
+        "8-Bit",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/kuli_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Lean Art",
+    "date": "2025-08-31T21:00:00",
+    "website": "https://leanart.itch.io/kuli"
+}

@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "mrex3c98_gb-tile-editor",
+    "title": "GB Tile Editor",
+    "screenshots": [
+        "cover.png",
+        "screenshots/qk5fif.png",
+        "screenshots/71RhE8.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "No AI",
+        "Pixel Art",
+        "2D",
+        "Homebrew",
+        "8-Bit",
+        "Short",
+        "Retro",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/gte.gb",
+            "playable": true
+        }
+    ],
+    "developer": "MrEx3c98",
+    "website": "https://mrex3c98.itch.io/gb-tile-editor"
+}

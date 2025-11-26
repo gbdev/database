@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "studio-anchor_dropblox",
+    "title": "DropBlox!",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Rc%2BnJf.png",
+        "screenshots/ZZ7g6d.png",
+        "screenshots/Gon8%2Fo.png",
+        "screenshots/sDRU%2Bl.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "gbcompo",
+        "Action",
+        "gbcompo2025",
+        "gbdk2020",
+        "gameboy-color",
+        "gbdk",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/dropblox!_prealpha_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "studio-anchor",
+    "website": "https://studio-anchor.itch.io/dropblox"
+}

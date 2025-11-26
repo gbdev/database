@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "i-dig-holes_random-walk-generator",
+    "title": "Random Walk Generator",
+    "screenshots": [
+        "cover.png",
+        "screenshots/y6r7mO.png",
+        "screenshots/LbQkDo.png",
+        "screenshots/wcSOFs.png",
+        "screenshots/NJowEx.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "2D",
+        "Pixel Art",
+        "gb-studio",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/RWG_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "I_dig_holes",
+    "website": "https://i-dig-holes.itch.io/random-walk-generator"
+}

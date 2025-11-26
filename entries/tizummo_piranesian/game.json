@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "tizummo_piranesian",
+    "title": "Piranesian",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/%2Fjm1hu.jpg",
+        "screenshots/j%2F2S8N.png",
+        "screenshots/Pq1Qmf.png",
+        "screenshots/C11yZt.png",
+        "screenshots/Kk%2BEg6.png",
+        "screenshots/cH%2Fdfo.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "Retro",
+        "Adventure",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Piranesian.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Timo",
+    "website": "https://tizummo.itch.io/piranesian"
+}

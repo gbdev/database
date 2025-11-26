@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "beatscribe_gbbbs95",
+    "title": "GbBBS95",
+    "screenshots": [
+        "cover.png",
+        "screenshots/OFfRIx.png",
+        "screenshots/xdd4AP.gif",
+        "screenshots/33zx92.gif",
+        "screenshots/2nXe5m.gif",
+        "screenshots/rYG%2BAN.gif",
+        "screenshots/qAhqYH.png",
+        "screenshots/rwW2yw.gif",
+        "screenshots/uBWiTP.gif"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "Role Playing",
+        "Cozy",
+        "Adventure",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GbBBS95_1.4.4_ESPANOL.gb",
+            "playable": true
+        }
+    ],
+    "developer": "beatscribe",
+    "website": "https://beatscribe.itch.io/gbbbs95"
+}

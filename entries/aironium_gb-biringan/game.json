@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "aironium_gb-biringan",
+    "title": "Lagusan Sa Biringan",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/yjW7rX.jpg",
+        "screenshots/HED0wp.jpg",
+        "screenshots/dEsa4M.jpg",
+        "screenshots/8RZGET.jpg",
+        "screenshots/acHQk%2B.jpg",
+        "screenshots/9BZrKF.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "2D",
+        "Singleplayer",
+        "Top-Down",
+        "Visual Novel",
+        "Role Playing",
+        "Retro",
+        "Adventure",
+        "Exploration",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/LBS0.3.5.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Aironium",
+    "website": "https://aironium.itch.io/gb-biringan"
+}

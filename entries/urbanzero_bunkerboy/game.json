@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "urbanzero_bunkerboy",
+    "title": "BunkerBoy",
+    "screenshots": [
+        "cover.png",
+        "screenshots/xb4Tll.png",
+        "screenshots/xhzmI2.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Strategy",
+        "Survival",
+        "2D",
+        "Indie",
+        "Adventure",
+        "Text based",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/BunkerBoy_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "UrbanZero",
+    "website": "https://urbanzero.itch.io/bunkerboy"
+}

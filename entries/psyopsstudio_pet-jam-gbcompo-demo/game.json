@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "psyopsstudio_pet-jam-gbcompo-demo",
+    "title": "Pet Jam (GBCompo Prototype)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Oa858u.png",
+        "screenshots/DIRh3q.png",
+        "screenshots/OE5n6k.png",
+        "screenshots/L18ofl.png",
+        "screenshots/iY6IkM.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "2D",
+        "Retro",
+        "Virtual Pet",
+        "Life Simulation",
+        "Simulation",
+        "Game Jam",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/PetJam_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "PsyopsStudio",
+    "website": "https://psyopsstudio.itch.io/pet-jam-gbcompo-demo"
+}

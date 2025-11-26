@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "hwilson_ccex",
+    "title": "CLEAVING CALIBER EX [GBC]",
+    "screenshots": [
+        "cover.png",
+        "screenshots/puk3PJ.png",
+        "screenshots/YT%2BN41.png",
+        "screenshots/G0NVog.png",
+        "screenshots/cWB4i6.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "weird",
+        "arkanoid",
+        "On-Rails Shooter",
+        "Breakout",
+        "Homebrew",
+        "Action",
+        "Retro",
+        "gb-studio",
+        "Demake",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/CleavingCaliber_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "CURSED BOOTLEG INC",
+    "website": "https://hwilson.itch.io/ccex"
+}

@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "lmkdots_sheepsplit",
+    "title": "Sheep Split",
+    "screenshots": [
+        "cover.png",
+        "screenshots/UCIFD4.png",
+        "screenshots/xhNt0z.png",
+        "screenshots/o8MGnY.png",
+        "screenshots/PWiv1a.png",
+        "screenshots/plrmFO.png",
+        "screenshots/d3GY9A.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Casual",
+        "8-Bit",
+        "Action",
+        "gbstudio",
+        "Retro",
+        "Arcade",
+        "sheep",
+        "gameboy-color",
+        "gbcompo2025",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SheepSplit_v1.0_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "lmk.dots",
+    "website": "https://lmkdots.itch.io/sheepsplit"
+}

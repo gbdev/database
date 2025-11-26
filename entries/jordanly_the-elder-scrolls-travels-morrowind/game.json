@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "jordanly_the-elder-scrolls-travels-morrowind",
+    "title": "The Elder Scrolls Travels: Morrowind",
+    "screenshots": [
+        "cover.png",
+        "screenshots/SGYsB1.jpg",
+        "screenshots/tDpBB3.jpg",
+        "screenshots/dPcaMw.jpg",
+        "screenshots/YkgB9d.jpg",
+        "screenshots/fdh1%2Bx.jpg",
+        "screenshots/ZcwOyW.jpg",
+        "screenshots/A7dQRR.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "No AI",
+        "Homebrew",
+        "8-Bit",
+        "gbstudio",
+        "Parody",
+        "Role Playing",
+        "Walking simulator",
+        "Cozy",
+        "Fantasy",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/TEST Morrowind 0.6.5.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "jordanly",
+    "website": "https://jordanly.itch.io/the-elder-scrolls-travels-morrowind"
+}

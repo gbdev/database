@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "sasor7i_zako-xylo",
+    "title": "Zako Xylo",
+    "screenshots": [
+        "cover.png",
+        "screenshots/tI6tHx.gif"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Rhythm",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/ZakoXylo_jam_gbc.gb",
+            "playable": true
+        }
+    ],
+    "developer": "sasor7i",
+    "website": "https://sasor7i.itch.io/zako-xylo"
+}

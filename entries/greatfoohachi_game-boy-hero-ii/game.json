@@ -1,0 +1,48 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "greatfoohachi_game-boy-hero-ii",
+    "title": "Game Boy Hero II",
+    "screenshots": [
+        "cover.png",
+        "screenshots/S4nNQ%2B.png",
+        "screenshots/hbOc6h.png",
+        "screenshots/3bFu5U.png",
+        "screenshots/y70mQ%2B.png",
+        "screenshots/CvPP8h.png",
+        "screenshots/Eg1OqV.png",
+        "screenshots/PL6svl.png",
+        "screenshots/fKG7%2Fi.png",
+        "screenshots/GbplLV.png",
+        "screenshots/GtNctf.png",
+        "screenshots/%2FrJVkN.jpg",
+        "screenshots/cBKolc.jpg",
+        "screenshots/MJm%2BMp.jpg",
+        "screenshots/0lAPRq.jpg",
+        "screenshots/rjVxcX.jpg",
+        "screenshots/PwK4Y%2B.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "GBJam",
+        "Fangame",
+        "Rhythm",
+        "8-Bit",
+        "guitar-hero",
+        "Singleplayer",
+        "Parody",
+        "rock-band",
+        "Music",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Game Boy Hero II_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "The Great Foohachi",
+    "date": "2025-08-31T21:40:00",
+    "website": "https://greatfoohachi.itch.io/game-boy-hero-ii"
+}

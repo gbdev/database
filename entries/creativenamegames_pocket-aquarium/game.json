@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "creativenamegames_pocket-aquarium",
+    "title": "Pocket Aquarium",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/ZkdpPe.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "No AI",
+        "Pixel Art",
+        "DRM Free",
+        "Indie",
+        "Singleplayer",
+        "Retro",
+        "Virtual Pet",
+        "Simulation",
+        "Open Source",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Pocket Aquarium 2.5_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "creativenamegames",
+    "website": "https://creativenamegames.itch.io/pocket-aquarium"
+}

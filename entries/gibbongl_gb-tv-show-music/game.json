@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "gibbongl_gb-tv-show-music",
+    "title": "GB TV Show Music",
+    "screenshots": [
+        "cover.png",
+        "screenshots/ynCF%2FO.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "gb-studio",
+        "chiptune",
+        "8-Bit",
+        "Music",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "GibbonGL",
+    "website": "https://gibbongl.itch.io/gb-tv-show-music"
+}

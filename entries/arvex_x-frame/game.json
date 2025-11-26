@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "arvex_x-frame",
+    "title": "X-Frame (Prototype)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/VNUCYT.png",
+        "screenshots/YZ7WOE.png",
+        "screenshots/fEBlZe.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Side Scroller",
+        "Shoot 'Em Up",
+        "Action",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/xframe-128KB-2025-08-31a_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Arvex",
+    "website": "https://arvex.itch.io/x-frame"
+}

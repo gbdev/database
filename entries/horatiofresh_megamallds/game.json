@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "horatiofresh_megamallds",
+    "title": "Mega Mall DS",
+    "screenshots": [
+        "cover.png",
+        "screenshots/g1EF1F.png",
+        "screenshots/4zEMLr.png",
+        "screenshots/c6aG7Y.png",
+        "screenshots/jFz3Lk.png",
+        "screenshots/hbdHFM.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "4bit",
+        "No AI",
+        "Role Playing",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/MegaMallDSv1_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Horatio Fresh",
+    "website": "https://horatiofresh.itch.io/megamallds"
+}

@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "taeyukki_longing-for-life-demo",
+    "title": "Longing for Life [Demo]",
+    "screenshots": [
+        "cover.png",
+        "screenshots/FBe5Bv.png",
+        "screenshots/DbFOwd.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "2D",
+        "Homebrew",
+        "Story Rich",
+        "Narrative",
+        "Retro",
+        "Adventure",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Longing-for-Life_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "taeyukki",
+    "website": "https://taeyukki.itch.io/longing-for-life-demo"
+}

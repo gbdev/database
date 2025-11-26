@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "lamenth_legally-distinct-archeologist",
+    "title": "Legally Distinct Archeologist and the Historically Vague Relic of Inexplicable Importance",
+    "screenshots": [
+        "cover.png",
+        "screenshots/yW91Q2.png",
+        "screenshots/Tcv9Kd.png",
+        "screenshots/4hELoD.png",
+        "screenshots/2%2F%2FkdP.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "Retro",
+        "Adventure",
+        "Platformer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/LDA_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "lamenth",
+    "website": "https://lamenth.itch.io/legally-distinct-archeologist"
+}

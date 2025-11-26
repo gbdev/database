@@ -1,0 +1,22 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "quinevere_point-diver",
+    "title": "Point Diver",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "underwater",
+        "Female Protagonist",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/pointdiver_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "quinevere",
+    "website": "https://quinevere.itch.io/point-diver"
+}

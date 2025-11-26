@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "howdyriceball_polar-peril",
+    "title": "Polar Peril",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/ZpJfMD.jpg",
+        "screenshots/c1l8n1.jpg",
+        "screenshots/OkVpWD.jpg",
+        "screenshots/UgMuD8.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "2D",
+        "8-Bit",
+        "Top-Down",
+        "Cute",
+        "Short",
+        "Retro",
+        "Adventure",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/polarperil_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "howdy riceball",
+    "website": "https://howdyriceball.itch.io/polar-peril"
+}

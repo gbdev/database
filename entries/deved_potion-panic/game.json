@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "deved_potion-panic",
+    "title": "Potion Panic (Demo)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/aAcb4L.png",
+        "screenshots/sXnR7J.png",
+        "screenshots/512Tev.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "No AI",
+        "Pixel Art",
+        "2D",
+        "Female Protagonist",
+        "8-Bit",
+        "Platformer",
+        "Action",
+        "Singleplayer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/potionpanic_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "DevEd",
+    "website": "https://deved.itch.io/potion-panic"
+}

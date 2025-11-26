@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "nilltronic_squarenose-one-shot",
+    "title": "Squarenose ( One Shot )",
+    "screenshots": [
+        "cover.png",
+        "screenshots/fItaZ0.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "sonic",
+        "Retro",
+        "GBJam",
+        "Action",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SquarenoseJam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Nilltronic",
+    "website": "https://nilltronic.itch.io/squarenose-one-shot"
+}

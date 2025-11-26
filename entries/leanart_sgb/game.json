@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "leanart_sgb",
+    "title": "Still Got the Blues",
+    "screenshots": [
+        "cover.png",
+        "screenshots/RadrWg.png",
+        "screenshots/ums3na.png",
+        "screenshots/CjpFgx.png",
+        "screenshots/cFdvA%2F.png",
+        "screenshots/9MCj5Y.png",
+        "screenshots/yN5cA7.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "repository": "https://github.com/TheLeanArt/StillGotTheBlues/",
+    "gameLicense": "MIT",
+    "tags": [
+        "No AI",
+        "noise",
+        "free-software",
+        "GBJam",
+        "8-Bit",
+        "Sound effects",
+        "mixer",
+        "Open Source",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/sgb_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Lean Art",
+    "website": "https://leanart.itch.io/sgb"
+}

@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "anakitten_mario-kart-gb",
+    "title": "Mario Kart GB",
+    "screenshots": [
+        "cover.png",
+        "screenshots/u4x10L.png",
+        "screenshots/LzAJXr.png",
+        "screenshots/VpRxWr.png",
+        "screenshots/JM24xz.png",
+        "screenshots/utKkel.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "No AI",
+        "Top-Down",
+        "8-Bit",
+        "Racing",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Mario Kart GB Version 1.01.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Tacokitten",
+    "website": "https://anakitten.itch.io/mario-kart-gb"
+}

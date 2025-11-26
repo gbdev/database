@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "hypertechgames_where-da-jam-at",
+    "title": "Where Da Jam At?",
+    "screenshots": [
+        "cover.png",
+        "screenshots/YYLfR7.png",
+        "screenshots/3MCmW4.png",
+        "screenshots/%2BAfR0s.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/WhereDaJamAt_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Hyper Tech Games",
+    "website": "https://hypertechgames.itch.io/where-da-jam-at"
+}

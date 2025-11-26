@@ -1,0 +1,42 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "rikoclon_frontrooms-normalities",
+    "title": "Frontrooms: Normalities",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/Z6hO9v.gif",
+        "screenshots/qExOgx.gif",
+        "screenshots/L50YJ9.gif",
+        "screenshots/YnnJo5.gif",
+        "screenshots/Tps4ky.gif",
+        "screenshots/WM5OST.gif",
+        "screenshots/zMQinM.gif",
+        "screenshots/vzv%2FiU.gif",
+        "screenshots/YBDwSj.gif",
+        "screenshots/G2f0aQ.gif",
+        "screenshots/08svBg.gif"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "gb-compo-2025",
+        "Pixel Art",
+        "Horror",
+        "Spooky",
+        "backrooms",
+        "8-Bit",
+        "anomaly",
+        "memory",
+        "gb-studio",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Frontrooms Normalities  0.2.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "RikOclon",
+    "website": "https://rikoclon.itch.io/frontrooms-normalities"
+}

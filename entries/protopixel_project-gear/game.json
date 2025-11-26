@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "protopixel_project-gear",
+    "title": "Project G.E.A.R. - MechJam VI - GB Compo 2025",
+    "screenshots": [
+        "cover.png",
+        "screenshots/qO7Jj%2B.png",
+        "screenshots/B3GqQA.png",
+        "screenshots/0fxxrk.png",
+        "screenshots/tSK0KF.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "GBJam",
+        "Female Protagonist",
+        "Mechs",
+        "Action",
+        "Platformer",
+        "gbstudio",
+        "gbcompo2025",
+        "mechjamvi",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Project GEARS V0.1.1.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Protopixel",
+    "website": "https://protopixel.itch.io/project-gear"
+}

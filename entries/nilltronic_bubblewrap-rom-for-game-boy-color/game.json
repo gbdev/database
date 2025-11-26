@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "nilltronic_bubblewrap-rom-for-game-boy-color",
+    "title": "Bubblewrap Rom for Game Boy Color",
+    "screenshots": [
+        "cover.png",
+        "screenshots/yQ3kuZ.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "weird",
+        "Retro",
+        "Simulation",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Bubblewrap 4.2 JAM.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Nilltronic",
+    "website": "https://nilltronic.itch.io/bubblewrap-rom-for-game-boy-color"
+}

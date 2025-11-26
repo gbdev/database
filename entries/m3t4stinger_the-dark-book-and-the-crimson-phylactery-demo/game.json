@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "m3t4stinger_the-dark-book-and-the-crimson-phylactery-demo",
+    "title": "The Dark Book and The Crimson Phylactery - Demo",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Fantasy",
+        "Adventure",
+        "Role Playing",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/The Dark Book and The Crimson Phylactery_Jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "M3T4Stinger",
+    "website": "https://m3t4stinger.itch.io/the-dark-book-and-the-crimson-phylactery-demo"
+}

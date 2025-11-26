@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "thedarktiger_crate-pusher",
+    "title": "Crate Pusher",
+    "screenshots": [
+        "cover.png",
+        "screenshots/BwA4gL.png",
+        "screenshots/7hLMpB.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "GBJam",
+        "Puzzle",
+        "Arcade",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/CRATEPUSHER_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "[TheDarkTiger]",
+    "website": "https://thedarktiger.itch.io/crate-pusher"
+}

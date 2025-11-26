@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "idk1801_archaea",
+    "title": "ARCHAEA",
+    "screenshots": [
+        "cover.png",
+        "screenshots/DmaQs6.png",
+        "screenshots/VkqYCY.png",
+        "screenshots/9MTn4L.png",
+        "screenshots/jRCQ45.png",
+        "screenshots/TUNDEv.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Action-Adventure",
+        "Retro",
+        "GBJam",
+        "gameb",
+        "Space",
+        "Adventure",
+        "8-Bit",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/ARCHAEA.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Idk",
+    "website": "https://idk1801.itch.io/archaea"
+}

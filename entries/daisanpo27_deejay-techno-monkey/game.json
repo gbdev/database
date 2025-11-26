@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "daisanpo27_deejay-techno-monkey",
+    "title": "Deejay Techno Monkey!",
+    "screenshots": [
+        "cover.png",
+        "screenshots/5CW9nm.png",
+        "screenshots/kzyBMD.png",
+        "screenshots/wOlzLz.png",
+        "screenshots/XdJsJ2.png",
+        "screenshots/RgMfRz.png",
+        "screenshots/mP218Z.png",
+        "screenshots/DhX3YR.png",
+        "screenshots/oqMpAP.png",
+        "screenshots/4ihhhm.png",
+        "screenshots/P8qsrW.png",
+        "screenshots/D%2FmQBh.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "8-Bit",
+        "GBJam",
+        "chiptune",
+        "Simulation",
+        "Music",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/DJ Techno Monkey!_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "DaiSanPo27",
+    "website": "https://daisanpo27.itch.io/deejay-techno-monkey"
+}

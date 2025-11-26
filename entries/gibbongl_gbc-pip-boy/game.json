@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "gibbongl_gbc-pip-boy",
+    "title": "GBC Pip-Boy",
+    "screenshots": [
+        "cover.png",
+        "screenshots/9slKgi.png",
+        "screenshots/Nigc7V.png",
+        "screenshots/iBcbHL.gif",
+        "screenshots/ZC0S75.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "gb-compo-2025",
+        "gbc",
+        "gb-studio",
+        "fallout",
+        "pip-boy",
+        "gb-compo",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Pip-Boy by GibbonGL_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "GibbonGL",
+    "website": "https://gibbongl.itch.io/gbc-pip-boy"
+}

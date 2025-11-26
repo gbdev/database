@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "distractedcoder_luigi-mansion-gameboy-demake",
+    "title": "Luigi Mansion Gameboy Demake - GB Compo 25",
+    "screenshots": [
+        "cover.png",
+        "screenshots/5gpPd5.png",
+        "screenshots/nyjbbQ.png",
+        "screenshots/EfWZ74.png",
+        "screenshots/%2FsBTrU.png",
+        "screenshots/VLAtKe.png",
+        "screenshots/VB07oy.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "Horror",
+        "Top-Down",
+        "Demake",
+        "Action",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/LuigiMansionGameboy_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Distracted Coder",
+    "website": "https://distractedcoder.itch.io/luigi-mansion-gameboy-demake"
+}

@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "tardigrade-nx_game-of-life-kuzushi",
+    "title": "Game of Life Kuzushi",
+    "screenshots": [
+        "cover.png",
+        "screenshots/PsB7bA.png",
+        "screenshots/5wzm0t.png",
+        "screenshots/q%2B%2FrWF.png",
+        "screenshots/aL5OlO.png",
+        "screenshots/u16uqJ.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "Black and White",
+        "Breakout",
+        "game-of-life",
+        "8-Bit",
+        "Action",
+        "Retro",
+        "kuzushi",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Game of Life Kuzushi (v1.0).gb",
+            "playable": true
+        }
+    ],
+    "developer": "Tardigrade",
+    "website": "https://tardigrade-nx.itch.io/game-of-life-kuzushi"
+}

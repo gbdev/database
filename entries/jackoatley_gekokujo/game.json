@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "jackoatley_gekokujo",
+    "title": "Gekokuj\u014d",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Uzyy7v.png",
+        "screenshots/eK2YV4.png",
+        "screenshots/vOVOPU.png",
+        "screenshots/bQlkkx.png",
+        "screenshots/rkv2Fu.png",
+        "screenshots/8zv17%2B.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Strategy",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/gekokujo_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "JackOatley",
+    "website": "https://jackoatley.itch.io/gekokujo"
+}

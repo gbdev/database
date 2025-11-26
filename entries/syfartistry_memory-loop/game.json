@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "syfartistry_memory-loop",
+    "title": "Memory Loop",
+    "screenshots": [
+        "cover.png",
+        "screenshots/O0nIms.png",
+        "screenshots/OPAF8n.png",
+        "screenshots/s00tzF.png",
+        "screenshots/AsgBQD.png",
+        "screenshots/IiizC3.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "mnemonic",
+        "Puzzle",
+        "Singleplayer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/MEMORY LOOP_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "syfartistry",
+    "website": "https://syfartistry.itch.io/memory-loop"
+}

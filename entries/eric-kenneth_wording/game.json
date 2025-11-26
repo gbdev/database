@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "eric-kenneth_wording",
+    "title": "ReWording (GB demo)",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/z4xgKd.png",
+        "screenshots/JcswJY.png",
+        "screenshots/7YeIIk.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "No AI",
+        "Fast-Paced",
+        "Word game",
+        "High Score",
+        "Arcade",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/ReWording_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Eric Kenneth",
+    "website": "https://eric-kenneth.itch.io/wording"
+}

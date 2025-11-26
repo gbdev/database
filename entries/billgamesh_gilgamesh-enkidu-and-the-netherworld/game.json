@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "billgamesh_gilgamesh-enkidu-and-the-netherworld",
+    "title": "Gilgamesh Enkidu and the Netherworld",
+    "screenshots": [
+        "cover.png",
+        "screenshots/weyc12.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "gilgamesh",
+        "enkidu",
+        "Historical",
+        "Platformer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Enkidu_jam-CORRECTED.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "billgamesh",
+    "website": "https://billgamesh.itch.io/gilgamesh-enkidu-and-the-netherworld"
+}

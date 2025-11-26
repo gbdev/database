@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "avivbeeri_scoundrel-gb",
+    "title": "Scoundrel",
+    "screenshots": [
+        "cover.png",
+        "screenshots/H%2FKInR.png",
+        "screenshots/iM0jQK.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "solitaire",
+        "Dungeon Crawler",
+        "Card Game",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SCOUNDREL_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Aviv",
+    "website": "https://avivbeeri.itch.io/scoundrel-gb"
+}

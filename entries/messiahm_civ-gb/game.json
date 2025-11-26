@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "messiahm_civ-gb",
+    "title": "Civ GB",
+    "screenshots": [
+        "cover.jpeg",
+        "screenshots/mE2mbs.jpeg",
+        "screenshots/cbuS9E.jpeg",
+        "screenshots/BvNKBW.jpeg"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Strategy",
+        "GBJam",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/CivGB Demo.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Messiahm",
+    "website": "https://messiahm.itch.io/civ-gb"
+}

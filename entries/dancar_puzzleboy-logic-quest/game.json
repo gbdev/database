@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "dancar_puzzleboy-logic-quest",
+    "title": "PuzzleBoy: Logic Quest",
+    "screenshots": [
+        "cover.gif",
+        "screenshots/HKP7nI.gif",
+        "screenshots/CMXKPe.gif",
+        "screenshots/LUl6cq.gif",
+        "screenshots/vebx%2BJ.gif",
+        "screenshots/JrPXVm.gif"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "takuzu",
+        "sudoku",
+        "Retro",
+        "tents",
+        "Minesweeper",
+        "logic",
+        "Puzzle",
+        "gbdk",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/puzzleboy_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "dancar",
+    "website": "https://dancar.itch.io/puzzleboy-logic-quest"
+}

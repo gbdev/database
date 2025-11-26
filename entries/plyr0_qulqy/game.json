@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "plyr0_qulqy",
+    "title": "qulqy",
+    "screenshots": [
+        "cover.png",
+        "screenshots/i4iuyt.png",
+        "screenshots/EJ3L7F.png",
+        "screenshots/xx8TR8.png",
+        "screenshots/SmgGSe.png",
+        "screenshots/ILKWeG.png",
+        "screenshots/aXejSw.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "repository": "https://codeberg.org/plyr0/qulqy",
+    "gameLicense": "BSD-3-Clause",
+    "tags": [
+        "2D",
+        "8-Bit",
+        "Puzzle",
+        "Singleplayer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/qulqy_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "plyr0",
+    "date": "2025-08-21T09:32:00",
+    "website": "https://plyr0.itch.io/qulqy"
+}
