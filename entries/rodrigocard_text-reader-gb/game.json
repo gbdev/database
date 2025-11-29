@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "rodrigocard_text-reader-gb",
+    "title": "Text Reader GB",
+    "screenshots": [
+        "cover.png",
+        "screenshots/D1kQwh.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "tool",
+        "application",
+        "Text based",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/TXTReaderGB-DEMO.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Rodrigo Rocha",
+    "website": "https://rodrigocard.itch.io/text-reader-gb"
+}

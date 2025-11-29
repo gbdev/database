@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "zartan917_beat-the-sniper",
+    "title": "BEAT THE SNIPER Demo",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/mbZyX%2B.png",
+        "screenshots/9AT0ag.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "demo",
+        "Shooter",
+        "FPS",
+        "Rhythm",
+        "sniper",
+        "beat",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/BeatTheSniper_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "RetroGamma",
+    "website": "https://zartan917.itch.io/beat-the-sniper"
+}

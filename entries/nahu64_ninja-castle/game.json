@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "nahu64_ninja-castle",
+    "title": "Ninja Castle",
+    "screenshots": [
+        "cover.png",
+        "screenshots/t2aDO%2F.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "castle",
+        "Ninja",
+        "Music",
+        "Platformer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/NINJACASTLE_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "NAHU64",
+    "website": "https://nahu64.itch.io/ninja-castle"
+}

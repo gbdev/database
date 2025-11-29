@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "eric-kenneth_submachine-gbc",
+    "title": "Submachine GBC Demo",
+    "screenshots": [
+        "cover.jpeg",
+        "screenshots/xp55mZ.png",
+        "screenshots/oXKBdI.png",
+        "screenshots/7Nc6xX.png",
+        "screenshots/C2i06D.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Point & Click",
+        "Demake",
+        "Adventure",
+        "Atmospheric",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SubmachineGBC_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Eric Kenneth",
+    "website": "https://eric-kenneth.itch.io/submachine-gbc"
+}

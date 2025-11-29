@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "nicholasbm_the-green-knight",
+    "title": "The Green Knight",
+    "screenshots": [
+        "cover.png",
+        "screenshots/88T57q.png",
+        "screenshots/HYh3Im.png",
+        "screenshots/O9riht.png",
+        "screenshots/Esv6DC.png",
+        "screenshots/cV3%2BTf.gif",
+        "screenshots/S4MEB%2B.gif",
+        "screenshots/obhj6o.png",
+        "screenshots/wG3sGM.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "legend",
+        "Medieval",
+        "gameboy-color",
+        "Role Playing",
+        "Adventure",
+        "Hack and Slash",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/The-Green-Knight-v2.2.gb",
+            "playable": true
+        }
+    ],
+    "developer": "8BitNic",
+    "website": "https://nicholasbm.itch.io/the-green-knight"
+}

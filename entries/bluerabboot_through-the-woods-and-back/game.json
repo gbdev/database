@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "bluerabboot_through-the-woods-and-back",
+    "title": "Through the Woods and Back",
+    "screenshots": [
+        "cover.png",
+        "screenshots/h5RzUq.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Adventure",
+        "Pixel Art",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/TTWAB_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Bluerabboot",
+    "website": "https://bluerabboot.itch.io/through-the-woods-and-back"
+}

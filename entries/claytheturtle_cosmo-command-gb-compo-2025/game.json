@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "claytheturtle_cosmo-command-gb-compo-2025",
+    "title": "Cosmo Command - GB Compo 2025",
+    "screenshots": [
+        "cover.png",
+        "screenshots/%2FcH7rW.png",
+        "screenshots/F5hp21.png",
+        "screenshots/PeQw2t.png",
+        "screenshots/D4uSvr.png",
+        "screenshots/rcqcwD.png",
+        "screenshots/wb1PCV.png",
+        "screenshots/FzTduN.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Retro",
+        "Shooter",
+        "Furry",
+        "Sci-fi",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/CosmoCommand_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "claytheturtle",
+    "website": "https://claytheturtle.itch.io/cosmo-command-gb-compo-2025"
+}

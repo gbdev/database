@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "flightbun_millennium-gun",
+    "title": "Millennium Gun",
+    "screenshots": [
+        "cover.png",
+        "screenshots/O96gkJ.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "weird",
+        "8-Bit",
+        "Wild West",
+        "Sci-fi",
+        "Platformer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/millennium-gun_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Finny (@flightbun)",
+    "website": "https://flightbun.itch.io/millennium-gun"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "byjustasix_pilot",
+    "title": "Pilot Care",
+    "screenshots": [
+        "cover.png",
+        "screenshots/aHjinF.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Simulation",
+        "Virtual Pet",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/herogotchi-pilot_care.gb",
+            "playable": true
+        }
+    ],
+    "developer": "King the Asix",
+    "website": "https://byjustasix.itch.io/pilot"
+}

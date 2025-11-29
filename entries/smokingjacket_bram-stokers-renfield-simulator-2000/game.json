@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "smokingjacket_bram-stokers-renfield-simulator-2000",
+    "title": "Bram Stoker's Renfield Simulator 2000",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Tp0pBR.png",
+        "screenshots/LmknaW.png",
+        "screenshots/u6LV9H.png",
+        "screenshots/%2BdjUQE.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "Fangame",
+        "Vampire",
+        "gbstudio",
+        "Short",
+        "Simulation",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Bram Stoker's Renfield Simulator 2000 v1.0.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Smoking Jacket Studios",
+    "website": "https://smokingjacket.itch.io/bram-stokers-renfield-simulator-2000"
+}

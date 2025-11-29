@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "videogamestorytime_fortune-and-glory",
+    "title": "Fortune & Glory",
+    "screenshots": [
+        "cover.png",
+        "screenshots/QBLzKr.png",
+        "screenshots/1NPgtI.png",
+        "screenshots/sf%2FK0u.png",
+        "screenshots/z4ott7.png",
+        "screenshots/7Fzj2k.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Retro",
+        "Homebrew",
+        "Platformer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/FORTUNEANDGLORY_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "VideoGameStoryTime",
+    "website": "https://videogamestorytime.itch.io/fortune-and-glory"
+}

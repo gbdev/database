@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "les-wet_save-maurice-dig",
+    "title": "Save Maurice!",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/ty08Uw.png",
+        "screenshots/Q5M9In.png",
+        "screenshots/cn7vzJ.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Strategy",
+        "Pixel Art",
+        "Procedural Generation",
+        "Arcade",
+        "Exploration",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SAVEMAURICE_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Les Wet",
+    "website": "https://les-wet.itch.io/save-maurice-dig"
+}

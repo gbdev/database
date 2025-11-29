@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "jlim_gbcompo-2025",
+    "title": "GBCompo Cargame 2025",
+    "screenshots": [
+        "cover.png",
+        "screenshots/7N%2BLiY.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Racing",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "JL It & Media",
+    "website": "https://jlim.itch.io/gbcompo-2025"
+}

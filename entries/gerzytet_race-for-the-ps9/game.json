@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "gerzytet_race-for-the-ps9",
+    "title": "Race for the PS9",
+    "screenshots": [
+        "cover.png",
+        "screenshots/JRaKx2.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Shoot 'Em Up",
+        "Action",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/PS9Race.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://gerzytet.itch.io/race-for-the-ps9"
+}

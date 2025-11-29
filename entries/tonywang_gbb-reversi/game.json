@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "tonywang_gbb-reversi",
+    "title": "GB BASIC - Starter Kit - Reversi",
+    "screenshots": [
+        "cover.png",
+        "screenshots/%2B7w26s.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "gbbasic",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Reversi_gbcompo25_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Tony Wang",
+    "website": "https://tonywang.itch.io/gbb-reversi"
+}

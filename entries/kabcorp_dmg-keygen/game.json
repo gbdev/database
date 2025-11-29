@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "kabcorp_dmg-keygen",
+    "title": "DMG Keygen (GameBoy Music)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/6Qf81n.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "keygen",
+        "chiptune",
+        "dmg",
+        "8-Bit",
+        "Music",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/DMGKEYGEN_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Kabcorp",
+    "website": "https://kabcorp.itch.io/dmg-keygen"
+}

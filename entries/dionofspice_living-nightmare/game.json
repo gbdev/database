@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "dionofspice_living-nightmare",
+    "title": "LIVING NIGHTMARE",
+    "screenshots": [
+        "cover.png",
+        "screenshots/DiSMVP.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Horror",
+        "Adventure",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/LivingNightmare_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "DionOfSpice",
+    "website": "https://dionofspice.itch.io/living-nightmare"
+}

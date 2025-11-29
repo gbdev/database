@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "syfartistry_memory-palace",
+    "title": "MEMORY PALACES",
+    "screenshots": [
+        "cover.png",
+        "screenshots/pYwqEG.gif",
+        "screenshots/9Hnpzh.gif",
+        "screenshots/AIOflb.gif",
+        "screenshots/CYxVCj.gif",
+        "screenshots/2FTJLM.png",
+        "screenshots/HRwe8c.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "memory",
+        "Pixel Art",
+        "Retro",
+        "Surreal",
+        "Adventure",
+        "Puzzle",
+        "Top-Down",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/MEMORYPALACE_jam .gbc",
+            "playable": true
+        }
+    ],
+    "developer": "syfartistry",
+    "website": "https://syfartistry.itch.io/memory-palace"
+}

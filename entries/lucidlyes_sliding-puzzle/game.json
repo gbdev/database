@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "lucidlyes_sliding-puzzle",
+    "title": "Sliding Puzzle",
+    "screenshots": [
+        "cover.png",
+        "screenshots/7RvIii.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Sliding_Puzzle_GB.gb",
+            "playable": true
+        }
+    ],
+    "developer": "LucidLyes",
+    "website": "https://lucidlyes.itch.io/sliding-puzzle"
+}

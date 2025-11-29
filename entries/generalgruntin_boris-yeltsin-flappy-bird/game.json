@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "generalgruntin_boris-yeltsin-flappy-bird",
+    "title": "Boris Yeltsin Flappy Bird",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/2TpavG.jpg",
+        "screenshots/ZmWvMG.gif",
+        "screenshots/FmRtGg.jpg",
+        "screenshots/mBRaaV.jpg",
+        "screenshots/vt46EH.jpg"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "soviet",
+        "borisyeltsin",
+        "Homebrew",
+        "Funny",
+        "gameboycolor",
+        "gbstudio",
+        "Parody",
+        "Arcade",
+        "Flappy Bird",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/BorisYeltsinFlappyBird_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "The Real General Grunt",
+    "website": "https://generalgruntin.itch.io/boris-yeltsin-flappy-bird"
+}

@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "extremejay_fatal-error-jazz",
+    "title": "FATAL eRRoR Jazz",
+    "screenshots": [
+        "cover.jpg",
+        "screenshots/XgF2Ri.jpg",
+        "screenshots/EWe3km.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "2D",
+        "Homebrew",
+        "Music Production",
+        "Survivor-like",
+        "Platformer",
+        "Action",
+        "Arena Shooter",
+        "Retro",
+        "Music",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/FATAL eRRoR Jazz_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://extremejay.itch.io/fatal-error-jazz"
+}

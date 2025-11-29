@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "roroto-sic_day-of-the-breach",
+    "title": "Day of the Breach",
+    "screenshots": [
+        "cover.png",
+        "screenshots/5Bl3Fx.gif",
+        "screenshots/dklxsx.png",
+        "screenshots/e4Tla6.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "invader",
+        "rom",
+        "Fast-Paced",
+        "2D",
+        "gameboycompo25",
+        "Shooter",
+        "Space",
+        "fast-paced-shooter",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/day_of_the_breach_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Roroto_Sic",
+    "website": "https://roroto-sic.itch.io/day-of-the-breach"
+}

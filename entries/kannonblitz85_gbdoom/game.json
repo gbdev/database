@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "kannonblitz85_gbdoom",
+    "title": "GBDoom",
+    "screenshots": [
+        "cover.png",
+        "screenshots/a%2FIECm.png",
+        "screenshots/0vxP0y.png",
+        "screenshots/mroivH.png",
+        "screenshots/tJ3o61.png",
+        "screenshots/FimFyX.png",
+        "screenshots/MSGNtv.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "No AI",
+        "Pixel Art",
+        "2D",
+        "Shooter",
+        "8-Bit",
+        "gbstudio",
+        "Doom",
+        "Retro",
+        "gb-studio",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GBDoom_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "KannonBlitz85",
+    "website": "https://kannonblitz85.itch.io/gbdoom"
+}

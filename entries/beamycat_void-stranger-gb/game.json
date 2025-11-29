@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "beamycat_void-stranger-gb",
+    "title": "Void Stranger GB",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Nv6S06.png",
+        "screenshots/FcZ48c.png",
+        "screenshots/i%2Fv9p5.png",
+        "screenshots/%2BIgT%2FZ.png",
+        "screenshots/4bjFY9.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "2D",
+        "Female Protagonist",
+        "Fangame",
+        "8-Bit",
+        "Singleplayer",
+        "Short",
+        "Retro",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/void_stranger_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "BeamyCat",
+    "website": "https://beamycat.itch.io/void-stranger-gb"
+}

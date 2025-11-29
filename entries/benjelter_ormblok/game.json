@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "benjelter_ormblok",
+    "title": "OrmBlok",
+    "screenshots": [
+        "cover.png",
+        "screenshots/H5UK38.png",
+        "screenshots/G27q55.png",
+        "screenshots/I0rhGR.png",
+        "screenshots/E9u9L6.png",
+        "screenshots/ljhefK.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "No AI",
+        "Pixel Art",
+        "High Score",
+        "Non violent",
+        "8-Bit",
+        "blocks",
+        "Minimalist",
+        "Arcade",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/OrmBlok_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Multiple authors",
+    "website": "https://benjelter.itch.io/ormblok"
+}

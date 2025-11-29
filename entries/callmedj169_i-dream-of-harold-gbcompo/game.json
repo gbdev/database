@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "callmedj169_i-dream-of-harold-gbcompo",
+    "title": "I Dream of Harold (GBCompo)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/qGWilf.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Adventure",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/IDREAMOFHAROLD_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "callmeDJ",
+    "website": "https://callmedj169.itch.io/i-dream-of-harold-gbcompo"
+}

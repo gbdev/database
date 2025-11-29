@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "kittyn_goodluckbaby",
+    "title": "GoodLuck Baby",
+    "screenshots": [
+        "cover.png",
+        "screenshots/gfUPEj.png",
+        "screenshots/dNB8Th.png",
+        "screenshots/KeYigG.png",
+        "screenshots/fwTWzA.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "Working Simulator",
+        "Singleplayer",
+        "Cozy",
+        "storygame",
+        "Simulation",
+        "Cute",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/goodluckbaby_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Kii",
+    "website": "https://kittyn.itch.io/goodluckbaby"
+}

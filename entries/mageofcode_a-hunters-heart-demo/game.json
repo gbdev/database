@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "mageofcode_a-hunters-heart-demo",
+    "title": "A Hunter's Heart Demo",
+    "screenshots": [
+        "cover.png",
+        "screenshots/ryS0Vu.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Role Playing",
+        "Action-Adventure",
+        "GBJam",
+        "Adventure",
+        "route-lite",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/A Hunter's Heart_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "MageOfCode",
+    "website": "https://mageofcode.itch.io/a-hunters-heart-demo"
+}

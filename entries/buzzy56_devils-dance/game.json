@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "buzzy56_devils-dance",
+    "title": "The Devil's Dance (DEMO)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/crul7B.png",
+        "screenshots/2yVAsi.png",
+        "screenshots/BPK6Ld.png",
+        "screenshots/92DGes.png",
+        "screenshots/J1fzlp.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "Short",
+        "Retro",
+        "Music",
+        "Rhythm",
+        "Singleplayer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/TheDevil'sDanceDEMO_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Buzzy",
+    "website": "https://buzzy56.itch.io/devils-dance"
+}

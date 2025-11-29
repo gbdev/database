@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "playinstinct_neon-nova",
+    "title": "Neon Nova",
+    "screenshots": [
+        "cover.png",
+        "screenshots/PObTec.png",
+        "screenshots/QBTzgK.png",
+        "screenshots/tzQ6pR.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "8-Bit",
+        "Music",
+        "Driving",
+        "Retro",
+        "Neon",
+        "Racing",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/NEON-NOVA_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "playinstinct",
+    "website": "https://playinstinct.itch.io/neon-nova"
+}

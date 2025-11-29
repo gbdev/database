@@ -31,7 +31,7 @@ If that file is a homebrew, returns its path, otherwise, if files specified in t
 def look_for_rom(files):
     for f in range(0, len(files)):
         ext = files[f]["filename"].split(".")[-1]
-        if ext.lower() in ["gb", "gbc", "cgb", "gba", "agb", "sgb"]:
+        if ext.lower() in ["gb", "gbc", "cgb", "gba", "agb", "sgb", "nes"]:
             return files[f]["filename"]
 
     return -1

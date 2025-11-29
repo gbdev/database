@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "torysciacca_bababal",
+    "title": "Bababal",
+    "screenshots": [
+        "cover.png",
+        "screenshots/DL7ze4.png",
+        "screenshots/cKwCXk.png",
+        "screenshots/xlMYHb.png",
+        "screenshots/lnYvjI.png",
+        "screenshots/t9iSl3.png",
+        "screenshots/YZGB9Q.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Card Game",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Bababal_Jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Tory Sciacca",
+    "website": "https://torysciacca.itch.io/bababal"
+}

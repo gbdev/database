@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "2brownboyz_restaurant-rumble-demo",
+    "title": "Restaurant Rumble",
+    "screenshots": [
+        "cover.png",
+        "screenshots/kCfZZn.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "No AI",
+        "2D",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/ResturantRumble_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "2BrownBoyz",
+    "website": "https://2brownboyz.itch.io/restaurant-rumble-demo"
+}

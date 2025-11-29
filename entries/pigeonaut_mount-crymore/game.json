@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "pigeonaut_mount-crymore",
+    "title": "Mount Crymore",
+    "screenshots": [
+        "cover.png",
+        "screenshots/t%2BoHwg.gif",
+        "screenshots/QBckgt.png",
+        "screenshots/n9b98x.png",
+        "screenshots/CMR3Xh.png",
+        "screenshots/tbXpqF.png",
+        "screenshots/mV5BpD.png",
+        "screenshots/B8khaq.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "rock-climbing",
+        "Platformer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/mount_crymore_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Pigeonaut",
+    "website": "https://pigeonaut.itch.io/mount-crymore"
+}

@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "spicyfuse_god-destroyer-2",
+    "title": "God Destroyer 2",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Pu1QVm.jpeg",
+        "screenshots/3N12Hy.jpeg",
+        "screenshots/OAVhAv.png",
+        "screenshots/0mPtFA.jpeg",
+        "screenshots/emVC%2F6.png",
+        "screenshots/PyVUub.jpeg",
+        "screenshots/TjqQIp.png",
+        "screenshots/Jc%2Fynz.png",
+        "screenshots/12q1%2BM.png",
+        "screenshots/P1gjl7.jpeg"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Short",
+        "Action-Adventure",
+        "Adventure",
+        "Sci-fi",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GD2 music Player.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Spicyfuse",
+    "website": "https://spicyfuse.itch.io/god-destroyer-2"
+}

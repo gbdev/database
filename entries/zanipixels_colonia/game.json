@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "zanipixels_colonia",
+    "title": "Col\u00f4nia",
+    "screenshots": [
+        "cover.png",
+        "screenshots/p33oIs.png",
+        "screenshots/KRRpNA.png",
+        "screenshots/xxAr1d.png",
+        "screenshots/Eox4Pe.png",
+        "screenshots/AC%2BTQv.png",
+        "screenshots/z%2FOy%2FN.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Survival",
+        "Pixel Art",
+        "Horror",
+        "Retro",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/COLONIA_JAM.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Zani.Pixels \u0ca0_\u0ca0",
+    "website": "https://zanipixels.itch.io/colonia"
+}

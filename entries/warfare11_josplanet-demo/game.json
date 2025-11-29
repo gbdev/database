@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "warfare11_josplanet-demo",
+    "title": "Jo'sPlanet_demo",
+    "screenshots": [],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/josplanet_demo_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "warfare11",
+    "website": "https://warfare11.itch.io/josplanet-demo"
+}

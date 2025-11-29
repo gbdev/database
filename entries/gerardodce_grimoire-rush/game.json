@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "gerardodce_grimoire-rush",
+    "title": "Grimoire Rush",
+    "screenshots": [
+        "cover.png",
+        "screenshots/aektLJ.png",
+        "screenshots/JTrm8N.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Puzzle",
+        "Top Down Adventure",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/GRush_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "Gerardodce",
+    "website": "https://gerardodce.itch.io/grimoire-rush"
+}

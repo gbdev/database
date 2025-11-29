@@ -1,0 +1,44 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "bbb-studio_sokopenguin-gb",
+    "title": "SokoPenguin GB",
+    "screenshots": [
+        "cover.png",
+        "screenshots/5u5%2Bfc.png",
+        "screenshots/NNKvWy.png",
+        "screenshots/s%2BYNqm.png",
+        "screenshots/Y%2F8GX3.png",
+        "screenshots/Z2mlSJ.png",
+        "screenshots/PaU8q3.png",
+        "screenshots/MY6eBP.png",
+        "screenshots/VvjNkQ.png",
+        "screenshots/TPP7Wx.png",
+        "screenshots/xASyII.png",
+        "screenshots/mG0JDw.png",
+        "screenshots/%2Bps0LW.png",
+        "screenshots/DpOR%2FQ.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Sokoban",
+        "Indie",
+        "Fangame",
+        "Cute",
+        "Role Playing",
+        "Retro",
+        "Arcade",
+        "Demake",
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Soko Penguin GB_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "BurterButterBeans Studio",
+    "website": "https://bbb-studio.itch.io/sokopenguin-gb"
+}

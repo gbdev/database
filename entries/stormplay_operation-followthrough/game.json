@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "stormplay_operation-followthrough",
+    "title": "Operation: Followthrough",
+    "screenshots": [
+        "cover.png",
+        "screenshots/bJ5%2Bul.png",
+        "screenshots/VHyhiG.png",
+        "screenshots/zypx%2BZ.png",
+        "screenshots/xxCayP.png",
+        "screenshots/ccDwb1.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "No AI",
+        "On-Rails Shooter",
+        "Shooter",
+        "Arcade",
+        "Homebrew",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/OPERATIONFOLLOWTHROUGH_Jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Cobra!",
+    "website": "https://stormplay.itch.io/operation-followthrough"
+}

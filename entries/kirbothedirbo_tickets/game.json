@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "kirbothedirbo_tickets",
+    "title": "Ticket Check!",
+    "screenshots": [
+        "cover.png",
+        "screenshots/SS%2F8yz.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Trains",
+        "Adventure",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Kirbo",
+    "website": "https://kirbothedirbo.itch.io/tickets"
+}

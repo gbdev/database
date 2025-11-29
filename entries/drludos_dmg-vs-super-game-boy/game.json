@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "drludos_dmg-vs-super-game-boy",
+    "title": "DMG vs. Super Game Boy",
+    "screenshots": [
+        "cover.png",
+        "screenshots/ODCPGi.png",
+        "screenshots/LKgeK4.png",
+        "screenshots/oHTLas.png",
+        "screenshots/7%2FiSYd.png",
+        "screenshots/JTQfzp.png",
+        "screenshots/dXGlfe.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "sgb",
+        "Open Source",
+        "Homebrew",
+        "snes",
+        "Action",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/DMGvsSGB_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Dr. Ludos",
+    "website": "https://drludos.itch.io/dmg-vs-super-game-boy"
+}

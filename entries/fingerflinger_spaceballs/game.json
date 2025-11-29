@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "fingerflinger_spaceballs",
+    "title": "SpaceBalls",
+    "screenshots": [
+        "cover.png",
+        "screenshots/D4Bdan.png",
+        "screenshots/oAKV2r.png",
+        "screenshots/MOdAwl.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Action",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/spaceballs_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "fingerflinger",
+    "website": "https://fingerflinger.itch.io/spaceballs"
+}

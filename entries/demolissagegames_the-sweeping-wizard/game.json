@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "demolissagegames_the-sweeping-wizard",
+    "title": "The Sweeping Wizard (demo)",
+    "screenshots": [
+        "cover.png",
+        "screenshots/K2TPHo.png",
+        "screenshots/Y9CV%2Fg.png",
+        "screenshots/2XDx81.png",
+        "screenshots/tAXe9d.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "2D",
+        "GBJam",
+        "High Score",
+        "Homebrew",
+        "8-Bit",
+        "Short",
+        "Retro",
+        "8x8",
+        "Puzzle",
+        "gbdk",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/TheSweepingWizard_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "DemolissageGames",
+    "website": "https://demolissagegames.itch.io/the-sweeping-wizard"
+}

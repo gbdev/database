@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "jeffzzq_western-road",
+    "title": "Western Road [Unfinished]",
+    "screenshots": [
+        "cover.png",
+        "screenshots/evzH7u.png",
+        "screenshots/kNELp7.png",
+        "screenshots/ch71OL.png",
+        "screenshots/4PqOlK.png"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "tags": [
+        "Pixel Art",
+        "Adventure",
+        "gbdk",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/western_road_jam.gbc",
+            "playable": true
+        }
+    ],
+    "developer": "jeffzzq",
+    "website": "https://jeffzzq.itch.io/western-road"
+}

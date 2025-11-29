@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "mrpapshmir_abyss-gbcompo2025",
+    "title": "Abyss - GBCompo2025",
+    "screenshots": [
+        "cover.png",
+        "screenshots/g6yzGq.png",
+        "screenshots/xKVXFO.png",
+        "screenshots/CCwu08.png",
+        "screenshots/5wMGxJ.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "Psychological Horror",
+        "2D",
+        "Adventure",
+        "Atmospheric",
+        "Dark",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Abyss_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "mr.papshmir",
+    "website": "https://mrpapshmir.itch.io/abyss-gbcompo2025"
+}

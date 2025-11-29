@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "rogersama_super-jose-dreamworld",
+    "title": "Super Jos\u00e9 Dreamworld!",
+    "screenshots": [
+        "cover.png",
+        "screenshots/qn1ZKx.png",
+        "screenshots/%2FpdnZS.png",
+        "screenshots/9bMAKA.png",
+        "screenshots/I%2F0aBv.png",
+        "screenshots/feTjsl.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "No AI",
+        "Pixel Art",
+        "2D",
+        "GBJam",
+        "My First Game Jam",
+        "Retro",
+        "Adventure",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/SuperJoseDreamWorld_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "roger.sama",
+    "website": "https://rogersama.itch.io/super-jose-dreamworld"
+}

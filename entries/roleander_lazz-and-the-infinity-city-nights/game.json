@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "roleander_lazz-and-the-infinity-city-nights",
+    "title": "Lazz & \"The City\"",
+    "screenshots": [
+        "cover.png",
+        "screenshots/6hq4Ml.png",
+        "screenshots/qemyoV.png",
+        "screenshots/kX2Oh0.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "videogame",
+        "Isometric",
+        "Platformer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/game.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Roleander",
+    "website": "https://roleander.itch.io/lazz-and-the-infinity-city-nights"
+}

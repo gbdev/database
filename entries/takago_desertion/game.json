@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "takago_desertion",
+    "title": "Desertion",
+    "screenshots": [
+        "cover.png",
+        "screenshots/SQfho3.png",
+        "screenshots/Rw6zMK.png",
+        "screenshots/%2FWvWti.png",
+        "screenshots/2fuTY4.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "Rhythm",
+        "Singleplayer",
+        "Story Rich",
+        "Narrative",
+        "Role Playing",
+        "gb-studio",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/DESERTION_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Takago",
+    "website": "https://takago.itch.io/desertion"
+}

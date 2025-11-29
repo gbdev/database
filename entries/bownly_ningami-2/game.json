@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "bownly_ningami-2",
+    "title": "Ningami 2",
+    "screenshots": [
+        "cover.png",
+        "screenshots/Fzh0oC.png",
+        "screenshots/LO3eTo.png",
+        "screenshots/BPCLFm.png",
+        "screenshots/oh4Q68.png",
+        "screenshots/hieKT9.png",
+        "screenshots/HkmFWu.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Card Game",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/Ningami2_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Bownly",
+    "website": "https://bownly.itch.io/ningami-2"
+}

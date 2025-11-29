@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "pikliz_yasukes-vacation",
+    "title": "Yasuke's Vacation",
+    "screenshots": [
+        "cover.png",
+        "screenshots/F6TQ3f.png",
+        "screenshots/HjW1Zw.png",
+        "screenshots/cjt8i8.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "1bit",
+        "monochrome",
+        "gb-studio",
+        "Platformer",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/YasukesVacation_JAM.gb",
+            "playable": true
+        }
+    ],
+    "developer": "pikliz",
+    "website": "https://pikliz.itch.io/yasukes-vacation"
+}

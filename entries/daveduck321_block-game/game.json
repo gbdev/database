@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "daveduck321_block-game",
+    "title": "Gameboy block game but C++",
+    "screenshots": [
+        "cover.png",
+        "screenshots/s3Orxp.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Puzzle",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/block_game_but_c++_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "DaveDuck321",
+    "website": "https://daveduck321.itch.io/block-game"
+}

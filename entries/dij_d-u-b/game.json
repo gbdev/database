@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "dij_d-u-b",
+    "title": "d-u-b",
+    "screenshots": [
+        "cover.png",
+        "screenshots/yIJJ6R.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "2D",
+        "gbdk",
+        "Rhythm",
+        "Puzzle",
+        "Music",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/d-u-b_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "DJ",
+    "website": "https://dij.itch.io/d-u-b"
+}

@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "lightlytoasteddave_heartsheroes",
+    "title": "Hearts and Heroes",
+    "screenshots": [
+        "cover.png",
+        "screenshots/BQuBsF.png",
+        "screenshots/9dEhmd.png",
+        "screenshots/WVUe%2FJ.png",
+        "screenshots/QayYk1.png",
+        "screenshots/UJcEys.png",
+        "screenshots/5rlIns.png",
+        "screenshots/ZZKy7H.png",
+        "screenshots/6EJ1sw.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Pixel Art",
+        "Female Protagonist",
+        "Mental Health",
+        "Story Rich",
+        "Role Playing",
+        "Retro",
+        "Adventure",
+        "Atmospheric",
+        "Cute",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/HEARTS&HEROES_jam.gb",
+            "playable": true
+        }
+    ],
+    "developer": "davelightlytoasted",
+    "website": "https://lightlytoasteddave.itch.io/heartsheroes"
+}

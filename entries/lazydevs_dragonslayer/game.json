@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "lazydevs_dragonslayer",
+    "title": "DRAGONSLAYER",
+    "screenshots": [
+        "cover.png",
+        "screenshots/UwOBd7.png"
+    ],
+    "typetag": "game",
+    "platform": "GB",
+    "tags": [
+        "Turn-Based Combat",
+        "1-bit",
+        "gb-studio",
+        "Role Playing",
+        "Retro",
+        "Roguelite",
+        "gbcompo2025",
+        "event:gbcompo25"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "files/dragonslayer.gb",
+            "playable": true
+        }
+    ],
+    "developer": "Lazy Dev Games",
+    "website": "https://lazydevs.itch.io/dragonslayer"
+}
