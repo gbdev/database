@@ -1,0 +1,19 @@
+{
+    "description": "Based off of the NES version.",
+    "developer": "FijiAura",
+    "files": [
+        {
+            "default": true,
+            "filename": "rickroll.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "rom": "rickroll.gbc",
+    "screenshots": [
+        "PCM.demo.wgraphics_003.png"
+    ],
+    "slug": "rickroll-pcm",
+    "title": "Rickroll PCM",
+    "typetag": "demo"
+}
