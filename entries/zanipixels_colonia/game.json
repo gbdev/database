@@ -1,15 +1,15 @@
 {
     "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
     "slug": "zanipixels_colonia",
-    "title": "Col\u00f4nia",
+    "title": "Colônia",
     "screenshots": [
         "cover.png",
         "screenshots/p33oIs.png",
         "screenshots/KRRpNA.png",
         "screenshots/xxAr1d.png",
         "screenshots/Eox4Pe.png",
-        "screenshots/AC%2BTQv.png",
-        "screenshots/z%2FOy%2FN.png"
+        "screenshots/AC2BTQv.png",
+        "screenshots/z2FOy2FN.png"
     ],
     "typetag": "game",
     "platform": "GB",
@@ -27,6 +27,6 @@
             "playable": true
         }
     ],
-    "developer": "Zani.Pixels \u0ca0_\u0ca0",
+    "developer": "Zani.Pixels ಠ_ಠ",
     "website": "https://zanipixels.itch.io/colonia"
 }

@@ -1,13 +1,13 @@
 {
     "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
     "slug": "rogersama_super-jose-dreamworld",
-    "title": "Super Jos\u00e9 Dreamworld!",
+    "title": "Super José Dreamworld!",
     "screenshots": [
         "cover.png",
         "screenshots/qn1ZKx.png",
-        "screenshots/%2FpdnZS.png",
+        "screenshots/2FpdnZS.png",
         "screenshots/9bMAKA.png",
-        "screenshots/I%2F0aBv.png",
+        "screenshots/I2F0aBv.png",
         "screenshots/feTjsl.png"
     ],
     "typetag": "game",

@@ -19,13 +19,15 @@ errors = 0
 
 for game in progressbar.progressbar(games_list, redirect_stdout=True):
     n += 1
-    with open(f"../entries/{game}/game.json") as f:
-        game_metadata = json.load(f)
     try:
+        with open(f"../entries/{game}/game.json") as f:
+            game_metadata = json.load(f)
+    
         validate(game_metadata, schema)
-    except ValidationError as e:
+    except Exception as e:
         errors += 1
         print(f"Failed {game}: \n {e}")
+        # sys.exit(1)
 
 if errors > 0:
     print(f"\n {errors} entrie(s) have failed validation")

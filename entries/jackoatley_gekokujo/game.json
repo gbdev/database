@@ -1,7 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
     "slug": "jackoatley_gekokujo",
-    "title": "Gekokuj\u014d",
+    "title": "Gekokujō",
     "screenshots": [
         "cover.png",
         "screenshots/Uzyy7v.png",
@@ -9,7 +9,7 @@
         "screenshots/vOVOPU.png",
         "screenshots/bQlkkx.png",
         "screenshots/rkv2Fu.png",
-        "screenshots/8zv17%2B.png"
+        "screenshots/8zv172B.png"
     ],
     "typetag": "game",
     "platform": "GB",
