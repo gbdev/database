@@ -31,6 +31,6 @@
             "playable": true
         }
     ],
-    "developer": "Multiple authors",
+    "developer": ["Mike Leisz", "Ben Jelter"],
     "website": "https://benjelter.itch.io/ormblok"
 }
