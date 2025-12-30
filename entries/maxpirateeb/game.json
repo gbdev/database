@@ -1,0 +1,28 @@
+{
+    "developer": "Lemmy Hawkins",
+    "date": "2025-12-30",
+    "description": "Updated re-release for the original game. Smash zombies with your anchor and your cannon Bessie. Made with GBDK-2020.",
+    "files": [
+        {
+            "default": true,
+            "filename": "maxpirateeb.gb",
+            "playable": true
+        }
+    ],
+    "license": "MIT",
+    "platform": "GB",
+    "repository": "https://github.com/MWehrstedt/MaxPirateExtra",
+    "screenshots": [
+        "cover.png",
+        "crows-extra-1.png",
+        "crows-extra-2.png",
+        "crows-extra-3.png"
+    ],
+    "slug": "maxpirateeb",
+    "tags": [
+        "Open Source",
+        "Action"
+    ],
+    "title": "Max Pirate Extra Boom",
+    "typetag": "game"
+}
