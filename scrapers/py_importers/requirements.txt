@@ -2,7 +2,7 @@ beautifulsoup4==4.9.3
 bs4==0.0.1
 distlib==0.3.2
 regex==2021.8.3
-requests==2.26.0
+requests==2.32.0
 resolvelib==0.5.5
 six==1.16.0
 soupsieve==2.2.1
