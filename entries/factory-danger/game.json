@@ -1,0 +1,24 @@
+{
+  "platform": "GB",
+  "screenshots": [
+      "1.png"
+  ],
+  "typetag": "game",
+  "tags": [
+      "Platform"
+  ],
+  "files": [
+      {
+          "filename": "factory_danger_v01.gb",
+          "playable": true
+      }
+  ],
+  "developer": "Albert Gonzalez",
+  "title": "FACTORY DANGER",
+  "date": "2026-11-02",
+  "gameWebsite": "https://theisolinearchip.itch.io/factory-danger",
+  "devWebsite": "https://albertgonzalez.coffee",
+  "slug": "factory-danger",
+  "wip": false,
+  "video": "https://www.youtube.com/watch?v=Z5tKIFHU1kw"
+}
