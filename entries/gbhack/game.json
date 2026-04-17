@@ -1,0 +1,23 @@
+{
+    "slug": "gbhack",
+    "title": "GBHack",
+    "developer": "statico",
+    "platform": "GBC",
+    "typetag": "game",
+    "date": "2026-04-16",
+    "license": "MIT",
+    "description": "A roguelike dungeon crawler for the Game Boy Color inspired by NetHack. Descend 15 procedurally generated dungeon levels through permadeath, unidentified items, hunger, pets, shops, and traps to retrieve the Amulet of Yendor. Runs on original GBC hardware. Written in C with GBDK and generated with Claude Code.",
+    "tags": ["RPG", "Open Source"],
+    "repository": "https://github.com/statico/gbhack",
+    "files": [
+        {
+            "default": true,
+            "filename": "gbhack.gbc",
+            "playable": true
+        }
+    ],
+    "screenshots": [
+        "cover.png",
+        "screenshot-1.png"
+    ]
+}
