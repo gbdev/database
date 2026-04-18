@@ -253,9 +253,9 @@
             }
         },
         "ai_disclosure": {
-            "description": "Disclosure of AI usage in the game's development. Absence means unknown or undisclosed. false = explicitly no AI used in any capacity.",
+            "description": "Disclosure of AI usage in the game's development. Absence means unknown or undisclosed. false = explicitly no AI used in any capacity. true = AI was used in some capacity (generic statement, prefer the object form for more detail).",
             "oneOf": [
-                { "type": "boolean", "enum": [false] },
+                { "type": "boolean" },
                 {
                     "type": "object",
                     "properties": {
