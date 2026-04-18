@@ -251,6 +251,36 @@
             "items": {
                 "$ref": "#/definitions/file"
             }
+        },
+        "ai_disclosure": {
+            "description": "Disclosure of AI usage in the game's development. Absence means unknown or undisclosed. false = explicitly no AI used in any capacity.",
+            "oneOf": [
+                { "type": "boolean", "enum": [false] },
+                {
+                    "type": "object",
+                    "properties": {
+                        "assets": {
+                            "description": "AI involvement in game assets (art, music, sound effects, writing). false = no AI used. true = AI was used, level unspecified. assisted = assets were created by humans with AI as a tool (e.g. upscaling sprites, generating variations to pick from, cleaning up audio). generated = assets were produced by AI under human direction (e.g. prompting an image model for sprites, then selecting and integrating results). authored = assets are fully AI-produced with minimal human creative involvement; the human role was essentially just accepting the output.",
+                            "oneOf": [
+                                { "type": "boolean" },
+                                { "type": "string", "enum": ["assisted", "generated", "authored"] }
+                            ]
+                        },
+                        "code": {
+                            "description": "AI involvement in code (logic, tooling, source code). false = no AI used. true = AI was used, level unspecified. assisted = code was written by humans with AI help (e.g. Copilot autocomplete, asking an AI to fix a specific function). generated = AI wrote significant portions of the code under human direction (e.g. prompting for whole modules, then reviewing and integrating). authored = vibe coded; the human prompted what they wanted and accepted/iterated AI output with little to no code review or understanding of the internals.",
+                            "oneOf": [
+                                { "type": "boolean" },
+                                { "type": "string", "enum": ["assisted", "generated", "authored"] }
+                            ]
+                        },
+                        "toolchain": {
+                            "description": "Whether any AI-generated tool or dependency was used in the build pipeline, regardless of the project's own AI usage (e.g. a vibe-coded compiler or music library used upstream).",
+                            "type": "boolean"
+                        }
+                    },
+                    "additionalProperties": false
+                }
+            ]
         }
     },
     "required": [
