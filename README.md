@@ -1,8 +1,10 @@
-# Homebrew Hub games database
+# Homebrew Hub - GB/GBC games database
 
-JSON and Assets database of all the game and homebrew entries on [Homebrew Hub](https://hh.gbdev.io). Propose here additions, improvements and fixes.
+JSON and asset database for **Game Boy and Game Boy Color** homebrew entries on [Homebrew Hub](https://hh.gbdev.io). This is one of several platform-specific database repositories that feed Homebrew Hub - see the [full list of databases](https://github.com/gbdev/homebrewhub/blob/main/DATABASES.md).
 
-![](https://img.shields.io/badge/dynamic/json.svg?label=database&colorB=green&suffix=%20total%20entries&query=results&uri=https://hh3.gbdev.io/api/all) [![Schema compliance](https://github.com/gbdev/database/actions/workflows/test.yml/badge.svg)](https://github.com/gbdev/database/actions/workflows/test.yml)
+Propose additions, improvements, and fixes to the entries metadata values (and the releases) here.
+
+[![Schema compliance](https://github.com/gbdev/database/actions/workflows/test.yml/badge.svg)](https://github.com/gbdev/database/actions/workflows/test.yml)
 
 ## Contribute
 
