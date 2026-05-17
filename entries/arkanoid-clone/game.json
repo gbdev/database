@@ -1,5 +1,6 @@
 {
-    "description": "",
+    "date": "1998-11-26",
+    "description": "A simple Arkanoid clone for the Game Boy, entered in Bung Enterprises' 2nd Game Boy Coding Competition.",
     "developer": "Unknown",
     "files": [
         {
@@ -15,9 +16,14 @@
     "platform": "GBC",
     "rom": "ArkanoidClone.cgb",
     "screenshots": [
-        "20110402_arkanoid_clone.png"
+        "20110402_arkanoid_clone.png",
+        "arkanoidclonegb2.png"
     ],
     "slug": "arkanoid-clone",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ],
     "title": "Arkanoid Clone",
-    "typetag": "game"
+    "typetag": "game",
+    "website": "https://www.gamebrew.org/wiki/Arkanoid_Clone_GB"
 }

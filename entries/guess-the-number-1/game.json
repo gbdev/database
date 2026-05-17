@@ -1,5 +1,8 @@
 {
-    "description": "",
+    "alias": [
+        "Guess"
+    ],
+    "description": "Guess the secret number between 0 and 9.",
     "developer": "Francis Bernier",
     "files": [
         {
@@ -22,5 +25,6 @@
     "typetag": "game",
     "tags": [
         "event:bung-2nd-coding-compo"
-    ]
+    ],
+    "website": "https://www.gamebrew.org/wiki/Guess_GB"
 }
