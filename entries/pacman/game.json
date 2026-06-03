@@ -1,0 +1,30 @@
+{
+    "date": "1999-12-12",
+    "description": "Pacman remake for the Game Boy Color. Avoid the ghosts and eat the dots inside the maze.",
+    "developer": "Dark Fader",
+    "files": [
+        {
+            "description": "release and source archive",
+            "filename": "pacman_df.zip"
+        },
+        {
+            "default": true,
+            "filename": "pacman.gbc",
+            "playable": true
+        }
+    ],
+    "platform": "GBC",
+    "repository": "https://www.darkfader.net/gbc/",
+    "rom": "pacman.gbc",
+    "screenshots": [
+        "pacmangbdar2.png",
+        "pacmangbdar3.png"
+    ],
+    "slug": "pacman",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ],
+    "title": "Pacman",
+    "typetag": "game",
+    "website": "https://www.darkfader.net/gbc/"
+}

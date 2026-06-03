@@ -1,5 +1,6 @@
 {
-    "description": "",
+    "date": "1998-11-27",
+    "description": "A basic Pong clone made for Bung Enterprises' 2nd Game Boy Coding Competition.",
     "developer": "Jason",
     "files": [
         {
@@ -7,17 +8,31 @@
             "filename": "Pong__(Gameboy).zip"
         },
         {
+            "description": "GameBrew archive containing the old and Bung competition versions",
+            "filename": "ponggbc.7z"
+        },
+        {
             "default": true,
             "filename": "Pong.gb",
+            "playable": true
+        },
+        {
+            "filename": "Pong (Bung) (PD) [C].gbc",
             "playable": true
         }
     ],
     "platform": "GB",
     "rom": "Pong.gb",
     "screenshots": [
-        "20110402_pong.png"
+        "20110402_pong.png",
+        "ponggbc.png",
+        "ponggbc2.png"
     ],
     "slug": "pong",
+    "tags": [
+        "event:bung-2nd-coding-compo"
+    ],
     "title": "Pong",
-    "typetag": "game"
+    "typetag": "game",
+    "website": "https://web.archive.org/web/20010121105700/http://www.bung.com.hk:80/GBCodingCompetition/2ndGBCodingCompetition/2nd_results.htm"
 }
