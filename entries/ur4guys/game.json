@@ -1,0 +1,31 @@
+{
+    "slug": "ur4guys",
+    "title": "U R 4 GUYS",
+    "developer": "Wolfman Digital",
+    "platform": "GBC",
+    "typetag": "game",
+    "description": "You are four guys, but you only have two buttons. An action/arcade game about frantic multitasking. You play as four characters simultaneously. Master the unique controls, climb the leaderboard, and clear the game to unlock a secret.",
+    "gameLicense": "CC-BY-NC-4.0",
+    "assetsLicense": "CC-BY-NC-4.0",
+    "date": "2026-06-10",
+    "tags": [
+        "Arcade",
+        "Action"
+    ],
+    "screenshots": [
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png",
+        "5.png",
+        "6.png"
+    ],
+    "files": [
+        {
+            "filename": "ur4guys.gbc",
+            "type": "rom",
+            "default": true,
+            "playable": true
+        }
+    ]
+}
