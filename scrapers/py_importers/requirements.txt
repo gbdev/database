@@ -5,7 +5,7 @@ regex==2021.8.3
 requests==2.26.0
 resolvelib==0.5.5
 six==1.16.0
-soupsieve==2.2.1
+soupsieve==2.8.4
 Unidecode==1.2.0
 urllib3==1.26.6
 webencodings==0.5.1
