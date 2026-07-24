@@ -1,0 +1,36 @@
+{
+    "title": "Dorotea",
+    "slug": "dorotea",
+    "developer": "Pasquale 'Pasqui industry' Pignataro",
+    "typetag": "game",
+    "platform": "GB",
+    "screenshots": [
+        "pasquiindustry_dorotea_screenshot_2.png",
+        "pasquiindustry_dorotea_screenshot_3.png",
+        "pasquiindustry_dorotea_screenshot_4.png",
+        "pasquiindustry_dorotea_screenshot_5.png",
+        "pasquiindustry_dorotea_screenshot_6.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "pasquiindustry_dorotea_en_v_1_1_0.gb",
+            "playable": true
+        },
+        {
+            "default": false,
+            "filename": "pasquiindustry_dorotea_it_v_1_1_0.gb",
+            "playable": true
+        }
+    ],
+    "license": "CC-BY-NC-ND-4.0",
+    "description": "Dorotea is a researcher specializing in the history of her hometown of Conversano, a real city near Bari, in italy. An important event is just a few days away. Her job involves cataloging and archiving books and artifacts dating back to the 1600s, stored in a room that hasn't been opened for decades. But the past never stops watching her...",
+    "video": "https://www.youtube.com/watch?v=Tn_YQ7gnrPw",
+    "date": "2025-10-11",
+    "gameWebsite": "https://www.pasquiindustry.com/dorotea",
+    "devWebsite": "https://www.pasquiindustry.com",
+    "onlineplay": true,
+    "tags": [
+        "Adventure"
+    ]    
+}
