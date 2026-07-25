@@ -1,0 +1,33 @@
+{
+    "title": "Scorching Light",
+    "slug": "scorching-light",
+    "developer": "Pasquale 'Pasqui industry' Pignataro",
+    "typetag": "game",
+    "platform": "GB",
+    "screenshots": [
+        "pasquiindustry_scorchinglight_screenshot_0.png",
+        "pasquiindustry_scorchinglight_screenshot_1.png",
+        "pasquiindustry_scorchinglight_screenshot_2.png",
+        "pasquiindustry_scorchinglight_screenshot_3.png",
+        "pasquiindustry_scorchinglight_screenshot_4.png",
+        "pasquiindustry_scorchinglight_screenshot_5.png",
+        "pasquiindustry_scorchinglight_screenshot_6.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "pasquiindustry_scorchinglight_en_v1_0_0.gb",
+            "playable": true
+        }
+    ],
+    "license": "CC-BY-NC-ND-4.0",
+    "description": "Scorching Light is a horror-action-platformer Game Boy game with puzzle elements. You play as an individual in a mission to find the light world. Unfortunately, their dreams and hopes will became soon a nightmare.",
+    "video": "https://www.youtube.com/watch?v=Nt_UPS6O6fk",
+    "date": "2026-7-19",
+    "gameWebsite": "https://www.pasquiindustry.com/scorching-light",
+    "devWebsite": "https://www.pasquiindustry.com",
+    "onlineplay": true,
+    "tags": [
+        "Adventure"
+    ]    
+}
