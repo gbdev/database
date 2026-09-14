@@ -1,0 +1,34 @@
+{
+    "title": "Precrna Rupa",
+    "slug": "precrna-rupa",
+    "developer": [
+        "Maja Milas",
+        "Giorgio Pomettini",
+        "Noemi Frulio"
+    ],
+    "typetag": "game",
+    "platform": "GBC",
+    "screenshots": [
+        "screenshot_6.png",
+        "screenshot_1.png",
+        "screenshot_2.png",
+        "screenshot_3.png",
+        "screenshot_4.png",
+        "screenshot_5.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "precrna-rupa.gbc",
+            "playable": true
+        }
+    ],
+    "description": "Precrna Rupa is a satirical narrative adventure/puzzle game set in Zagreb, where players find themselves trapped in an area below Sljeme. The game is meant to be played alongside its official manual (available at https://mayazmaya.itch.io/precrna-rupa), which is required to solve puzzles based on the album POYY by artist IDEM and to decode a hidden alphabet scattered throughout the game. The experience also includes an in-game karaoke feature. The game is available in English and Croatian.",
+    "video": "https://youtu.be/lg4C4DgqWiA",
+    "gameWebsite": "https://mayazmaya.itch.io/precrna-rupa",
+    "onlineplay": true,
+    "tags": [
+        "Adventure",
+        "RPG"
+    ]
+}
