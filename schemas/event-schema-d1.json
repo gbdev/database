@@ -28,6 +28,10 @@
       },
       "required": ["start", "end"]
     },
+    "logo": {
+      "type": "string",
+      "description": "The file name of the event's logo image, stored alongside event.json."
+    },
     "website": {
       "anyOf": [
         {
