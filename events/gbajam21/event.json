@@ -1,0 +1,10 @@
+{
+  "name": "GBA Jam 2021",
+  "slug": "gbajam21",
+  "period": {
+    "start": "2021-04-09T22:00:00Z",
+    "end": "2021-07-12T00:00:00Z"
+  },
+  "website": "https://itch.io/jam/gbajam21",
+  "logo": "logo.png"
+}
