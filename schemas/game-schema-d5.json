@@ -143,7 +143,9 @@
                             "hw:ir",
                             "hw:link",
                             "hw:mbc3rtc",
-                            "hw:mbc5rumble"
+                            "hw:mbc5rumble",
+                            "hw:mbc7accelerometer",
+                            "hw:megaduck-keyboard"
                         ]
                     }
                 ]
@@ -220,7 +222,7 @@
                 },
                 "disable-play": {
                     "type": "boolean",
-                    "description": "Allow or not the game to be played directly on the website through an emulator"
+                    "description": "When true, disables emulation when presenting the entry"
                 }
             },
             "description": "Global preferences aimed at potential consumers of the database (e.g. the Homebrew Hub frontend). Those values ovverride the ones set on the single files."
