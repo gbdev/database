@@ -1,0 +1,34 @@
+{
+    "developer": "Tim Böttiger",
+    "files": [
+        {
+            "default": true,
+            "filename": "project-stargem-twinkle.gbc",
+            "playable": true
+        },
+        {
+            "default": false,
+            "filename": "booklet.pdf",
+            "playable": false
+        }
+    ],
+    "platform": "GBC",
+    "gameWebsite": "https://timboettiger.itch.io/project-stargem-twinkle",
+    "screenshots": [
+        "1.png",
+        "2.png",
+        "3.png"
+    ],
+    "slug": "project-stargem-twinkle",
+    "tags": [
+        "Puzzle"
+    ],
+    "license": "CC-BY-NC-ND-4.0",
+    "title": "PROJECT STARGEM: Twinkle",
+    "description": "A beautiful classic match-3 game made to be picked up and played anytime",
+    "video": "https://youtu.be/usJfReXXGdg",
+    "onlineplay": true,
+    "wip": false,
+    "date": "2026-09-19",
+    "typetag": "game"
+}
