@@ -1,34 +1,40 @@
 {
+    "slug": "project-stargem-twinkle",
     "developer": "Tim Böttiger",
-    "files": [
-        {
-            "default": true,
-            "filename": "project-stargem-twinkle.gbc",
-            "playable": true
-        },
-        {
-            "default": false,
-            "filename": "booklet.pdf",
-            "playable": false
-        }
-    ],
+    "description": "A beautiful classic match-3 game made to be picked up and played anytime",
+    "title": "PROJECT STARGEM: Twinkle",
     "platform": "GBC",
-    "gameWebsite": "https://timboettiger.itch.io/project-stargem-twinkle",
+    "typetag": "game",
+    "assetsLicense": "CC-BY-NC-ND-4.0",
+    "video": "https://youtu.be/usJfReXXGdg",
+    "date": "2026-09-19",
+    "tags": [
+        "Puzzle"
+    ],
+    "website": "https://timboettiger.itch.io/project-stargem-twinkle",
+    "wip": false,
     "screenshots": [
         "1.png",
         "2.png",
         "3.png"
     ],
-    "slug": "project-stargem-twinkle",
-    "tags": [
-        "Puzzle"
+    "files": [
+        {
+            "filename": "project-stargem-twinkle.gbc",
+            "type": "rom",
+            "playable": true,
+            "default": true
+        },
+        {
+            "filename": "booklet.pdf",
+            "type": "manual",
+            "playable": false,
+            "default": false
+        }
     ],
-    "license": "CC-BY-NC-ND-4.0",
-    "title": "PROJECT STARGEM: Twinkle",
-    "description": "A beautiful classic match-3 game made to be picked up and played anytime",
-    "video": "https://youtu.be/usJfReXXGdg",
-    "onlineplay": true,
-    "wip": false,
-    "date": "2026-09-19",
-    "typetag": "game"
+    "ai_disclosure": {
+        "assets": "assisted",
+        "code": false,
+        "toolchain": false
+    }
 }
