@@ -1,0 +1,54 @@
+{
+    "slug": "skull-buster",
+    "title": "Skull Buster GB",
+    "developer": [
+        {
+            "name": "Michal Ursiny",
+            "link": "https://ursiny.cz/",
+            "role": "Demake, programming"
+        },
+        {
+            "name": "Jakub Steiner (Jimmac)",
+            "link": "https://jimmac.eu/",
+            "role": "Original game, graphics"
+        },
+        {
+            "name": "MuteAudio",
+            "link": "https://mute-audio.itch.io/",
+            "role": "Music"
+        }
+    ],
+    "platform": "GB",
+    "typetag": "game",
+    "date": "2026",
+    "description": "A fixed-screen arcade shooter, a Game Boy demake of Skulls, the PICO-8 game by Jakub \"Jimmac\" Steiner, using his original graphics with permission. Fight through 20 waves of skull enemies with 5 lives, including a miniboss and a final boss at wave 20. Made for the Game Boy Color, it also runs on the original Game Boy and has a Super Game Boy border. Features a high score table with initials entry and statistics saved to battery-backed SRAM, 5 music tracks by MuteAudio (hUGEDriver) and 12 sound effects (CBT-FX).\n\nControls: D-Pad moves the ship, A shoots, Start pauses, Select toggles mute.",
+    "tags": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Demake"
+    ],
+    "repository": "https://gitlab.com/michal.ursiny/skullbustergameboydemake",
+    "website": [
+        "https://ursiny.cz/ursinygames/skullbuster/",
+        "https://ursimon.itch.io/skull-buster"
+    ],
+    "files": [
+        {
+            "filename": "skulls.gbc",
+            "playable": true,
+            "default": true
+        }
+    ],
+    "screenshots": [
+        "main_menu.png",
+        "boss_fight.png",
+        "stats_screen.png",
+        "initials_screen.png",
+        "victory_parade_boss.png"
+    ],
+    "ai_disclosure": {
+        "code": "generated",
+        "toolchain": false
+    }
+}
