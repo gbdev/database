@@ -1,5 +1,24 @@
 # Contributing
 
+## AI usage disclosure
+
+Two separate disclosures apply, and they cover different things.
+
+**Your contribution.** The [gbdev AI policy](https://gbdev.io/aipolicy.html) applies to every contribution to our repositories. AI-assisted contributions are accepted, but they must be disclosed, and you must have reviewed and understood everything you submit. If an AI tool helped write the `game.json`, the PR description or anything else in your PR, add an `Assisted-by` trailer to the commit message (e.g. `Assisted-by: AGENT_NAME:MODEL_VERSION`).
+
+**The game itself.** The [d5 schema](schemas/game-schema-d5.json) has an `ai_disclosure` field describing AI usage in the game's development. Use `false` if no AI was used at all. Otherwise, use the object form to be specific about each area:
+
+```json
+"ai_disclosure": {
+    "code": "assisted",
+    "assets": false,
+    "toolchain": false
+}
+```
+
+For `code` and `assets`, the levels are `assisted` (made by the developer, with AI as a helper), `generated` (AI produced significant parts under the developer's direction, then reviewed and integrated) and `authored` (AI output accepted with little to no review). `toolchain` covers whether any AI-generated tool or dependency was used in the build. The schema descriptions explain each level in more detail.
+
+
 ## Write a scraper
 
 The most useful thing you can do in this repository is to create a scraper that takes one of the [sources](https://github.com/gbdev/database/issues?q=is%3Aissue+is%3Aopen+label%3Asource), websites listing Game Boy homebrews and spits out valid folders to add in this repository (`entries/` folder).
