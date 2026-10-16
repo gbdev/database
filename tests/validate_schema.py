@@ -1,5 +1,5 @@
 """
-Validate every game manifest against the JSON schema.
+Validate every game manifest and event manifest against their JSON schemas.
 """
 
 import json
@@ -9,26 +9,32 @@ import sys
 
 from jsonschema import validate, ValidationError
 
-with open("../schemas/game-schema-d5.json") as f:
-    schema = json.load(f)
 
-path = "../entries/"
-games_list = os.listdir(path)
-n = 0
-errors = 0
+def validate_folder(schema_path, path, manifest):
+    with open(schema_path) as f:
+        schema = json.load(f)
 
-for game in progressbar.progressbar(games_list, redirect_stdout=True):
-    n += 1
-    try:
-        with open(f"../entries/{game}/game.json") as f:
-            game_metadata = json.load(f)
-    
-        validate(game_metadata, schema)
-    except Exception as e:
-        errors += 1
-        print(f"Failed {game}: \n {e}")
-        # sys.exit(1)
+    errors = 0
 
-if errors > 0:
-    print(f"\n {errors} entrie(s) have failed validation")
+    for item in progressbar.progressbar(os.listdir(path), redirect_stdout=True):
+        try:
+            with open(f"{path}{item}/{manifest}") as f:
+                metadata = json.load(f)
+
+            validate(metadata, schema)
+        except Exception as e:
+            errors += 1
+            print(f"Failed {item}: \n {e}")
+
+    return errors
+
+
+game_errors = validate_folder("../schemas/game-schema-d5.json", "../entries/", "game.json")
+event_errors = validate_folder("../schemas/event-schema-d1.json", "../events/", "event.json")
+
+if game_errors > 0:
+    print(f"\n {game_errors} entrie(s) have failed validation")
+if event_errors > 0:
+    print(f"\n {event_errors} event(s) have failed validation")
+if game_errors + event_errors > 0:
     sys.exit(1)
