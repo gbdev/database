@@ -73,5 +73,5 @@
       }
     }
   },
-  "required": ["name", "slug", "period", "results"]
+  "required": ["name", "slug"]
 }
