@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "dreadhollow-gbc",
+    "title": "DREADHOLLOW MANOR",
+    "developer": "retroromrunner",
+    "platform": "GBC",
+    "typetag": "game",
+    "date": "2026-10-15",
+    "description": "A haunted-house game for the Game Boy Color. You are an explorer trapped in Dreadhollow Manor: each night, three relics - a chalice, a skull, and an amulet - are hidden somewhere in its six rooms. Find all three to survive to the next, darker night, while a growing pack of wraiths (one more every night, up to five) fades in and hunts you. Banish them with your lantern bolt, weave through the furniture, and do not let a fully-formed wraith touch you. A from-scratch Game Boy Color rebuild of the Atari 2600 original, written in C with GBDK-2020.",
+    "repository": "https://github.com/retroromrunner/dreadhollow-gbc",
+    "website": "https://retroromrunner.itch.io/dreadhollow-gbc",
+    "tags": [
+        "Open Source",
+        "Adventure",
+        "Horror",
+        "Atmospheric",
+        "Dark"
+    ],
+    "screenshots": [
+        "title.png",
+        "foyer.png",
+        "chapel.png",
+        "crypt.png",
+        "swarm.png"
+    ],
+    "files": [
+        {
+            "default": true,
+            "filename": "dreadhollow-gbc-v12.gbc",
+            "playable": true
+        }
+    ],
+    "ai_disclosure": {
+        "code": "generated",
+        "assets": "generated",
+        "toolchain": false
+    }
+}
