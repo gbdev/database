@@ -1,0 +1,10 @@
+{
+  "name": "GB Compo 2025",
+  "slug": "gbcompo25",
+  "period": {
+    "start": "2025-06-01T00:00:00Z",
+    "end": "2025-09-01T00:00:00Z"
+  },
+  "website": ["https://itch.io/jam/gbcompo25", "https://gbdev.io/gbcompo25"],
+  "logo": "logo.gif"
+}

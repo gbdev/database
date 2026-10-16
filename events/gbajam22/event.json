@@ -1,0 +1,10 @@
+{
+  "name": "GBA Jam 2022",
+  "slug": "gbajam22",
+  "period": {
+    "start": "2022-07-31T23:00:00Z",
+    "end": "2022-11-01T00:00:00Z"
+  },
+  "website": ["https://itch.io/jam/gbajam22", "https://gbajam22.github.io"],
+  "logo": "logo.png"
+}
