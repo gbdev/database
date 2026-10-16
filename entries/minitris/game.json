@@ -1,0 +1,45 @@
+{
+    "slug": "minitris",
+    "title": "Minitris",
+    "alias": [
+        "Minitris GB"
+    ],
+    "developer": [
+        {
+            "name": "Michal Ursiny",
+            "link": "https://ursiny.cz/",
+            "role": "Game design, programming"
+        },
+        {
+            "name": "MuteAudio",
+            "link": "https://mute-audio.itch.io/",
+            "role": "Music"
+        }
+    ],
+    "platform": "GB",
+    "typetag": "game",
+    "date": "2026",
+    "description": "A logic puzzle game for the Game Boy and Game Boy Color, based on the original Minitris by Michal Ursiny and UCI Software. It is not a Tetris clone: there are no tetrominoes and no rotation. Single coloured cells drop one at a time into a 4×12 well, and lining up 3 or more of the same colour horizontally, vertically or diagonally clears them. The remaining cells fall under gravity and can form new lines, chaining into cascades that multiply the score. The game speeds up every 45 cleared cells, up to level 21. Features a Top 5 high score table and lifetime statistics saved to battery-backed SRAM, colour palettes on GBC and high-contrast patterned cells on DMG, and 3 selectable tracks by MuteAudio (hUGEDriver) with 12 sound effects (CBT-FX).\n\nControls: Left/Right moves the cell, Down or A hard drops it, Start pauses, Select toggles mute.",
+    "tags": [
+        "Puzzle",
+        "Arcade",
+        "Logic"
+    ],
+    "website": [
+        "https://ursiny.cz/ursinygames/minitris_gb/",
+        "https://ursimon.itch.io/minitris-gb"
+    ],
+    "files": [
+        {
+            "filename": "minitris.gbc",
+            "playable": true,
+            "default": true
+        }
+    ],
+    "screenshots": [
+        "falling.png",
+        "hud_dmg.png",
+        "gameover.png",
+        "hiscore.png"
+    ]
+}
