@@ -1,0 +1,51 @@
+{
+    "slug": "morse-boy",
+    "title": "Morse Boy",
+    "developer": {
+        "name": "dansciurus",
+        "link": "https://github.com/dansciurus"
+    },
+    "platform": "GB",
+    "typetag": "tool",
+    "date": "2026-10-15",
+    "description": "A Morse-code trainer for the Game Boy. Decoder is a live Morse chart with keying tone, sequence and decoded-character display, in two orientations. Receive RX offers a Learn mode with 13 cumulative stages and a Practice mode covering all letters and digits, with replay, hints, streaks and three lives. Transmit TX includes a Speed Drill with randomized letter targets, a 64-word bank and a free-transmission Scratch page, all with adjustable speed from 5 to 99 WPM. Hold A to key a tone, as with a straight key. Tested in emulators only; compatibility with original hardware is unverified.",
+    "tags": [
+        "Educational"
+    ],
+    "website": "https://github.com/dansciurus/MorseBoy-releases",
+    "files": [
+        {
+            "filename": "MorseBoy.gb",
+            "playable": true,
+            "default": true,
+            "version": "0.6.0",
+            "date": "2026-10-15",
+            "hash": {
+                "sha256": "763ba6691293d1bd7ed5c4befbb725dbd75e7adda061d8bfda9dddae684bc168"
+            }
+        },
+        {
+            "filename": "README.md",
+            "description": "Morse Boy v0.6.0 README: features, getting started, compatibility and limitations",
+            "type": "manual",
+            "playable": false,
+            "version": "0.6.0"
+        }
+    ],
+    "screenshots": [
+        "00-splash.png",
+        "01-main-menu.png",
+        "02-decoder.png",
+        "02b-decoder-flipped.png",
+        "03-rx-menu.png",
+        "04-rx-learn.png",
+        "05-rx-practice.png",
+        "06-tx-menu.png",
+        "07-tx-speed.png",
+        "08-tx-words.png",
+        "09-tx-scratch.png"
+    ],
+    "ai_disclosure": {
+        "code": true
+    }
+}
