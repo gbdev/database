@@ -41,5 +41,10 @@
         "hud_dmg.png",
         "gameover.png",
         "hiscore.png"
-    ]
+    ],
+    "ai_disclosure": {
+        "code": "generated",
+        "assets": false,
+        "toolchain": false
+    }
 }

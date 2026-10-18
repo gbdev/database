@@ -49,6 +49,7 @@
     ],
     "ai_disclosure": {
         "code": "generated",
+        "assets": false,
         "toolchain": false
     }
 }

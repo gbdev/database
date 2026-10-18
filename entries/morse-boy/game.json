@@ -19,10 +19,7 @@
             "playable": true,
             "default": true,
             "version": "0.6.0",
-            "date": "2026-10-15",
-            "hash": {
-                "sha256": "763ba6691293d1bd7ed5c4befbb725dbd75e7adda061d8bfda9dddae684bc168"
-            }
+            "date": "2026-10-15"
         },
         {
             "filename": "README.md",
