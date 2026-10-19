@@ -13,8 +13,8 @@
     "date": "2022-04-11",
     "description": "A pipe-connecting puzzle game based on the Net and Netslide puzzles from Simon Tatham's Portable Puzzle Collection. In every mode the goal is to connect all the pipes so that water can flow through them from the source. There are three game modes: Rotate, where each pipe is turned in place; Slide, where whole rows and columns are shifted using the arrows around the board; and Roslid, which combines both. Each mode has five difficulties with 25 levels each, for 375 levels in total, plus a Random difficulty that generates endless new levels. An in-game help section explains the rules of each mode.\n\nRuns on both the Game Boy and the Game Boy Color, with colour graphics on GBC and a Super Game Boy border. Progress is saved to battery-backed SRAM. The game was also released for the Game Gear, Master System, Analogue Pocket and Mega Duck.\n\nControls: A or Start confirms in menus and rotates or slides while playing, B goes back.",
     "tags": [
-        "Puzzle",
-        "Open Source"
+        "puzzle",
+        "open-source"
     ],
     "website": "https://joyrider3774.itch.io/waternet",
     "repository": "https://github.com/joyrider3774/waternet",

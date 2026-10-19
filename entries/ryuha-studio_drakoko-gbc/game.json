@@ -11,12 +11,11 @@
     "date": "2026-09-09",
     "description": "A cute'em up in which a mother dragon flies through Dokoland looking for her lost hatchlings, the Kokkos, to save the land from a dark curse. Stages scroll endlessly in every direction, with enemies and items respawning as you fly. The developer describes it as a homage to Yoji Ishii's Flicky, Fantasy Zone and Teddy Boy Blues.\n\nThis is a free demo (v1.0) of a game still in development, with the full release funded through Kickstarter. Built with the ZGB engine, heavily modified to support the multidirectional scrolling.",
     "tags": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Cute",
-        "Exploration",
-        "Pixel Art"
+        "action",
+        "arcade",
+        "shooter",
+        "cute",
+        "exploration"
     ],
     "website": [
         "https://ryuha-studio.itch.io/drakoko-gbc",
