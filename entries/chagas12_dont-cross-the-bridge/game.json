@@ -1,0 +1,45 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "chagas12_dont-cross-the-bridge",
+    "title": "Don't Cross the Bridge",
+    "developer": [
+        {
+            "name": "Chagas12",
+            "link": "https://chagas12.itch.io/",
+            "role": "Art, music, story, programming"
+        },
+        {
+            "name": "oykdon93",
+            "link": "https://oykdon93.itch.io/",
+            "role": "Art, story"
+        }
+    ],
+    "platform": "GBC",
+    "typetag": "game",
+    "date": "2024-09-23",
+    "description": "A visual novel and dating sim that mixes Japanese and Brazilian folklore. After crossing the bridge you were always told not to cross, you hear a strange premonition, lose your glasses and keep running into strangers who want to talk to you. They all seem like good people... but are they really? Includes a few minigames.\n\nMade with GB Studio.",
+    "tags": [
+        "visual-novel",
+        "dating-sim",
+        "romance",
+        "folklore",
+        "cute",
+        "spooky"
+    ],
+    "website": "https://chagas12.itch.io/dont-cross-the-bridge-full",
+    "files": [
+        {
+            "filename": "files/dont-cross-the-bridge.gbc",
+            "playable": true,
+            "default": true
+        }
+    ],
+    "screenshots": [
+        "cover.png",
+        "screenshots/EJgdtw.png",
+        "screenshots/4YXMDy.png",
+        "screenshots/zBE1SU.png",
+        "screenshots/eORfTy.png"
+    ],
+    "ai_disclosure": false
+}
