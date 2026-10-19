@@ -1,0 +1,45 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "ryuha-studio_drakoko-gbc",
+    "title": "Drakoko",
+    "alias": [
+        "ドラココ"
+    ],
+    "developer": "RYUHA Studio",
+    "platform": "GB",
+    "typetag": "game",
+    "date": "2026-09-09",
+    "description": "A cute'em up in which a mother dragon flies through Dokoland looking for her lost hatchlings, the Kokkos, to save the land from a dark curse. Stages scroll endlessly in every direction, with enemies and items respawning as you fly. The developer describes it as a homage to Yoji Ishii's Flicky, Fantasy Zone and Teddy Boy Blues.\n\nThis is a free demo (v1.0) of a game still in development, with the full release funded through Kickstarter. Built with the ZGB engine, heavily modified to support the multidirectional scrolling.",
+    "tags": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Cute",
+        "Exploration",
+        "Pixel Art"
+    ],
+    "website": [
+        "https://ryuha-studio.itch.io/drakoko-gbc",
+        "https://www.kickstarter.com/projects/ryuhastudio/drakoko-game-boy-color-gbc"
+    ],
+    "files": [
+        {
+            "filename": "files/drakoko2026demo.gbc",
+            "playable": true,
+            "default": true,
+            "version": "Demo 1.0"
+        }
+    ],
+    "screenshots": [
+        "cover.png",
+        "screenshots/oyoPeY.png",
+        "screenshots/uC46LZ.png",
+        "screenshots/CHpNku.png",
+        "screenshots/lyYze7.png",
+        "screenshots/o7SEz4.png",
+        "screenshots/R7ptsd.png",
+        "screenshots/0oYaWI.png",
+        "screenshots/noQ8DJ.png"
+    ],
+    "ai_disclosure": false
+}
