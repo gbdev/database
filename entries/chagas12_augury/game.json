@@ -1,0 +1,51 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "chagas12_augury",
+    "title": "Augury",
+    "developer": [
+        {
+            "name": "Chagas12",
+            "link": "https://chagas12.itch.io/",
+            "role": "Programming, background art, music"
+        },
+        {
+            "name": "oykdon93",
+            "link": "https://oykdon93.itch.io/",
+            "role": "Character art"
+        },
+        {
+            "name": "Gustavoh",
+            "role": "Story"
+        },
+        {
+            "name": "Thai",
+            "role": "Proofreading"
+        }
+    ],
+    "platform": "GBC",
+    "typetag": "game",
+    "date": "2025-09-22",
+    "description": "A mystery visual novel set in a graveyard. Sir Hamlet, the king of the graveyard, has been killed, and you play as Horacio, who has to find the culprit. Horacio can travel through time to investigate, but changes made in the past alter the present, so what you do and say can change a character's fate. The game has two endings, one of them the true ending.\n\nMade with GB Studio.\n\nControls: A to interact and select, Start to open the pause menu, D-Pad to move the cursor.",
+    "tags": [
+        "visual-novel",
+        "mystery",
+        "detective"
+    ],
+    "website": "https://chagas12.itch.io/augury",
+    "files": [
+        {
+            "filename": "files/augury.gbc",
+            "playable": true,
+            "default": true
+        }
+    ],
+    "screenshots": [
+        "cover.png",
+        "screenshots/Isie8u.png",
+        "screenshots/imRYI_.png",
+        "screenshots/4_s7NF.png",
+        "screenshots/_Ch8Y8.png",
+        "screenshots/OYSD_J.png"
+    ],
+    "ai_disclosure": false
+}
