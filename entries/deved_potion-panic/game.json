@@ -19,6 +19,7 @@
         "Platformer",
         "Action",
         "Singleplayer",
+        "Open Source",
         "event:gbcompo25"
     ],
     "files": [
@@ -28,6 +29,8 @@
             "playable": true
         }
     ],
+    "repository": "https://codeberg.org/DevEd/potion-panic/src/branch/gbcompo25",
+    "license": "MIT",
     "developer": "DevEd",
     "website": "https://deved.itch.io/potion-panic"
 }
