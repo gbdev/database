@@ -1,0 +1,60 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "xenocide21_orion-gb",
+    "title": "Orion GB",
+    "developer": "Xenocide21",
+    "platform": "GB",
+    "typetag": "game",
+    "date": "2026-10-26",
+    "wip": true,
+    "description": "A turn-based 4X space strategy game. Starting from a single world, you explore the galaxy, found colonies, research technologies, trade, and make peace or war with rival empires. You win by conquering every rival, or by winning the vote of the galactic council, held every 20 turns, to become Supreme Leader. It is an unofficial, non-commercial fan demake inspired by Master of Orion, with its own mechanics.\n\nThere are six playable races, each with its own portrait, personality and theme music, and you face a random draw of 1 to 5 rivals that you only discover when you meet them. Galaxies come in four sizes (16 to 48 systems) and three map types: the hand-built Lattice, a two-armed Spiral, or a Random galaxy. Each planet's output is split between ships, defense, industry, ecology and research. There are 64 technologies in four research trees, planet modules such as shipyards, banks and shields, and, since version 1.2, a Ship Design screen for building custom ships from hull slots and tech-unlocked modules. Rival empires also make their own wars, peace deals and alliances with each other. The game uses an MBC5 cartridge with a battery-backed save and autosave.\n\nThe author notes that AI balance has mostly been tested by bots, and that games can last hundreds of turns. Saves from 1.12.2 do not load in 1.2, so 1.12.2 is also provided for continuing older games.\n\nControls: the D-pad, A, B, Start and Select. Each screen shows its buttons along the bottom.",
+    "tags": [
+        "strategy",
+        "4x",
+        "turn-based-strategy",
+        "space"
+    ],
+    "website": "https://xenocide21.itch.io/orion-gb",
+    "files": [
+        {
+            "filename": "files/orion-gb-v1.2.gb",
+            "playable": true,
+            "default": true,
+            "version": "1.2",
+            "date": "2026-10-29"
+        },
+        {
+            "filename": "files/orion-gb-v1.12.2.gb",
+            "playable": true,
+            "version": "1.12.2",
+            "date": "2026-10-29",
+            "description": "Previous version, for continuing games saved before 1.2"
+        },
+        {
+            "filename": "files/orion-gb-manual-v1.2.pdf",
+            "type": "manual",
+            "playable": false,
+            "description": "Manual for version 1.2"
+        }
+    ],
+    "screenshots": [
+        "screenshots/01.png",
+        "screenshots/02.png",
+        "screenshots/03.png",
+        "screenshots/04.png",
+        "screenshots/05.png",
+        "screenshots/06.png",
+        "screenshots/07.png",
+        "screenshots/08.png",
+        "screenshots/09.png",
+        "screenshots/10.png",
+        "screenshots/11.png",
+        "screenshots/12.png",
+        "screenshots/13.png"
+    ],
+    "ai_disclosure": {
+        "code": "authored",
+        "assets": "generated",
+        "toolchain": false
+    }
+}
