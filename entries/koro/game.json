@@ -1,0 +1,44 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "koro",
+    "title": "KORO",
+    "developer": [
+        {
+            "name": "Krzysztof Krystian Jankowski",
+            "link": "https://krzysztofjankowski.com/"
+        },
+        {
+            "name": "Cyfrowy Nomada",
+            "link": "https://cyfrowynomada.com/"
+        }
+    ],
+    "platform": "GBC",
+    "typetag": "game",
+    "date": "2026",
+    "description": "A colour-matching puzzle game for the Game Boy Color. Koro, a little mouse, has to gather the marbles that rolled away into the garden. Move marbles around the board to form vertical, horizontal or diagonal lines of five or more of the same colour, which are then picked up; longer lines score more points. Each turn three new marbles appear, and a small indicator shows where, so every move has to keep the board from filling up. Clearing 24 lines earns the title of Koro Master.\n\nWritten in assembly with a custom engine and tested on real hardware. The ROM and a physical cartridge edition are sold by Cyfrowy Nomada; the full game can be played for free in the browser.\n\nControls: D-Pad to move, A to grab and place a marble, B to cancel the latest grab, Select for statistics, Start for a new game or to go back to the menu.",
+    "tags": [
+        "puzzle"
+    ],
+    "website": "https://cyfrowynomada.com/products/koro",
+    "physical-release": "https://cyfrowynomada.com/products/koro",
+    "commercial": true,
+    "use-requirements": {
+        "disable-downloads": true
+    },
+    "files": [
+        {
+            "filename": "koro.gbc",
+            "playable": true,
+            "default": true
+        }
+    ],
+    "screenshots": [
+        "title.png",
+        "gameplay.png"
+    ],
+    "ai_disclosure": {
+        "code": "assisted",
+        "assets": false,
+        "toolchain": true
+    }
+}
