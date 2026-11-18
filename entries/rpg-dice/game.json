@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "rpg-dice",
+    "title": "RPG Dice",
+    "developer": "Maggo",
+    "platform": "GB",
+    "typetag": "tool",
+    "date": "2026-11",
+    "description": "A dice roller for tabletop role-playing games and other games. Build a pool of up to 24 dice from d4, d6, d8, d10, d12, d20 and d100 (up to 9 of each type), then shake and roll them. The result screen draws each die with its value and lists the total for each die type and for the whole roll, which can be rolled again with the same dice.\n\nControls: in the dice pool, Up/Down selects the die type, Left/Right changes how many of it to roll (hold to repeat), Select resets all counts, holding A shakes the dice and releasing it rolls them, and Start rolls right away. A skips the rolling animation. On the result screen, hold A (or Start) to roll the same dice again, or press B to go back to the dice pool.",
+    "tags": [
+        "dice"
+    ],
+    "files": [
+        {
+            "filename": "diceroller.gb",
+            "playable": true,
+            "default": true
+        }
+    ],
+    "screenshots": [
+        "dice-pool.png",
+        "result.png"
+    ],
+    "ai_disclosure": {
+        "code": "generated",
+        "assets": "generated"
+    }
+}
