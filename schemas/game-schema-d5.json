@@ -145,7 +145,10 @@
                             "hw:mbc3rtc",
                             "hw:mbc5rumble",
                             "hw:mbc7accelerometer",
-                            "hw:megaduck-keyboard"
+                            "hw:megaduck-keyboard",
+                            "hw:megaduck-printer",
+                            "hw:orange-fm-radio-card",
+                            "hw:sgb"
                         ]
                     }
                 ]
@@ -172,33 +175,22 @@
                 {
                     "type": "array",
                     "items": {
-                        "type": "string",
-                        "format": "uri"
+                        "oneOf": [
+                            {
+                                "type": "string",
+                                "format": "uri"
+                            },
+                            {
+                                "$ref": "#/definitions/link"
+                            }
+                        ]
                     }
                 },
                 {
-                    "type": "object",
-                    "properties": {
-                        "title": {
-                            "type": "string",
-                            "description": "The optional title of the link."
-                        },
-                        "type": {
-                            "type": "string",
-                            "description": "The optional type of the link, indicating the media type or link relation."
-                        },
-                        "url": {
-                            "type": "string",
-                            "format": "uri",
-                            "description": "The URL of the link."
-                        }
-                    },
-                    "required": [
-                        "url"
-                    ]
+                    "$ref": "#/definitions/link"
                 }
             ],
-            "description": "Website(s) related to the game, which can be provided as either a single URL or an array of URLs."
+            "description": "Website(s) related to the game, which can be provided as a single URL, a single link object, or an array mixing URLs and link objects."
         },
         "physical-release": {
             "type": "string",
@@ -289,6 +281,27 @@
         "slug"
     ],
     "definitions": {
+        "link": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "description": "The optional title of the link."
+                },
+                "type": {
+                    "type": "string",
+                    "description": "The optional type of the link, indicating the media type or link relation."
+                },
+                "url": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "The URL of the link."
+                }
+            },
+            "required": [
+                "url"
+            ]
+        },
         "author": {
             "type": "object",
             "additionalProperties": false,
