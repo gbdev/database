@@ -1,9 +1,11 @@
 {
     "title": "Biotic Limit",
     "slug": "biotic-limit",
+    "developer": "Refresh Games",
     "platform": "GB",
-    "typetag": "tool",
+    "typetag": "game",
     "description": "By Ryan Carson",
+    "website": "https://refreshgames.itch.io/biotic-limit",
     "screenshots": [
         "bioticlimit.png",
         "bioticlimit-2.png"

@@ -6,6 +6,7 @@
         "cover.png"
     ],
     "typetag": "game",
+    "platform": "GB",
     "repository": "https://github.com/chrislewisdev/skeleton-crew",
     "tags": [
         "event:gbcompo23",
