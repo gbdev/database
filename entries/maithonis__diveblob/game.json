@@ -1,0 +1,36 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "maithonis__diveblob",
+    "title": "DiveBlob",
+    "developer": [
+        {
+            "name": "Maithonis",
+            "link": "https://maithonis.itch.io"
+        },
+        {
+            "name": "Ashleigh Bridges",
+            "role": "Music"
+        }
+    ],
+    "platform": "GB",
+    "typetag": "game",
+    "date": "2024",
+    "description": "A fast-paced platform survival game for the Game Boy and Game Boy Color, funded through Kickstarter. Levels are randomly generated and full of platforms with hazardous effects, while a seeded mode gives fixed levels to challenge friends on. There are seven unlockable characters with their own abilities, a second control mode for playing with both thumbs, and automatic saving of high scores, progress and settings. The eight music tracks are by Ashleigh Bridges.\n\nThe full game is sold on itch.io, where a free demo is also available. The official physical edition is discontinued; the developer suggests flashing the ROM onto an insideGadgets rumble cartridge instead.",
+    "tags": [
+        "platform",
+        "survival",
+        "hw:mbc5rumble"
+    ],
+    "website": "https://maithonis.itch.io/diveblob",
+    "physical-release": "https://www.kickstarter.com/projects/maithonis/diveblob-new-video-game-for-the-game-boy-color/",
+    "commercial": true,
+    "files": [],
+    "screenshots": [
+        "screenshot-1.png",
+        "screenshot-2.png",
+        "screenshot-3.png",
+        "screenshot-4.png",
+        "screenshot-5.png",
+        "screenshot-6.png"
+    ]
+}

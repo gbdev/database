@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "martfn__maze-game",
+    "title": "MartFN's Maze Game",
+    "developer": "MartFN",
+    "platform": "GB",
+    "typetag": "game",
+    "date": "2023",
+    "wip": true,
+    "description": "A small maze game made with GBDK while following GamingMonsters' tutorials. You play a ball that has to pick up the key, unlock the door and reach the exit. A \"You Win!\" message appears at the end, and Start plays again. The developer describes it as a test game, not a finished one.",
+    "tags": [
+        "maze",
+        "puzzle"
+    ],
+    "website": "https://martfn.itch.io/maze-game",
+    "files": [],
+    "screenshots": [
+        "cover.png"
+    ]
+}

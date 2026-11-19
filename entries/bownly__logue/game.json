@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "bownly__logue",
+    "title": "Logue",
+    "developer": "Bownly",
+    "platform": "GB",
+    "typetag": "game",
+    "date": "2024",
+    "wip": true,
+    "description": "A roguelike RPG with turn-based combat in the style of Dragon Quest and Pokémon. Talk to the NPCs in the overworld and clear the dream dungeons they send you into. Books are the main way to power up: levelling up unlocks more pages in each book, with new spells, stat changes and abilities. Up to three books or shields can be equipped at once, and clearing a dungeon permanently unlocks the equipped books. A timer in the HUD counts down with every step or turn; when it runs out, a powerful dream diver invades the dungeon and attacks on sight.\n\nThe game is an early prototype (Alpha 2.0 on itch.io), and the developer plans to replace some of the placeholder art.\n\nControls: D-pad to move, A to interact (hold it to run in a dungeon), B to stand still and end the turn in a dungeon, Start for the pause menu, Select plus a direction to turn around outside dungeons.",
+    "tags": [
+        "rpg",
+        "roguelike"
+    ],
+    "website": "https://bownly.itch.io/logue",
+    "files": [],
+    "screenshots": [
+        "screenshot-1.png",
+        "screenshot-2.png",
+        "screenshot-3.png",
+        "screenshot-4.png"
+    ]
+}

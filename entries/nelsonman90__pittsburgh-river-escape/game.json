@@ -1,0 +1,19 @@
+{
+    "$schema": "https://raw.githubusercontent.com/gbdev/database/refs/heads/master/schemas/game-schema-d5.json",
+    "slug": "nelsonman90__pittsburgh-river-escape",
+    "title": "Pittsburgh River Escape",
+    "developer": "nelsonman90",
+    "platform": "GB",
+    "typetag": "game",
+    "date": "2019",
+    "description": "A simple endless runner made for GBJAM 7. Your sailboat is crippled on the Allegheny River, and you have to avoid a faster boat that keeps trying to ram you. The game speeds up the longer you survive. It was the developer's first Game Boy game, made with GBDK while following GamingMonsters' tutorials.",
+    "tags": [
+        "action",
+        "event:gbjam7"
+    ],
+    "website": "https://nelsonman90.itch.io/pittsburgh-river-escape",
+    "files": [],
+    "screenshots": [
+        "cover.png"
+    ]
+}
